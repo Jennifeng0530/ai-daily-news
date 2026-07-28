@@ -1,356 +1,182 @@
-#!/usr/bin/env python3
-# -*- coding: utf-8 -*-
-"""
-AI行业每日资讯抓取脚本
-从36氪、虎嗅、投资界抓取AI相关资讯，按关键词过滤并分类。
-"""
-
+import requests
 import json
 import os
+from datetime import datetime
+import xml.etree.ElementTree as ET
 import re
-import sys
-import time
-from datetime import datetime, timezone, timedelta
 
-import requests
-from bs4 import BeautifulSoup
-
-# ---------- 配置 ----------
-OUTPUT_DIR = os.path.join(os.path.dirname(os.path.abspath(__file__)), "data")
-OUTPUT_FILE = os.path.join(OUTPUT_DIR, "news.json")
-
-CST = timezone(timedelta(hours=8))
-TODAY = datetime.now(CST).strftime("%Y-%m-%d")
+# ============ 分类关键词 ============
+KEY_NEWS_KEYWORDS = ['招股书', '上市', '备案', '批文', '港交所', '科创板', '纳斯达克', 'IPO', '过会', '提交申请']
+FUNDING_KEYWORDS = ['融资', '估值', 'Pre-A', 'A轮', 'B轮', 'C轮', 'D轮', '天使轮', '种子轮', '战略投资', '亿元']
+FILTER_KEYWORDS = ['大模型', 'AI agent', 'AI Agent', '人工智能', 'OpenAI', 'Anthropic', 'Google DeepMind',
+                   '微软AI', 'Meta AI', '智谱', '月之暗面', '百川', 'MiniMax', '零一万物', '深度求索',
+                   'DeepSeek', '科大讯飞', '商汤', '第四范式', '字节AI', '腾讯AI', '百度AI', '阿里AI',
+                   'Agent', 'LLM', 'GPT', 'Claude', 'Gemini', '文心一言', '通义千问', '混元',
+                   '数字营销', 'MarTech', '出海', 'AIGC', '生成式']
 
 HEADERS = {
-    "User-Agent": (
-        "Mozilla/5.0 (Windows NT 10.0; Win64; x64) "
-        "AppleWebKit/537.36 (KHTML, like Gecko) "
-        "Chrome/125.0.0.0 Safari/537.36"
-    ),
-    "Accept": "text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8",
-    "Accept-Language": "zh-CN,zh;q=0.9,en;q=0.8",
-    "Referer": "https://www.google.com/",
+    'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36'
 }
 
-# 关键词规则：(正则模式, 是否区分大小写)
-KEYWORDS = [
-    (r"大模型", False),
-    (r"AI\s*agent", False),
-    (r"上市", False),
-    (r"招股书", False),
-    (r"备案", False),
-    (r"批文", False),
-    (r"融资", False),
-    (r"估值", False),
-    (r"OpenAI", False),
-    (r"Anthropic", False),
-    (r"Google\s*DeepMind", False),
-    (r"微软\s*AI", False),
-    (r"Meta\s*AI", False),
-    (r"港交所", False),
-    (r"科创板", False),
-]
-
-# 分类规则
-CATEGORY_ZHONGDIAN = [
-    r"招股书", r"上市", r"备案", r"批文", r"港交所", r"科创板"
-]
-CATEGORY_TOURONG = [
-    r"融资", r"估值", r"Pre-A", r"A轮", r"B轮", r"C轮"
-]
-
-
-def match_keywords(text: str) -> list[str]:
-    """返回文本中命中的所有关键词标签（去重）。"""
-    matched = []
-    for pattern, ignore_case in KEYWORDS:
-        flags = re.IGNORECASE if ignore_case else 0
-        if re.search(pattern, text, flags):
-            # 取模式中去掉转义和修饰符的可读版本
-            label = pattern.replace(r"\s*", " ").strip()
-            matched.append(label)
-    return list(dict.fromkeys(matched))  # 保序去重
-
-
-def classify(text: str) -> str:
-    """根据文本内容返回分类标签。"""
-    for pat in CATEGORY_ZHONGDIAN:
-        if re.search(pat, text, re.IGNORECASE):
-            return "重点资讯"
-    for pat in CATEGORY_TOURONG:
-        if re.search(pat, text, re.IGNORECASE):
-            return "投融资"
-    return "其他资讯"
-
-
-# ===================== 36氪 =====================
-def scrape_36kr() -> list[dict]:
-    """从36氪AI频道抓取文章。"""
-    results = []
+def fetch_rss(url, source_name):
+    """抓取RSS源"""
+    items = []
     try:
-        # 36氪使用 API 加载数据，直接请求 JSON 接口
-        api_url = "https://gateway.36kr.com/api/mis/newsflow/information/nav"
-        payload = {
-            "param": {
-                "pageSize": 20,
-                "pageNum": 1,
-            }
-        }
-        resp = requests.post(
-            api_url,
-            json=payload,
-            headers={**HEADERS, "Content-Type": "application/json"},
-            timeout=15,
-        )
+        resp = requests.get(url, headers=HEADERS, timeout=15)
         resp.raise_for_status()
-        data = resp.json()
-        items = data.get("data", {}).get("data", {}).get("itemList", [])
-
-        # 备用：解析 HTML
-        if not items:
-            html_url = "https://36kr.com/information/ai"
-            resp2 = requests.get(html_url, headers=HEADERS, timeout=15)
-            soup = BeautifulSoup(resp2.text, "lxml")
-            items = soup.select(".information-flow-item, .article-item-wrapper, [data-item]")
-            for item in items:
-                title_el = item.select_one("a.item-title, .article-item-title a, a[href*='/p/']")
-                if not title_el:
-                    continue
-                title = title_el.get_text(strip=True)
-                link = title_el.get("href", "")
-                if link and not link.startswith("http"):
-                    link = "https://36kr.com" + link
-                summary_el = item.select_one(".item-desc, .article-item-description")
-                summary = summary_el.get_text(strip=True) if summary_el else ""
-                combined = f"{title} {summary}"
-                kw = match_keywords(combined)
-                if kw:
-                    results.append({
-                        "title": title,
-                        "link": link,
-                        "source": "36氪",
-                        "category": classify(combined),
-                        "summary": summary,
-                        "keywords": kw,
-                        "date": TODAY,
-                    })
-            return results
-
-        # 处理 API 返回的数据
-        for item in items:
-            tmpl = item.get("templateMaterial", item.get("itemMaterial", item))
-            title = tmpl.get("widgetTitle", tmpl.get("title", ""))
-            link_path = tmpl.get("widgetUrl", tmpl.get("url", tmpl.get("shareUrl", "")))
-            link = link_path if link_path.startswith("http") else f"https://36kr.com{link_path}"
-            summary = tmpl.get("widgetContent", tmpl.get("summary", tmpl.get("description", "")))
-            if isinstance(summary, dict):
-                summary = summary.get("text", "")
-            combined = f"{title} {summary}"
-            kw = match_keywords(combined)
-            if kw:
-                results.append({
-                    "title": title,
-                    "link": link,
-                    "source": "36氪",
-                    "category": classify(combined),
-                    "summary": summary[:200] if summary else "",
-                    "keywords": kw,
-                    "date": TODAY,
+        root = ET.fromstring(resp.content)
+        
+        for item_elem in root.iter('item'):
+            title = item_elem.find('title')
+            link = item_elem.find('link')
+            description = item_elem.find('description')
+            pub_date = item_elem.find('pubDate')
+            
+            title_text = title.text.strip() if title is not None and title.text else ''
+            link_text = link.text.strip() if link is not None and link.text else ''
+            desc_text = description.text.strip() if description is not None and description.text else ''
+            date_text = pub_date.text.strip() if pub_date is not None and pub_date.text else datetime.now().strftime('%Y-%m-%d')
+            
+            if title_text and link_text:
+                items.append({
+                    'title': title_text,
+                    'link': link_text,
+                    'summary': clean_html(desc_text)[:200],
+                    'date': format_date(date_text),
+                    'source': source_name
                 })
-        print(f"[36氪] 抓取到 {len(results)} 条相关资讯")
+        print(f"[{source_name}] 抓取成功: {len(items)} 条")
     except Exception as e:
-        print(f"[36氪] 抓取失败: {e}", file=sys.stderr)
-    return results
+        print(f"[{source_name}] 抓取失败: {str(e)}")
+    return items
 
 
-# ===================== 虎嗅 =====================
-def scrape_huxiu() -> list[dict]:
-    """从虎嗅AI频道抓取文章。"""
-    results = []
+def fetch_36kr_api(source_name="36氪"):
+    """36氪资讯流API（备用）"""
+    items = []
     try:
-        # 虎嗅使用 API
-        api_url = "https://www.huxiu.com/v2_action/article_list"
-        params = {
-            "page": 1,
-            "pagesize": 30,
-            "platform": "www",
-        }
-        resp = requests.get(api_url, params=params, headers=HEADERS, timeout=15)
-        if resp.status_code != 200:
-            # 备用：抓取 HTML
-            html_url = "https://www.huxiu.com/channel/ai.html"
-            resp2 = requests.get(html_url, headers=HEADERS, timeout=15)
-            resp2.raise_for_status()
-            soup = BeautifulSoup(resp2.text, "lxml")
-            cards = soup.select(".article-item, .mod-b .mob-ctt, .article-wrap")
-            for card in cards:
-                title_el = card.select_one("h2 a, .mob-sub a, a[href*='/article/']")
-                if not title_el:
-                    continue
-                title = title_el.get_text(strip=True)
-                link = title_el.get("href", "")
-                if link and not link.startswith("http"):
-                    link = "https://www.huxiu.com" + link
-                summary_el = card.select_one(".mob-sub, .article-content, p")
-                summary = summary_el.get_text(strip=True) if summary_el else ""
-                combined = f"{title} {summary}"
-                kw = match_keywords(combined)
-                if kw:
-                    results.append({
-                        "title": title,
-                        "link": link,
-                        "source": "虎嗅",
-                        "category": classify(combined),
-                        "summary": summary[:200],
-                        "keywords": kw,
-                        "date": TODAY,
-                    })
-            return results
-
+        url = "https://www.36kr.com/api/search/article?q=AI&per_page=20"
+        resp = requests.get(url, headers=HEADERS, timeout=15)
         data = resp.json()
-        articles = data.get("data", {}).get("dataList", [])
-        for art in articles:
-            title = art.get("title", "")
-            aid = art.get("aid", "")
-            link = f"https://www.huxiu.com/article/{aid}.html" if aid else art.get("share_url", "")
-            summary = art.get("summary", art.get("description", ""))
-            combined = f"{title} {summary}"
-            kw = match_keywords(combined)
-            if kw:
-                results.append({
-                    "title": title,
-                    "link": link,
-                    "source": "虎嗅",
-                    "category": classify(combined),
-                    "summary": summary[:200] if summary else "",
-                    "keywords": kw,
-                    "date": TODAY,
+        for article in data.get('data', {}).get('items', [])[:15]:
+            title = article.get('title', '')
+            link = f"https://www.36kr.com/p/{article.get('id', '')}"
+            summary = article.get('summary', '')
+            date = article.get('published_at', datetime.now().strftime('%Y-%m-%d'))[:10]
+            if title:
+                items.append({
+                    'title': title,
+                    'link': link,
+                    'summary': clean_html(summary)[:200],
+                    'date': date,
+                    'source': source_name
                 })
-        print(f"[虎嗅] 抓取到 {len(results)} 条相关资讯")
+        print(f"[{source_name}] API抓取: {len(items)} 条")
     except Exception as e:
-        print(f"[虎嗅] 抓取失败: {e}", file=sys.stderr)
-    return results
+        print(f"[{source_name}] API抓取失败: {str(e)}")
+    return items
 
 
-# ===================== 投资界 =====================
-def scrape_pedaily() -> list[dict]:
-    """从投资界快讯频道抓取文章。"""
-    results = []
+def fetch_investment_news(source_name="投资界"):
+    """投资界快讯"""
+    items = []
     try:
-        html_url = "https://www.pedaily.cn/news/"
-        resp = requests.get(html_url, headers=HEADERS, timeout=15)
-        resp.raise_for_status()
-        resp.encoding = "utf-8"
-        soup = BeautifulSoup(resp.text, "lxml")
-        items = soup.select(".news-list li, .news-item, .hot-news li, .info-list li")
-        if not items:
-            # 尝试更宽泛的选择器
-            items = soup.select("a[href*='/news/'], a[href*='/p/']")
-            seen = set()
-            for a in items[:50]:
-                title = a.get_text(strip=True)
-                link = a.get("href", "")
-                if not title or len(title) < 8:
-                    continue
-                if link in seen:
-                    continue
-                seen.add(link)
-                if link and not link.startswith("http"):
-                    link = "https://www.pedaily.cn" + link
-                combined = title
-                kw = match_keywords(combined)
-                if kw:
-                    results.append({
-                        "title": title,
-                        "link": link,
-                        "source": "投资界",
-                        "category": classify(combined),
-                        "summary": "",
-                        "keywords": kw,
-                        "date": TODAY,
-                    })
-            return results
+        url = "https://www.pedaily.cn/rss/news.xml"
+        items = fetch_rss(url, source_name)
+    except Exception as e:
+        print(f"[{source_name}] 抓取失败: {str(e)}")
+    return items
 
-        for item in items[:30]:
-            title_el = item.select_one("h3 a, .news-title a, a[href*='/news/'], a.title")
-            if not title_el:
-                title_el = item.find("a")
-            if not title_el:
+
+def clean_html(text):
+    """去除HTML标签"""
+    if not text:
+        return ''
+    clean = re.compile('<.*?>')
+    return re.sub(clean, '', text)
+
+
+def format_date(date_str):
+    """统一日期格式"""
+    try:
+        for fmt in ['%a, %d %b %Y %H:%M:%S %z', '%Y-%m-%d', '%Y-%m-%d %H:%M:%S']:
+            try:
+                return datetime.strptime(date_str.strip(), fmt).strftime('%Y-%m-%d')
+            except:
                 continue
-            title = title_el.get_text(strip=True)
-            link = title_el.get("href", "")
-            if link and not link.startswith("http"):
-                link = "https://www.pedaily.cn" + link
-            summary_el = item.select_one(".desc, .news-desc, p")
-            summary = summary_el.get_text(strip=True) if summary_el else ""
-            combined = f"{title} {summary}"
-            kw = match_keywords(combined)
-            if kw:
-                results.append({
-                    "title": title,
-                    "link": link,
-                    "source": "投资界",
-                    "category": classify(combined),
-                    "summary": summary[:200],
-                    "keywords": kw,
-                    "date": TODAY,
-                })
-        print(f"[投资界] 抓取到 {len(results)} 条相关资讯")
-    except Exception as e:
-        print(f"[投资界] 抓取失败: {e}", file=sys.stderr)
+        return datetime.now().strftime('%Y-%m-%d')
+    except:
+        return datetime.now().strftime('%Y-%m-%d')
+
+
+def filter_and_classify(items):
+    """过滤和分类"""
+    results = []
+    for item in items:
+        text = item['title'] + ' ' + item.get('summary', '')
+        if not any(kw.lower() in text.lower() for kw in FILTER_KEYWORDS):
+            continue
+        
+        matched_kw = [kw for kw in FILTER_KEYWORDS if kw.lower() in text.lower()]
+        
+        if any(kw in text for kw in KEY_NEWS_KEYWORDS):
+            category = 'key_news'
+        elif any(kw in text for kw in FUNDING_KEYWORDS):
+            category = 'funding'
+        else:
+            category = 'other'
+        
+        results.append({
+            'title': item['title'],
+            'link': item['link'],
+            'source': item['source'],
+            'category': category,
+            'summary': item.get('summary', ''),
+            'keywords': matched_kw[:5],
+            'date': item.get('date', datetime.now().strftime('%Y-%m-%d'))
+        })
     return results
-
-
-def deduplicate(articles: list[dict]) -> list[dict]:
-    """按标题去重，保留先出现的。"""
-    seen = set()
-    unique = []
-    for art in articles:
-        norm = re.sub(r"\s+", "", art["title"]).lower()
-        if norm not in seen:
-            seen.add(norm)
-            unique.append(art)
-    return unique
 
 
 def main():
-    all_articles = []
+    print(f"\n{'='*50}")
+    print(f"AI资讯抓取开始 - {datetime.now().strftime('%Y-%m-%d %H:%M')}")
+    print(f"{'='*50}\n")
+    
+    all_items = []
+    
+    # 1. 投资界 RSS
+    all_items.extend(fetch_investment_news("投资界"))
+    
+    # 2. 36氪搜索API
+    all_items.extend(fetch_36kr_api("36氪"))
+    
+    # 3. 如果有其他可用RSS源，在这里添加
+    # 你可以让ChatGPT帮你添加更多源
+    
+    # 过滤和分类
+    filtered = filter_and_classify(all_items)
+    
+    # 去重（按链接）
+    seen = set()
+    unique = []
+    for item in filtered:
+        if item['link'] not in seen:
+            seen.add(item['link'])
+            unique.append(item)
+    
+    # 按日期倒序
+    unique.sort(key=lambda x: x['date'], reverse=True)
+    
+    # 保存
+    output_path = os.path.join(os.path.dirname(os.path.abspath(__file__)), 'data', 'news.json')
+    with open(output_path, 'w', encoding='utf-8') as f:
+        json.dump(unique, f, ensure_ascii=False, indent=2)
+    
+    print(f"\n{'='*50}")
+    print(f"总计抓取到 {len(unique)} 条AI相关资讯")
+    print(f"已保存至 {output_path}")
+    print(f"{'='*50}\n")
 
-    print("=" * 50)
-    print(f"AI资讯抓取开始 - {TODAY}")
-    print("=" * 50)
-
-    # 逐个源抓取
-    all_articles.extend(scrape_36kr())
-    time.sleep(1)
-
-    all_articles.extend(scrape_huxiu())
-    time.sleep(1)
-
-    all_articles.extend(scrape_pedaily())
-
-    # 去重
-    all_articles = deduplicate(all_articles)
-
-    # 按分类排序：重点资讯 > 投融资 > 其他
-    cat_order = {"重点资讯": 0, "投融资": 1, "其他资讯": 2}
-    all_articles.sort(key=lambda x: cat_order.get(x["category"], 99))
-
-    # 输出
-    os.makedirs(OUTPUT_DIR, exist_ok=True)
-    with open(OUTPUT_FILE, "w", encoding="utf-8") as f:
-        json.dump(all_articles, f, ensure_ascii=False, indent=2)
-
-    print(f"\n总计抓取到 {len(all_articles)} 条AI相关资讯，已保存至 {OUTPUT_FILE}")
-
-    # 统计
-    cats = {}
-    for a in all_articles:
-        cats[a["category"]] = cats.get(a["category"], 0) + 1
-    for cat, count in cats.items():
-        print(f"  - {cat}: {count} 条")
-
-
-if __name__ == "__main__":
+if __name__ == '__main__':
     main()
