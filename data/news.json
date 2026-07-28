@@ -1,1 +1,280 @@
-[]
+[
+  {
+    "title": "Anthropic’s Dario Amodei responds: doesn’t oppose open-weight models, but fears Chinese AI",
+    "link": "https://techcrunch.com/2026/07/27/anthropics-dario-amodei-responds-doesnt-oppose-open-weight-models-but-fears-chinese-ai/",
+    "source": "TechCrunch AI",
+    "category": "other",
+    "summary": "Anthropic founder and CEO Dario Amodei made his views clear about open-weight models and China's growing AI capabilities.",
+    "keywords": [
+      "AI",
+      "Anthropic"
+    ],
+    "date": "2026-07-28"
+  },
+  {
+    "title": "Satya Nadella says companies that trust one AI for everything may not survive",
+    "link": "https://techcrunch.com/2026/07/27/satya-nadella-says-companies-that-trust-one-ai-for-everything-may-not-survive/",
+    "source": "TechCrunch AI",
+    "category": "other",
+    "summary": "Companies without their own models — or without a layer of AI infrastructure known as AI gateways to separate their prompts from the model itself — will be in trouble, Nadella says.",
+    "keywords": [
+      "AI"
+    ],
+    "date": "2026-07-27"
+  },
+  {
+    "title": "PSA: Your Claude shared chats and Artifacts may have ended up on Google",
+    "link": "https://techcrunch.com/2026/07/27/psa-your-claude-shared-chats-and-artifacts-may-have-ended-up-on-google/",
+    "source": "TechCrunch AI",
+    "category": "other",
+    "summary": "The issue appears to have originated from Claude’s “share chat” feature, which allows users to create links that enable anyone with the assigned URL view a conversation or project.",
+    "keywords": [
+      "Claude"
+    ],
+    "date": "2026-07-27"
+  },
+  {
+    "title": "Microsoft launches its first cybersecurity model, plus a new agentic cybersecurity system",
+    "link": "https://techcrunch.com/2026/07/27/microsoft-launches-its-first-cyber-model-and-a-new-agentic-cybersecurity-system/",
+    "source": "TechCrunch AI",
+    "category": "other",
+    "summary": "Microsoft bolstered its AI cybersecurity offerings this week with the launch of its first AI security model and a new security platform.",
+    "keywords": [
+      "AI",
+      "Agent"
+    ],
+    "date": "2026-07-27"
+  },
+  {
+    "title": "OpenAI’s Hugging Face breach has reignited the debate over alignment and control",
+    "link": "https://techcrunch.com/2026/07/27/openais-hugging-face-breach-has-reignited-the-debate-over-alignment-and-control/",
+    "source": "TechCrunch AI",
+    "category": "other",
+    "summary": "OpenAI's Hugging Face breach has reignited debate over AI alignment and control, exposing competing views on whether increasingly capable AI should be better aligned, better contained, or both.",
+    "keywords": [
+      "AI",
+      "OpenAI"
+    ],
+    "date": "2026-07-27"
+  },
+  {
+    "title": "Threads users can now chat with Meta AI in their DMs",
+    "link": "https://techcrunch.com/2026/07/27/threads-users-can-now-chat-with-meta-ai-in-their-dms/",
+    "source": "TechCrunch AI",
+    "category": "other",
+    "summary": "Meta on Monday said it is rolling out its Meta AI chatbot within Threads' DMs, giving users a way to chat with the AI assistant.",
+    "keywords": [
+      "AI"
+    ],
+    "date": "2026-07-27"
+  },
+  {
+    "title": "Google’s AI search is rapidly becoming the default, new data shows",
+    "link": "https://techcrunch.com/2026/07/27/googles-ai-search-is-rapidly-becoming-the-default-new-data-shows/",
+    "source": "TechCrunch AI",
+    "category": "other",
+    "summary": "Google’s AI Overviews now appear in 43% of searches, underscoring how quickly AI-generated answers are becoming the default way people discover information online.",
+    "keywords": [
+      "AI"
+    ],
+    "date": "2026-07-27"
+  },
+  {
+    "title": "Power up your AI infrastructure! A first look at the Smart Systems Stage agenda at TechCrunch Disrupt 2026",
+    "link": "https://techcrunch.com/2026/07/27/power-up-your-ai-infrastructure-a-first-look-at-the-smart-systems-stage-agenda-at-techcrunch-disrupt-2026/",
+    "source": "TechCrunch AI",
+    "category": "other",
+    "summary": "At TechCrunch Disrupt 2026, the Smart Systems Stage will be where energy, infrastructure, and technology collide, covering everything from fusion breakthroughs to the grid strain AI is putting on the ",
+    "keywords": [
+      "AI"
+    ],
+    "date": "2026-07-27"
+  },
+  {
+    "title": "Ilya Sutskever’s Safe Superintelligence partners with Nvidia to scale its AI research",
+    "link": "https://techcrunch.com/2026/07/27/ilya-sutskevers-safe-superintelligence-partners-with-nvidia-to-scale-its-ai-research/",
+    "source": "TechCrunch AI",
+    "category": "other",
+    "summary": "After two years in stealth, Safe Superintelligence has announced a long-term partnership with Nvidia as it prepares to scale to its next phase.",
+    "keywords": [
+      "AI"
+    ],
+    "date": "2026-07-27"
+  },
+  {
+    "title": "Enigma raises $71M to make controlling a robot as easy as adjusting the volume",
+    "link": "https://techcrunch.com/2026/07/27/enigma-raises-70m-to-make-controlling-a-robot-as-easy-as-adjusting-the-volume/",
+    "source": "TechCrunch AI",
+    "category": "other",
+    "summary": "The massive seed round was led by  Index Ventures and Ribbit Capital, with participation from Sarah Guo's Conviction Partners.",
+    "keywords": [
+      "AI"
+    ],
+    "date": "2026-07-27"
+  },
+  {
+    "title": "Are brain waves the next unlock for physical AI?",
+    "link": "https://techcrunch.com/2026/07/26/are-brain-waves-the-next-unlock-for-physical-ai/",
+    "source": "TechCrunch AI",
+    "category": "other",
+    "summary": "Forget YouTube videos — frontier physical AI models need multiple camera angles, dense annotation, and, soon, brain wave readings.",
+    "keywords": [
+      "AI"
+    ],
+    "date": "2026-07-27"
+  },
+  {
+    "title": "Making sense of the panic over Chinese AI",
+    "link": "https://techcrunch.com/2026/07/26/making-sense-of-the-panic-over-chinese-ai/",
+    "source": "TechCrunch AI",
+    "category": "other",
+    "summary": "On the latest episode of Equity, we discussed why Moonshot AI's Kimi seemed to panic Silicon Valley and Wall Street.",
+    "keywords": [
+      "AI",
+      "Kimi"
+    ],
+    "date": "2026-07-26"
+  },
+  {
+    "title": "Hugging Face CEO calls for ‘radical transparency’ after ‘unprecedented’ OpenAI hack",
+    "link": "https://techcrunch.com/2026/07/26/hugging-face-ceo-calls-for-radical-transparency-after-unprecedented-openai-hack/",
+    "source": "TechCrunch AI",
+    "category": "other",
+    "summary": "\"The first autonomous agent cyberattack is an unprecedented event. It deserves an unprecedented response!\"",
+    "keywords": [
+      "AI",
+      "Agent",
+      "OpenAI"
+    ],
+    "date": "2026-07-26"
+  },
+  {
+    "title": "Monday.com is the latest tech company to blame AI for layoffs — here are 20 others",
+    "link": "https://techcrunch.com/2026/07/25/the-running-list-major-tech-layoffs-in-2026-where-employers-cited-ai/",
+    "source": "TechCrunch AI",
+    "category": "other",
+    "summary": "A running look — in reverse chronological order — at the bigger tech companies that have announced significant layoffs this year with AI as a stated factor.",
+    "keywords": [
+      "AI"
+    ],
+    "date": "2026-07-26"
+  },
+  {
+    "title": "Librarians are hosting viral ‘Avoiding AI’ workshops for people who are fed up with Big Tech",
+    "link": "https://techcrunch.com/2026/07/25/librarians-are-hosting-viral-avoiding-ai-workshops-for-people-who-are-fed-up-with-big-tech/",
+    "source": "TechCrunch AI",
+    "category": "other",
+    "summary": "At libraries around the country, \"Avoiding AI\" workshops have elicited unprecedented demand.",
+    "keywords": [
+      "AI"
+    ],
+    "date": "2026-07-25"
+  },
+  {
+    "title": "One fallen power line exposed a growing AI data center problem — here’s how to fix it",
+    "link": "https://techcrunch.com/2026/07/25/one-fallen-power-line-exposed-a-growing-ai-data-center-problem-heres-how-to-fix-it/",
+    "source": "TechCrunch AI",
+    "category": "other",
+    "summary": "A close call in Northern Virginia revealed just how poorly data centers respond to grid disruptions. Here's how to fix the problem.",
+    "keywords": [
+      "AI"
+    ],
+    "date": "2026-07-25"
+  },
+  {
+    "title": "I tried out OpenAI’s new AI keypad — which will be fun for some coders and slightly mystifying to everyone else",
+    "link": "https://techcrunch.com/2026/07/24/i-tried-out-openais-new-ai-keypad-which-will-be-fun-for-coders-and-slightly-mystifying-to-everyone-else/",
+    "source": "TechCrunch AI",
+    "category": "other",
+    "summary": "OpenAI's fancy new AI keypad will be a lot of fun for some, while many others are probably not going to touch it.",
+    "keywords": [
+      "AI",
+      "OpenAI"
+    ],
+    "date": "2026-07-25"
+  },
+  {
+    "title": "Prentis, new AI lab co-founded by Reid Hoffman, Mark Pincus in talks to raise $100M",
+    "link": "https://techcrunch.com/2026/07/24/prentis-new-ai-lab-co-founded-by-reid-hoffman-mark-pincus-in-talks-to-raise-100m/",
+    "source": "TechCrunch AI",
+    "category": "other",
+    "summary": "The neolab is betting that automating routine computer tasks will soon outpace coding as AI's biggest use case.",
+    "keywords": [
+      "AI"
+    ],
+    "date": "2026-07-24"
+  },
+  {
+    "title": "Railway secures $100 million to challenge AWS with AI-native cloud infrastructure",
+    "link": "https://venturebeat.com/infrastructure/railway-secures-usd100-million-to-challenge-aws-with-ai-native-cloud",
+    "source": "VentureBeat AI",
+    "category": "other",
+    "summary": "Railway, a San Francisco-based cloud platform that has quietly amassed two million developers without spending a dollar on marketing, announced Thursday that it raised $100 million in a Series B fundi",
+    "keywords": [
+      "AI"
+    ],
+    "date": "2026-01-22"
+  },
+  {
+    "title": "Claude Code costs up to $200 a month. Goose does the same thing for free.",
+    "link": "https://venturebeat.com/infrastructure/claude-code-costs-up-to-usd200-a-month-goose-does-the-same-thing-for-free",
+    "source": "VentureBeat AI",
+    "category": "other",
+    "summary": "The artificial intelligence coding revolution comes with a catch: it&#x27;s expensive.Claude Code, Anthropic&#x27;s terminal-based AI agent that can write, debug, and deploy code autonomously, has cap",
+    "keywords": [
+      "AI",
+      "Agent",
+      "Anthropic",
+      "Claude"
+    ],
+    "date": "2026-01-19"
+  },
+  {
+    "title": "Listen Labs raises $69M after viral billboard hiring stunt to scale AI customer interviews",
+    "link": "https://venturebeat.com/technology/listen-labs-raises-usd69m-after-viral-billboard-hiring-stunt-to-scale-ai",
+    "source": "VentureBeat AI",
+    "category": "other",
+    "summary": "Alfred Wahlforss was running out of options. His startup, Listen Labs, needed to hire over 100 engineers, but competing against Mark Zuckerberg&#x27;s $100 million offers seemed impossible. So he spen",
+    "keywords": [
+      "AI"
+    ],
+    "date": "2026-01-16"
+  },
+  {
+    "title": "Salesforce rolls out new Slackbot AI agent as it battles Microsoft and Google in workplace AI",
+    "link": "https://venturebeat.com/technology/salesforce-rolls-out-new-slackbot-ai-agent-as-it-battles-microsoft-and",
+    "source": "VentureBeat AI",
+    "category": "other",
+    "summary": "Salesforce on Tuesday launched an entirely rebuilt version of Slackbot, the company&#x27;s workplace assistant, transforming it from a simple notification tool into what executives describe as a fully",
+    "keywords": [
+      "AI",
+      "Agent"
+    ],
+    "date": "2026-01-13"
+  },
+  {
+    "title": "Anthropic launches Cowork, a Claude Desktop agent that works in your files — no coding required",
+    "link": "https://venturebeat.com/technology/anthropic-launches-cowork-a-claude-desktop-agent-that-works-in-your-files-no",
+    "source": "VentureBeat AI",
+    "category": "other",
+    "summary": "Anthropic released Cowork on Monday, a new AI agent capability that extends the power of its wildly successful Claude Code tool to non-technical users — and according to company insiders, the team bui",
+    "keywords": [
+      "AI",
+      "Agent",
+      "Anthropic",
+      "Claude"
+    ],
+    "date": "2026-01-12"
+  },
+  {
+    "title": "Nous Research's NousCoder-14B is an open-source coding model landing right in the Claude Code moment",
+    "link": "https://venturebeat.com/technology/nous-researchs-nouscoder-14b-is-an-open-source-coding-model-landing-right-in",
+    "source": "VentureBeat AI",
+    "category": "other",
+    "summary": "Nous Research, the open-source artificial intelligence startup backed by crypto venture firm Paradigm, released a new competitive programming model on Monday that it says matches or exceeds several la",
+    "keywords": [
+      "Claude"
+    ],
+    "date": "2026-01-07"
+  }
+]
