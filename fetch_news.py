@@ -6,17 +6,17 @@ from datetime import datetime
 import xml.etree.ElementTree as ET
 import time
 
-# ============ 分类关键词 ============
-KEY_NEWS_KEYWORDS = ['招股书', '上市', '备案', '批文', '港交所', '科创板', '纳斯达克', 'IPO', '过会', '提交申请', '挂牌', '纽交所']
-FUNDING_KEYWORDS = ['融资', '估值', 'Pre-A', 'A轮', 'B轮', 'C轮', 'D轮', '天使轮', '种子轮', '战略投资', '亿元', '千万级', '收购']
+KEY_NEWS_KEYWORDS = ['招股书', '上市', '备案', '批文', '港交所', '科创板', '纳斯达克', 'IPO', 'filing', 'listed', 'stock exchange', 'NYSE', 'NASDAQ', 'HKEX', 'SEC filing', 'go public', 'direct listing', 'regulatory approval', '获批', '许可证']
+FUNDING_KEYWORDS = ['融资', '估值', 'Pre-A', 'A轮', 'B轮', 'C轮', 'D轮', '天使轮', '种子轮', '战略投资', '亿元', 'funding', 'raises', 'raised', 'million', 'billion', 'Series A', 'Series B', 'Series C', 'seed round', 'valuation', 'venture capital', 'investor', 'acquisition', 'acquired', 'merger', 'stake', 'investment round']
 FILTER_KEYWORDS = [
-    'AI', '人工智能', '大模型', 'Agent', 'OpenAI', 'Anthropic', 'DeepMind',
+    'AI', 'Artificial Intelligence', '大模型', 'Agent', 'OpenAI', 'Anthropic', 'DeepMind',
     'GPT', 'Claude', 'Gemini', 'LLM', 'Copilot', 'Sora', 'Stable Diffusion',
     '智谱', '月之暗面', '百川', 'MiniMax', '零一万物', '深度求索', 'DeepSeek',
     '科大讯飞', '商汤', '第四范式', 'Kimi', '豆包', '文心一言', '通义千问',
-    '混元', '数字营销', 'MarTech', 'AIGC', '生成式', 'ChatGPT', 'Bard',
+    '混元', '数字营销', 'MarTech', 'AIGC', '生成式', 'ChatGPT',
     'Midjourney', 'Runway', 'Perplexity', 'Character.AI', 'Cohere',
-    'xAI', 'Grok', 'Llama', 'Mistral', 'Inflection', 'Synthesia'
+    'xAI', 'Grok', 'Llama', 'Mistral', 'Inflection', 'Synthesia',
+    'machine learning', 'neural network', 'transformer', 'diffusion'
 ]
 
 HEADERS = {
@@ -53,19 +53,14 @@ def format_date(date_str):
 
 
 def fetch_rss(url, source_name):
-    """通用RSS抓取"""
     items = []
     try:
         resp = requests.get(url, headers=HEADERS, timeout=30)
         print(f"[{source_name}] HTTP状态: {resp.status_code}")
         
         if resp.status_code != 200:
-            print(f"[{source_name}] 非200状态，跳过")
             return items
         
-        content = resp.text
-        
-        # 尝试XML解析
         try:
             root = ET.fromstring(resp.content)
             for item in root.iter('item'):
@@ -90,7 +85,6 @@ def fetch_rss(url, source_name):
                         'date': format_date(date_text)
                     })
         except ET.ParseError:
-            # JSON格式的RSS（如RSSHub）
             try:
                 data = resp.json()
                 articles = data if isinstance(data, list) else data.get('items', [])
@@ -117,42 +111,21 @@ def fetch_rss(url, source_name):
 
 
 def fetch_techcrunch_ai():
-    """TechCrunch AI板块 RSS"""
     return fetch_rss("https://techcrunch.com/category/artificial-intelligence/feed/", "TechCrunch AI")
 
 
-def fetch_theverge_ai():
-    """The Verge AI板块 RSS"""
-    return fetch_rss("https://www.theverge.com/ai-artificial-intelligence/rss/index.xml", "The Verge AI")
-
-
 def fetch_venturebeat_ai():
-    """VentureBeat AI RSS"""
     return fetch_rss("https://venturebeat.com/category/ai/feed/", "VentureBeat AI")
 
 
 def fetch_36kr_rsshub():
-    """36氪通过RSSHub公共实例"""
     urls = [
         "https://rsshub.app/36kr/information/ai",
         "https://rsshub.rssforever.com/36kr/information/ai",
         "https://rsshub.pseudoyu.com/36kr/information/ai",
     ]
     for url in urls:
-        items = fetch_rss(url, "36氪-RSSHub")
-        if items:
-            return items
-    return []
-
-
-def fetch_jiemian_rsshub():
-    """界面新闻科技"""
-    urls = [
-        "https://rsshub.app/jiemian/list/4",
-        "https://rsshub.rssforever.com/jiemian/list/4",
-    ]
-    for url in urls:
-        items = fetch_rss(url, "界面新闻")
+        items = fetch_rss(url, "36氪")
         if items:
             return items
     return []
@@ -169,9 +142,9 @@ def filter_and_classify(items):
         matched_kw = [kw for kw in FILTER_KEYWORDS if kw.lower() in text]
         
         title_orig = item['title']
-        if any(kw in title_orig for kw in KEY_NEWS_KEYWORDS):
+        if any(kw.lower() in title_orig.lower() for kw in KEY_NEWS_KEYWORDS):
             category = 'key_news'
-        elif any(kw in title_orig for kw in FUNDING_KEYWORDS):
+        elif any(kw.lower() in title_orig.lower() for kw in FUNDING_KEYWORDS):
             category = 'funding'
         else:
             category = 'other'
@@ -195,26 +168,16 @@ def main():
     
     all_items = []
     
-    # 海外源（GitHub Actions能稳定访问）
     print(">>> 抓取 TechCrunch AI...")
     all_items.extend(fetch_techcrunch_ai())
-    time.sleep(1)
-    
-    print("\n>>> 抓取 The Verge AI...")
-    all_items.extend(fetch_theverge_ai())
     time.sleep(1)
     
     print("\n>>> 抓取 VentureBeat AI...")
     all_items.extend(fetch_venturebeat_ai())
     time.sleep(1)
     
-    # 国内源通过RSSHub
-    print("\n>>> 抓取 36氪 (RSSHub)...")
+    print("\n>>> 抓取 36氪...")
     all_items.extend(fetch_36kr_rsshub())
-    time.sleep(1)
-    
-    print("\n>>> 抓取 界面新闻 (RSSHub)...")
-    all_items.extend(fetch_jiemian_rsshub())
     
     print(f"\n{'='*60}")
     print(f"所有源合计抓取: {len(all_items)} 条")
