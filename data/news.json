@@ -1,8 +1,129 @@
 [
   {
+    "title": "纳米Work发布会周鸿祎送出千亿Token，率先帮1000家小企业AI落地",
+    "link": "https://www.pingwest.com/w/315969",
+    "source": "品玩",
+    "category": "other",
+    "summary": "纳米 AI\n\n\n\n纳米Work发布会周鸿祎送出千亿Token，率先帮1000家小企业AI落地",
+    "keywords": [
+      "AI"
+    ],
+    "date": "2026-07-28"
+  },
+  {
+    "title": "抢跑！全球化新品牌进入AI时刻，何以定胜负？ | 2026全球化新品牌AI竞争力大会实录",
+    "link": "https://www.pingwest.com/a/315901",
+    "source": "品玩",
+    "category": "other",
+    "summary": "抢跑！全球化新品牌进入AI时刻，何以定胜负？ | 2026全球化新品牌AI竞争力大会实录",
+    "keywords": [
+      "AI"
+    ],
+    "date": "2026-07-28"
+  },
+  {
+    "title": "拆解Kimi K3技术报告：月之暗面开始给DeepSeek出题了",
+    "link": "https://www.pingwest.com/a/315963",
+    "source": "品玩",
+    "category": "other",
+    "summary": "拆解Kimi K3技术报告：月之暗面开始给DeepSeek出题了\n\n开源前沿的两条路线和一次回礼。",
+    "keywords": [
+      "月之暗面",
+      "DeepSeek",
+      "Kimi"
+    ],
+    "date": "2026-07-28"
+  },
+  {
+    "title": "荣耀将阿莱电影工作流融入机器人手机",
+    "link": "https://www.pingwest.com/w/315959",
+    "source": "品玩",
+    "category": "other",
+    "summary": "荣耀手机\n\n\n\n荣耀将阿莱电影工作流融入机器人手机",
+    "keywords": [
+      "机器人"
+    ],
+    "date": "2026-07-28"
+  },
+  {
+    "title": "Eval丨 14天450人500辆Agent坦克大混战：我们完成了一场大规模 Agent 众测",
+    "link": "https://www.pingwest.com/a/315904",
+    "source": "品玩",
+    "category": "other",
+    "summary": "Eval丨 14天450人500辆Agent坦克大混战：我们完成了一场大规模 Agent 众测\n\n什么样的场景能真正评价Agent和模型？",
+    "keywords": [
+      "Agent"
+    ],
+    "date": "2026-07-28"
+  },
+  {
+    "title": "微软发布网络安全专用模型MAI-Cyber-1-Flash",
+    "link": "https://www.pingwest.com/w/315952",
+    "source": "品玩",
+    "category": "other",
+    "summary": "微软\n\n\n\n微软发布网络安全专用模型MAI-Cyber-1-Flash\n\n微软近日在旧金山正式发布首款网络安全专用AI模型MAI-Cyber-1-Flash，并同步推出智能体安全系统Perception。",
+    "keywords": [
+      "AI",
+      "智能"
+    ],
+    "date": "2026-07-28"
+  },
+  {
+    "title": "阿里云真武超节点Day0适配Kimi K3大模型，双方展开国产算力合作",
+    "link": "https://www.pingwest.com/w/315951",
+    "source": "品玩",
+    "category": "other",
+    "summary": "阿里云\n\n\n\n阿里云真武超节点Day0适配Kimi K3大模型，双方展开国产算力合作\n\n7月28日，阿里云真武M890超节点实例已Day0适配Kimi K3，这是国内首个跑通近3万亿参数模型的超节点。双方将进一步展开国产算力合作，千问AI平台和阿里云百炼也将提供Kimi K3 的模型API。",
+    "keywords": [
+      "AI",
+      "大模型",
+      "Kimi"
+    ],
+    "date": "2026-07-28"
+  },
+  {
+    "title": "Claude分享链接遭搜索引擎意外收录，引发隐私担忧",
+    "link": "https://www.pingwest.com/w/315949",
+    "source": "品玩",
+    "category": "other",
+    "summary": "Claude\n\n\n\nClaude分享链接遭搜索引擎意外收录，引发隐私担忧\n\n据 TechCrunch 报道，近日，大量Claude对话分享链接意外被搜索引擎公开索引，引发外界对AI数据安全的担忧。",
+    "keywords": [
+      "AI",
+      "Claude"
+    ],
+    "date": "2026-07-28"
+  },
+  {
+    "title": "谷歌确认训练Gemini 4模型，预计年底发布",
+    "link": "https://www.pingwest.com/w/315948",
+    "source": "品玩",
+    "category": "other",
+    "summary": "GEMINI\n\n\n\n谷歌确认训练Gemini 4模型，预计年底发布\n\n据 9to5Google 报道，在Alphabet 2026年第二季度财报电话会议上，首席执行官桑达尔·皮查伊（Sundar Pichai）确认，公司正在全力训练下一代前沿大模型Gemini 4。",
+    "keywords": [
+      "AI",
+      "大模型",
+      "Gemini"
+    ],
+    "date": "2026-07-28"
+  },
+  {
+    "title": "月之暗面宣布Kimi K3正式开源",
+    "link": "https://www.pingwest.com/w/315947",
+    "source": "品玩",
+    "category": "other",
+    "summary": "月之暗面\n\n\n\n月之暗面宣布Kimi K3正式开源\n\n月之暗面（Moonshot AI）宣布正式开源Kimi K3模型权重及技术报告，并同步开放MoonEP、FlashKDA和AgentEnv三项关键基础设施技术。",
+    "keywords": [
+      "AI",
+      "Agent",
+      "月之暗面",
+      "Kimi"
+    ],
+    "date": "2026-07-28"
+  },
+  {
     "title": "Anthropic’s Dario Amodei responds: doesn’t oppose open-weight models, but fears Chinese AI",
     "link": "https://techcrunch.com/2026/07/27/anthropics-dario-amodei-responds-doesnt-oppose-open-weight-models-but-fears-chinese-ai/",
-    "source": "TechCrunch AI",
+    "source": "TechCrunch",
     "category": "other",
     "summary": "Anthropic founder and CEO Dario Amodei made his views clear about open-weight models and China's growing AI capabilities.",
     "keywords": [
@@ -12,9 +133,135 @@
     "date": "2026-07-28"
   },
   {
+    "title": "美团全场景AI工作台CatPaw正式上线",
+    "link": "https://www.pingwest.com/w/315936",
+    "source": "品玩",
+    "category": "other",
+    "summary": "美团\n\n\n\n美团全场景AI工作台CatPaw正式上线\n\n据美团官方消息，美团全场景AI工作台CatPaw正式上线。该平台旨在将AI能力深度融入本地生活真实经营场景，为商家和企业提供可协作、可管理的智能帮手，推进日常业务的智能化处理。",
+    "keywords": [
+      "AI",
+      "智能"
+    ],
+    "date": "2026-07-27"
+  },
+  {
+    "title": "首尔大学与NVIDIA宣布共建韩国首个AI联合实验室",
+    "link": "https://www.pingwest.com/w/315923",
+    "source": "品玩",
+    "category": "other",
+    "summary": "英伟达\n\n\n\n首尔大学与NVIDIA宣布共建韩国首个AI联合实验室\n\n韩国首尔大学（SNU）宣布，将于本月与NVIDIA正式签署谅解备忘录（MOU），在校内设立韩国首个AI联合实验室。",
+    "keywords": [
+      "AI"
+    ],
+    "date": "2026-07-27"
+  },
+  {
+    "title": "上汽集团与飞书签署合作协议：以AI提升组织效能，推动汽车研发提质增效",
+    "link": "https://www.pingwest.com/w/315921",
+    "source": "品玩",
+    "category": "other",
+    "summary": "飞书\n\n\n\n上汽集团与飞书签署合作协议：以AI提升组织效能，推动汽车研发提质增效\n\n近日，上海汽车集团股份有限公司（以下简称“上汽集团”）与飞书签署集团层面合作协议。",
+    "keywords": [
+      "AI"
+    ],
+    "date": "2026-07-27"
+  },
+  {
+    "title": "本周AI项目推荐｜Amagine、FrameX、Blinkko ...让AI进入“现实”的各种方法",
+    "link": "https://www.pingwest.com/a/315907",
+    "source": "品玩",
+    "category": "other",
+    "summary": "本周AI项目推荐｜Amagine、FrameX、Blinkko ...让AI进入“现实”的各种方法\n\n解决现实世界具体需求的AI产品",
+    "keywords": [
+      "AI"
+    ],
+    "date": "2026-07-27"
+  },
+  {
+    "title": "DEMO｜离开Kimi，获徐新投资，他做了个“三年不结婚就退款”的反Tinder产品",
+    "link": "https://www.pingwest.com/a/315912",
+    "source": "品玩",
+    "category": "other",
+    "summary": "DEMO｜离开Kimi，获徐新投资，他做了个“三年不结婚就退款”的反Tinder产品\n\n用更多理解，换更少试错。",
+    "keywords": [
+      "Kimi"
+    ],
+    "date": "2026-07-27"
+  },
+  {
+    "title": "吴恩达开源桌面AI智能体OpenWorker",
+    "link": "https://www.pingwest.com/w/315915",
+    "source": "品玩",
+    "category": "other",
+    "summary": "AI智能体\n\n\n\n吴恩达开源桌面AI智能体OpenWorker\n\n据 marktechpost 报道，吴恩达近日宣布开源桌面AI智能体OpenWorker。",
+    "keywords": [
+      "AI",
+      "智能"
+    ],
+    "date": "2026-07-27"
+  },
+  {
+    "title": "Anthropic寻求SK海力士供应支持，推进自研芯片计划",
+    "link": "https://www.pingwest.com/w/315914",
+    "source": "品玩",
+    "category": "other",
+    "summary": "Anthropic\n\n\n\nAnthropic寻求SK海力士供应支持，推进自研芯片计划\n\n据 macrostream 报道，在旧金山举行的一场AI活动上，SK集团董事长崔泰源（Choi Tae-won）与Anthropic CEO Dario Amodei同台时透露，Anthropic已正式向SK海力士寻求供应支持，以制造其自研半导体。崔泰源称这一芯片自研计划“令人瞩目”。",
+    "keywords": [
+      "AI",
+      "Anthropic"
+    ],
+    "date": "2026-07-27"
+  },
+  {
+    "title": "Midjourney收购占星应用Co-Star",
+    "link": "https://www.pingwest.com/w/315913",
+    "source": "品玩",
+    "category": "other",
+    "summary": "Midjourney\n\n\n\nMidjourney收购占星应用Co-Star\n\n据TechCrunch报道，Midjourney已完成对社交占星应用Co-Star的收购，具体交易细节未披露。",
+    "keywords": [
+      "Midjourney"
+    ],
+    "date": "2026-07-27"
+  },
+  {
+    "title": "科技界联合声明：开放权重模型是AI创新与安全的基石",
+    "link": "https://www.pingwest.com/w/315911",
+    "source": "品玩",
+    "category": "other",
+    "summary": "OpenAI\n\n\n\n科技界联合声明：开放权重模型是AI创新与安全的基石\n\n由OpenAI、Meta、Google、NVIDIA、Hugging Face、Black Forest Labs等众多科技企业联合签署的一份声明指出，开放权重AI模型是推动技术创新、加强行业竞争与保障AI安全的关键。",
+    "keywords": [
+      "AI",
+      "OpenAI"
+    ],
+    "date": "2026-07-27"
+  },
+  {
+    "title": "OpenAI模型在基准测试中入侵Hugging Face",
+    "link": "https://www.pingwest.com/w/315909",
+    "source": "品玩",
+    "category": "other",
+    "summary": "OpenAI\n\n\n\nOpenAI模型在基准测试中入侵Hugging Face\n\n据 marktechpost 报道，OpenAI旗下模型在参加一项网络安全基准测试时，入侵了Hugging Face的生产基础设施。该事件并非针对特定目标的攻击，而是模型为获取测试答案而自主推断并执行的结果。",
+    "keywords": [
+      "AI",
+      "OpenAI"
+    ],
+    "date": "2026-07-27"
+  },
+  {
+    "title": "Anthropic发布Opus 5模型：性能更强且限制更少",
+    "link": "https://www.pingwest.com/w/315908",
+    "source": "品玩",
+    "category": "other",
+    "summary": "Anthropic\n\n\n\nAnthropic发布Opus 5模型：性能更强且限制更少\n\n据 TechCrunch 报道，Anthropic于7月25日正式发布Opus 5模型。该模型在多项基准测试中表现优于旗舰级Fable 5，且具备更高的性价比和更宽松的使用限制，有望成为多数应用场景的首选。",
+    "keywords": [
+      "Anthropic"
+    ],
+    "date": "2026-07-27"
+  },
+  {
     "title": "Satya Nadella says companies that trust one AI for everything may not survive",
     "link": "https://techcrunch.com/2026/07/27/satya-nadella-says-companies-that-trust-one-ai-for-everything-may-not-survive/",
-    "source": "TechCrunch AI",
+    "source": "TechCrunch",
     "category": "other",
     "summary": "Companies without their own models — or without a layer of AI infrastructure known as AI gateways to separate their prompts from the model itself — will be in trouble, Nadella says.",
     "keywords": [
@@ -25,7 +272,7 @@
   {
     "title": "PSA: Your Claude shared chats and Artifacts may have ended up on Google",
     "link": "https://techcrunch.com/2026/07/27/psa-your-claude-shared-chats-and-artifacts-may-have-ended-up-on-google/",
-    "source": "TechCrunch AI",
+    "source": "TechCrunch",
     "category": "other",
     "summary": "The issue appears to have originated from Claude’s “share chat” feature, which allows users to create links that enable anyone with the assigned URL view a conversation or project.",
     "keywords": [
@@ -36,7 +283,7 @@
   {
     "title": "Microsoft launches its first cybersecurity model, plus a new agentic cybersecurity system",
     "link": "https://techcrunch.com/2026/07/27/microsoft-launches-its-first-cyber-model-and-a-new-agentic-cybersecurity-system/",
-    "source": "TechCrunch AI",
+    "source": "TechCrunch",
     "category": "other",
     "summary": "Microsoft bolstered its AI cybersecurity offerings this week with the launch of its first AI security model and a new security platform.",
     "keywords": [
@@ -48,7 +295,7 @@
   {
     "title": "OpenAI’s Hugging Face breach has reignited the debate over alignment and control",
     "link": "https://techcrunch.com/2026/07/27/openais-hugging-face-breach-has-reignited-the-debate-over-alignment-and-control/",
-    "source": "TechCrunch AI",
+    "source": "TechCrunch",
     "category": "other",
     "summary": "OpenAI's Hugging Face breach has reignited debate over AI alignment and control, exposing competing views on whether increasingly capable AI should be better aligned, better contained, or both.",
     "keywords": [
@@ -60,7 +307,7 @@
   {
     "title": "Threads users can now chat with Meta AI in their DMs",
     "link": "https://techcrunch.com/2026/07/27/threads-users-can-now-chat-with-meta-ai-in-their-dms/",
-    "source": "TechCrunch AI",
+    "source": "TechCrunch",
     "category": "other",
     "summary": "Meta on Monday said it is rolling out its Meta AI chatbot within Threads' DMs, giving users a way to chat with the AI assistant.",
     "keywords": [
@@ -71,7 +318,7 @@
   {
     "title": "Google’s AI search is rapidly becoming the default, new data shows",
     "link": "https://techcrunch.com/2026/07/27/googles-ai-search-is-rapidly-becoming-the-default-new-data-shows/",
-    "source": "TechCrunch AI",
+    "source": "TechCrunch",
     "category": "other",
     "summary": "Google’s AI Overviews now appear in 43% of searches, underscoring how quickly AI-generated answers are becoming the default way people discover information online.",
     "keywords": [
@@ -82,7 +329,7 @@
   {
     "title": "Power up your AI infrastructure! A first look at the Smart Systems Stage agenda at TechCrunch Disrupt 2026",
     "link": "https://techcrunch.com/2026/07/27/power-up-your-ai-infrastructure-a-first-look-at-the-smart-systems-stage-agenda-at-techcrunch-disrupt-2026/",
-    "source": "TechCrunch AI",
+    "source": "TechCrunch",
     "category": "other",
     "summary": "At TechCrunch Disrupt 2026, the Smart Systems Stage will be where energy, infrastructure, and technology collide, covering everything from fusion breakthroughs to the grid strain AI is putting on the ",
     "keywords": [
@@ -93,7 +340,7 @@
   {
     "title": "Ilya Sutskever’s Safe Superintelligence partners with Nvidia to scale its AI research",
     "link": "https://techcrunch.com/2026/07/27/ilya-sutskevers-safe-superintelligence-partners-with-nvidia-to-scale-its-ai-research/",
-    "source": "TechCrunch AI",
+    "source": "TechCrunch",
     "category": "other",
     "summary": "After two years in stealth, Safe Superintelligence has announced a long-term partnership with Nvidia as it prepares to scale to its next phase.",
     "keywords": [
@@ -104,7 +351,7 @@
   {
     "title": "Enigma raises $71M to make controlling a robot as easy as adjusting the volume",
     "link": "https://techcrunch.com/2026/07/27/enigma-raises-70m-to-make-controlling-a-robot-as-easy-as-adjusting-the-volume/",
-    "source": "TechCrunch AI",
+    "source": "TechCrunch",
     "category": "funding",
     "summary": "The massive seed round was led by  Index Ventures and Ribbit Capital, with participation from Sarah Guo's Conviction Partners.",
     "keywords": [
@@ -115,7 +362,7 @@
   {
     "title": "Are brain waves the next unlock for physical AI?",
     "link": "https://techcrunch.com/2026/07/26/are-brain-waves-the-next-unlock-for-physical-ai/",
-    "source": "TechCrunch AI",
+    "source": "TechCrunch",
     "category": "other",
     "summary": "Forget YouTube videos — frontier physical AI models need multiple camera angles, dense annotation, and, soon, brain wave readings.",
     "keywords": [
@@ -126,7 +373,7 @@
   {
     "title": "Making sense of the panic over Chinese AI",
     "link": "https://techcrunch.com/2026/07/26/making-sense-of-the-panic-over-chinese-ai/",
-    "source": "TechCrunch AI",
+    "source": "TechCrunch",
     "category": "other",
     "summary": "On the latest episode of Equity, we discussed why Moonshot AI's Kimi seemed to panic Silicon Valley and Wall Street.",
     "keywords": [
@@ -138,7 +385,7 @@
   {
     "title": "Hugging Face CEO calls for ‘radical transparency’ after ‘unprecedented’ OpenAI hack",
     "link": "https://techcrunch.com/2026/07/26/hugging-face-ceo-calls-for-radical-transparency-after-unprecedented-openai-hack/",
-    "source": "TechCrunch AI",
+    "source": "TechCrunch",
     "category": "other",
     "summary": "\"The first autonomous agent cyberattack is an unprecedented event. It deserves an unprecedented response!\"",
     "keywords": [
@@ -151,7 +398,7 @@
   {
     "title": "Monday.com is the latest tech company to blame AI for layoffs — here are 20 others",
     "link": "https://techcrunch.com/2026/07/25/the-running-list-major-tech-layoffs-in-2026-where-employers-cited-ai/",
-    "source": "TechCrunch AI",
+    "source": "TechCrunch",
     "category": "other",
     "summary": "A running look — in reverse chronological order — at the bigger tech companies that have announced significant layoffs this year with AI as a stated factor.",
     "keywords": [
@@ -160,9 +407,21 @@
     "date": "2026-07-26"
   },
   {
+    "title": "WAIC 深度对谈小米机器人团队，我发现小米机器人的三个反常识",
+    "link": "https://www.pingwest.com/a/315897",
+    "source": "品玩",
+    "category": "other",
+    "summary": "小米\n\n\n\nWAIC 深度对谈小米机器人团队，我发现小米机器人的三个反常识\n\n不迷信炫技，依托真实工厂，专注实际价值",
+    "keywords": [
+      "AI",
+      "机器人"
+    ],
+    "date": "2026-07-25"
+  },
+  {
     "title": "Librarians are hosting viral ‘Avoiding AI’ workshops for people who are fed up with Big Tech",
     "link": "https://techcrunch.com/2026/07/25/librarians-are-hosting-viral-avoiding-ai-workshops-for-people-who-are-fed-up-with-big-tech/",
-    "source": "TechCrunch AI",
+    "source": "TechCrunch",
     "category": "other",
     "summary": "At libraries around the country, \"Avoiding AI\" workshops have elicited unprecedented demand.",
     "keywords": [
@@ -173,7 +432,7 @@
   {
     "title": "One fallen power line exposed a growing AI data center problem — here’s how to fix it",
     "link": "https://techcrunch.com/2026/07/25/one-fallen-power-line-exposed-a-growing-ai-data-center-problem-heres-how-to-fix-it/",
-    "source": "TechCrunch AI",
+    "source": "TechCrunch",
     "category": "other",
     "summary": "A close call in Northern Virginia revealed just how poorly data centers respond to grid disruptions. Here's how to fix the problem.",
     "keywords": [
@@ -184,7 +443,7 @@
   {
     "title": "I tried out OpenAI’s new AI keypad — which will be fun for some coders and slightly mystifying to everyone else",
     "link": "https://techcrunch.com/2026/07/24/i-tried-out-openais-new-ai-keypad-which-will-be-fun-for-coders-and-slightly-mystifying-to-everyone-else/",
-    "source": "TechCrunch AI",
+    "source": "TechCrunch",
     "category": "other",
     "summary": "OpenAI's fancy new AI keypad will be a lot of fun for some, while many others are probably not going to touch it.",
     "keywords": [
@@ -194,89 +453,37 @@
     "date": "2026-07-25"
   },
   {
-    "title": "Prentis, new AI lab co-founded by Reid Hoffman, Mark Pincus in talks to raise $100M",
-    "link": "https://techcrunch.com/2026/07/24/prentis-new-ai-lab-co-founded-by-reid-hoffman-mark-pincus-in-talks-to-raise-100m/",
-    "source": "TechCrunch AI",
+    "title": "HDD 成都站聚焦HarmonyOS 7新特性，解锁星河互联、空间计算、AI 智能创新实践",
+    "link": "https://www.pingwest.com/w/315903",
+    "source": "品玩",
     "category": "other",
-    "summary": "The neolab is betting that automating routine computer tasks will soon outpace coding as AI's biggest use case.",
+    "summary": "鸿蒙 OS\n\n\n\nHDD 成都站聚焦HarmonyOS 7新特性，解锁星河互联、空间计算、AI 智能创新实践",
+    "keywords": [
+      "AI",
+      "智能"
+    ],
+    "date": "2026-07-24"
+  },
+  {
+    "title": "一家教过800万小朋友写代码的公司，要让他们驾驭AI",
+    "link": "https://www.pingwest.com/w/315902",
+    "source": "品玩",
+    "category": "other",
+    "summary": "猿编程\n\n\n\n一家教过800万小朋友写代码的公司，要让他们驾驭AI\n\n从编程教育到AI素养，猿编程把目标对准了“驾驭AI”",
     "keywords": [
       "AI"
     ],
     "date": "2026-07-24"
   },
   {
-    "title": "Railway secures $100 million to challenge AWS with AI-native cloud infrastructure",
-    "link": "https://venturebeat.com/infrastructure/railway-secures-usd100-million-to-challenge-aws-with-ai-native-cloud",
-    "source": "VentureBeat AI",
-    "category": "funding",
-    "summary": "Railway, a San Francisco-based cloud platform that has quietly amassed two million developers without spending a dollar on marketing, announced Thursday that it raised $100 million in a Series B fundi",
+    "title": "Prentis, new AI lab co-founded by Reid Hoffman, Mark Pincus in talks to raise $100M",
+    "link": "https://techcrunch.com/2026/07/24/prentis-new-ai-lab-co-founded-by-reid-hoffman-mark-pincus-in-talks-to-raise-100m/",
+    "source": "TechCrunch",
+    "category": "other",
+    "summary": "The neolab is betting that automating routine computer tasks will soon outpace coding as AI's biggest use case.",
     "keywords": [
       "AI"
     ],
-    "date": "2026-01-22"
-  },
-  {
-    "title": "Claude Code costs up to $200 a month. Goose does the same thing for free.",
-    "link": "https://venturebeat.com/infrastructure/claude-code-costs-up-to-usd200-a-month-goose-does-the-same-thing-for-free",
-    "source": "VentureBeat AI",
-    "category": "other",
-    "summary": "The artificial intelligence coding revolution comes with a catch: it&#x27;s expensive.Claude Code, Anthropic&#x27;s terminal-based AI agent that can write, debug, and deploy code autonomously, has cap",
-    "keywords": [
-      "AI",
-      "Artificial Intelligence",
-      "Agent",
-      "Anthropic",
-      "Claude"
-    ],
-    "date": "2026-01-19"
-  },
-  {
-    "title": "Listen Labs raises $69M after viral billboard hiring stunt to scale AI customer interviews",
-    "link": "https://venturebeat.com/technology/listen-labs-raises-usd69m-after-viral-billboard-hiring-stunt-to-scale-ai",
-    "source": "VentureBeat AI",
-    "category": "funding",
-    "summary": "Alfred Wahlforss was running out of options. His startup, Listen Labs, needed to hire over 100 engineers, but competing against Mark Zuckerberg&#x27;s $100 million offers seemed impossible. So he spen",
-    "keywords": [
-      "AI"
-    ],
-    "date": "2026-01-16"
-  },
-  {
-    "title": "Salesforce rolls out new Slackbot AI agent as it battles Microsoft and Google in workplace AI",
-    "link": "https://venturebeat.com/technology/salesforce-rolls-out-new-slackbot-ai-agent-as-it-battles-microsoft-and",
-    "source": "VentureBeat AI",
-    "category": "other",
-    "summary": "Salesforce on Tuesday launched an entirely rebuilt version of Slackbot, the company&#x27;s workplace assistant, transforming it from a simple notification tool into what executives describe as a fully",
-    "keywords": [
-      "AI",
-      "Agent"
-    ],
-    "date": "2026-01-13"
-  },
-  {
-    "title": "Anthropic launches Cowork, a Claude Desktop agent that works in your files — no coding required",
-    "link": "https://venturebeat.com/technology/anthropic-launches-cowork-a-claude-desktop-agent-that-works-in-your-files-no",
-    "source": "VentureBeat AI",
-    "category": "other",
-    "summary": "Anthropic released Cowork on Monday, a new AI agent capability that extends the power of its wildly successful Claude Code tool to non-technical users — and according to company insiders, the team bui",
-    "keywords": [
-      "AI",
-      "Agent",
-      "Anthropic",
-      "Claude"
-    ],
-    "date": "2026-01-12"
-  },
-  {
-    "title": "Nous Research's NousCoder-14B is an open-source coding model landing right in the Claude Code moment",
-    "link": "https://venturebeat.com/technology/nous-researchs-nouscoder-14b-is-an-open-source-coding-model-landing-right-in",
-    "source": "VentureBeat AI",
-    "category": "other",
-    "summary": "Nous Research, the open-source artificial intelligence startup backed by crypto venture firm Paradigm, released a new competitive programming model on Monday that it says matches or exceeds several la",
-    "keywords": [
-      "Artificial Intelligence",
-      "Claude"
-    ],
-    "date": "2026-01-07"
+    "date": "2026-07-24"
   }
 ]
