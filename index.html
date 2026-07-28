@@ -177,9 +177,9 @@
     </div>
     <nav class="filters" id="filters">
       <button class="filter-btn active" data-cat="all">全部</button>
-      <button class="filter-btn" data-cat="重点资讯">重点资讯</button>
-      <button class="filter-btn" data-cat="投融资">投融资</button>
-      <button class="filter-btn" data-cat="其他资讯">其他</button>
+      <button class="filter-btn" data-cat="key_news">重点资讯</button>
+      <button class="filter-btn" data-cat="funding">投融资</button>
+      <button class="filter-btn" data-cat="other">其他</button>
     </nav>
   </div>
 </header>
@@ -192,14 +192,14 @@
 <script>
 (function() {
   const TAG_CLASS = {
-    "重点资讯": "tag-zhongdian",
-    "投融资":   "tag-tourong",
-    "其他资讯": "tag-qita"
+    "key_news": "tag-zhongdian",
+    "funding":   "tag-tourong",
+    "other": "tag-qita"
   };
   const TAG_LABEL = {
-    "重点资讯": "重点",
-    "投融资":   "投融资",
-    "其他资讯": "其他"
+    "key_news": "重点",
+    "funding":   "投融资",
+    "other": "其他"
   };
 
   let allArticles = [];
