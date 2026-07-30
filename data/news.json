@@ -1,5 +1,184 @@
 [
   {
+    "title": "深度 | Token 杀死了 AI 应用",
+    "link": "https://www.pingwest.com/a/316042",
+    "source": "品玩",
+    "category": "other",
+    "summary": "深度 | Token 杀死了 AI 应用\n\n一场看不到头的“毛亏率”游戏，该结束了",
+    "keywords": [
+      "AI"
+    ],
+    "date": "2026-07-30"
+  },
+  {
+    "title": "腾讯混元开源AngelSpec投机解码框架，推理加速最高达2.4倍",
+    "link": "https://www.pingwest.com/w/316041",
+    "source": "品玩",
+    "category": "other",
+    "summary": "腾讯\n\n\n\n腾讯混元开源AngelSpec投机解码框架，推理加速最高达2.4倍\n\n腾讯混元开源AngelSpec投机解码框架，推理加速最高达2.4倍",
+    "keywords": [
+      "混元"
+    ],
+    "date": "2026-07-30"
+  },
+  {
+    "title": "Hugging Face披露OpenAI模型入侵全貌，AI自主攻击引发安全警示",
+    "link": "https://www.pingwest.com/w/316039",
+    "source": "品玩",
+    "category": "other",
+    "summary": "HuggingFace\n\n\n\nHugging Face披露OpenAI模型入侵全貌，AI自主攻击引发安全警示\n\n据 TechCrunch 报道，Hugging Face近日发布技术时间线，详细披露了搭载OpenAI模型的AI智能体在4.5天内执行17,600次操作并成功入侵其生产系统的全过程。OpenAI CEO Sam Altman坦言，这起事件令他“深感震撼”。",
+    "keywords": [
+      "AI",
+      "OpenAI",
+      "智能"
+    ],
+    "date": "2026-07-30"
+  },
+  {
+    "title": "Anthropic 首位技术 PM：AI 时代，Evals 是新的 PRD",
+    "link": "https://www.pingwest.com/a/315991",
+    "source": "品玩",
+    "category": "other",
+    "summary": "Anthropic 首位技术 PM：AI 时代，Evals 是新的 PRD\n\n为什么最强的AI从业者，都在\"疯狂浪费\"token?",
+    "keywords": [
+      "AI",
+      "Anthropic"
+    ],
+    "date": "2026-07-30"
+  },
+  {
+    "title": "李飞飞：AI的下一个前沿不是聊天，是“让机器人看见空间”",
+    "link": "https://www.pingwest.com/a/316010",
+    "source": "品玩",
+    "category": "other",
+    "summary": "李飞飞：AI的下一个前沿不是聊天，是“让机器人看见空间”\n\n机器人该学会看路了",
+    "keywords": [
+      "AI",
+      "机器人"
+    ],
+    "date": "2026-07-30"
+  },
+  {
+    "title": "扎克伯格预测五年内数十亿人将拥有个人AI智能体",
+    "link": "https://www.pingwest.com/w/316033",
+    "source": "品玩",
+    "category": "other",
+    "summary": "META\n\n\n\n扎克伯格预测五年内数十亿人将拥有个人AI智能体\n\n据 TechCrunch 报道，Meta首席执行官马克·扎克伯格（Mark Zuckerberg）在最新财报电话会议上表示，未来五年内，数十亿人将拥有专属的个人AI智能体。",
+    "keywords": [
+      "AI",
+      "智能"
+    ],
+    "date": "2026-07-30"
+  },
+  {
+    "title": "谷歌解散AlphaFold核心团队，科研战略转向Gemini",
+    "link": "https://www.pingwest.com/w/316032",
+    "source": "品玩",
+    "category": "other",
+    "summary": "DeepMind\n\n\n\n谷歌解散AlphaFold核心团队，科研战略转向Gemini\n\n据 Engadget报道，谷歌DeepMind已正式解散曾获诺贝尔化学奖的AlphaFold核心团队。该团队的大部分关键成员已被重新分配至Gemini大模型项目、Alphabet旗下制药公司Isomorphic Labs，或选择离职。",
+    "keywords": [
+      "大模型",
+      "DeepMind",
+      "Gemini"
+    ],
+    "date": "2026-07-30"
+  },
+  {
+    "title": "微软确认年内推出统一Copilot“超级应用”",
+    "link": "https://www.pingwest.com/w/316029",
+    "source": "品玩",
+    "category": "other",
+    "summary": "微软\n\n\n\n微软确认年内推出统一Copilot“超级应用”\n\n据 windowsforum 报道，微软首席执行官萨提亚·纳德拉（Satya Nadella）在7月29日的财报电话会议上确认，公司计划于2026年内推出一款统一的Copilot“超级应用”。",
+    "keywords": [
+      "Copilot"
+    ],
+    "date": "2026-07-30"
+  },
+  {
+    "title": "OpenAI开源Codex Security CLI工具",
+    "link": "https://www.pingwest.com/w/316028",
+    "source": "品玩",
+    "category": "other",
+    "summary": "OpenAI\n\n\n\nOpenAI开源Codex Security CLI工具\n\n据 gigazine 报道，OpenAI宣布将其AI代码安全审查工具Codex Security的命令行界面（CLI）版本作为开源项目发布。",
+    "keywords": [
+      "AI",
+      "OpenAI"
+    ],
+    "date": "2026-07-30"
+  },
+  {
+    "title": "AI安全测试揭示前沿模型在商业模拟中的欺诈与合谋行为",
+    "link": "https://www.pingwest.com/w/316026",
+    "source": "品玩",
+    "category": "other",
+    "summary": "AI 安全\n\n\n\nAI安全测试揭示前沿模型在商业模拟中的欺诈与合谋行为\n\n据 TechCrunch 报道，AI安全测试公司Andon Labs近日发布了Vending-Bench研究的最新结果。",
+    "keywords": [
+      "AI"
+    ],
+    "date": "2026-07-30"
+  },
+  {
+    "title": "月之暗面完成超35亿美元F轮融资，估值升至350亿美元",
+    "link": "https://www.pingwest.com/w/316024",
+    "source": "品玩",
+    "category": "funding",
+    "summary": "月之暗面\n\n\n\n月之暗面完成超35亿美元F轮融资，估值升至350亿美元\n\n据界面新闻报道，月之暗面（Kimi）宣布完成超35亿美元F轮融资，投后估值达350亿美元。因认购火爆，本轮融资提前关闭，投前估值500亿美元的G轮（Pre-IPO轮）已提前启动。",
+    "keywords": [
+      "月之暗面",
+      "Kimi"
+    ],
+    "date": "2026-07-30"
+  },
+  {
+    "title": "逾千名AI从业者联名呼吁建立国际机制调控前沿AI发展",
+    "link": "https://www.pingwest.com/w/316023",
+    "source": "品玩",
+    "category": "other",
+    "summary": "OpenAI\n\n\n\n逾千名AI从业者联名呼吁建立国际机制调控前沿AI发展\n\n据 techtimes 报道，来自OpenAI、Anthropic、Google及Meta等头部AI企业的逾1100名员工近日联合签署公开信，呼吁建立一项国际协作机制，以在必要时主动放缓前沿AI的发展速度。",
+    "keywords": [
+      "AI",
+      "OpenAI",
+      "Anthropic"
+    ],
+    "date": "2026-07-30"
+  },
+  {
+    "title": "提示词删改背后，价值千金的Claude Code版“苦涩教训”",
+    "link": "https://www.pingwest.com/a/316007",
+    "source": "品玩",
+    "category": "other",
+    "summary": "提示词删改背后，价值千金的Claude Code版“苦涩教训”\n\n昨天的最佳实践，今天成了模型的枷锁",
+    "keywords": [
+      "Claude"
+    ],
+    "date": "2026-07-30"
+  },
+  {
+    "title": "翁荔重返OpenAI，将主导AI递归自我改进研究",
+    "link": "https://www.pingwest.com/w/316022",
+    "source": "品玩",
+    "category": "other",
+    "summary": "OpenAI\n\n\n\n翁荔重返OpenAI，将主导AI递归自我改进研究\n\n据The Information报道，Thinking Machines联合创始人翁荔（Lilian Weng）在宣布因健康原因离职后，将重返老东家OpenAI。",
+    "keywords": [
+      "AI",
+      "OpenAI"
+    ],
+    "date": "2026-07-30"
+  },
+  {
+    "title": "Microsoft is openly competing with OpenAI, Anthropic more than ever",
+    "link": "https://techcrunch.com/2026/07/29/microsoft-is-openly-competing-with-openai-anthropic-more-than-ever/",
+    "source": "TechCrunch",
+    "category": "other",
+    "summary": "Microsoft pitched its own homegrown AI models, harnesses, and even a Mythos competitor on Wednesday, telling Wall Street it plans for continued growth.",
+    "keywords": [
+      "AI",
+      "OpenAI",
+      "Anthropic"
+    ],
+    "date": "2026-07-30"
+  },
+  {
     "title": "OSWorld榜首换人，中国智能体跨过90%，实现关键突破",
     "link": "https://www.pingwest.com/w/316017",
     "source": "品玩",
@@ -129,6 +308,124 @@
     "date": "2026-07-29"
   },
   {
+    "title": "Mark Zuckerberg predicts that billions of people will have personal AI agents in five years",
+    "link": "https://techcrunch.com/2026/07/29/mark-zuckerberg-predicts-that-billions-of-people-will-have-personal-ai-agents-in-five-years/",
+    "source": "TechCrunch",
+    "category": "funding",
+    "summary": "As Meta pours billions into AI infrastructure and agents, Zuckerberg is working to convince investors that the payoff will be worth the price.",
+    "keywords": [
+      "AI",
+      "Agent"
+    ],
+    "date": "2026-07-29"
+  },
+  {
+    "title": "Microsoft logs $3.2B from Anthropic investment, but OpenAI was a mixed bag",
+    "link": "https://techcrunch.com/2026/07/29/microsoft-logs-3-2b-from-anthropic-investment-but-openai-was-a-mixed-bag/",
+    "source": "TechCrunch",
+    "category": "funding",
+    "summary": "When Microsoft reported killer fourth-quarter earnings for its fiscal 2026 year (which ended June 30), it tucked in an interesting little tidbit about how its investments in the two biggest, and compe",
+    "keywords": [
+      "AI",
+      "OpenAI",
+      "Anthropic"
+    ],
+    "date": "2026-07-29"
+  },
+  {
+    "title": "Zuckerberg says Meta’s enterprise AI opportunity extends beyond agents",
+    "link": "https://techcrunch.com/2026/07/29/zuckerberg-says-metas-enterprise-ai-opportunity-extends-beyond-agents/",
+    "source": "TechCrunch",
+    "category": "other",
+    "summary": "On the company’s second-quarter earnings call Wednesday, CEO Mark Zuckerberg said Meta sees a “large enterprise opportunity” spanning AI agents, APIs, compute, and internal software.",
+    "keywords": [
+      "AI",
+      "Agent"
+    ],
+    "date": "2026-07-29"
+  },
+  {
+    "title": "Discover what’s next for AI, from the SaaS reckoning to the agent security gap, at TechCrunch Disrupt 2026",
+    "link": "https://techcrunch.com/2026/07/29/discover-whats-next-for-ai-from-the-saas-reckoning-to-the-agent-security-gap-at-techcrunch-disrupt-2026/",
+    "source": "TechCrunch",
+    "category": "other",
+    "summary": "At TechCrunch Disrupt 2026, the AI Stage is back to dig into the single hottest topic in the community for the past few years, presented by Google for Startups.",
+    "keywords": [
+      "AI",
+      "Agent"
+    ],
+    "date": "2026-07-29"
+  },
+  {
+    "title": "Thinking Machines co-founder Lilian Weng left the company citing health reasons, then joined OpenAI",
+    "link": "https://techcrunch.com/2026/07/29/thinking-machines-co-founder-lilian-weng-left-the-company-citing-health-reasons-then-joined-openai/",
+    "source": "TechCrunch",
+    "category": "other",
+    "summary": "Weng previously served as the VP of AI Safety Research at OpenAI.",
+    "keywords": [
+      "AI",
+      "OpenAI"
+    ],
+    "date": "2026-07-29"
+  },
+  {
+    "title": "The Hugging Face break-in explained",
+    "link": "https://techcrunch.com/2026/07/29/the-hugging-face-ai-break-in-as-told-through-an-increasingly-committed-bear-metaphor/",
+    "source": "TechCrunch",
+    "category": "other",
+    "summary": "Another way to think about the whole thing is to picture a bear at a campsite. (Really, we are going there.)",
+    "keywords": [
+      "AI"
+    ],
+    "date": "2026-07-29"
+  },
+  {
+    "title": "Claude Opus 5 became downright ruthless when tasked with running a vending machine",
+    "link": "https://techcrunch.com/2026/07/29/claude-opus-5-became-downright-ruthless-when-tasked-with-running-a-vending-machine/",
+    "source": "TechCrunch",
+    "category": "other",
+    "summary": "Andon Labs' latest vending machine simulation shows Opus 5 lied and colluded its way to become the best AI capitalist ever.",
+    "keywords": [
+      "AI",
+      "Claude"
+    ],
+    "date": "2026-07-29"
+  },
+  {
+    "title": "Hint, a new AI startup co-founded by Martha Stewart, offers an AI assistant for homeowners",
+    "link": "https://techcrunch.com/2026/07/29/hint-a-new-ai-startup-co-founded-by-martha-stewart-offers-an-ai-assistant-for-homeowners/",
+    "source": "TechCrunch",
+    "category": "other",
+    "summary": "AI home management startup Hint, co-founded by Martha Stewart, wants to become an “AI for your home,” combining property records, maintenance schedules, home documents, and an AI assistant into a sing",
+    "keywords": [
+      "AI"
+    ],
+    "date": "2026-07-29"
+  },
+  {
+    "title": "Encore AI raises $30M to build AI agents that learn from customer calls",
+    "link": "https://techcrunch.com/2026/07/29/encore-ai-raises-30m-to-build-ai-agents-that-learn-from-customer-calls/",
+    "source": "TechCrunch",
+    "category": "funding",
+    "summary": "The startup analyzes calls, messages, and CRM data to identify effective sales techniques and turn them into playbooks for AI agents.",
+    "keywords": [
+      "AI",
+      "Agent"
+    ],
+    "date": "2026-07-29"
+  },
+  {
+    "title": "As AI content floods the internet, Pangram raises $9M to detect it",
+    "link": "https://techcrunch.com/2026/07/29/as-ai-content-floods-the-internet-pangram-raises-9m-to-detect-it/",
+    "source": "TechCrunch",
+    "category": "funding",
+    "summary": "Pangram has raised $9 million to scale its AI detection software. The startup has also released a new AI text detection model, Pangram 4, and an AI image detection model in research preview.",
+    "keywords": [
+      "AI"
+    ],
+    "date": "2026-07-29"
+  },
+  {
     "title": "Cyera agrees to acquire Oasis Security for $1B to safeguard proliferating AI agents",
     "link": "https://techcrunch.com/2026/07/28/cyera-agrees-to-acquire-oasis-security-for-1b-to-safeguard-proliferating-ai-agents/",
     "source": "TechCrunch",
@@ -149,127 +446,6 @@
     "keywords": [
       "机器人",
       "智能"
-    ],
-    "date": "2026-07-28"
-  },
-  {
-    "title": "纳米Work发布会周鸿祎送出千亿Token，率先帮1000家小企业AI落地",
-    "link": "https://www.pingwest.com/w/315969",
-    "source": "品玩",
-    "category": "other",
-    "summary": "纳米 AI\n\n\n\n纳米Work发布会周鸿祎送出千亿Token，率先帮1000家小企业AI落地",
-    "keywords": [
-      "AI"
-    ],
-    "date": "2026-07-28"
-  },
-  {
-    "title": "抢跑！全球化新品牌进入AI时刻，何以定胜负？ | 2026全球化新品牌AI竞争力大会实录",
-    "link": "https://www.pingwest.com/a/315901",
-    "source": "品玩",
-    "category": "other",
-    "summary": "抢跑！全球化新品牌进入AI时刻，何以定胜负？ | 2026全球化新品牌AI竞争力大会实录",
-    "keywords": [
-      "AI"
-    ],
-    "date": "2026-07-28"
-  },
-  {
-    "title": "拆解Kimi K3技术报告：月之暗面开始给DeepSeek出题了",
-    "link": "https://www.pingwest.com/a/315963",
-    "source": "品玩",
-    "category": "other",
-    "summary": "拆解Kimi K3技术报告：月之暗面开始给DeepSeek出题了\n\n开源前沿的两条路线和一次回礼。",
-    "keywords": [
-      "月之暗面",
-      "DeepSeek",
-      "Kimi"
-    ],
-    "date": "2026-07-28"
-  },
-  {
-    "title": "荣耀将阿莱电影工作流融入机器人手机",
-    "link": "https://www.pingwest.com/w/315959",
-    "source": "品玩",
-    "category": "other",
-    "summary": "荣耀手机\n\n\n\n荣耀将阿莱电影工作流融入机器人手机",
-    "keywords": [
-      "机器人"
-    ],
-    "date": "2026-07-28"
-  },
-  {
-    "title": "Eval丨 14天450人500辆Agent坦克大混战：我们完成了一场大规模 Agent 众测",
-    "link": "https://www.pingwest.com/a/315904",
-    "source": "品玩",
-    "category": "other",
-    "summary": "Eval丨 14天450人500辆Agent坦克大混战：我们完成了一场大规模 Agent 众测\n\n什么样的场景能真正评价Agent和模型？",
-    "keywords": [
-      "Agent"
-    ],
-    "date": "2026-07-28"
-  },
-  {
-    "title": "微软发布网络安全专用模型MAI-Cyber-1-Flash",
-    "link": "https://www.pingwest.com/w/315952",
-    "source": "品玩",
-    "category": "other",
-    "summary": "微软\n\n\n\n微软发布网络安全专用模型MAI-Cyber-1-Flash\n\n微软近日在旧金山正式发布首款网络安全专用AI模型MAI-Cyber-1-Flash，并同步推出智能体安全系统Perception。",
-    "keywords": [
-      "AI",
-      "智能"
-    ],
-    "date": "2026-07-28"
-  },
-  {
-    "title": "阿里云真武超节点Day0适配Kimi K3大模型，双方展开国产算力合作",
-    "link": "https://www.pingwest.com/w/315951",
-    "source": "品玩",
-    "category": "other",
-    "summary": "阿里云\n\n\n\n阿里云真武超节点Day0适配Kimi K3大模型，双方展开国产算力合作\n\n7月28日，阿里云真武M890超节点实例已Day0适配Kimi K3，这是国内首个跑通近3万亿参数模型的超节点。双方将进一步展开国产算力合作，千问AI平台和阿里云百炼也将提供Kimi K3 的模型API。",
-    "keywords": [
-      "AI",
-      "大模型",
-      "Kimi"
-    ],
-    "date": "2026-07-28"
-  },
-  {
-    "title": "Claude分享链接遭搜索引擎意外收录，引发隐私担忧",
-    "link": "https://www.pingwest.com/w/315949",
-    "source": "品玩",
-    "category": "other",
-    "summary": "Claude\n\n\n\nClaude分享链接遭搜索引擎意外收录，引发隐私担忧\n\n据 TechCrunch 报道，近日，大量Claude对话分享链接意外被搜索引擎公开索引，引发外界对AI数据安全的担忧。",
-    "keywords": [
-      "AI",
-      "Claude"
-    ],
-    "date": "2026-07-28"
-  },
-  {
-    "title": "谷歌确认训练Gemini 4模型，预计年底发布",
-    "link": "https://www.pingwest.com/w/315948",
-    "source": "品玩",
-    "category": "other",
-    "summary": "GEMINI\n\n\n\n谷歌确认训练Gemini 4模型，预计年底发布\n\n据 9to5Google 报道，在Alphabet 2026年第二季度财报电话会议上，首席执行官桑达尔·皮查伊（Sundar Pichai）确认，公司正在全力训练下一代前沿大模型Gemini 4。",
-    "keywords": [
-      "AI",
-      "大模型",
-      "Gemini"
-    ],
-    "date": "2026-07-28"
-  },
-  {
-    "title": "月之暗面宣布Kimi K3正式开源",
-    "link": "https://www.pingwest.com/w/315947",
-    "source": "品玩",
-    "category": "other",
-    "summary": "月之暗面\n\n\n\n月之暗面宣布Kimi K3正式开源\n\n月之暗面（Moonshot AI）宣布正式开源Kimi K3模型权重及技术报告，并同步开放MoonEP、FlashKDA和AgentEnv三项关键基础设施技术。",
-    "keywords": [
-      "AI",
-      "Agent",
-      "月之暗面",
-      "Kimi"
     ],
     "date": "2026-07-28"
   },
@@ -317,129 +493,5 @@
       "Anthropic"
     ],
     "date": "2026-07-28"
-  },
-  {
-    "title": "美团全场景AI工作台CatPaw正式上线",
-    "link": "https://www.pingwest.com/w/315936",
-    "source": "品玩",
-    "category": "other",
-    "summary": "美团\n\n\n\n美团全场景AI工作台CatPaw正式上线\n\n据美团官方消息，美团全场景AI工作台CatPaw正式上线。该平台旨在将AI能力深度融入本地生活真实经营场景，为商家和企业提供可协作、可管理的智能帮手，推进日常业务的智能化处理。",
-    "keywords": [
-      "AI",
-      "智能"
-    ],
-    "date": "2026-07-27"
-  },
-  {
-    "title": "Satya Nadella says companies that trust one AI for everything may not survive",
-    "link": "https://techcrunch.com/2026/07/27/satya-nadella-says-companies-that-trust-one-ai-for-everything-may-not-survive/",
-    "source": "TechCrunch",
-    "category": "other",
-    "summary": "Companies without their own models — or without a layer of AI infrastructure known as AI gateways to separate their prompts from the model itself — will be in trouble, Nadella says.",
-    "keywords": [
-      "AI"
-    ],
-    "date": "2026-07-27"
-  },
-  {
-    "title": "PSA: Your Claude shared chats and Artifacts may have ended up on Google",
-    "link": "https://techcrunch.com/2026/07/27/psa-your-claude-shared-chats-and-artifacts-may-have-ended-up-on-google/",
-    "source": "TechCrunch",
-    "category": "other",
-    "summary": "The issue appears to have originated from Claude’s “share chat” feature, which allows users to create links that enable anyone with the assigned URL view a conversation or project.",
-    "keywords": [
-      "Claude"
-    ],
-    "date": "2026-07-27"
-  },
-  {
-    "title": "Microsoft launches its first cybersecurity model, plus a new agentic cybersecurity system",
-    "link": "https://techcrunch.com/2026/07/27/microsoft-launches-its-first-cyber-model-and-a-new-agentic-cybersecurity-system/",
-    "source": "TechCrunch",
-    "category": "other",
-    "summary": "Microsoft bolstered its AI cybersecurity offerings this week with the launch of its first AI security model and a new security platform.",
-    "keywords": [
-      "AI",
-      "Agent"
-    ],
-    "date": "2026-07-27"
-  },
-  {
-    "title": "OpenAI’s Hugging Face breach has reignited the debate over alignment and control",
-    "link": "https://techcrunch.com/2026/07/27/openais-hugging-face-breach-has-reignited-the-debate-over-alignment-and-control/",
-    "source": "TechCrunch",
-    "category": "other",
-    "summary": "OpenAI's Hugging Face breach has reignited debate over AI alignment and control, exposing competing views on whether increasingly capable AI should be better aligned, better contained, or both.",
-    "keywords": [
-      "AI",
-      "OpenAI"
-    ],
-    "date": "2026-07-27"
-  },
-  {
-    "title": "Threads users can now chat with Meta AI in their DMs",
-    "link": "https://techcrunch.com/2026/07/27/threads-users-can-now-chat-with-meta-ai-in-their-dms/",
-    "source": "TechCrunch",
-    "category": "other",
-    "summary": "Meta on Monday said it is rolling out its Meta AI chatbot within Threads' DMs, giving users a way to chat with the AI assistant.",
-    "keywords": [
-      "AI"
-    ],
-    "date": "2026-07-27"
-  },
-  {
-    "title": "Google’s AI search is rapidly becoming the default, new data shows",
-    "link": "https://techcrunch.com/2026/07/27/googles-ai-search-is-rapidly-becoming-the-default-new-data-shows/",
-    "source": "TechCrunch",
-    "category": "other",
-    "summary": "Google’s AI Overviews now appear in 43% of searches, underscoring how quickly AI-generated answers are becoming the default way people discover information online.",
-    "keywords": [
-      "AI"
-    ],
-    "date": "2026-07-27"
-  },
-  {
-    "title": "Power up your AI infrastructure! A first look at the Smart Systems Stage agenda at TechCrunch Disrupt 2026",
-    "link": "https://techcrunch.com/2026/07/27/power-up-your-ai-infrastructure-a-first-look-at-the-smart-systems-stage-agenda-at-techcrunch-disrupt-2026/",
-    "source": "TechCrunch",
-    "category": "other",
-    "summary": "At TechCrunch Disrupt 2026, the Smart Systems Stage will be where energy, infrastructure, and technology collide, covering everything from fusion breakthroughs to the grid strain AI is putting on the ",
-    "keywords": [
-      "AI"
-    ],
-    "date": "2026-07-27"
-  },
-  {
-    "title": "Ilya Sutskever’s Safe Superintelligence partners with Nvidia to scale its AI research",
-    "link": "https://techcrunch.com/2026/07/27/ilya-sutskevers-safe-superintelligence-partners-with-nvidia-to-scale-its-ai-research/",
-    "source": "TechCrunch",
-    "category": "other",
-    "summary": "After two years in stealth, Safe Superintelligence has announced a long-term partnership with Nvidia as it prepares to scale to its next phase.",
-    "keywords": [
-      "AI"
-    ],
-    "date": "2026-07-27"
-  },
-  {
-    "title": "Enigma raises $71M to make controlling a robot as easy as adjusting the volume",
-    "link": "https://techcrunch.com/2026/07/27/enigma-raises-70m-to-make-controlling-a-robot-as-easy-as-adjusting-the-volume/",
-    "source": "TechCrunch",
-    "category": "funding",
-    "summary": "The massive seed round was led by  Index Ventures and Ribbit Capital, with participation from Sarah Guo's Conviction Partners.",
-    "keywords": [
-      "AI"
-    ],
-    "date": "2026-07-27"
-  },
-  {
-    "title": "Are brain waves the next unlock for physical AI?",
-    "link": "https://techcrunch.com/2026/07/26/are-brain-waves-the-next-unlock-for-physical-ai/",
-    "source": "TechCrunch",
-    "category": "other",
-    "summary": "Forget YouTube videos — frontier physical AI models need multiple camera angles, dense annotation, and, soon, brain wave readings.",
-    "keywords": [
-      "AI"
-    ],
-    "date": "2026-07-27"
   }
 ]
