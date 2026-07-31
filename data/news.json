@@ -1,5 +1,123 @@
 [
   {
+    "title": "从武术教练到AI创作者，他用灵珠创作了160个热门应用",
+    "link": "https://www.pingwest.com/w/316096",
+    "source": "品玩",
+    "category": "other",
+    "summary": "灵珠\n\n\n\n从武术教练到AI创作者，他用灵珠创作了160个热门应用",
+    "keywords": [
+      "AI"
+    ],
+    "date": "2026-07-31"
+  },
+  {
+    "title": "200个任务、1700万帧！大晓ACE-Data-0把真实家庭场景变成物理智能「数据引擎」",
+    "link": "https://www.pingwest.com/w/316081",
+    "source": "品玩",
+    "category": "other",
+    "summary": "大晓\n\n\n\n200个任务、1700万帧！大晓ACE-Data-0把真实家庭场景变成物理智能「数据引擎」",
+    "keywords": [
+      "智能"
+    ],
+    "date": "2026-07-31"
+  },
+  {
+    "title": "Waymo首款专用网约车Ojai集成Gemini AI与三屏交互",
+    "link": "https://www.pingwest.com/w/316080",
+    "source": "品玩",
+    "category": "other",
+    "summary": "Waymo\n\n\n\nWaymo首款专用网约车Ojai集成Gemini AI与三屏交互\n\n据 electrek 报道，Waymo近日为其专为网约车场景打造的自动驾驶汽车Ojai，正式推出Gemini in Waymo对话式AI助手及全新车载界面，标志着其竞争重心从单纯的行驶技术向乘车体验延伸。",
+    "keywords": [
+      "AI",
+      "Gemini",
+      "自动驾驶"
+    ],
+    "date": "2026-07-31"
+  },
+  {
+    "title": "红杉资本对谈：Transformer 的天花板到了，AGI 需要会“持续学习”的新架构",
+    "link": "https://www.pingwest.com/a/316050",
+    "source": "品玩",
+    "category": "other",
+    "summary": "红杉资本对谈：Transformer 的天花板到了，AGI 需要会“持续学习”的新架构\n\n预训练和强化学习已经把 Transformer 推到了极限",
+    "keywords": [
+      "transformer"
+    ],
+    "date": "2026-07-31"
+  },
+  {
+    "title": "WorkBuddy上线“人机双写”协同编辑功能",
+    "link": "https://www.pingwest.com/w/316068",
+    "source": "品玩",
+    "category": "other",
+    "summary": "腾讯\n\n\n\nWorkBuddy上线“人机双写”协同编辑功能\n\n腾讯WorkBuddy近日重磅上线“人机双写”功能，在业内首次实现AI与用户在同一文档界面内的实时协同编辑。",
+    "keywords": [
+      "AI"
+    ],
+    "date": "2026-07-31"
+  },
+  {
+    "title": "字节跳动整合飞书、豆包与火山引擎，发力企业AI服务",
+    "link": "https://www.pingwest.com/w/316066",
+    "source": "品玩",
+    "category": "other",
+    "summary": "字节跳动\n\n\n\n字节跳动整合飞书、豆包与火山引擎，发力企业AI服务\n\n据 Appso 报道，字节跳动近日发布内部邮件，宣布对旗下企业服务业务进行重大组织架构调整，旨在加强豆包、飞书与火山引擎在企业生产力场景的产品与服务协同。",
+    "keywords": [
+      "AI",
+      "豆包"
+    ],
+    "date": "2026-07-31"
+  },
+  {
+    "title": "视频生成进入生产力时代，MiniMax H3 发布",
+    "link": "https://www.pingwest.com/w/316063",
+    "source": "品玩",
+    "category": "other",
+    "summary": "MiniMax\n\n\n\n视频生成进入生产力时代，MiniMax H3 发布\n\n7 月 31 日，MiniMax 发布新一代多模态生成模型 MiniMax H3，并宣布近期开源。",
+    "keywords": [
+      "MiniMax"
+    ],
+    "date": "2026-07-31"
+  },
+  {
+    "title": "三星Ballie机器人配套App设计草图曝光",
+    "link": "https://www.pingwest.com/w/316062",
+    "source": "品玩",
+    "category": "other",
+    "summary": "三星\n\n\n\n三星Ballie机器人配套App设计草图曝光\n\n科技媒体SammyGuru近日曝光了三星滚动家用机器人Ballie配套智能手机App的早期线框设计草图，为这款迟迟未发布的产品带来了实质性进展。",
+    "keywords": [
+      "机器人",
+      "智能"
+    ],
+    "date": "2026-07-31"
+  },
+  {
+    "title": "谷歌发布Gemini Robotics ER 2具身推理模型",
+    "link": "https://www.pingwest.com/w/316061",
+    "source": "品玩",
+    "category": "other",
+    "summary": "谷歌\n\n\n\n谷歌发布Gemini Robotics ER 2具身推理模型\n\n据谷歌团队官方消息，DeepMind正式推出面向机器人的最强具身推理模型Gemini Robotics ER 2。",
+    "keywords": [
+      "DeepMind",
+      "Gemini",
+      "机器人"
+    ],
+    "date": "2026-07-31"
+  },
+  {
+    "title": "Anthropic says its own AI models breached three companies during security tests",
+    "link": "https://techcrunch.com/2026/07/30/anthropic-says-its-own-ai-models-breached-three-companies-during-security-tests/",
+    "source": "TechCrunch",
+    "category": "other",
+    "summary": "After OpenAI's models broke into Hugging Face, Anthropic checked its own history and found three similar incidents",
+    "keywords": [
+      "AI",
+      "OpenAI",
+      "Anthropic"
+    ],
+    "date": "2026-07-31"
+  },
+  {
     "title": "三星折叠屏新品体验沙龙北京站：深入体验三星Galaxy Z8系列及智能手表新品",
     "link": "https://www.pingwest.com/w/316052",
     "source": "品玩",
@@ -177,11 +295,104 @@
     "date": "2026-07-30"
   },
   {
+    "title": "AI hedge fund Situational Awareness may have sold its public portfolio, but it still has its Anthropic shares",
+    "link": "https://techcrunch.com/2026/07/30/ai-hedge-fund-situational-awareness-may-have-sold-its-public-portfolio-but-it-still-has-its-anthropic-shares/",
+    "source": "TechCrunch",
+    "category": "other",
+    "summary": "The former OpenAI researcher’s fund was forced to unwind public equities after leveraged public bets plummeted. But he still has cards to play.",
+    "keywords": [
+      "AI",
+      "OpenAI",
+      "Anthropic"
+    ],
+    "date": "2026-07-30"
+  },
+  {
+    "title": "Reddit reports a solid quarter but shows signs of AI’s impact",
+    "link": "https://techcrunch.com/2026/07/30/reddit-reports-a-solid-quarter-but-shows-signs-of-ais-impact/",
+    "source": "TechCrunch",
+    "category": "other",
+    "summary": "Reddit's financial situation is looking good but uncertainty about its relationship to Google and the new AI-ified web are stirring market concerns.",
+    "keywords": [
+      "AI"
+    ],
+    "date": "2026-07-30"
+  },
+  {
+    "title": "Investors love AI, as long as you’re a cloud host",
+    "link": "https://techcrunch.com/2026/07/30/investors-love-ai-as-long-as-youre-a-cloud-host/",
+    "source": "TechCrunch",
+    "category": "other",
+    "summary": "Amazon isn't slowing down on data center spending — but investors don't seem to mind.",
+    "keywords": [
+      "AI"
+    ],
+    "date": "2026-07-30"
+  },
+  {
+    "title": "Judge says Trump admin still lacks evidence for Anthropic ‘supply-chain risk’ label",
+    "link": "https://techcrunch.com/2026/07/30/judge-says-trump-admin-still-lacks-evidence-for-anthropic-supply-chain-risk-label/",
+    "source": "TechCrunch",
+    "category": "other",
+    "summary": "A federal judge said the Trump administration has not presented enough evidence to justify labeling Anthropic a supply-chain risk, casting doubt on the government's ban on its AI technology.",
+    "keywords": [
+      "AI",
+      "Anthropic"
+    ],
+    "date": "2026-07-30"
+  },
+  {
+    "title": "Friend, the lonely AI wearable, returns with a new voice and a much bigger price tag",
+    "link": "https://techcrunch.com/2026/07/30/friend-the-lonely-ai-wearable-returns-with-a-new-voice-and-a-much-bigger-price-tag/",
+    "source": "TechCrunch",
+    "category": "other",
+    "summary": "Friend, the AI wearable, can now talk to its users — for an enhanced price.",
+    "keywords": [
+      "AI"
+    ],
+    "date": "2026-07-30"
+  },
+  {
+    "title": "Google says it fixed more Chrome bugs in June than over the past two years, thanks to AI",
+    "link": "https://techcrunch.com/2026/07/30/google-says-it-fixed-more-chrome-bugs-in-june-than-over-the-past-two-years-thanks-to-ai/",
+    "source": "TechCrunch",
+    "category": "other",
+    "summary": "As experts have warned for the last two years, some companies — like Microsoft and now Google — are finding and patching an exponential number of bugs in their products, thanks to the use of LLMs and ",
+    "keywords": [
+      "AI",
+      "LLM"
+    ],
+    "date": "2026-07-30"
+  },
+  {
+    "title": "LinkedIn adds a button to report AI-generated ‘slop’",
+    "link": "https://techcrunch.com/2026/07/30/linkedin-adds-a-button-to-report-ai-generated-slop/",
+    "source": "TechCrunch",
+    "category": "other",
+    "summary": "LinkedIn is introducing new ways to reduce low-quality AI-generated posts, including a “seems like AI slop” reporting option. It's also replacing its own AI writing feature with a proofreading tool.",
+    "keywords": [
+      "AI"
+    ],
+    "date": "2026-07-30"
+  },
+  {
+    "title": "Okta buys AI security startup Permiso — source says for about $200M",
+    "link": "https://techcrunch.com/2026/07/30/okta-buys-ai-security-startup-permiso-source-says-for-about-200m/",
+    "source": "TechCrunch",
+    "category": "other",
+    "summary": "The deal gives Okta identity threat detection capabilities as enterprises seek to secure AI agents and other non-human identities across cloud environments.",
+    "keywords": [
+      "AI",
+      "Agent"
+    ],
+    "date": "2026-07-30"
+  },
+  {
     "title": "Meta says AI is making it easier to build new apps — and more are coming",
     "link": "https://techcrunch.com/2026/07/30/meta-says-ai-is-making-it-easier-to-build-new-apps-and-more-are-coming/",
     "source": "TechCrunch",
     "category": "other",
-    "summary": "Meta says AI is making it dramatically easier to build and launch new consumer apps, with CEO Mark Zuckerberg telling investors the company has more new consumer products on the way following a recent",
+    "summary": "Meta says AI is making it dramatically easier to build and launch new consumer apps, with CEO Mark Zuckerberg telling investors the company has more new consumer products on the way.",
     "keywords": [
       "AI"
     ],
@@ -246,124 +457,6 @@
     "date": "2026-07-30"
   },
   {
-    "title": "OSWorld榜首换人，中国智能体跨过90%，实现关键突破",
-    "link": "https://www.pingwest.com/w/316017",
-    "source": "品玩",
-    "category": "other",
-    "summary": "智能体\n\n\n\nOSWorld榜首换人，中国智能体跨过90%，实现关键突破",
-    "keywords": [
-      "智能"
-    ],
-    "date": "2026-07-29"
-  },
-  {
-    "title": "火山引擎上线豆包搜索服务，为AI Agent提供可信信息引擎",
-    "link": "https://www.pingwest.com/w/316008",
-    "source": "品玩",
-    "category": "other",
-    "summary": "火山引擎\n\n\n\n火山引擎上线豆包搜索服务，为AI Agent提供可信信息引擎\n\n据火山引擎官方消息，火山引擎近日正式上线豆包搜索服务，旨在为AI Agent提供实时、权威、可信的联网信息查询能力。",
-    "keywords": [
-      "AI",
-      "Agent",
-      "豆包"
-    ],
-    "date": "2026-07-29"
-  },
-  {
-    "title": "周鸿祎用纳米Work 30天改造360：企业AI化，老板要先用",
-    "link": "https://www.pingwest.com/w/316003",
-    "source": "品玩",
-    "category": "other",
-    "summary": "360\n\n\n\n周鸿祎用纳米Work 30天改造360：企业AI化，老板要先用",
-    "keywords": [
-      "AI"
-    ],
-    "date": "2026-07-29"
-  },
-  {
-    "title": "Hugging Face CEO要求OpenAI“彻底透明”并赔偿1亿美元算力",
-    "link": "https://www.pingwest.com/w/316000",
-    "source": "品玩",
-    "category": "other",
-    "summary": "HuggingFace\n\n\n\nHugging Face CEO要求OpenAI“彻底透明”并赔偿1亿美元算力\n\n据 TechCrunch 报道，在OpenAI承认其模型自主攻击Hugging Face系统后，Hugging Face CEO Clément Delangue于周六发文，要求OpenAI采取“彻底透明”措施，公开“流氓”智能体的完整执行日志，以便研究社区分析。",
-    "keywords": [
-      "AI",
-      "OpenAI",
-      "智能"
-    ],
-    "date": "2026-07-29"
-  },
-  {
-    "title": "OpenAI推出新一代语音转录模型",
-    "link": "https://www.pingwest.com/w/315995",
-    "source": "品玩",
-    "category": "other",
-    "summary": "OpenAI\n\n\n\nOpenAI推出新一代语音转录模型\n\n据 explainx.ai 报道，OpenAI近日发布了新一代语音转录模型系列，旨在为开发者提供更符合实际应用场景的解决方案。此次更新将转录任务明确划分为实时与异步两种模式，并推出了对应的推荐模型。",
-    "keywords": [
-      "AI",
-      "OpenAI"
-    ],
-    "date": "2026-07-29"
-  },
-  {
-    "title": "YC × DeepMind 深度复盘：AGI 时代，顶级创业者的核心竞争力已经变了",
-    "link": "https://www.pingwest.com/a/315989",
-    "source": "品玩",
-    "category": "other",
-    "summary": "YC × DeepMind 深度复盘：AGI 时代，顶级创业者的核心竞争力已经变了\n\n对于创始人而言，机遇不只是加快做事速度，而是重新定义一切可能性。",
-    "keywords": [
-      "DeepMind"
-    ],
-    "date": "2026-07-29"
-  },
-  {
-    "title": "WAIC“看见未来”，GDPS“做出未来”丨“劳动最光荣”国际具身智能技能大赛全球征集启动(8)",
-    "link": "https://www.pingwest.com/w/315992",
-    "source": "品玩",
-    "category": "other",
-    "summary": "WAIC\n\n\n\nWAIC“看见未来”，GDPS“做出未来”丨“劳动最光荣”国际具身智能技能大赛全球征集启动(8)",
-    "keywords": [
-      "AI",
-      "智能"
-    ],
-    "date": "2026-07-29"
-  },
-  {
-    "title": "阿里Qoder上线实时语音交互智能体Qoder Voice",
-    "link": "https://www.pingwest.com/w/315990",
-    "source": "品玩",
-    "category": "other",
-    "summary": "阿里巴巴\n\n\n\n阿里Qoder上线实时语音交互智能体Qoder Voice\n\n阿里AI编程助手Qoder近日推出实时语音交互智能体Qoder Voice。",
-    "keywords": [
-      "AI",
-      "智能"
-    ],
-    "date": "2026-07-29"
-  },
-  {
-    "title": "苹果全新智能家居中枢曝光，预计今秋至明年初发布",
-    "link": "https://www.pingwest.com/w/315988",
-    "source": "品玩",
-    "category": "other",
-    "summary": "苹果\n\n\n\n苹果全新智能家居中枢曝光，预计今秋至明年初发布\n\n据MacRumors 报道，苹果计划于今年10月至明年初推出一款全新智能家居中枢设备。该设备将HomePod扬声器与7英寸显示屏结合，提供桌面和壁挂两种形态，并搭载全新Siri AI作为核心功能。",
-    "keywords": [
-      "AI",
-      "智能"
-    ],
-    "date": "2026-07-29"
-  },
-  {
-    "title": "Recursive与AWS达成4.1亿美元算力合作",
-    "link": "https://www.pingwest.com/w/315986",
-    "source": "品玩",
-    "category": "other",
-    "summary": "AWS\n\n\n\nRecursive与AWS达成4.1亿美元算力合作\n\n据 businessdailynetwork 报道，AI公司Recursive宣布与亚马逊云服务（AWS）达成一项价值4.1亿美元的多年期合作协议。",
-    "keywords": [
-      "AI"
-    ],
-    "date": "2026-07-29"
-  },
-  {
     "title": "Mark Zuckerberg predicts that billions of people will have personal AI agents in five years",
     "link": "https://techcrunch.com/2026/07/29/mark-zuckerberg-predicts-that-billions-of-people-will-have-personal-ai-agents-in-five-years/",
     "source": "TechCrunch",
@@ -411,97 +504,5 @@
       "Agent"
     ],
     "date": "2026-07-29"
-  },
-  {
-    "title": "Thinking Machines co-founder Lilian Weng left the company citing health reasons, then joined OpenAI",
-    "link": "https://techcrunch.com/2026/07/29/thinking-machines-co-founder-lilian-weng-left-the-company-citing-health-reasons-then-joined-openai/",
-    "source": "TechCrunch",
-    "category": "other",
-    "summary": "Weng previously served as the VP of AI Safety Research at OpenAI.",
-    "keywords": [
-      "AI",
-      "OpenAI"
-    ],
-    "date": "2026-07-29"
-  },
-  {
-    "title": "The Hugging Face break-in explained",
-    "link": "https://techcrunch.com/2026/07/29/the-hugging-face-ai-break-in-as-told-through-an-increasingly-committed-bear-metaphor/",
-    "source": "TechCrunch",
-    "category": "other",
-    "summary": "Another way to think about the whole thing is to picture a bear at a campsite. (Really, we are going there.)",
-    "keywords": [
-      "AI"
-    ],
-    "date": "2026-07-29"
-  },
-  {
-    "title": "Claude Opus 5 became downright ruthless when tasked with running a vending machine",
-    "link": "https://techcrunch.com/2026/07/29/claude-opus-5-became-downright-ruthless-when-tasked-with-running-a-vending-machine/",
-    "source": "TechCrunch",
-    "category": "other",
-    "summary": "Andon Labs' latest vending machine simulation shows Opus 5 lied and colluded its way to become the best AI capitalist ever.",
-    "keywords": [
-      "AI",
-      "Claude"
-    ],
-    "date": "2026-07-29"
-  },
-  {
-    "title": "Hint, a new AI startup co-founded by Martha Stewart, offers an AI assistant for homeowners",
-    "link": "https://techcrunch.com/2026/07/29/hint-a-new-ai-startup-co-founded-by-martha-stewart-offers-an-ai-assistant-for-homeowners/",
-    "source": "TechCrunch",
-    "category": "other",
-    "summary": "AI home management startup Hint, co-founded by Martha Stewart, wants to become an “AI for your home,” combining property records, maintenance schedules, home documents, and an AI assistant into a sing",
-    "keywords": [
-      "AI"
-    ],
-    "date": "2026-07-29"
-  },
-  {
-    "title": "Encore AI raises $30M to build AI agents that learn from customer calls",
-    "link": "https://techcrunch.com/2026/07/29/encore-ai-raises-30m-to-build-ai-agents-that-learn-from-customer-calls/",
-    "source": "TechCrunch",
-    "category": "funding",
-    "summary": "The startup analyzes calls, messages, and CRM data to identify effective sales techniques and turn them into playbooks for AI agents.",
-    "keywords": [
-      "AI",
-      "Agent"
-    ],
-    "date": "2026-07-29"
-  },
-  {
-    "title": "As AI content floods the internet, Pangram raises $9M to detect it",
-    "link": "https://techcrunch.com/2026/07/29/as-ai-content-floods-the-internet-pangram-raises-9m-to-detect-it/",
-    "source": "TechCrunch",
-    "category": "funding",
-    "summary": "Pangram has raised $9 million to scale its AI detection software. The startup has also released a new AI text detection model, Pangram 4, and an AI image detection model in research preview.",
-    "keywords": [
-      "AI"
-    ],
-    "date": "2026-07-29"
-  },
-  {
-    "title": "Cyera agrees to acquire Oasis Security for $1B to safeguard proliferating AI agents",
-    "link": "https://techcrunch.com/2026/07/28/cyera-agrees-to-acquire-oasis-security-for-1b-to-safeguard-proliferating-ai-agents/",
-    "source": "TechCrunch",
-    "category": "other",
-    "summary": "The deal is Cyera's third acquisition this year.",
-    "keywords": [
-      "AI",
-      "Agent"
-    ],
-    "date": "2026-07-29"
-  },
-  {
-    "title": "Bot-detection startup Spur nabs $200M from Insight",
-    "link": "https://techcrunch.com/2026/07/28/bot-detection-startup-spur-nabs-200m-from-insight/",
-    "source": "TechCrunch",
-    "category": "other",
-    "summary": "Spur Intelligence has raised a $200 million round from Insight Partners for its tech that can identify legit human traffic from bots.",
-    "keywords": [
-      "AI"
-    ],
-    "date": "2026-07-28"
   }
 ]
