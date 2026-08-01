@@ -1,5 +1,16 @@
 [
   {
+    "title": "MiniMax H3：很能打、更通用、还开源，多模态格局得变一变了",
+    "link": "https://www.pingwest.com/a/316100",
+    "source": "品玩",
+    "category": "other",
+    "summary": "MiniMax H3：很能打、更通用、还开源，多模态格局得变一变了\n\n多模态终究会像语言模型一样通用。",
+    "keywords": [
+      "MiniMax"
+    ],
+    "date": "2026-07-31"
+  },
+  {
     "title": "从武术教练到AI创作者，他用灵珠创作了160个热门应用",
     "link": "https://www.pingwest.com/w/316096",
     "source": "品玩",
@@ -105,11 +116,104 @@
     "date": "2026-07-31"
   },
   {
+    "title": "OpenAI reportedly finds evidence that more of its agents ran amok",
+    "link": "https://techcrunch.com/2026/07/31/openai-reportedly-finds-evidence-that-more-of-its-agents-ran-amok/",
+    "source": "TechCrunch",
+    "category": "other",
+    "summary": "OpenAI has reportedly found evidence of additional agent misbehavior as it looks into the incident that occurred with Hugging Face.",
+    "keywords": [
+      "AI",
+      "Agent",
+      "OpenAI"
+    ],
+    "date": "2026-07-31"
+  },
+  {
+    "title": "Google nixes its Earth AI feature one day after launch, amid criticism it would spread misinformation",
+    "link": "https://techcrunch.com/2026/07/31/google-nixes-its-earth-ai-feature-one-day-after-launch-amid-criticism-it-would-spread-misinformation/",
+    "source": "TechCrunch",
+    "category": "other",
+    "summary": "A tool that allowed anyone to generate fake AI-generated imagery and superimpose it over real Google Earth maps quickly spurred backlash.",
+    "keywords": [
+      "AI"
+    ],
+    "date": "2026-07-31"
+  },
+  {
+    "title": "Sam Altman isn’t the only one who wants to pump the brakes on AI",
+    "link": "https://techcrunch.com/video/sam-altman-isnt-the-only-one-who-wants-to-pump-the-brakes-on-ai/",
+    "source": "TechCrunch",
+    "category": "other",
+    "summary": "After years of pushing full speed ahead on AI,&#160;OpenAI CEO&#160;Sam Altman says&#160;maybe it’s&#160;time for the AI industry to “pace” itself. The comments came&#160;just days after one of OpenAI",
+    "keywords": [
+      "AI",
+      "OpenAI"
+    ],
+    "date": "2026-07-31"
+  },
+  {
+    "title": "Snapchat no longer rewards fully AI-generated Spotlight content",
+    "link": "https://techcrunch.com/2026/07/31/snapchat-no-longer-rewards-fully-ai-generated-spotlight-content/",
+    "source": "TechCrunch",
+    "category": "other",
+    "summary": "Snapchat has adjusted its recommendation systems to ensure that only videos created by real people are eligible for Spotlight recommendations, taking a stance against AI slop.",
+    "keywords": [
+      "AI"
+    ],
+    "date": "2026-07-31"
+  },
+  {
+    "title": "Siri AI could come with a paywall for power users",
+    "link": "https://techcrunch.com/2026/07/31/siri-ai-could-come-with-a-paywall-for-power-users/",
+    "source": "TechCrunch",
+    "category": "other",
+    "summary": "Apple CEO Tim Cook envisions users being able to buy more compute for Siri AI via Apple's existing iCloud+ subscriptions.",
+    "keywords": [
+      "AI"
+    ],
+    "date": "2026-07-31"
+  },
+  {
+    "title": "SpaceX won’t remove all of xAI’s unpermitted turbines for another year",
+    "link": "https://techcrunch.com/2026/07/31/spacex-wont-remove-all-of-xais-unpermitted-turbines-for-another-year/",
+    "source": "TechCrunch",
+    "category": "other",
+    "summary": "SpaceX is building a new power plant for xAI's Colossus data centers, but it won't remove existing, unpermitted turbines for many more months.",
+    "keywords": [
+      "AI",
+      "xAI"
+    ],
+    "date": "2026-07-31"
+  },
+  {
+    "title": "Smallest.ai raises $13M to build ultra-fast voice AI that sounds genuinely human",
+    "link": "https://techcrunch.com/2026/07/31/smallest-ai-raises-13m-to-build-ultra-fast-voice-ai-that-sounds-genuinely-human/",
+    "source": "TechCrunch",
+    "category": "funding",
+    "summary": "The startup is building voice models designed to make AI phone calls pass the Turing test.",
+    "keywords": [
+      "AI"
+    ],
+    "date": "2026-07-31"
+  },
+  {
+    "title": "AI labs want to pump the brakes, but Amazon and SpaceX are still blasting off",
+    "link": "https://techcrunch.com/podcast/ai-labs-want-to-pump-the-brakes-but-amazon-and-spacex-are-still-blasting-off/",
+    "source": "TechCrunch",
+    "category": "other",
+    "summary": "After years of pushing full speed ahead on AI,&#160;OpenAI CEO&#160;Sam Altman says&#160;maybe it’s&#160;time for the AI industry to “pace” itself. The comments came&#160;just days after one of OpenAI",
+    "keywords": [
+      "AI",
+      "OpenAI"
+    ],
+    "date": "2026-07-31"
+  },
+  {
     "title": "Anthropic says its own AI models breached three companies during security tests",
     "link": "https://techcrunch.com/2026/07/30/anthropic-says-its-own-ai-models-breached-three-companies-during-security-tests/",
     "source": "TechCrunch",
     "category": "other",
-    "summary": "After OpenAI's models broke into Hugging Face, Anthropic checked its own history and found three similar incidents",
+    "summary": "After OpenAI's models broke into Hugging Face, Anthropic checked its own history and found three similar incidents.",
     "keywords": [
       "AI",
       "OpenAI",
@@ -272,29 +376,6 @@
     "date": "2026-07-30"
   },
   {
-    "title": "提示词删改背后，价值千金的Claude Code版“苦涩教训”",
-    "link": "https://www.pingwest.com/a/316007",
-    "source": "品玩",
-    "category": "other",
-    "summary": "提示词删改背后，价值千金的Claude Code版“苦涩教训”\n\n昨天的最佳实践，今天成了模型的枷锁",
-    "keywords": [
-      "Claude"
-    ],
-    "date": "2026-07-30"
-  },
-  {
-    "title": "翁荔重返OpenAI，将主导AI递归自我改进研究",
-    "link": "https://www.pingwest.com/w/316022",
-    "source": "品玩",
-    "category": "other",
-    "summary": "OpenAI\n\n\n\n翁荔重返OpenAI，将主导AI递归自我改进研究\n\n据The Information报道，Thinking Machines联合创始人翁荔（Lilian Weng）在宣布因健康原因离职后，将重返老东家OpenAI。",
-    "keywords": [
-      "AI",
-      "OpenAI"
-    ],
-    "date": "2026-07-30"
-  },
-  {
     "title": "AI hedge fund Situational Awareness may have sold its public portfolio, but it still has its Anthropic shares",
     "link": "https://techcrunch.com/2026/07/30/ai-hedge-fund-situational-awareness-may-have-sold-its-public-portfolio-but-it-still-has-its-anthropic-shares/",
     "source": "TechCrunch",
@@ -408,101 +489,5 @@
       "AI"
     ],
     "date": "2026-07-30"
-  },
-  {
-    "title": "Forward-deployed engineers are the AI industry’s latest talent obsession",
-    "link": "https://techcrunch.com/2026/07/30/forward-deployed-engineers-are-the-ai-industrys-latest-talent-obsession/",
-    "source": "TechCrunch",
-    "category": "other",
-    "summary": "A new study estimates only 2,000 U.S. engineers have the expertise to deliver meaningful AI ROI, as enterprises race to hire forward-deployed engineers to implement AI at scale.",
-    "keywords": [
-      "AI"
-    ],
-    "date": "2026-07-30"
-  },
-  {
-    "title": "In the Hugging Face breach, OpenAI’s hacker was noisy and fast — but not unstoppable",
-    "link": "https://techcrunch.com/2026/07/30/in-the-hugging-face-breach-openais-hacker-was-noisy-and-fast-but-not-unstoppable/",
-    "source": "TechCrunch",
-    "category": "other",
-    "summary": "Cybersecurity experts told TechCrunch that one of the biggest lessons to be taken from the OpenAI hack against Hugging Face has nothing to do with AI, but traditional cybersecurity defense.",
-    "keywords": [
-      "AI",
-      "OpenAI"
-    ],
-    "date": "2026-07-30"
-  },
-  {
-    "title": "Dili raises $21.7M to bring AI compliance to the infrastructure boom",
-    "link": "https://techcrunch.com/2026/07/30/dili-raises-15-million-to-bring-ai-compliance-to-the-infrastructure-boom/",
-    "source": "TechCrunch",
-    "category": "funding",
-    "summary": "The Series A was led by Khosla Ventures, with participation from Allianz, Rebel Fund, Brick and Mortar Ventures’ Darren Bechtel, and Y Combinator’s Garry Tan.",
-    "keywords": [
-      "AI"
-    ],
-    "date": "2026-07-30"
-  },
-  {
-    "title": "Microsoft is openly competing with OpenAI, Anthropic more than ever",
-    "link": "https://techcrunch.com/2026/07/29/microsoft-is-openly-competing-with-openai-anthropic-more-than-ever/",
-    "source": "TechCrunch",
-    "category": "other",
-    "summary": "Microsoft pitched its own homegrown AI models, harnesses, and even a Mythos competitor on Wednesday, telling Wall Street it plans for continued growth.",
-    "keywords": [
-      "AI",
-      "OpenAI",
-      "Anthropic"
-    ],
-    "date": "2026-07-30"
-  },
-  {
-    "title": "Mark Zuckerberg predicts that billions of people will have personal AI agents in five years",
-    "link": "https://techcrunch.com/2026/07/29/mark-zuckerberg-predicts-that-billions-of-people-will-have-personal-ai-agents-in-five-years/",
-    "source": "TechCrunch",
-    "category": "funding",
-    "summary": "As Meta pours billions into AI infrastructure and agents, Zuckerberg is working to convince investors that the payoff will be worth the price.",
-    "keywords": [
-      "AI",
-      "Agent"
-    ],
-    "date": "2026-07-29"
-  },
-  {
-    "title": "Microsoft logs $3.2B from Anthropic investment, but OpenAI was a mixed bag",
-    "link": "https://techcrunch.com/2026/07/29/microsoft-logs-3-2b-from-anthropic-investment-but-openai-was-a-mixed-bag/",
-    "source": "TechCrunch",
-    "category": "funding",
-    "summary": "When Microsoft reported killer fourth-quarter earnings for its fiscal 2026 year (which ended June 30), it tucked in an interesting little tidbit about how its investments in the two biggest, and compe",
-    "keywords": [
-      "AI",
-      "OpenAI",
-      "Anthropic"
-    ],
-    "date": "2026-07-29"
-  },
-  {
-    "title": "Zuckerberg says Meta’s enterprise AI opportunity extends beyond agents",
-    "link": "https://techcrunch.com/2026/07/29/zuckerberg-says-metas-enterprise-ai-opportunity-extends-beyond-agents/",
-    "source": "TechCrunch",
-    "category": "other",
-    "summary": "On the company’s second-quarter earnings call Wednesday, CEO Mark Zuckerberg said Meta sees a “large enterprise opportunity” spanning AI agents, APIs, compute, and internal software.",
-    "keywords": [
-      "AI",
-      "Agent"
-    ],
-    "date": "2026-07-29"
-  },
-  {
-    "title": "Discover what’s next for AI, from the SaaS reckoning to the agent security gap, at TechCrunch Disrupt 2026",
-    "link": "https://techcrunch.com/2026/07/29/discover-whats-next-for-ai-from-the-saas-reckoning-to-the-agent-security-gap-at-techcrunch-disrupt-2026/",
-    "source": "TechCrunch",
-    "category": "other",
-    "summary": "At TechCrunch Disrupt 2026, the AI Stage is back to dig into the single hottest topic in the community for the past few years, presented by Google for Startups.",
-    "keywords": [
-      "AI",
-      "Agent"
-    ],
-    "date": "2026-07-29"
   }
 ]
