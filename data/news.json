@@ -1,5 +1,43 @@
 [
   {
+    "title": "Judge denies xAI’s request to block Minnesota ban on ‘nudify’ apps",
+    "link": "https://techcrunch.com/2026/08/01/judge-denies-xais-request-to-block-minnesota-ban-on-nudify-apps/",
+    "source": "TechCrunch",
+    "category": "other",
+    "summary": "Despite a lawsuit from xAI, a Minnesota ban on apps that allow users to “nudify” images can move forward.",
+    "keywords": [
+      "AI",
+      "xAI"
+    ],
+    "date": "2026-08-01"
+  },
+  {
+    "title": "YouTuber Hank Green says his AI usage is ‘not healthy’",
+    "link": "https://techcrunch.com/2026/08/01/youtuber-hank-green-says-his-ai-usage-is-not-healthy/",
+    "source": "TechCrunch",
+    "category": "other",
+    "summary": "Green offered a remarkable apology, saying that \"the level of dopamine that I've been getting from interacting with LLMs ... is not healthy for me or good for the world.\"",
+    "keywords": [
+      "AI",
+      "LLM"
+    ],
+    "date": "2026-08-01"
+  },
+  {
+    "title": "Sam Altman is still making the case for parenting via ChatGPT",
+    "link": "https://techcrunch.com/2026/08/01/sam-altman-is-still-making-the-case-for-parenting-via-chatgpt/",
+    "source": "TechCrunch",
+    "category": "other",
+    "summary": "OpenAI's CEO seemed excited to share a \"cool use case\" for parents.",
+    "keywords": [
+      "AI",
+      "OpenAI",
+      "GPT",
+      "ChatGPT"
+    ],
+    "date": "2026-08-01"
+  },
+  {
     "title": "MiniMax H3：很能打、更通用、还开源，多模态格局得变一变了",
     "link": "https://www.pingwest.com/a/316100",
     "source": "品玩",
@@ -442,51 +480,6 @@
     "keywords": [
       "AI",
       "LLM"
-    ],
-    "date": "2026-07-30"
-  },
-  {
-    "title": "LinkedIn adds a button to report AI-generated ‘slop’",
-    "link": "https://techcrunch.com/2026/07/30/linkedin-adds-a-button-to-report-ai-generated-slop/",
-    "source": "TechCrunch",
-    "category": "other",
-    "summary": "LinkedIn is introducing new ways to reduce low-quality AI-generated posts, including a “seems like AI slop” reporting option. It's also replacing its own AI writing feature with a proofreading tool.",
-    "keywords": [
-      "AI"
-    ],
-    "date": "2026-07-30"
-  },
-  {
-    "title": "Okta buys AI security startup Permiso — source says for about $200M",
-    "link": "https://techcrunch.com/2026/07/30/okta-buys-ai-security-startup-permiso-source-says-for-about-200m/",
-    "source": "TechCrunch",
-    "category": "other",
-    "summary": "The deal gives Okta identity threat detection capabilities as enterprises seek to secure AI agents and other non-human identities across cloud environments.",
-    "keywords": [
-      "AI",
-      "Agent"
-    ],
-    "date": "2026-07-30"
-  },
-  {
-    "title": "Meta says AI is making it easier to build new apps — and more are coming",
-    "link": "https://techcrunch.com/2026/07/30/meta-says-ai-is-making-it-easier-to-build-new-apps-and-more-are-coming/",
-    "source": "TechCrunch",
-    "category": "other",
-    "summary": "Meta says AI is making it dramatically easier to build and launch new consumer apps, with CEO Mark Zuckerberg telling investors the company has more new consumer products on the way.",
-    "keywords": [
-      "AI"
-    ],
-    "date": "2026-07-30"
-  },
-  {
-    "title": "Nscale buys Anyscale as it seeks to own more of the AI compute stack",
-    "link": "https://techcrunch.com/2026/07/30/nscale-buys-anyscale-as-it-seeks-to-own-more-of-the-ai-compute-stack/",
-    "source": "TechCrunch",
-    "category": "other",
-    "summary": "British AI neocloud Nscale is buying software startup Anyscale, which helps companies scale their AI workloads across data centers and servers.",
-    "keywords": [
-      "AI"
     ],
     "date": "2026-07-30"
   }
