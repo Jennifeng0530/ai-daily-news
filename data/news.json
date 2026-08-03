@@ -1,5 +1,131 @@
 [
   {
+    "title": "实测MiniMax H3 VS Seedance 2.5 ：旗鼓相当，性格迥异",
+    "link": "https://www.pingwest.com/a/316102",
+    "source": "品玩",
+    "category": "other",
+    "summary": "实测MiniMax H3 VS Seedance 2.5 ：旗鼓相当，性格迥异\n\n两条路线",
+    "keywords": [
+      "MiniMax"
+    ],
+    "date": "2026-08-03"
+  },
+  {
+    "title": "商汤科技开源SenseNova U1.5-Lite-Preview",
+    "link": "https://www.pingwest.com/w/316134",
+    "source": "品玩",
+    "category": "other",
+    "summary": "商汤科技\n\n\n\n商汤科技开源SenseNova U1.5-Lite-Preview\n\n商汤科技宣布开源轻量级统一多模态模型预览版SenseNova U1.5-Lite-Preview。",
+    "keywords": [
+      "商汤"
+    ],
+    "date": "2026-08-03"
+  },
+  {
+    "title": "MiniMax开源新一代视频模型H3",
+    "link": "https://www.pingwest.com/w/316132",
+    "source": "品玩",
+    "category": "other",
+    "summary": "MiniMax\n\n\n\nMiniMax开源新一代视频模型H3\n\nMiniMax宣布开源新一代通用视频模型MiniMax H3，该模型是一个通用型全模态生成系统，能够统一理解由文本、图像、视频和音频构成的多模态上下文。",
+    "keywords": [
+      "MiniMax"
+    ],
+    "date": "2026-08-03"
+  },
+  {
+    "title": "工业仿真×具身仿真：物理AI走进工厂，最缺的不是模型而是\"物理真值\"",
+    "link": "https://www.pingwest.com/w/316131",
+    "source": "品玩",
+    "category": "other",
+    "summary": "光轮智能\n\n\n\n工业仿真×具身仿真：物理AI走进工厂，最缺的不是模型而是\"物理真值\"\n\n机器人走进工厂，到底卡在哪？",
+    "keywords": [
+      "AI",
+      "机器人",
+      "智能"
+    ],
+    "date": "2026-08-03"
+  },
+  {
+    "title": "CuspAI完成4.5亿美元B轮融资，估值达26亿美元",
+    "link": "https://www.pingwest.com/w/316122",
+    "source": "品玩",
+    "category": "funding",
+    "summary": "融资\n\n\n\nCuspAI完成4.5亿美元B轮融资，估值达26亿美元\n\n据the saas news 报道，总部位于英国剑桥的AI材料搜索与发现初创公司CuspAI宣布完成4.5亿美元B轮融资，累计融资总额已超过6.5亿美元。",
+    "keywords": [
+      "AI"
+    ],
+    "date": "2026-08-03"
+  },
+  {
+    "title": "装备好，用户体验才是真的好——京东外卖发布AI智能头盔",
+    "link": "https://www.pingwest.com/w/316120",
+    "source": "品玩",
+    "category": "other",
+    "summary": "京东\n\n\n\n装备好，用户体验才是真的好——京东外卖发布AI智能头盔",
+    "keywords": [
+      "AI",
+      "智能"
+    ],
+    "date": "2026-08-03"
+  },
+  {
+    "title": "OpenAI发布报告：Astra模型攻克十项数学难题",
+    "link": "https://www.pingwest.com/w/316119",
+    "source": "品玩",
+    "category": "other",
+    "summary": "OpenAI\n\n\n\nOpenAI发布报告：Astra模型攻克十项数学难题\n\nOpenAI于8月1日发布报告，披露其下一代模型Astra已解决十个长期悬而未决的数学与理论计算机科学难题。所有证明均已通过Lean形式化验证，确保逻辑严谨性。",
+    "keywords": [
+      "AI",
+      "OpenAI"
+    ],
+    "date": "2026-08-03"
+  },
+  {
+    "title": "OpenAI拟将IPO推迟至2027年，维持私营状态以应对转型挑战",
+    "link": "https://www.pingwest.com/w/316116",
+    "source": "品玩",
+    "category": "key_news",
+    "summary": "OpenAI\n\n\n\nOpenAI拟将IPO推迟至2027年，维持私营状态以应对转型挑战\n\n据theaicronicle 报道，OpenAI正倾向于将首次公开募股（IPO）计划推迟至2027年。在首席执行官Sam Altman看来，公司当前的发展阶段需要私营身份所提供的战略自由度。",
+    "keywords": [
+      "AI",
+      "OpenAI"
+    ],
+    "date": "2026-08-03"
+  },
+  {
+    "title": "Google Earth上线一天即紧急撤回AI图像生成功能",
+    "link": "https://www.pingwest.com/w/316115",
+    "source": "品玩",
+    "category": "other",
+    "summary": "谷歌\n\n\n\nGoogle Earth上线一天即紧急撤回AI图像生成功能\n\n据 unite.ai 报道，Google于7月31日紧急撤回了Google Earth网页版的AI图像生成功能，距该功能全球上线仅约一天。",
+    "keywords": [
+      "AI"
+    ],
+    "date": "2026-08-03"
+  },
+  {
+    "title": "A Marc Benioff-backed startup thinks AI can solve the AI deployment problem",
+    "link": "https://techcrunch.com/2026/08/03/a-marc-benioff-backed-startup-thinks-ai-can-solve-the-ai-deployment-problem/",
+    "source": "TechCrunch",
+    "category": "other",
+    "summary": "June emerged from stealth today with a $20 million pre-seed round to make AI adoption simpler.",
+    "keywords": [
+      "AI"
+    ],
+    "date": "2026-08-03"
+  },
+  {
+    "title": "Sam Altman and AI’s decel debate",
+    "link": "https://techcrunch.com/2026/08/02/sam-altman-and-ais-decel-debate/",
+    "source": "TechCrunch",
+    "category": "other",
+    "summary": "On the latest episode of Equity, we discuss why Sam Altman has calling on the industry to \"pace the rate of AI development.\"",
+    "keywords": [
+      "AI"
+    ],
+    "date": "2026-08-02"
+  },
+  {
     "title": "Judge denies xAI’s request to block Minnesota ban on ‘nudify’ apps",
     "link": "https://techcrunch.com/2026/08/01/judge-denies-xais-request-to-block-minnesota-ban-on-nudify-apps/",
     "source": "TechCrunch",
@@ -293,127 +419,6 @@
     "date": "2026-07-30"
   },
   {
-    "title": "Hugging Face披露OpenAI模型入侵全貌，AI自主攻击引发安全警示",
-    "link": "https://www.pingwest.com/w/316039",
-    "source": "品玩",
-    "category": "other",
-    "summary": "HuggingFace\n\n\n\nHugging Face披露OpenAI模型入侵全貌，AI自主攻击引发安全警示\n\n据 TechCrunch 报道，Hugging Face近日发布技术时间线，详细披露了搭载OpenAI模型的AI智能体在4.5天内执行17,600次操作并成功入侵其生产系统的全过程。OpenAI CEO Sam Altman坦言，这起事件令他“深感震撼”。",
-    "keywords": [
-      "AI",
-      "OpenAI",
-      "智能"
-    ],
-    "date": "2026-07-30"
-  },
-  {
-    "title": "Anthropic 首位技术 PM：AI 时代，Evals 是新的 PRD",
-    "link": "https://www.pingwest.com/a/315991",
-    "source": "品玩",
-    "category": "other",
-    "summary": "Anthropic 首位技术 PM：AI 时代，Evals 是新的 PRD\n\n为什么最强的AI从业者，都在\"疯狂浪费\"token?",
-    "keywords": [
-      "AI",
-      "Anthropic"
-    ],
-    "date": "2026-07-30"
-  },
-  {
-    "title": "李飞飞：AI的下一个前沿不是聊天，是“让机器人看见空间”",
-    "link": "https://www.pingwest.com/a/316010",
-    "source": "品玩",
-    "category": "other",
-    "summary": "李飞飞：AI的下一个前沿不是聊天，是“让机器人看见空间”\n\n机器人该学会看路了",
-    "keywords": [
-      "AI",
-      "机器人"
-    ],
-    "date": "2026-07-30"
-  },
-  {
-    "title": "扎克伯格预测五年内数十亿人将拥有个人AI智能体",
-    "link": "https://www.pingwest.com/w/316033",
-    "source": "品玩",
-    "category": "other",
-    "summary": "META\n\n\n\n扎克伯格预测五年内数十亿人将拥有个人AI智能体\n\n据 TechCrunch 报道，Meta首席执行官马克·扎克伯格（Mark Zuckerberg）在最新财报电话会议上表示，未来五年内，数十亿人将拥有专属的个人AI智能体。",
-    "keywords": [
-      "AI",
-      "智能"
-    ],
-    "date": "2026-07-30"
-  },
-  {
-    "title": "谷歌解散AlphaFold核心团队，科研战略转向Gemini",
-    "link": "https://www.pingwest.com/w/316032",
-    "source": "品玩",
-    "category": "other",
-    "summary": "DeepMind\n\n\n\n谷歌解散AlphaFold核心团队，科研战略转向Gemini\n\n据 Engadget报道，谷歌DeepMind已正式解散曾获诺贝尔化学奖的AlphaFold核心团队。该团队的大部分关键成员已被重新分配至Gemini大模型项目、Alphabet旗下制药公司Isomorphic Labs，或选择离职。",
-    "keywords": [
-      "大模型",
-      "DeepMind",
-      "Gemini"
-    ],
-    "date": "2026-07-30"
-  },
-  {
-    "title": "微软确认年内推出统一Copilot“超级应用”",
-    "link": "https://www.pingwest.com/w/316029",
-    "source": "品玩",
-    "category": "other",
-    "summary": "微软\n\n\n\n微软确认年内推出统一Copilot“超级应用”\n\n据 windowsforum 报道，微软首席执行官萨提亚·纳德拉（Satya Nadella）在7月29日的财报电话会议上确认，公司计划于2026年内推出一款统一的Copilot“超级应用”。",
-    "keywords": [
-      "Copilot"
-    ],
-    "date": "2026-07-30"
-  },
-  {
-    "title": "OpenAI开源Codex Security CLI工具",
-    "link": "https://www.pingwest.com/w/316028",
-    "source": "品玩",
-    "category": "other",
-    "summary": "OpenAI\n\n\n\nOpenAI开源Codex Security CLI工具\n\n据 gigazine 报道，OpenAI宣布将其AI代码安全审查工具Codex Security的命令行界面（CLI）版本作为开源项目发布。",
-    "keywords": [
-      "AI",
-      "OpenAI"
-    ],
-    "date": "2026-07-30"
-  },
-  {
-    "title": "AI安全测试揭示前沿模型在商业模拟中的欺诈与合谋行为",
-    "link": "https://www.pingwest.com/w/316026",
-    "source": "品玩",
-    "category": "other",
-    "summary": "AI 安全\n\n\n\nAI安全测试揭示前沿模型在商业模拟中的欺诈与合谋行为\n\n据 TechCrunch 报道，AI安全测试公司Andon Labs近日发布了Vending-Bench研究的最新结果。",
-    "keywords": [
-      "AI"
-    ],
-    "date": "2026-07-30"
-  },
-  {
-    "title": "月之暗面完成超35亿美元F轮融资，估值升至350亿美元",
-    "link": "https://www.pingwest.com/w/316024",
-    "source": "品玩",
-    "category": "funding",
-    "summary": "月之暗面\n\n\n\n月之暗面完成超35亿美元F轮融资，估值升至350亿美元\n\n据界面新闻报道，月之暗面（Kimi）宣布完成超35亿美元F轮融资，投后估值达350亿美元。因认购火爆，本轮融资提前关闭，投前估值500亿美元的G轮（Pre-IPO轮）已提前启动。",
-    "keywords": [
-      "月之暗面",
-      "Kimi"
-    ],
-    "date": "2026-07-30"
-  },
-  {
-    "title": "逾千名AI从业者联名呼吁建立国际机制调控前沿AI发展",
-    "link": "https://www.pingwest.com/w/316023",
-    "source": "品玩",
-    "category": "other",
-    "summary": "OpenAI\n\n\n\n逾千名AI从业者联名呼吁建立国际机制调控前沿AI发展\n\n据 techtimes 报道，来自OpenAI、Anthropic、Google及Meta等头部AI企业的逾1100名员工近日联合签署公开信，呼吁建立一项国际协作机制，以在必要时主动放缓前沿AI的发展速度。",
-    "keywords": [
-      "AI",
-      "OpenAI",
-      "Anthropic"
-    ],
-    "date": "2026-07-30"
-  },
-  {
     "title": "AI hedge fund Situational Awareness may have sold its public portfolio, but it still has its Anthropic shares",
     "link": "https://techcrunch.com/2026/07/30/ai-hedge-fund-situational-awareness-may-have-sold-its-public-portfolio-but-it-still-has-its-anthropic-shares/",
     "source": "TechCrunch",
@@ -457,29 +462,6 @@
     "keywords": [
       "AI",
       "Anthropic"
-    ],
-    "date": "2026-07-30"
-  },
-  {
-    "title": "Friend, the lonely AI wearable, returns with a new voice and a much bigger price tag",
-    "link": "https://techcrunch.com/2026/07/30/friend-the-lonely-ai-wearable-returns-with-a-new-voice-and-a-much-bigger-price-tag/",
-    "source": "TechCrunch",
-    "category": "other",
-    "summary": "Friend, the AI wearable, can now talk to its users — for an enhanced price.",
-    "keywords": [
-      "AI"
-    ],
-    "date": "2026-07-30"
-  },
-  {
-    "title": "Google says it fixed more Chrome bugs in June than over the past two years, thanks to AI",
-    "link": "https://techcrunch.com/2026/07/30/google-says-it-fixed-more-chrome-bugs-in-june-than-over-the-past-two-years-thanks-to-ai/",
-    "source": "TechCrunch",
-    "category": "other",
-    "summary": "As experts have warned for the last two years, some companies — like Microsoft and now Google — are finding and patching an exponential number of bugs in their products, thanks to the use of LLMs and ",
-    "keywords": [
-      "AI",
-      "LLM"
     ],
     "date": "2026-07-30"
   }
