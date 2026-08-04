@@ -1,5 +1,132 @@
 [
   {
+    "title": "Agent 时代，人到底负责什么",
+    "link": "https://www.pingwest.com/w/316181",
+    "source": "品玩",
+    "category": "other",
+    "summary": "thinking AI\n\n\n\nAgent 时代，人到底负责什么\n\n生产级 Agent 的分水岭，不在于能不能生成，而在于结果能否被验证、能力能否被度量，以及能否在生产运行中持续学习。",
+    "keywords": [
+      "AI",
+      "Agent"
+    ],
+    "date": "2026-08-04"
+  },
+  {
+    "title": "OpenRouter、OpenCode等海外AI平台第一时间接入阿里Qwen3.8",
+    "link": "https://www.pingwest.com/w/316180",
+    "source": "品玩",
+    "category": "other",
+    "summary": "阿里\n\n\n\nOpenRouter、OpenCode等海外AI平台第一时间接入阿里Qwen3.8",
+    "keywords": [
+      "AI"
+    ],
+    "date": "2026-08-04"
+  },
+  {
+    "title": "微软将于8月为Teams推出安全举报功能",
+    "link": "https://www.pingwest.com/w/316177",
+    "source": "品玩",
+    "category": "other",
+    "summary": "微软\n\n\n\n微软将于8月为Teams推出安全举报功能\n\n据 AIBASE 报道，微软确认将于2026年8月为Microsoft Teams推出全新的“报告问题”功能。该功能允许参会者在会议过程中直接举报网络钓鱼、身份冒用、诈骗、社交工程及其他可疑行为，旨在帮助企业安全团队第一时间介入调查，以应对AI驱动网络诈骗日益增长的风险。",
+    "keywords": [
+      "AI"
+    ],
+    "date": "2026-08-04"
+  },
+  {
+    "title": "面壁智能开源AI系统ForgeStencil，实现工业软件自动优化",
+    "link": "https://www.pingwest.com/w/316174",
+    "source": "品玩",
+    "category": "other",
+    "summary": "面壁智能\n\n\n\n面壁智能开源AI系统ForgeStencil，实现工业软件自动优化\n\n据面壁智能官方消息，面壁智能联合OpenBMB开源社区，正式发布并开源了全球首个支持Stencil（模板计算）自动研究与部署的AI优化系统——ForgeStencil。",
+    "keywords": [
+      "AI",
+      "智能"
+    ],
+    "date": "2026-08-04"
+  },
+  {
+    "title": "AI反馈工具Design Arena母公司获790万美元种子轮融资",
+    "link": "https://www.pingwest.com/w/316173",
+    "source": "品玩",
+    "category": "funding",
+    "summary": "融资\n\n\n\nAI反馈工具Design Arena母公司获790万美元种子轮融资\n\n据 TechCrunch 报道，由联合创始人Grace Li创立的初创公司Intelligence宣布完成790万美元种子轮融资，由Index Ventures领投，Conviction（Sarah Guo和Mike Vernal）、A*、Valkyrie等参投。",
+    "keywords": [
+      "AI"
+    ],
+    "date": "2026-08-04"
+  },
+  {
+    "title": "OpenAI将于8月9日关停ChatGPT Atlas浏览器",
+    "link": "https://www.pingwest.com/w/316169",
+    "source": "品玩",
+    "category": "other",
+    "summary": "OpenAI\n\n\n\nOpenAI将于8月9日关停ChatGPT Atlas浏览器\n\n据 windowsforum 报道，OpenAI宣布将于2026年8月9日正式关停独立浏览器ChatGPT Atlas。",
+    "keywords": [
+      "AI",
+      "OpenAI",
+      "GPT",
+      "ChatGPT"
+    ],
+    "date": "2026-08-04"
+  },
+  {
+    "title": "蚂蚁旗下灵波科技启动首轮融资，拟募资15亿元",
+    "link": "https://www.pingwest.com/w/316168",
+    "source": "品玩",
+    "category": "funding",
+    "summary": "蚂蚁灵波\n\n\n\n蚂蚁旗下灵波科技启动首轮融资，拟募资15亿元\n\n据《科创板日报》消息，蚂蚁集团旗下具身智能公司灵波科技已启动首轮融资，首轮拟募资15亿元，目标在今年年底完成二轮融资。",
+    "keywords": [
+      "智能"
+    ],
+    "date": "2026-08-04"
+  },
+  {
+    "title": "微软或正研发首个原生实时语音模型",
+    "link": "https://www.pingwest.com/w/316164",
+    "source": "品玩",
+    "category": "other",
+    "summary": "微软\n\n\n\n微软或正研发首个原生实时语音模型\n\n据 testingcatalog 报道，微软可能正在开发其首个原生实时语音模型“MAI Realtime”，该模型已作为隐藏条目出现在其MAI Playground中，表明已有少数合作伙伴获得早期访问权限。",
+    "keywords": [
+      "AI"
+    ],
+    "date": "2026-08-04"
+  },
+  {
+    "title": "Seedance 2.5 进厂，机器成了新观众",
+    "link": "https://www.pingwest.com/a/316129",
+    "source": "品玩",
+    "category": "other",
+    "summary": "Seedance 2.5 进厂，机器成了新观众\n\nAI 视频，开始出现在你看不到的地方。",
+    "keywords": [
+      "AI"
+    ],
+    "date": "2026-08-04"
+  },
+  {
+    "title": "原生统一多模态进阶！SenseNova U1.5-Lite-Preview开源，生成编辑能力再进化",
+    "link": "https://www.pingwest.com/w/316153",
+    "source": "品玩",
+    "category": "other",
+    "summary": "商汤科技\n\n\n\n原生统一多模态进阶！SenseNova U1.5-Lite-Preview开源，生成编辑能力再进化",
+    "keywords": [
+      "商汤"
+    ],
+    "date": "2026-08-04"
+  },
+  {
+    "title": "深度 | 外宾 Genspark",
+    "link": "https://www.pingwest.com/a/316133",
+    "source": "品玩",
+    "category": "other",
+    "summary": "深度 | 外宾 Genspark\n\nGenspark 最成功的 Agent，或许就是 Genspark 自己。它只需执行一项长程任务：让世界相信它从来只是一家来自 Palo Alto 的美国 AI 公司。",
+    "keywords": [
+      "AI",
+      "Agent"
+    ],
+    "date": "2026-08-04"
+  },
+  {
     "title": "实测MiniMax H3 VS Seedance 2.5 ：旗鼓相当，性格迥异",
     "link": "https://www.pingwest.com/a/316102",
     "source": "品玩",
@@ -104,6 +231,65 @@
     "date": "2026-08-03"
   },
   {
+    "title": "After killer quarter, Palantir CEO Alex Karp calls AI industry ‘Marxist’",
+    "link": "https://techcrunch.com/2026/08/03/after-killer-quarter-palantir-ceo-alex-karp-calls-ai-industry-marxist/",
+    "source": "TechCrunch",
+    "category": "other",
+    "summary": "After a quarter that delivered $1 billion in profit, Palantir CEO Alex Karp on Monday once again warned that AI frontier labs are too untrustworthy for enterprises.",
+    "keywords": [
+      "AI"
+    ],
+    "date": "2026-08-03"
+  },
+  {
+    "title": "Design Arena creators raise $7.9 million to bring taste to AI models",
+    "link": "https://techcrunch.com/2026/08/03/designarena-creators-raise-7-9-million-to-bring-taste-to-ai-models/",
+    "source": "TechCrunch",
+    "category": "funding",
+    "summary": "Design Arena is used by 5.3 million people around the world, providing critical human evaluations to frontier labs.",
+    "keywords": [
+      "AI"
+    ],
+    "date": "2026-08-03"
+  },
+  {
+    "title": "Influencers draw backlash for attending OpenAI’s first luxury trip",
+    "link": "https://techcrunch.com/2026/08/03/influencers-draw-backlash-for-attending-openais-first-luxury-trip/",
+    "source": "TechCrunch",
+    "category": "other",
+    "summary": "OpenAI’s first-ever influencer brand trip is sparking online backlash as tensions over the use of AI continue.",
+    "keywords": [
+      "AI",
+      "OpenAI"
+    ],
+    "date": "2026-08-03"
+  },
+  {
+    "title": "Apple finally fixed Siri. So why does it feel anticlimactic?",
+    "link": "https://techcrunch.com/2026/08/03/apple-finally-fixed-siri-so-why-does-it-feel-anticlimactic/",
+    "source": "TechCrunch",
+    "category": "other",
+    "summary": "Apple’s long-awaited AI overhaul finally makes Siri the assistant it was always supposed to be. Yet it arrives at a moment when simply being a capable AI assistant no longer feels revolutionary.",
+    "keywords": [
+      "AI"
+    ],
+    "date": "2026-08-03"
+  },
+  {
+    "title": "Congress’ favorite AI tool? ChatGPT",
+    "link": "https://techcrunch.com/2026/08/03/congresss-favorite-ai-tool-chatgpt/",
+    "source": "TechCrunch",
+    "category": "other",
+    "summary": "House spending records show OpenAI's ChatGPT dominates paid AI use on Capitol Hill, with congressional offices relying on the chatbot to draft memos, summarize legislation, and assist constituent comm",
+    "keywords": [
+      "AI",
+      "OpenAI",
+      "GPT",
+      "ChatGPT"
+    ],
+    "date": "2026-08-03"
+  },
+  {
     "title": "A Marc Benioff-backed startup thinks AI can solve the AI deployment problem",
     "link": "https://techcrunch.com/2026/08/03/a-marc-benioff-backed-startup-thinks-ai-can-solve-the-ai-deployment-problem/",
     "source": "TechCrunch",
@@ -119,7 +305,7 @@
     "link": "https://techcrunch.com/2026/08/02/sam-altman-and-ais-decel-debate/",
     "source": "TechCrunch",
     "category": "other",
-    "summary": "On the latest episode of Equity, we discuss why Sam Altman has calling on the industry to \"pace the rate of AI development.\"",
+    "summary": "On the latest episode of Equity, we discuss why Sam Altman is calling on the industry to \"pace the rate of AI development.\"",
     "keywords": [
       "AI"
     ],
@@ -154,10 +340,9 @@
     "link": "https://techcrunch.com/2026/08/01/sam-altman-is-still-making-the-case-for-parenting-via-chatgpt/",
     "source": "TechCrunch",
     "category": "other",
-    "summary": "OpenAI's CEO seemed excited to share a \"cool use case\" for parents.",
+    "summary": "This isn’t the first time a tech CEO has promised that AI can shield users — and specifically users’ morning commutes — from the messiness and inefficiency of human experience.",
     "keywords": [
       "AI",
-      "OpenAI",
       "GPT",
       "ChatGPT"
     ],
@@ -182,100 +367,6 @@
     "summary": "灵珠\n\n\n\n从武术教练到AI创作者，他用灵珠创作了160个热门应用",
     "keywords": [
       "AI"
-    ],
-    "date": "2026-07-31"
-  },
-  {
-    "title": "200个任务、1700万帧！大晓ACE-Data-0把真实家庭场景变成物理智能「数据引擎」",
-    "link": "https://www.pingwest.com/w/316081",
-    "source": "品玩",
-    "category": "other",
-    "summary": "大晓\n\n\n\n200个任务、1700万帧！大晓ACE-Data-0把真实家庭场景变成物理智能「数据引擎」",
-    "keywords": [
-      "智能"
-    ],
-    "date": "2026-07-31"
-  },
-  {
-    "title": "Waymo首款专用网约车Ojai集成Gemini AI与三屏交互",
-    "link": "https://www.pingwest.com/w/316080",
-    "source": "品玩",
-    "category": "other",
-    "summary": "Waymo\n\n\n\nWaymo首款专用网约车Ojai集成Gemini AI与三屏交互\n\n据 electrek 报道，Waymo近日为其专为网约车场景打造的自动驾驶汽车Ojai，正式推出Gemini in Waymo对话式AI助手及全新车载界面，标志着其竞争重心从单纯的行驶技术向乘车体验延伸。",
-    "keywords": [
-      "AI",
-      "Gemini",
-      "自动驾驶"
-    ],
-    "date": "2026-07-31"
-  },
-  {
-    "title": "红杉资本对谈：Transformer 的天花板到了，AGI 需要会“持续学习”的新架构",
-    "link": "https://www.pingwest.com/a/316050",
-    "source": "品玩",
-    "category": "other",
-    "summary": "红杉资本对谈：Transformer 的天花板到了，AGI 需要会“持续学习”的新架构\n\n预训练和强化学习已经把 Transformer 推到了极限",
-    "keywords": [
-      "transformer"
-    ],
-    "date": "2026-07-31"
-  },
-  {
-    "title": "WorkBuddy上线“人机双写”协同编辑功能",
-    "link": "https://www.pingwest.com/w/316068",
-    "source": "品玩",
-    "category": "other",
-    "summary": "腾讯\n\n\n\nWorkBuddy上线“人机双写”协同编辑功能\n\n腾讯WorkBuddy近日重磅上线“人机双写”功能，在业内首次实现AI与用户在同一文档界面内的实时协同编辑。",
-    "keywords": [
-      "AI"
-    ],
-    "date": "2026-07-31"
-  },
-  {
-    "title": "字节跳动整合飞书、豆包与火山引擎，发力企业AI服务",
-    "link": "https://www.pingwest.com/w/316066",
-    "source": "品玩",
-    "category": "other",
-    "summary": "字节跳动\n\n\n\n字节跳动整合飞书、豆包与火山引擎，发力企业AI服务\n\n据 Appso 报道，字节跳动近日发布内部邮件，宣布对旗下企业服务业务进行重大组织架构调整，旨在加强豆包、飞书与火山引擎在企业生产力场景的产品与服务协同。",
-    "keywords": [
-      "AI",
-      "豆包"
-    ],
-    "date": "2026-07-31"
-  },
-  {
-    "title": "视频生成进入生产力时代，MiniMax H3 发布",
-    "link": "https://www.pingwest.com/w/316063",
-    "source": "品玩",
-    "category": "other",
-    "summary": "MiniMax\n\n\n\n视频生成进入生产力时代，MiniMax H3 发布\n\n7 月 31 日，MiniMax 发布新一代多模态生成模型 MiniMax H3，并宣布近期开源。",
-    "keywords": [
-      "MiniMax"
-    ],
-    "date": "2026-07-31"
-  },
-  {
-    "title": "三星Ballie机器人配套App设计草图曝光",
-    "link": "https://www.pingwest.com/w/316062",
-    "source": "品玩",
-    "category": "other",
-    "summary": "三星\n\n\n\n三星Ballie机器人配套App设计草图曝光\n\n科技媒体SammyGuru近日曝光了三星滚动家用机器人Ballie配套智能手机App的早期线框设计草图，为这款迟迟未发布的产品带来了实质性进展。",
-    "keywords": [
-      "机器人",
-      "智能"
-    ],
-    "date": "2026-07-31"
-  },
-  {
-    "title": "谷歌发布Gemini Robotics ER 2具身推理模型",
-    "link": "https://www.pingwest.com/w/316061",
-    "source": "品玩",
-    "category": "other",
-    "summary": "谷歌\n\n\n\n谷歌发布Gemini Robotics ER 2具身推理模型\n\n据谷歌团队官方消息，DeepMind正式推出面向机器人的最强具身推理模型Gemini Robotics ER 2。",
-    "keywords": [
-      "DeepMind",
-      "Gemini",
-      "机器人"
     ],
     "date": "2026-07-31"
   },
@@ -359,110 +450,5 @@
       "AI"
     ],
     "date": "2026-07-31"
-  },
-  {
-    "title": "AI labs want to pump the brakes, but Amazon and SpaceX are still blasting off",
-    "link": "https://techcrunch.com/podcast/ai-labs-want-to-pump-the-brakes-but-amazon-and-spacex-are-still-blasting-off/",
-    "source": "TechCrunch",
-    "category": "other",
-    "summary": "After years of pushing full speed ahead on AI,&#160;OpenAI CEO&#160;Sam Altman says&#160;maybe it’s&#160;time for the AI industry to “pace” itself. The comments came&#160;just days after one of OpenAI",
-    "keywords": [
-      "AI",
-      "OpenAI"
-    ],
-    "date": "2026-07-31"
-  },
-  {
-    "title": "Anthropic says its own AI models breached three companies during security tests",
-    "link": "https://techcrunch.com/2026/07/30/anthropic-says-its-own-ai-models-breached-three-companies-during-security-tests/",
-    "source": "TechCrunch",
-    "category": "other",
-    "summary": "After OpenAI's models broke into Hugging Face, Anthropic checked its own history and found three similar incidents.",
-    "keywords": [
-      "AI",
-      "OpenAI",
-      "Anthropic"
-    ],
-    "date": "2026-07-31"
-  },
-  {
-    "title": "三星折叠屏新品体验沙龙北京站：深入体验三星Galaxy Z8系列及智能手表新品",
-    "link": "https://www.pingwest.com/w/316052",
-    "source": "品玩",
-    "category": "other",
-    "summary": "三星\n\n\n\n三星折叠屏新品体验沙龙北京站：深入体验三星Galaxy Z8系列及智能手表新品",
-    "keywords": [
-      "智能"
-    ],
-    "date": "2026-07-30"
-  },
-  {
-    "title": "深度 | Token 杀死了 AI 应用",
-    "link": "https://www.pingwest.com/a/316042",
-    "source": "品玩",
-    "category": "other",
-    "summary": "深度 | Token 杀死了 AI 应用\n\n一场看不到头的“毛亏率”游戏，该结束了",
-    "keywords": [
-      "AI"
-    ],
-    "date": "2026-07-30"
-  },
-  {
-    "title": "腾讯混元开源AngelSpec投机解码框架，推理加速最高达2.4倍",
-    "link": "https://www.pingwest.com/w/316041",
-    "source": "品玩",
-    "category": "other",
-    "summary": "腾讯\n\n\n\n腾讯混元开源AngelSpec投机解码框架，推理加速最高达2.4倍\n\n腾讯混元开源AngelSpec投机解码框架，推理加速最高达2.4倍",
-    "keywords": [
-      "混元"
-    ],
-    "date": "2026-07-30"
-  },
-  {
-    "title": "AI hedge fund Situational Awareness may have sold its public portfolio, but it still has its Anthropic shares",
-    "link": "https://techcrunch.com/2026/07/30/ai-hedge-fund-situational-awareness-may-have-sold-its-public-portfolio-but-it-still-has-its-anthropic-shares/",
-    "source": "TechCrunch",
-    "category": "other",
-    "summary": "The former OpenAI researcher’s fund was forced to unwind public equities after leveraged public bets plummeted. But he still has cards to play.",
-    "keywords": [
-      "AI",
-      "OpenAI",
-      "Anthropic"
-    ],
-    "date": "2026-07-30"
-  },
-  {
-    "title": "Reddit reports a solid quarter but shows signs of AI’s impact",
-    "link": "https://techcrunch.com/2026/07/30/reddit-reports-a-solid-quarter-but-shows-signs-of-ais-impact/",
-    "source": "TechCrunch",
-    "category": "other",
-    "summary": "Reddit's financial situation is looking good but uncertainty about its relationship to Google and the new AI-ified web are stirring market concerns.",
-    "keywords": [
-      "AI"
-    ],
-    "date": "2026-07-30"
-  },
-  {
-    "title": "Investors love AI, as long as you’re a cloud host",
-    "link": "https://techcrunch.com/2026/07/30/investors-love-ai-as-long-as-youre-a-cloud-host/",
-    "source": "TechCrunch",
-    "category": "other",
-    "summary": "Amazon isn't slowing down on data center spending — but investors don't seem to mind.",
-    "keywords": [
-      "AI"
-    ],
-    "date": "2026-07-30"
-  },
-  {
-    "title": "Judge says Trump admin still lacks evidence for Anthropic ‘supply-chain risk’ label",
-    "link": "https://techcrunch.com/2026/07/30/judge-says-trump-admin-still-lacks-evidence-for-anthropic-supply-chain-risk-label/",
-    "source": "TechCrunch",
-    "category": "other",
-    "summary": "A federal judge said the Trump administration has not presented enough evidence to justify labeling Anthropic a supply-chain risk, casting doubt on the government's ban on its AI technology.",
-    "keywords": [
-      "AI",
-      "Anthropic"
-    ],
-    "date": "2026-07-30"
   }
 ]
