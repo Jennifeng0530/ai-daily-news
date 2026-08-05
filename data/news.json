@@ -1,5 +1,144 @@
 [
   {
+    "title": "华为WATCH GT 7系列正式发布，吴磊助阵解锁运动健康智能手表新篇章",
+    "link": "https://www.pingwest.com/w/316217",
+    "source": "品玩",
+    "category": "other",
+    "summary": "华为\n\n\n\n华为WATCH GT 7系列正式发布，吴磊助阵解锁运动健康智能手表新篇章",
+    "keywords": [
+      "智能"
+    ],
+    "date": "2026-08-05"
+  },
+  {
+    "title": "淘天开启2027届应届生招聘：AI技术类岗位占比超9成",
+    "link": "https://www.pingwest.com/w/316216",
+    "source": "品玩",
+    "category": "other",
+    "summary": "淘天集团\n\n\n\n淘天开启2027届应届生招聘：AI技术类岗位占比超9成",
+    "keywords": [
+      "AI"
+    ],
+    "date": "2026-08-05"
+  },
+  {
+    "title": "无问芯穹与MiniMax签署战略合作协议",
+    "link": "https://www.pingwest.com/w/316207",
+    "source": "品玩",
+    "category": "other",
+    "summary": "MiniMax\n\n\n\n无问芯穹与MiniMax签署战略合作协议\n\n据无问芯穹官方消息，上海无问芯穹智能科技股份有限公司与上海稀宇科技有限公司（MiniMax）正式签署战略合作协议。",
+    "keywords": [
+      "MiniMax",
+      "智能"
+    ],
+    "date": "2026-08-05"
+  },
+  {
+    "title": "LFM2.5-2.6B发布：支持端侧运行的智能体模型",
+    "link": "https://www.pingwest.com/w/316206",
+    "source": "品玩",
+    "category": "other",
+    "summary": "LiquidAI\n\n\n\nLFM2.5-2.6B发布：支持端侧运行的智能体模型\n\n据 liquid.ai 宣布，LFM2.5-2.6B模型现已正式发布。这是一款专为智能体工作流设计的26亿参数模型，支持在智能手机等终端设备上完全本地运行，无需依赖云端API。",
+    "keywords": [
+      "AI",
+      "智能"
+    ],
+    "date": "2026-08-05"
+  },
+  {
+    "title": "字节跳动Seed团队推出原生音视频全双工大模型SeedRealtime",
+    "link": "https://www.pingwest.com/w/316201",
+    "source": "品玩",
+    "category": "other",
+    "summary": "字节跳动\n\n\n\n字节跳动Seed团队推出原生音视频全双工大模型SeedRealtime\n\n字节跳动Seed团队今日正式推出原生音视频全双工大模型SeedRealtime。该模型采用统一架构，原生融合音频、视频与文本，实现了在连续多模态信息流上的实时交互，带来“边看、边听、边说”的全新体验。",
+    "keywords": [
+      "大模型"
+    ],
+    "date": "2026-08-05"
+  },
+  {
+    "title": "Mistral开源Shieldstral安全模型",
+    "link": "https://www.pingwest.com/w/316200",
+    "source": "品玩",
+    "category": "other",
+    "summary": "mistralAI\n\n\n\nMistral开源Shieldstral安全模型\n\n据 AI Weekly 报道，Mistral近日宣布开源其30亿参数多模态安全分类模型Shieldstral，采用Apache 2.0许可证。该模型可在单张16GB显存的Nvidia GPU上运行。",
+    "keywords": [
+      "AI",
+      "Mistral"
+    ],
+    "date": "2026-08-05"
+  },
+  {
+    "title": "有了 Cursor，xAI 的日子也是好起来了",
+    "link": "https://www.pingwest.com/a/316188",
+    "source": "品玩",
+    "category": "other",
+    "summary": "有了 Cursor，xAI 的日子也是好起来了\n\n这就是氪金的力量",
+    "keywords": [
+      "AI",
+      "xAI"
+    ],
+    "date": "2026-08-05"
+  },
+  {
+    "title": "Cloudflare推出AI Agent支付基础设施",
+    "link": "https://www.pingwest.com/w/316190",
+    "source": "品玩",
+    "category": "other",
+    "summary": "CloudFlare\n\n\n\nCloudflare推出AI Agent支付基础设施\n\n据 The Tech Time 报道，Cloudflare宣布推出Cloudflare Wallets与cloudflare.pay，为AI代理提供结构化、由人类控制的支付能力，完善其代理商业生态。",
+    "keywords": [
+      "AI",
+      "Agent"
+    ],
+    "date": "2026-08-05"
+  },
+  {
+    "title": "Anthropic任命Cuéllar为全球事务首席官",
+    "link": "https://www.pingwest.com/w/316189",
+    "source": "品玩",
+    "category": "other",
+    "summary": "Anthropic\n\n\n\nAnthropic任命Cuéllar为全球事务首席官",
+    "keywords": [
+      "Anthropic"
+    ],
+    "date": "2026-08-05"
+  },
+  {
+    "title": "SpaceX与英伟达合作，拟制造百万颗卫星AI算力网络",
+    "link": "https://www.pingwest.com/w/316184",
+    "source": "品玩",
+    "category": "other",
+    "summary": "英伟达\n\n\n\nSpaceX与英伟达合作，拟制造百万颗卫星AI算力网络\n\n据interestingengineering 报道，SpaceX与英伟达联合宣布，将联合开发“Starmind AI1”卫星计算载荷，旨在利用英伟达最新的Vera CPU和Rubin GPU，在近地轨道直接处理AI工作负载。英伟达称，其Space-1 Vera Rubin模块的AI处理性能可达H100 GPU的25倍。",
+    "keywords": [
+      "AI"
+    ],
+    "date": "2026-08-05"
+  },
+  {
+    "title": "OpenAI发文反驳苹果商业秘密诉讼指控",
+    "link": "https://www.pingwest.com/w/316183",
+    "source": "品玩",
+    "category": "other",
+    "summary": "OpenAI\n\n\n\nOpenAI发文反驳苹果商业秘密诉讼指控\n\n据 Cnet 报道，在苹果提起商业秘密诉讼三周后，OpenAI发布博客文章正式回应，称苹果的起诉“粗心、具有攻击性且带有个人情绪”。苹果此前指控前员工Chang Liu和Tang Tan在离职后不当访问苹果专有技术，而OpenAI则反指苹果自身安全管理存在漏洞。",
+    "keywords": [
+      "AI",
+      "OpenAI"
+    ],
+    "date": "2026-08-05"
+  },
+  {
+    "title": "阿里云瓴羊Quick BI发布AIPro版本",
+    "link": "https://www.pingwest.com/w/316182",
+    "source": "品玩",
+    "category": "other",
+    "summary": "阿里云\n\n\n\n阿里云瓴羊Quick BI发布AIPro版本\n\n据阿里云官方消息，阿里云瓴羊企业级智能分析产品Quick BI完成AI-native架构升级，正式发布全新版本AIPro。",
+    "keywords": [
+      "AI",
+      "智能"
+    ],
+    "date": "2026-08-05"
+  },
+  {
     "title": "Agent 时代，人到底负责什么",
     "link": "https://www.pingwest.com/w/316181",
     "source": "品玩",
@@ -115,11 +254,45 @@
     "date": "2026-08-04"
   },
   {
-    "title": "深度 | 外宾 Genspark",
-    "link": "https://www.pingwest.com/a/316133",
-    "source": "品玩",
+    "title": "Open-weight AI models are catching up to the frontier. The safety gap remains.",
+    "link": "https://techcrunch.com/2026/08/04/open-weight-ai-models-are-catching-up-to-the-frontier-the-safety-gap-remains/",
+    "source": "TechCrunch",
     "category": "other",
-    "summary": "深度 | 外宾 Genspark\n\nGenspark 最成功的 Agent，或许就是 Genspark 自己。它只需执行一项长程任务：让世界相信它从来只是一家来自 Palo Alto 的美国 AI 公司。",
+    "summary": "A new SaferAI report finds Z.ai's open-weight GLM-5.2 approaches frontier AI capabilities while lacking key safety mitigations, renewing concerns that powerful open models could outpace governance and",
+    "keywords": [
+      "AI"
+    ],
+    "date": "2026-08-04"
+  },
+  {
+    "title": "Anthropic signs $10B deal with AI cloud startup Volta",
+    "link": "https://techcrunch.com/2026/08/04/anthropic-signs-10-billion-deal-with-ai-cloud-startup-volta/",
+    "source": "TechCrunch",
+    "category": "other",
+    "summary": "Anthropic has been on a cloud partnership spree in recent months, and its latest move is reportedly a $10 billion deal with AI cloud startup Volta.",
+    "keywords": [
+      "AI",
+      "Anthropic"
+    ],
+    "date": "2026-08-04"
+  },
+  {
+    "title": "Meet Wrinkles, an app that uncovers the hidden stories of the places around you",
+    "link": "https://techcrunch.com/2026/08/04/meet-wrinkles-an-ai-app-that-uncovers-the-hidden-stories-of-the-places-around-you/",
+    "source": "TechCrunch",
+    "category": "other",
+    "summary": "Wrinkles, available on both iOS and Android, essentially acts as an AI-powered audio tour guide that reveals hidden history and local stories.",
+    "keywords": [
+      "AI"
+    ],
+    "date": "2026-08-04"
+  },
+  {
+    "title": "Nvidia doesn’t mess around: A week after open AI industry group formed, it’s already showing progress",
+    "link": "https://techcrunch.com/2026/08/04/nvidia-doesnt-mess-around-a-week-after-open-ai-industry-group-formed-its-already-showing-progress/",
+    "source": "TechCrunch",
+    "category": "other",
+    "summary": "The week-old Open Secure AI Alliance, spearheaded by Nvidia and grown to over 120 companies, already has proposals out for defending against AI agents.",
     "keywords": [
       "AI",
       "Agent"
@@ -127,108 +300,49 @@
     "date": "2026-08-04"
   },
   {
-    "title": "实测MiniMax H3 VS Seedance 2.5 ：旗鼓相当，性格迥异",
-    "link": "https://www.pingwest.com/a/316102",
-    "source": "品玩",
+    "title": "Spotify expands AI remix and covers project with Merlin partnership",
+    "link": "https://techcrunch.com/2026/08/04/spotify-adds-merlin-to-its-ai-music-remix-and-covers-effort/",
+    "source": "TechCrunch",
     "category": "other",
-    "summary": "实测MiniMax H3 VS Seedance 2.5 ：旗鼓相当，性格迥异\n\n两条路线",
-    "keywords": [
-      "MiniMax"
-    ],
-    "date": "2026-08-03"
-  },
-  {
-    "title": "商汤科技开源SenseNova U1.5-Lite-Preview",
-    "link": "https://www.pingwest.com/w/316134",
-    "source": "品玩",
-    "category": "other",
-    "summary": "商汤科技\n\n\n\n商汤科技开源SenseNova U1.5-Lite-Preview\n\n商汤科技宣布开源轻量级统一多模态模型预览版SenseNova U1.5-Lite-Preview。",
-    "keywords": [
-      "商汤"
-    ],
-    "date": "2026-08-03"
-  },
-  {
-    "title": "MiniMax开源新一代视频模型H3",
-    "link": "https://www.pingwest.com/w/316132",
-    "source": "品玩",
-    "category": "other",
-    "summary": "MiniMax\n\n\n\nMiniMax开源新一代视频模型H3\n\nMiniMax宣布开源新一代通用视频模型MiniMax H3，该模型是一个通用型全模态生成系统，能够统一理解由文本、图像、视频和音频构成的多模态上下文。",
-    "keywords": [
-      "MiniMax"
-    ],
-    "date": "2026-08-03"
-  },
-  {
-    "title": "工业仿真×具身仿真：物理AI走进工厂，最缺的不是模型而是\"物理真值\"",
-    "link": "https://www.pingwest.com/w/316131",
-    "source": "品玩",
-    "category": "other",
-    "summary": "光轮智能\n\n\n\n工业仿真×具身仿真：物理AI走进工厂，最缺的不是模型而是\"物理真值\"\n\n机器人走进工厂，到底卡在哪？",
-    "keywords": [
-      "AI",
-      "机器人",
-      "智能"
-    ],
-    "date": "2026-08-03"
-  },
-  {
-    "title": "CuspAI完成4.5亿美元B轮融资，估值达26亿美元",
-    "link": "https://www.pingwest.com/w/316122",
-    "source": "品玩",
-    "category": "funding",
-    "summary": "融资\n\n\n\nCuspAI完成4.5亿美元B轮融资，估值达26亿美元\n\n据the saas news 报道，总部位于英国剑桥的AI材料搜索与发现初创公司CuspAI宣布完成4.5亿美元B轮融资，累计融资总额已超过6.5亿美元。",
+    "summary": "Spotify says Merlin, which represents more than 30,000 independent labels and distributors, has joined Universal Music Group in backing its upcoming AI-powered remix and covers product. The paid tool ",
     "keywords": [
       "AI"
     ],
-    "date": "2026-08-03"
+    "date": "2026-08-04"
   },
   {
-    "title": "装备好，用户体验才是真的好——京东外卖发布AI智能头盔",
-    "link": "https://www.pingwest.com/w/316120",
-    "source": "品玩",
+    "title": "Elon Musk spends half his time talking robots and AI on Tesla earnings calls",
+    "link": "https://techcrunch.com/2026/08/04/elon-musk-spends-half-his-time-talking-robots-and-ai-on-tesla-earnings-calls/",
+    "source": "TechCrunch",
     "category": "other",
-    "summary": "京东\n\n\n\n装备好，用户体验才是真的好——京东外卖发布AI智能头盔",
+    "summary": "An analysis of the last seven years of Tesla earnings calls shows just how little attention Musk pays to Tesla's car business.",
     "keywords": [
-      "AI",
-      "智能"
+      "AI"
     ],
-    "date": "2026-08-03"
+    "date": "2026-08-04"
   },
   {
-    "title": "OpenAI发布报告：Astra模型攻克十项数学难题",
-    "link": "https://www.pingwest.com/w/316119",
-    "source": "品玩",
+    "title": "Apple says more ex-employees may have taken confidential data to OpenAI",
+    "link": "https://techcrunch.com/2026/08/04/apple-says-more-ex-employees-may-have-taken-confidential-data-to-openai/",
+    "source": "TechCrunch",
     "category": "other",
-    "summary": "OpenAI\n\n\n\nOpenAI发布报告：Astra模型攻克十项数学难题\n\nOpenAI于8月1日发布报告，披露其下一代模型Astra已解决十个长期悬而未决的数学与理论计算机科学难题。所有证明均已通过Lean形式化验证，确保逻辑严谨性。",
+    "summary": "Apple says its trade secrets investigation into OpenAI has widened. In a new court filing, Apple claims additional former staff may have retained or accessed confidential information.",
     "keywords": [
       "AI",
       "OpenAI"
     ],
-    "date": "2026-08-03"
+    "date": "2026-08-04"
   },
   {
-    "title": "OpenAI拟将IPO推迟至2027年，维持私营状态以应对转型挑战",
-    "link": "https://www.pingwest.com/w/316116",
-    "source": "品玩",
-    "category": "key_news",
-    "summary": "OpenAI\n\n\n\nOpenAI拟将IPO推迟至2027年，维持私营状态以应对转型挑战\n\n据theaicronicle 报道，OpenAI正倾向于将首次公开募股（IPO）计划推迟至2027年。在首席执行官Sam Altman看来，公司当前的发展阶段需要私营身份所提供的战略自由度。",
-    "keywords": [
-      "AI",
-      "OpenAI"
-    ],
-    "date": "2026-08-03"
-  },
-  {
-    "title": "Google Earth上线一天即紧急撤回AI图像生成功能",
-    "link": "https://www.pingwest.com/w/316115",
-    "source": "品玩",
+    "title": "Is the future of data centers portable? Runware builds a pod to find out",
+    "link": "https://techcrunch.com/2026/08/04/is-the-future-of-data-centers-portable-runware-builds-a-pod-to-find-out/",
+    "source": "TechCrunch",
     "category": "other",
-    "summary": "谷歌\n\n\n\nGoogle Earth上线一天即紧急撤回AI图像生成功能\n\n据 unite.ai 报道，Google于7月31日紧急撤回了Google Earth网页版的AI图像生成功能，距该功能全球上线仅约一天。",
+    "summary": "On Tuesday, AI infrastructure company Runware announced the launch of its own modular data center called Sonic Inference Pod.",
     "keywords": [
       "AI"
     ],
-    "date": "2026-08-03"
+    "date": "2026-08-04"
   },
   {
     "title": "After killer quarter, Palantir CEO Alex Karp calls AI industry ‘Marxist’",
@@ -322,133 +436,5 @@
       "xAI"
     ],
     "date": "2026-08-01"
-  },
-  {
-    "title": "YouTuber Hank Green says his AI usage is ‘not healthy’",
-    "link": "https://techcrunch.com/2026/08/01/youtuber-hank-green-says-his-ai-usage-is-not-healthy/",
-    "source": "TechCrunch",
-    "category": "other",
-    "summary": "Green offered a remarkable apology, saying that \"the level of dopamine that I've been getting from interacting with LLMs ... is not healthy for me or good for the world.\"",
-    "keywords": [
-      "AI",
-      "LLM"
-    ],
-    "date": "2026-08-01"
-  },
-  {
-    "title": "Sam Altman is still making the case for parenting via ChatGPT",
-    "link": "https://techcrunch.com/2026/08/01/sam-altman-is-still-making-the-case-for-parenting-via-chatgpt/",
-    "source": "TechCrunch",
-    "category": "other",
-    "summary": "This isn’t the first time a tech CEO has promised that AI can shield users — and specifically users’ morning commutes — from the messiness and inefficiency of human experience.",
-    "keywords": [
-      "AI",
-      "GPT",
-      "ChatGPT"
-    ],
-    "date": "2026-08-01"
-  },
-  {
-    "title": "MiniMax H3：很能打、更通用、还开源，多模态格局得变一变了",
-    "link": "https://www.pingwest.com/a/316100",
-    "source": "品玩",
-    "category": "other",
-    "summary": "MiniMax H3：很能打、更通用、还开源，多模态格局得变一变了\n\n多模态终究会像语言模型一样通用。",
-    "keywords": [
-      "MiniMax"
-    ],
-    "date": "2026-07-31"
-  },
-  {
-    "title": "从武术教练到AI创作者，他用灵珠创作了160个热门应用",
-    "link": "https://www.pingwest.com/w/316096",
-    "source": "品玩",
-    "category": "other",
-    "summary": "灵珠\n\n\n\n从武术教练到AI创作者，他用灵珠创作了160个热门应用",
-    "keywords": [
-      "AI"
-    ],
-    "date": "2026-07-31"
-  },
-  {
-    "title": "OpenAI reportedly finds evidence that more of its agents ran amok",
-    "link": "https://techcrunch.com/2026/07/31/openai-reportedly-finds-evidence-that-more-of-its-agents-ran-amok/",
-    "source": "TechCrunch",
-    "category": "other",
-    "summary": "OpenAI has reportedly found evidence of additional agent misbehavior as it looks into the incident that occurred with Hugging Face.",
-    "keywords": [
-      "AI",
-      "Agent",
-      "OpenAI"
-    ],
-    "date": "2026-07-31"
-  },
-  {
-    "title": "Google nixes its Earth AI feature one day after launch, amid criticism it would spread misinformation",
-    "link": "https://techcrunch.com/2026/07/31/google-nixes-its-earth-ai-feature-one-day-after-launch-amid-criticism-it-would-spread-misinformation/",
-    "source": "TechCrunch",
-    "category": "other",
-    "summary": "A tool that allowed anyone to generate fake AI-generated imagery and superimpose it over real Google Earth maps quickly spurred backlash.",
-    "keywords": [
-      "AI"
-    ],
-    "date": "2026-07-31"
-  },
-  {
-    "title": "Sam Altman isn’t the only one who wants to pump the brakes on AI",
-    "link": "https://techcrunch.com/video/sam-altman-isnt-the-only-one-who-wants-to-pump-the-brakes-on-ai/",
-    "source": "TechCrunch",
-    "category": "other",
-    "summary": "After years of pushing full speed ahead on AI,&#160;OpenAI CEO&#160;Sam Altman says&#160;maybe it’s&#160;time for the AI industry to “pace” itself. The comments came&#160;just days after one of OpenAI",
-    "keywords": [
-      "AI",
-      "OpenAI"
-    ],
-    "date": "2026-07-31"
-  },
-  {
-    "title": "Snapchat no longer rewards fully AI-generated Spotlight content",
-    "link": "https://techcrunch.com/2026/07/31/snapchat-no-longer-rewards-fully-ai-generated-spotlight-content/",
-    "source": "TechCrunch",
-    "category": "other",
-    "summary": "Snapchat has adjusted its recommendation systems to ensure that only videos created by real people are eligible for Spotlight recommendations, taking a stance against AI slop.",
-    "keywords": [
-      "AI"
-    ],
-    "date": "2026-07-31"
-  },
-  {
-    "title": "Siri AI could come with a paywall for power users",
-    "link": "https://techcrunch.com/2026/07/31/siri-ai-could-come-with-a-paywall-for-power-users/",
-    "source": "TechCrunch",
-    "category": "other",
-    "summary": "Apple CEO Tim Cook envisions users being able to buy more compute for Siri AI via Apple's existing iCloud+ subscriptions.",
-    "keywords": [
-      "AI"
-    ],
-    "date": "2026-07-31"
-  },
-  {
-    "title": "SpaceX won’t remove all of xAI’s unpermitted turbines for another year",
-    "link": "https://techcrunch.com/2026/07/31/spacex-wont-remove-all-of-xais-unpermitted-turbines-for-another-year/",
-    "source": "TechCrunch",
-    "category": "other",
-    "summary": "SpaceX is building a new power plant for xAI's Colossus data centers, but it won't remove existing, unpermitted turbines for many more months.",
-    "keywords": [
-      "AI",
-      "xAI"
-    ],
-    "date": "2026-07-31"
-  },
-  {
-    "title": "Smallest.ai raises $13M to build ultra-fast voice AI that sounds genuinely human",
-    "link": "https://techcrunch.com/2026/07/31/smallest-ai-raises-13m-to-build-ultra-fast-voice-ai-that-sounds-genuinely-human/",
-    "source": "TechCrunch",
-    "category": "funding",
-    "summary": "The startup is building voice models designed to make AI phone calls pass the Turing test.",
-    "keywords": [
-      "AI"
-    ],
-    "date": "2026-07-31"
   }
 ]
