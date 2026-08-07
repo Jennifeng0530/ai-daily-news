@@ -1,5 +1,39 @@
 [
   {
+    "title": "阿里视频大模型Wan3.0开启公测：文档、ppt也能变视频",
+    "link": "https://www.pingwest.com/w/316259",
+    "source": "品玩",
+    "category": "other",
+    "summary": "阿里\n\n\n\n阿里视频大模型Wan3.0开启公测：文档、ppt也能变视频",
+    "keywords": [
+      "大模型"
+    ],
+    "date": "2026-08-07"
+  },
+  {
+    "title": "近些年目睹之 Google AI 怪现状",
+    "link": "https://www.pingwest.com/a/316251",
+    "source": "品玩",
+    "category": "other",
+    "summary": "近些年目睹之 Google AI 怪现状\n\n跟昨日的Google，告别",
+    "keywords": [
+      "AI"
+    ],
+    "date": "2026-08-06"
+  },
+  {
+    "title": "速描 | 字节跳动为什么不蒸馏别的模型？",
+    "link": "https://www.pingwest.com/a/316237",
+    "source": "品玩",
+    "category": "other",
+    "summary": "速描 |  字节跳动为什么不蒸馏别的模型？\n\n不走捷径，Seed 才可能摸到全球大模型的智能天花板",
+    "keywords": [
+      "大模型",
+      "智能"
+    ],
+    "date": "2026-08-06"
+  },
+  {
     "title": "Keep上线超级AI会员，垂类AI进入产品化新阶段",
     "link": "https://www.pingwest.com/w/316252",
     "source": "品玩",
@@ -42,6 +76,110 @@
     "summary": "阿里\n\n\n\nArtificial Analysis榜单：阿里Qwen3.8Agentic能力得分全球第一",
     "keywords": [
       "Agent"
+    ],
+    "date": "2026-08-06"
+  },
+  {
+    "title": "OpenAI’s new AI smart speaker will reportedly sell for between $300 and $400",
+    "link": "https://techcrunch.com/2026/08/06/openais-new-ai-smart-speaker-will-reportedly-sell-for-between-300-and-400/",
+    "source": "TechCrunch",
+    "category": "other",
+    "summary": "Additional details about OpenAI's mysterious new AI device make it sound like a pricey smart speaker.",
+    "keywords": [
+      "AI",
+      "OpenAI"
+    ],
+    "date": "2026-08-06"
+  },
+  {
+    "title": "ChatGPT brings unlimited text chats to free users",
+    "link": "https://techcrunch.com/2026/08/06/openai-brings-unlimited-chatgpt-text-chats-to-free-users/",
+    "source": "TechCrunch",
+    "category": "other",
+    "summary": "OpenAI said that ChatGPT free and Go users are also getting a new think button for complex queries.",
+    "keywords": [
+      "AI",
+      "OpenAI",
+      "GPT",
+      "ChatGPT"
+    ],
+    "date": "2026-08-06"
+  },
+  {
+    "title": "Naïve raises $28.5M to automate the grunt work of setting up and running a company",
+    "link": "https://techcrunch.com/2026/08/06/naive-raises-28-5m-to-automate-the-grunt-work-of-setting-up-and-running-a-company/",
+    "source": "TechCrunch",
+    "category": "funding",
+    "summary": "Taking vibe-coding a step further, Naïve claims its infra can automate most of the work in setting up and running a business.",
+    "keywords": [
+      "AI"
+    ],
+    "date": "2026-08-06"
+  },
+  {
+    "title": "Gen Z dating apps like Ditto ditch swiping in favor of AI matchmaking",
+    "link": "https://techcrunch.com/2026/08/06/gen-z-dating-apps-like-ditto-ditch-swiping-in-favor-of-ai-matchmaking/",
+    "source": "TechCrunch",
+    "category": "other",
+    "summary": "This generation of twentysomethings is so disillusioned with swipe-based dating apps that they'll try literally anything else — even an AI matchmaker.",
+    "keywords": [
+      "AI"
+    ],
+    "date": "2026-08-06"
+  },
+  {
+    "title": "OpenAI says Apple’s own security practices undermine its trade secrets case",
+    "link": "https://techcrunch.com/2026/08/06/openai-says-apples-own-security-practices-undermine-its-trade-secrets-case/",
+    "source": "TechCrunch",
+    "category": "other",
+    "summary": "Newly filed court exhibits show OpenAI’s legal strategy in Apple’s trade secrets lawsuit: argue that Apple’s own security and offboarding practices — including allowing an Apple manager to access a fo",
+    "keywords": [
+      "AI",
+      "OpenAI"
+    ],
+    "date": "2026-08-06"
+  },
+  {
+    "title": "Ex-Spotify employees raise $10M to bring the AI behind its recommendations to e-commerce",
+    "link": "https://techcrunch.com/2026/08/06/ex-spotify-employees-raise-10m-to-bring-the-ai-behind-its-recommendations-to-e-commerce/",
+    "source": "TechCrunch",
+    "category": "other",
+    "summary": "The startup's platform predicts which product a shopper wants next, learns their general taste, and fine-tunes continuously based on what they do in real time.",
+    "keywords": [
+      "AI"
+    ],
+    "date": "2026-08-06"
+  },
+  {
+    "title": "Exclusive: Mirendil inks $100M+ Google Cloud deal to scale self-improving AI",
+    "link": "https://techcrunch.com/2026/08/06/exclusive-mirendil-inks-100m-google-cloud-deal-to-scale-self-improving-ai/",
+    "source": "TechCrunch",
+    "category": "other",
+    "summary": "Mirendil has signed a $100 million-plus Google Cloud partnership to expand its compute infrastructure, powering research into self-improving AI systems designed to accelerate scientific discovery and ",
+    "keywords": [
+      "AI"
+    ],
+    "date": "2026-08-06"
+  },
+  {
+    "title": "Google Maps adds agentic features, including food ordering and hotel bookings",
+    "link": "https://techcrunch.com/2026/08/06/google-maps-adds-agentic-features-including-food-ordering-and-hotel-bookings/",
+    "source": "TechCrunch",
+    "category": "other",
+    "summary": "The launch of these new features reflects Google’s ambitions to transform Google Maps from a navigation tool into an assistant that's capable of helping users complete real-world tasks.",
+    "keywords": [
+      "Agent"
+    ],
+    "date": "2026-08-06"
+  },
+  {
+    "title": "Omilia raises $67M to scale its customer support platform",
+    "link": "https://techcrunch.com/2026/08/06/omilia-raises-67m-to-scale-its-customer-support-platform/",
+    "source": "TechCrunch",
+    "category": "funding",
+    "summary": "The Series B is the company's second fundraise since it last raised capital in 2020. In that time, it has increased its ARR by 10x to $60 million.",
+    "keywords": [
+      "AI"
     ],
     "date": "2026-08-06"
   },
@@ -328,131 +466,6 @@
     "source": "品玩",
     "category": "other",
     "summary": "阿里\n\n\n\nOpenRouter、OpenCode等海外AI平台第一时间接入阿里Qwen3.8",
-    "keywords": [
-      "AI"
-    ],
-    "date": "2026-08-04"
-  },
-  {
-    "title": "微软将于8月为Teams推出安全举报功能",
-    "link": "https://www.pingwest.com/w/316177",
-    "source": "品玩",
-    "category": "other",
-    "summary": "微软\n\n\n\n微软将于8月为Teams推出安全举报功能\n\n据 AIBASE 报道，微软确认将于2026年8月为Microsoft Teams推出全新的“报告问题”功能。该功能允许参会者在会议过程中直接举报网络钓鱼、身份冒用、诈骗、社交工程及其他可疑行为，旨在帮助企业安全团队第一时间介入调查，以应对AI驱动网络诈骗日益增长的风险。",
-    "keywords": [
-      "AI"
-    ],
-    "date": "2026-08-04"
-  },
-  {
-    "title": "面壁智能开源AI系统ForgeStencil，实现工业软件自动优化",
-    "link": "https://www.pingwest.com/w/316174",
-    "source": "品玩",
-    "category": "other",
-    "summary": "面壁智能\n\n\n\n面壁智能开源AI系统ForgeStencil，实现工业软件自动优化\n\n据面壁智能官方消息，面壁智能联合OpenBMB开源社区，正式发布并开源了全球首个支持Stencil（模板计算）自动研究与部署的AI优化系统——ForgeStencil。",
-    "keywords": [
-      "AI",
-      "智能"
-    ],
-    "date": "2026-08-04"
-  },
-  {
-    "title": "AI反馈工具Design Arena母公司获790万美元种子轮融资",
-    "link": "https://www.pingwest.com/w/316173",
-    "source": "品玩",
-    "category": "funding",
-    "summary": "融资\n\n\n\nAI反馈工具Design Arena母公司获790万美元种子轮融资\n\n据 TechCrunch 报道，由联合创始人Grace Li创立的初创公司Intelligence宣布完成790万美元种子轮融资，由Index Ventures领投，Conviction（Sarah Guo和Mike Vernal）、A*、Valkyrie等参投。",
-    "keywords": [
-      "AI"
-    ],
-    "date": "2026-08-04"
-  },
-  {
-    "title": "Open-weight AI models are catching up to the frontier. The safety gap remains.",
-    "link": "https://techcrunch.com/2026/08/04/open-weight-ai-models-are-catching-up-to-the-frontier-the-safety-gap-remains/",
-    "source": "TechCrunch",
-    "category": "other",
-    "summary": "A new SaferAI report finds Z.ai's open-weight GLM-5.2 approaches frontier AI capabilities while lacking key safety mitigations, renewing concerns that powerful open models could outpace governance and",
-    "keywords": [
-      "AI"
-    ],
-    "date": "2026-08-04"
-  },
-  {
-    "title": "Anthropic signs $10B deal with AI cloud startup Volta",
-    "link": "https://techcrunch.com/2026/08/04/anthropic-signs-10-billion-deal-with-ai-cloud-startup-volta/",
-    "source": "TechCrunch",
-    "category": "other",
-    "summary": "Anthropic has been on a cloud partnership spree in recent months, and its latest move is reportedly a $10 billion deal with AI cloud startup Volta.",
-    "keywords": [
-      "AI",
-      "Anthropic"
-    ],
-    "date": "2026-08-04"
-  },
-  {
-    "title": "Meet Wrinkles, an app that uncovers the hidden stories of the places around you",
-    "link": "https://techcrunch.com/2026/08/04/meet-wrinkles-an-ai-app-that-uncovers-the-hidden-stories-of-the-places-around-you/",
-    "source": "TechCrunch",
-    "category": "other",
-    "summary": "Wrinkles, available on both iOS and Android, essentially acts as an AI-powered audio tour guide that reveals hidden history and local stories.",
-    "keywords": [
-      "AI"
-    ],
-    "date": "2026-08-04"
-  },
-  {
-    "title": "Nvidia doesn’t mess around: A week after open AI industry group formed, it’s already showing progress",
-    "link": "https://techcrunch.com/2026/08/04/nvidia-doesnt-mess-around-a-week-after-open-ai-industry-group-formed-its-already-showing-progress/",
-    "source": "TechCrunch",
-    "category": "other",
-    "summary": "The week-old Open Secure AI Alliance, spearheaded by Nvidia and grown to over 120 companies, already has proposals out for defending against AI agents.",
-    "keywords": [
-      "AI",
-      "Agent"
-    ],
-    "date": "2026-08-04"
-  },
-  {
-    "title": "Spotify expands AI remix and covers project with Merlin partnership",
-    "link": "https://techcrunch.com/2026/08/04/spotify-adds-merlin-to-its-ai-music-remix-and-covers-effort/",
-    "source": "TechCrunch",
-    "category": "other",
-    "summary": "Spotify says Merlin, which represents more than 30,000 independent labels and distributors, has joined Universal Music Group in backing its upcoming AI-powered remix and covers product. The paid tool ",
-    "keywords": [
-      "AI"
-    ],
-    "date": "2026-08-04"
-  },
-  {
-    "title": "Elon Musk spends half his time talking robots and AI on Tesla earnings calls",
-    "link": "https://techcrunch.com/2026/08/04/elon-musk-spends-half-his-time-talking-robots-and-ai-on-tesla-earnings-calls/",
-    "source": "TechCrunch",
-    "category": "other",
-    "summary": "An analysis of the last seven years of Tesla earnings calls shows just how little attention Musk pays to Tesla's car business.",
-    "keywords": [
-      "AI"
-    ],
-    "date": "2026-08-04"
-  },
-  {
-    "title": "Apple says more ex-employees may have taken confidential data to OpenAI",
-    "link": "https://techcrunch.com/2026/08/04/apple-says-more-ex-employees-may-have-taken-confidential-data-to-openai/",
-    "source": "TechCrunch",
-    "category": "other",
-    "summary": "Apple says its trade secrets investigation into OpenAI has widened. In a new court filing, Apple claims additional former staff may have retained or accessed confidential information.",
-    "keywords": [
-      "AI",
-      "OpenAI"
-    ],
-    "date": "2026-08-04"
-  },
-  {
-    "title": "Is the future of data centers portable? Runware builds a pod to find out",
-    "link": "https://techcrunch.com/2026/08/04/is-the-future-of-data-centers-portable-runware-builds-a-pod-to-find-out/",
-    "source": "TechCrunch",
-    "category": "other",
-    "summary": "On Tuesday, AI infrastructure company Runware announced the launch of its own modular data center called Sonic Inference Pod.",
     "keywords": [
       "AI"
     ],
