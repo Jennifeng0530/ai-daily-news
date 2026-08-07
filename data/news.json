@@ -1,5 +1,17 @@
 [
   {
+    "title": "知乎11.0大版本更新，智能助手“AI看山”加速社区与AI融合",
+    "link": "https://www.pingwest.com/w/316289",
+    "source": "品玩",
+    "category": "other",
+    "summary": "知乎\n\n\n\n知乎11.0大版本更新，智能助手“AI看山”加速社区与AI融合",
+    "keywords": [
+      "AI",
+      "智能"
+    ],
+    "date": "2026-08-07"
+  },
+  {
     "title": "阿里视频大模型Wan3.0开启公测：文档、ppt也能变视频",
     "link": "https://www.pingwest.com/w/316259",
     "source": "品玩",
@@ -447,28 +459,5 @@
       "AI"
     ],
     "date": "2026-08-05"
-  },
-  {
-    "title": "Agent 时代，人到底负责什么",
-    "link": "https://www.pingwest.com/w/316181",
-    "source": "品玩",
-    "category": "other",
-    "summary": "thinking AI\n\n\n\nAgent 时代，人到底负责什么\n\n生产级 Agent 的分水岭，不在于能不能生成，而在于结果能否被验证、能力能否被度量，以及能否在生产运行中持续学习。",
-    "keywords": [
-      "AI",
-      "Agent"
-    ],
-    "date": "2026-08-04"
-  },
-  {
-    "title": "OpenRouter、OpenCode等海外AI平台第一时间接入阿里Qwen3.8",
-    "link": "https://www.pingwest.com/w/316180",
-    "source": "品玩",
-    "category": "other",
-    "summary": "阿里\n\n\n\nOpenRouter、OpenCode等海外AI平台第一时间接入阿里Qwen3.8",
-    "keywords": [
-      "AI"
-    ],
-    "date": "2026-08-04"
   }
 ]
