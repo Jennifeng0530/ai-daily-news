@@ -1,5 +1,16 @@
 [
   {
+    "title": "纳米大片流水线首发上线 Seedance 2.5，0.27元秒特惠，AI 影视创作进入“30s视频直出”时代",
+    "link": "https://www.pingwest.com/w/316292",
+    "source": "品玩",
+    "category": "other",
+    "summary": "纳米\n\n\n\n纳米大片流水线首发上线 Seedance 2.5，0.27元秒特惠，AI 影视创作进入“30s视频直出”时代",
+    "keywords": [
+      "AI"
+    ],
+    "date": "2026-08-08"
+  },
+  {
     "title": "知乎11.0大版本更新，智能助手“AI看山”加速社区与AI融合",
     "link": "https://www.pingwest.com/w/316289",
     "source": "品玩",
@@ -19,6 +30,52 @@
     "summary": "阿里\n\n\n\n阿里视频大模型Wan3.0开启公测：文档、ppt也能变视频",
     "keywords": [
       "大模型"
+    ],
+    "date": "2026-08-07"
+  },
+  {
+    "title": "OpenAI says it slowed Astra model development over security concerns",
+    "link": "https://techcrunch.com/2026/08/07/openai-says-it-slowed-astra-model-development-over-security-concerns/",
+    "source": "TechCrunch",
+    "category": "other",
+    "summary": "OpenAI said this model, which is still in development, reached its \"critical cybersecurity threshold,\" meaning it could independently identify and carry out cyberattacks against traditionally well-pro",
+    "keywords": [
+      "AI",
+      "OpenAI"
+    ],
+    "date": "2026-08-07"
+  },
+  {
+    "title": "After Rippling blew millions on AI in months, it built an employee ROI tool",
+    "link": "https://techcrunch.com/2026/08/07/after-rippling-blew-millions-on-ai-in-months-it-built-an-employee-roi-tool/",
+    "source": "TechCrunch",
+    "category": "funding",
+    "summary": "After its own AI usage wake-up call, Rippling this week unveiled AI Spend Console, a product that tracks individual and team employee AI spending.",
+    "keywords": [
+      "AI"
+    ],
+    "date": "2026-08-07"
+  },
+  {
+    "title": "Cloudflare launches Kitesurf, a browser built for AI agents",
+    "link": "https://techcrunch.com/2026/08/07/cloudflare-launches-kitesurf-a-browser-built-for-ai-agents/",
+    "source": "TechCrunch",
+    "category": "other",
+    "summary": "Kitesurf is a cloud-hosted browser designed for AI agents instead of people. It uses less computing power than Chromium for common automation tasks, helping developers build browser-based AI agents mo",
+    "keywords": [
+      "AI",
+      "Agent"
+    ],
+    "date": "2026-08-07"
+  },
+  {
+    "title": "Airbnb says AI is helping it ship features faster as it tests a new search function",
+    "link": "https://techcrunch.com/2026/08/07/airbnb-says-ai-is-helping-it-ship-features-faster-as-it-tests-a-new-search-function/",
+    "source": "TechCrunch",
+    "category": "other",
+    "summary": "Airbnb will debut a new AI-powered search experience with a toggle.",
+    "keywords": [
+      "AI"
     ],
     "date": "2026-08-07"
   },
@@ -333,30 +390,6 @@
     "date": "2026-08-05"
   },
   {
-    "title": "OpenAI发文反驳苹果商业秘密诉讼指控",
-    "link": "https://www.pingwest.com/w/316183",
-    "source": "品玩",
-    "category": "other",
-    "summary": "OpenAI\n\n\n\nOpenAI发文反驳苹果商业秘密诉讼指控\n\n据 Cnet 报道，在苹果提起商业秘密诉讼三周后，OpenAI发布博客文章正式回应，称苹果的起诉“粗心、具有攻击性且带有个人情绪”。苹果此前指控前员工Chang Liu和Tang Tan在离职后不当访问苹果专有技术，而OpenAI则反指苹果自身安全管理存在漏洞。",
-    "keywords": [
-      "AI",
-      "OpenAI"
-    ],
-    "date": "2026-08-05"
-  },
-  {
-    "title": "阿里云瓴羊Quick BI发布AIPro版本",
-    "link": "https://www.pingwest.com/w/316182",
-    "source": "品玩",
-    "category": "other",
-    "summary": "阿里云\n\n\n\n阿里云瓴羊Quick BI发布AIPro版本\n\n据阿里云官方消息，阿里云瓴羊企业级智能分析产品Quick BI完成AI-native架构升级，正式发布全新版本AIPro。",
-    "keywords": [
-      "AI",
-      "智能"
-    ],
-    "date": "2026-08-05"
-  },
-  {
     "title": "Meta launches Muse Code, an AI agent for large code bases",
     "link": "https://techcrunch.com/2026/08/05/meta-launches-muse-code-an-ai-agent-for-large-code-bases/",
     "source": "TechCrunch",
@@ -397,64 +430,6 @@
     "source": "TechCrunch",
     "category": "other",
     "summary": "Shopify says AI isn’t cannibalizing search traffic the way it has for publishers. Instead, AI-driven traffic and orders to Shopify stores tripled year over year in Q2.",
-    "keywords": [
-      "AI"
-    ],
-    "date": "2026-08-05"
-  },
-  {
-    "title": "Hark previews its browser use agent for completing tasks",
-    "link": "https://techcrunch.com/2026/08/05/hark-previews-its-browser-use-agent-for-completing-tasks/",
-    "source": "TechCrunch",
-    "category": "other",
-    "summary": "Hark claims that its browser use agent is faster and cheaper than competition.",
-    "keywords": [
-      "AI",
-      "Agent"
-    ],
-    "date": "2026-08-05"
-  },
-  {
-    "title": "TechCrunch Disrupt 2026’s Real World AI Stage features robots, automated factories, and extinct animals",
-    "link": "https://techcrunch.com/2026/08/05/techcrunch-disrupt-2026s-real-world-ai-stage-features-robots-automated-factories-and-extinct-animals/",
-    "source": "TechCrunch",
-    "category": "other",
-    "summary": "On our new Real World AI stage, we’ll be focusing on the intersection between the digital and physical, and all the ways we’ll continue to see a blending of the two.",
-    "keywords": [
-      "AI"
-    ],
-    "date": "2026-08-05"
-  },
-  {
-    "title": "Anthropic is hiring an AI chip design team",
-    "link": "https://techcrunch.com/2026/08/05/anthropic-is-hiring-an-ai-chip-design-team/",
-    "source": "TechCrunch",
-    "category": "other",
-    "summary": "Anthropic is building a team for designing its own custom AI chips. The Claude maker said it would co-design hardware and models to help its technology run faster and more efficiently.",
-    "keywords": [
-      "AI",
-      "Anthropic",
-      "Claude"
-    ],
-    "date": "2026-08-05"
-  },
-  {
-    "title": "MacPaw taps Liquid AI to offer on-device inference to devs building for its app store",
-    "link": "https://techcrunch.com/2026/08/05/macpaw-taps-liquid-ai-to-offer-on-device-inference-to-devs-building-for-its-app-store/",
-    "source": "TechCrunch",
-    "category": "other",
-    "summary": "MacPaw is building a local version of its AI assistant Eney using Liquid AI's models.",
-    "keywords": [
-      "AI"
-    ],
-    "date": "2026-08-05"
-  },
-  {
-    "title": "AI makes weather prediction better. Can WindBorne make it lucrative?",
-    "link": "https://techcrunch.com/2026/08/05/ai-makes-weather-prediction-better-can-windborne-make-it-lucrative/",
-    "source": "TechCrunch",
-    "category": "other",
-    "summary": "WindBorne Systems has raised a $37 million Series B round to scale its weather balloons and AI forecasts.",
     "keywords": [
       "AI"
     ],
