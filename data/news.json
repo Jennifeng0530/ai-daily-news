@@ -11,6 +11,20 @@
     "date": "2026-08-08"
   },
   {
+    "title": "OpenAI acquires presentation startup NextSlide",
+    "link": "https://techcrunch.com/2026/08/08/openai-acquires-presentation-startup-nextslide/",
+    "source": "TechCrunch",
+    "category": "other",
+    "summary": "NextSlide says its team members are now working on ChatGPT.",
+    "keywords": [
+      "AI",
+      "OpenAI",
+      "GPT",
+      "ChatGPT"
+    ],
+    "date": "2026-08-08"
+  },
+  {
     "title": "知乎11.0大版本更新，智能助手“AI看山”加速社区与AI融合",
     "link": "https://www.pingwest.com/w/316289",
     "source": "品玩",
@@ -410,28 +424,6 @@
     "keywords": [
       "AI",
       "Agent"
-    ],
-    "date": "2026-08-05"
-  },
-  {
-    "title": "Jeff Dean and other top AI researchers are leaving Google to launch their own startup",
-    "link": "https://techcrunch.com/2026/08/05/jeff-dean-and-other-top-ai-researchers-are-leaving-google-to-launch-their-own-startup/",
-    "source": "TechCrunch",
-    "category": "other",
-    "summary": "The legendary Google executive is joined by other outgoing Google execs in a joint mission to use AI to push forward the process of scientific discovery.",
-    "keywords": [
-      "AI"
-    ],
-    "date": "2026-08-05"
-  },
-  {
-    "title": "Shopify says AI search is driving more traffic and sales, not replacing Google",
-    "link": "https://techcrunch.com/2026/08/05/shopify-says-ai-search-is-driving-more-traffic-and-sales-not-replacing-google/",
-    "source": "TechCrunch",
-    "category": "other",
-    "summary": "Shopify says AI isn’t cannibalizing search traffic the way it has for publishers. Instead, AI-driven traffic and orders to Shopify stores tripled year over year in Q2.",
-    "keywords": [
-      "AI"
     ],
     "date": "2026-08-05"
   }
