@@ -1,5 +1,123 @@
 [
   {
+    "title": "硅谷模型厂正在比谁的 Agent 更能闯祸，背后全是营销剧本",
+    "link": "https://www.pingwest.com/a/316305",
+    "source": "品玩",
+    "category": "other",
+    "summary": "硅谷模型厂正在比谁的 Agent 更能闯祸，背后全是营销剧本\n\n事故是真的，剧本也是真的。",
+    "keywords": [
+      "Agent"
+    ],
+    "date": "2026-08-10"
+  },
+  {
+    "title": "第一时间实测千问Agent：让AI链接服务有了初始态",
+    "link": "https://www.pingwest.com/a/316296",
+    "source": "品玩",
+    "category": "other",
+    "summary": "第一时间实测千问Agent：让AI链接服务有了初始态\n\nAI离真实世界真的不远了。",
+    "keywords": [
+      "AI",
+      "Agent"
+    ],
+    "date": "2026-08-10"
+  },
+  {
+    "title": "Cloudflare发布面向AI智能体的云端浏览器Kitesurf",
+    "link": "https://www.pingwest.com/w/316306",
+    "source": "品玩",
+    "category": "other",
+    "summary": "CloudFlare\n\n\n\nCloudflare发布面向AI智能体的云端浏览器Kitesurf\n\n据 TechCrunch 报道，互联网基础设施服务商Cloudflare近日推出云端浏览器Kitesurf，专为AI智能体设计，而非面向普通消费者。",
+    "keywords": [
+      "AI",
+      "智能"
+    ],
+    "date": "2026-08-10"
+  },
+  {
+    "title": "Anthropic宣布Claude Code将于8月14日默认启用自动模式",
+    "link": "https://www.pingwest.com/w/316303",
+    "source": "品玩",
+    "category": "other",
+    "summary": "Claude\n\n\n\nAnthropic宣布Claude Code将于8月14日默认启用自动模式\n\n据 TechCrunch 报道，Anthropic近日宣布，自8月14日起，旗下编程工具Claude Code将在Pro、Max和Team账户中默认启用自动模式，进一步减少编程过程中的人工审批环节。",
+    "keywords": [
+      "Anthropic",
+      "Claude"
+    ],
+    "date": "2026-08-10"
+  },
+  {
+    "title": "千问开放平台上线！覆盖APP、PC、眼镜三端，支持AI智能体接入",
+    "link": "https://www.pingwest.com/w/316300",
+    "source": "品玩",
+    "category": "other",
+    "summary": "千问\n\n\n\n千问开放平台上线！覆盖APP、PC、眼镜三端，支持AI智能体接入",
+    "keywords": [
+      "AI",
+      "智能"
+    ],
+    "date": "2026-08-10"
+  },
+  {
+    "title": "OpenAI暂停下一代模型Astra部分研发工作",
+    "link": "https://www.pingwest.com/w/316299",
+    "source": "品玩",
+    "category": "other",
+    "summary": "OpenAI\n\n\n\nOpenAI暂停下一代模型Astra部分研发工作\n\n据 TechCrunch 报道，OpenAI近日宣布，因内部评估发现其下一代AI模型Astra在智能体编程和网络安全领域取得显著进展，公司\"无法排除该模型具备关键级网络攻击能力的可能性\"，已暂停部分未满足强化安全要求的内部研发活动。",
+    "keywords": [
+      "AI",
+      "OpenAI",
+      "智能"
+    ],
+    "date": "2026-08-10"
+  },
+  {
+    "title": "20期、130多个产品后，我们把「每周AI项目推荐」做成了「Builder Hub」",
+    "link": "https://www.pingwest.com/a/316294",
+    "source": "品玩",
+    "category": "other",
+    "summary": "20期、130多个产品后，我们把「每周AI项目推荐」做成了「Builder Hub」\n\n快来一起Build in Public",
+    "keywords": [
+      "AI"
+    ],
+    "date": "2026-08-10"
+  },
+  {
+    "title": "Embattled hedge fund Situational Awareness invests $400M in chip startup Source Foundry",
+    "link": "https://techcrunch.com/2026/08/09/embattled-hedge-fund-situational-awareness-invests-400m-in-chip-startup-source-foundry/",
+    "source": "TechCrunch",
+    "category": "other",
+    "summary": "The AI-focused hedge fund is still making some big bets.",
+    "keywords": [
+      "AI"
+    ],
+    "date": "2026-08-09"
+  },
+  {
+    "title": "Anthropic is turning Claude Code’s auto mode on by default",
+    "link": "https://techcrunch.com/2026/08/09/anthropic-is-turning-claude-codes-auto-mode-on-by-default/",
+    "source": "TechCrunch",
+    "category": "other",
+    "summary": "Programming with Claude Code will soon require even less human oversight.",
+    "keywords": [
+      "Anthropic",
+      "Claude"
+    ],
+    "date": "2026-08-09"
+  },
+  {
+    "title": "The AI safety test is becoming a safety risk",
+    "link": "https://techcrunch.com/2026/08/09/the-ai-safety-test-is-becoming-a-safety-risk/",
+    "source": "TechCrunch",
+    "category": "other",
+    "summary": "AI agents are escaping cybersecurity testing environments and reaching real-world systems, raising questions about whether safety infrastructure, industry standards and regulation can keep pace with i",
+    "keywords": [
+      "AI",
+      "Agent"
+    ],
+    "date": "2026-08-09"
+  },
+  {
     "title": "纳米大片流水线首发上线 Seedance 2.5，0.27元秒特惠，AI 影视创作进入“30s视频直出”时代",
     "link": "https://www.pingwest.com/w/316292",
     "source": "品玩",
@@ -245,28 +363,6 @@
     "date": "2026-08-06"
   },
   {
-    "title": "Google Maps adds agentic features, including food ordering and hotel bookings",
-    "link": "https://techcrunch.com/2026/08/06/google-maps-adds-agentic-features-including-food-ordering-and-hotel-bookings/",
-    "source": "TechCrunch",
-    "category": "other",
-    "summary": "The launch of these new features reflects Google’s ambitions to transform Google Maps from a navigation tool into an assistant that's capable of helping users complete real-world tasks.",
-    "keywords": [
-      "Agent"
-    ],
-    "date": "2026-08-06"
-  },
-  {
-    "title": "Omilia raises $67M to scale its customer support platform",
-    "link": "https://techcrunch.com/2026/08/06/omilia-raises-67m-to-scale-its-customer-support-platform/",
-    "source": "TechCrunch",
-    "category": "funding",
-    "summary": "The Series B is the company's second fundraise since it last raised capital in 2020. In that time, it has increased its ARR by 10x to $60 million.",
-    "keywords": [
-      "AI"
-    ],
-    "date": "2026-08-06"
-  },
-  {
     "title": "李飞飞的“中国同路人”：无问智科搭建具身智能虚实融合数据基座",
     "link": "https://www.pingwest.com/w/316225",
     "source": "品玩",
@@ -319,111 +415,6 @@
     "keywords": [
       "MiniMax",
       "智能"
-    ],
-    "date": "2026-08-05"
-  },
-  {
-    "title": "LFM2.5-2.6B发布：支持端侧运行的智能体模型",
-    "link": "https://www.pingwest.com/w/316206",
-    "source": "品玩",
-    "category": "other",
-    "summary": "LiquidAI\n\n\n\nLFM2.5-2.6B发布：支持端侧运行的智能体模型\n\n据 liquid.ai 宣布，LFM2.5-2.6B模型现已正式发布。这是一款专为智能体工作流设计的26亿参数模型，支持在智能手机等终端设备上完全本地运行，无需依赖云端API。",
-    "keywords": [
-      "AI",
-      "智能"
-    ],
-    "date": "2026-08-05"
-  },
-  {
-    "title": "字节跳动Seed团队推出原生音视频全双工大模型SeedRealtime",
-    "link": "https://www.pingwest.com/w/316201",
-    "source": "品玩",
-    "category": "other",
-    "summary": "字节跳动\n\n\n\n字节跳动Seed团队推出原生音视频全双工大模型SeedRealtime\n\n字节跳动Seed团队今日正式推出原生音视频全双工大模型SeedRealtime。该模型采用统一架构，原生融合音频、视频与文本，实现了在连续多模态信息流上的实时交互，带来“边看、边听、边说”的全新体验。",
-    "keywords": [
-      "大模型"
-    ],
-    "date": "2026-08-05"
-  },
-  {
-    "title": "Mistral开源Shieldstral安全模型",
-    "link": "https://www.pingwest.com/w/316200",
-    "source": "品玩",
-    "category": "other",
-    "summary": "mistralAI\n\n\n\nMistral开源Shieldstral安全模型\n\n据 AI Weekly 报道，Mistral近日宣布开源其30亿参数多模态安全分类模型Shieldstral，采用Apache 2.0许可证。该模型可在单张16GB显存的Nvidia GPU上运行。",
-    "keywords": [
-      "AI",
-      "Mistral"
-    ],
-    "date": "2026-08-05"
-  },
-  {
-    "title": "有了 Cursor，xAI 的日子也是好起来了",
-    "link": "https://www.pingwest.com/a/316188",
-    "source": "品玩",
-    "category": "other",
-    "summary": "有了 Cursor，xAI 的日子也是好起来了\n\n这就是氪金的力量",
-    "keywords": [
-      "AI",
-      "xAI"
-    ],
-    "date": "2026-08-05"
-  },
-  {
-    "title": "Cloudflare推出AI Agent支付基础设施",
-    "link": "https://www.pingwest.com/w/316190",
-    "source": "品玩",
-    "category": "other",
-    "summary": "CloudFlare\n\n\n\nCloudflare推出AI Agent支付基础设施\n\n据 The Tech Time 报道，Cloudflare宣布推出Cloudflare Wallets与cloudflare.pay，为AI代理提供结构化、由人类控制的支付能力，完善其代理商业生态。",
-    "keywords": [
-      "AI",
-      "Agent"
-    ],
-    "date": "2026-08-05"
-  },
-  {
-    "title": "Anthropic任命Cuéllar为全球事务首席官",
-    "link": "https://www.pingwest.com/w/316189",
-    "source": "品玩",
-    "category": "other",
-    "summary": "Anthropic\n\n\n\nAnthropic任命Cuéllar为全球事务首席官",
-    "keywords": [
-      "Anthropic"
-    ],
-    "date": "2026-08-05"
-  },
-  {
-    "title": "SpaceX与英伟达合作，拟制造百万颗卫星AI算力网络",
-    "link": "https://www.pingwest.com/w/316184",
-    "source": "品玩",
-    "category": "other",
-    "summary": "英伟达\n\n\n\nSpaceX与英伟达合作，拟制造百万颗卫星AI算力网络\n\n据interestingengineering 报道，SpaceX与英伟达联合宣布，将联合开发“Starmind AI1”卫星计算载荷，旨在利用英伟达最新的Vera CPU和Rubin GPU，在近地轨道直接处理AI工作负载。英伟达称，其Space-1 Vera Rubin模块的AI处理性能可达H100 GPU的25倍。",
-    "keywords": [
-      "AI"
-    ],
-    "date": "2026-08-05"
-  },
-  {
-    "title": "Meta launches Muse Code, an AI agent for large code bases",
-    "link": "https://techcrunch.com/2026/08/05/meta-launches-muse-code-an-ai-agent-for-large-code-bases/",
-    "source": "TechCrunch",
-    "category": "other",
-    "summary": "Meta expanded its AI coding offerings with a new agent that, it promises, can handle complex tasks with complex software.",
-    "keywords": [
-      "AI",
-      "Agent"
-    ],
-    "date": "2026-08-05"
-  },
-  {
-    "title": "Klaviyo acquires Elias Torres’ Agency in full-circle reunion for tech founders",
-    "link": "https://techcrunch.com/2026/08/05/klaviyo-acquires-elias-torres-agency-in-full-circle-reunion-for-tech-founders/",
-    "source": "TechCrunch",
-    "category": "other",
-    "summary": "The serial entrepreneur joins the e-commerce company as CPO to lead its AI agents.",
-    "keywords": [
-      "AI",
-      "Agent"
     ],
     "date": "2026-08-05"
   }
