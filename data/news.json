@@ -1,5 +1,79 @@
 [
   {
+    "title": "纳米Work首批通过中国信通院办公智能体能力评估",
+    "link": "https://www.pingwest.com/w/316326",
+    "source": "品玩",
+    "category": "other",
+    "summary": "纳米\n\n\n\n纳米Work首批通过中国信通院办公智能体能力评估",
+    "keywords": [
+      "智能"
+    ],
+    "date": "2026-08-10"
+  },
+  {
+    "title": "阿里AI应用创作平Meoo上线团队版",
+    "link": "https://www.pingwest.com/w/316319",
+    "source": "品玩",
+    "category": "other",
+    "summary": "阿里巴巴\n\n\n\n阿里AI应用创作平Meoo上线团队版\n\n阿里AI应用创作平台Meoo（秒悟）近日正式上线团队版，面向团队及企业开放订阅，标志着Meoo从个人AI创作工具进一步扩展为组织级生产力工具。",
+    "keywords": [
+      "AI"
+    ],
+    "date": "2026-08-10"
+  },
+  {
+    "title": "NVIDIA发布开源全双工语音模型NemotronLabs VoiceChat 11B",
+    "link": "https://www.pingwest.com/w/316318",
+    "source": "品玩",
+    "category": "other",
+    "summary": "英伟达\n\n\n\nNVIDIA发布开源全双工语音模型NemotronLabs VoiceChat 11B\n\n据marktechpost 报道，NVIDIA近日发布开源端到端全双工语音对话模型NemotronLabs VoiceChat 11B，在统一网络中完成流式语音理解与生成，无需串联ASR、LLM和TTS等多个模型，大幅降低端到端延迟。",
+    "keywords": [
+      "LLM"
+    ],
+    "date": "2026-08-10"
+  },
+  {
+    "title": "OpenAI收购演示文稿初创公司NextSlide 团队并入ChatGPT",
+    "link": "https://www.pingwest.com/w/316316",
+    "source": "品玩",
+    "category": "other",
+    "summary": "OpenAI\n\n\n\nOpenAI收购演示文稿初创公司NextSlide 团队并入ChatGPT\n\n据 officechai 报道，OpenAI近日被曝已完成对演示文稿初创公司NextSlide的收购，其团队已整体并入ChatGPT开发部门。该交易实际于今年早些时候完成，财务条款未予披露。",
+    "keywords": [
+      "AI",
+      "OpenAI",
+      "GPT",
+      "ChatGPT"
+    ],
+    "date": "2026-08-10"
+  },
+  {
+    "title": "xAI发布Imagine Image 2.0 图像生成模型",
+    "link": "https://www.pingwest.com/w/316313",
+    "source": "品玩",
+    "category": "other",
+    "summary": "grok\n\n\n\nxAI发布Imagine Image 2.0 图像生成模型\n\n据 the-decoder 报道，xAI近日推出Imagine Image 2.0，该模型已作为“质量模式”在grok.com/imagine及Grok的iOS和Android应用中上线，API访问权限即将开放。",
+    "keywords": [
+      "AI",
+      "xAI",
+      "Grok"
+    ],
+    "date": "2026-08-10"
+  },
+  {
+    "title": "OpenAI取消ChatGPT文本对话限制 全面升级至GPT-5.6模型",
+    "link": "https://www.pingwest.com/w/316312",
+    "source": "品玩",
+    "category": "other",
+    "summary": "ChatGPT\n\n\n\nOpenAI取消ChatGPT文本对话限制 全面升级至GPT-5.6模型\n\n据 TechCrunch 报道，OpenAI近日宣布，将取消ChatGPT所有用户的文本对话次数限制。目前ChatGPT周活跃用户已突破10亿。",
+    "keywords": [
+      "AI",
+      "OpenAI",
+      "GPT",
+      "ChatGPT"
+    ],
+    "date": "2026-08-10"
+  },
+  {
     "title": "硅谷模型厂正在比谁的 Agent 更能闯祸，背后全是营销剧本",
     "link": "https://www.pingwest.com/a/316305",
     "source": "品玩",
@@ -77,6 +151,17 @@
     "source": "品玩",
     "category": "other",
     "summary": "20期、130多个产品后，我们把「每周AI项目推荐」做成了「Builder Hub」\n\n快来一起Build in Public",
+    "keywords": [
+      "AI"
+    ],
+    "date": "2026-08-10"
+  },
+  {
+    "title": "Discovered Materials is playing AI whack-a-mole to hunt cooler chips",
+    "link": "https://techcrunch.com/2026/08/10/discovered-materials-is-playing-ai-whack-a-mole-to-hunt-cooler-chips/",
+    "source": "TechCrunch",
+    "category": "other",
+    "summary": "Discovered Materials raised $9 million to fund the hunt for more novel materials to build more efficient chips.",
     "keywords": [
       "AI"
     ],
@@ -352,17 +437,6 @@
     "date": "2026-08-06"
   },
   {
-    "title": "Exclusive: Mirendil inks $100M+ Google Cloud deal to scale self-improving AI",
-    "link": "https://techcrunch.com/2026/08/06/exclusive-mirendil-inks-100m-google-cloud-deal-to-scale-self-improving-ai/",
-    "source": "TechCrunch",
-    "category": "other",
-    "summary": "Mirendil has signed a $100 million-plus Google Cloud partnership to expand its compute infrastructure, powering research into self-improving AI systems designed to accelerate scientific discovery and ",
-    "keywords": [
-      "AI"
-    ],
-    "date": "2026-08-06"
-  },
-  {
     "title": "李飞飞的“中国同路人”：无问智科搭建具身智能虚实融合数据基座",
     "link": "https://www.pingwest.com/w/316225",
     "source": "品玩",
@@ -381,40 +455,6 @@
     "summary": "MiniMax\n\n\n\nMiniMax H3 登顶开源社区第一，定义视频模型领域“斩杀线”",
     "keywords": [
       "MiniMax"
-    ],
-    "date": "2026-08-05"
-  },
-  {
-    "title": "华为WATCH GT 7系列正式发布，吴磊助阵解锁运动健康智能手表新篇章",
-    "link": "https://www.pingwest.com/w/316217",
-    "source": "品玩",
-    "category": "other",
-    "summary": "华为\n\n\n\n华为WATCH GT 7系列正式发布，吴磊助阵解锁运动健康智能手表新篇章",
-    "keywords": [
-      "智能"
-    ],
-    "date": "2026-08-05"
-  },
-  {
-    "title": "淘天开启2027届应届生招聘：AI技术类岗位占比超9成",
-    "link": "https://www.pingwest.com/w/316216",
-    "source": "品玩",
-    "category": "other",
-    "summary": "淘天集团\n\n\n\n淘天开启2027届应届生招聘：AI技术类岗位占比超9成",
-    "keywords": [
-      "AI"
-    ],
-    "date": "2026-08-05"
-  },
-  {
-    "title": "无问芯穹与MiniMax签署战略合作协议",
-    "link": "https://www.pingwest.com/w/316207",
-    "source": "品玩",
-    "category": "other",
-    "summary": "MiniMax\n\n\n\n无问芯穹与MiniMax签署战略合作协议\n\n据无问芯穹官方消息，上海无问芯穹智能科技股份有限公司与上海稀宇科技有限公司（MiniMax）正式签署战略合作协议。",
-    "keywords": [
-      "MiniMax",
-      "智能"
     ],
     "date": "2026-08-05"
   }
