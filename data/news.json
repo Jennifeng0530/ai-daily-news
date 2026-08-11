@@ -1,5 +1,76 @@
 [
   {
+    "title": "Anthropic联合Macquarie与GIC成立数据中心合资项目Theseus Infrastructure",
+    "link": "https://www.pingwest.com/w/316335",
+    "source": "品玩",
+    "category": "other",
+    "summary": "Anthropic\n\n\n\nAnthropic联合Macquarie与GIC成立数据中心合资项目Theseus Infrastructure\n\n据 AI Weekly 报道，Anthropic日前宣布，与Macquarie Asset Management及新加坡主权财富基金GIC建立战略合作伙伴关系，共同成立名为Theseus Infrastructure的新平台，用于大规模开发、运营数据中心基础",
+    "keywords": [
+      "AI",
+      "Anthropic"
+    ],
+    "date": "2026-08-11"
+  },
+  {
+    "title": "阿里Qwen拿下“美国版小红书”，Pinterest CEO：成本不到OpenAI的8%",
+    "link": "https://www.pingwest.com/w/316334",
+    "source": "品玩",
+    "category": "other",
+    "summary": "Qwen\n\n\n\n阿里Qwen拿下“美国版小红书”，Pinterest CEO：成本不到OpenAI的8%",
+    "keywords": [
+      "AI",
+      "OpenAI"
+    ],
+    "date": "2026-08-11"
+  },
+  {
+    "title": "Microsoft计划明年量产下一代AI芯片Maia 300",
+    "link": "https://www.pingwest.com/w/316332",
+    "source": "品玩",
+    "category": "other",
+    "summary": "微软\n\n\n\nMicrosoft计划明年量产下一代AI芯片Maia 300\n\n据The Information报道，Microsoft正计划最早于今年9月公开其下一代自研AI加速器Maia 300，并已与TSMC洽谈超过30万颗芯片的生产订单，预计2027年交付，长期目标是在供应链配合下实现超百万颗产能。",
+    "keywords": [
+      "AI"
+    ],
+    "date": "2026-08-11"
+  },
+  {
+    "title": "Meta发布开源模型Muse Glimmer 支持消费级硬件本地运行",
+    "link": "https://www.pingwest.com/w/316331",
+    "source": "品玩",
+    "category": "other",
+    "summary": "META\n\n\n\nMeta发布开源模型Muse Glimmer 支持消费级硬件本地运行\n\n据 venturebeat 报道，Meta近日发布300亿参数开源模型Muse Glimmer，支持在消费级Mac和PC上本地运行自主AI智能体，将原本依赖云端基础设施的工作负载下沉至终端设备。模型权重已在Hugging Face上线。",
+    "keywords": [
+      "AI",
+      "智能"
+    ],
+    "date": "2026-08-11"
+  },
+  {
+    "title": "千问办公助理正式推出付费服务",
+    "link": "https://www.pingwest.com/w/316328",
+    "source": "品玩",
+    "category": "other",
+    "summary": "千问\n\n\n\n千问办公助理正式推出付费服务\n\n据财联社报道，千问App近日面向专业用户推出办公助理付费方案，成为继豆包之后国内第二款探索付费服务的头部AI应用。",
+    "keywords": [
+      "AI",
+      "豆包"
+    ],
+    "date": "2026-08-11"
+  },
+  {
+    "title": "OpenAI reportedly completed a $7 billion employee tender offer",
+    "link": "https://techcrunch.com/2026/08/10/openai-reportedly-completed-a-7-billion-employee-tender-offer/",
+    "source": "TechCrunch",
+    "category": "funding",
+    "summary": "San Francisco's housing market is in trouble again.",
+    "keywords": [
+      "AI",
+      "OpenAI"
+    ],
+    "date": "2026-08-11"
+  },
+  {
     "title": "纳米Work首批通过中国信通院办公智能体能力评估",
     "link": "https://www.pingwest.com/w/316326",
     "source": "品玩",
@@ -157,6 +228,53 @@
     "date": "2026-08-10"
   },
   {
+    "title": "As AI-led attacks multiply, OpenAI launches a new cyber model",
+    "link": "https://techcrunch.com/2026/08/10/as-ai-led-attacks-multiply-openai-launches-a-new-cyber-model/",
+    "source": "TechCrunch",
+    "category": "other",
+    "summary": "OpenAI is expanding its AI cybersecurity defense program Daybreak, and rolling out a new cyber-trained AI model with it.",
+    "keywords": [
+      "AI",
+      "OpenAI"
+    ],
+    "date": "2026-08-10"
+  },
+  {
+    "title": "Mark Zuckerberg’s AI manifesto is exactly why people don’t like AI",
+    "link": "https://techcrunch.com/2026/08/10/mark-zuckerbergs-ai-manifesto-is-exactly-why-people-dont-like-ai/",
+    "source": "TechCrunch",
+    "category": "other",
+    "summary": "On Monday, Mark Zuckerberg published a 6,500-word manifesto about personal AI, largely about the possibilities for the \"personal superintelligence\" systems Meta AI is building.",
+    "keywords": [
+      "AI"
+    ],
+    "date": "2026-08-10"
+  },
+  {
+    "title": "Tech industry is buzzing after a Claude agent hacked into a gym",
+    "link": "https://techcrunch.com/2026/08/10/tech-industry-is-buzzing-after-a-claude-agent-hacked-into-a-gym/",
+    "source": "TechCrunch",
+    "category": "other",
+    "summary": "An OpenClaw agent hacked into a gym's reservation system to bump its human boss higher on a class' waitlist. And the tech industry took notice.",
+    "keywords": [
+      "AI",
+      "Agent",
+      "Claude"
+    ],
+    "date": "2026-08-10"
+  },
+  {
+    "title": "Meta’s new Glimmer AI model offers a hint at Zuckerberg’s personal intelligence vision",
+    "link": "https://techcrunch.com/2026/08/10/metas-new-glimmer-ai-model-offers-a-hint-at-zuckerbergs-personal-intelligence-vision/",
+    "source": "TechCrunch",
+    "category": "other",
+    "summary": "Meta’s new open-weight Muse Glimmer model offers a glimpse of Mark Zuckerberg’s personal superintelligence vision, as well as  the emerging divide between AI users can own and access.",
+    "keywords": [
+      "AI"
+    ],
+    "date": "2026-08-10"
+  },
+  {
     "title": "Discovered Materials is playing AI whack-a-mole to hunt cooler chips",
     "link": "https://techcrunch.com/2026/08/10/discovered-materials-is-playing-ai-whack-a-mole-to-hunt-cooler-chips/",
     "source": "TechCrunch",
@@ -195,7 +313,7 @@
     "link": "https://techcrunch.com/2026/08/09/the-ai-safety-test-is-becoming-a-safety-risk/",
     "source": "TechCrunch",
     "category": "other",
-    "summary": "AI agents are escaping cybersecurity testing environments and reaching real-world systems, raising questions about whether safety infrastructure, industry standards and regulation can keep pace with i",
+    "summary": "AI agents are escaping cybersecurity testing environments and reaching real-world systems, raising questions about whether safety infrastructure, industry standards, and regulation can keep pace with ",
     "keywords": [
       "AI",
       "Agent"
@@ -214,16 +332,25 @@
     "date": "2026-08-08"
   },
   {
+    "title": "Planned Amazon data center could become the biggest climate polluter in the US",
+    "link": "https://techcrunch.com/2026/08/08/planned-amazon-data-center-could-become-the-biggest-climate-polluter-in-the-u-s/",
+    "source": "TechCrunch",
+    "category": "other",
+    "summary": "AI has already had a significant impact on Amazon’s carbon emissions, which it reported were up 16% last year — the wrong direction for a company that pledged to eliminate its carbon emissions by 2040",
+    "keywords": [
+      "AI"
+    ],
+    "date": "2026-08-08"
+  },
+  {
     "title": "OpenAI acquires presentation startup NextSlide",
     "link": "https://techcrunch.com/2026/08/08/openai-acquires-presentation-startup-nextslide/",
     "source": "TechCrunch",
     "category": "other",
-    "summary": "NextSlide says its team members are now working on ChatGPT.",
+    "summary": "Founder Ahmed Beshry describes the startup’s product as one “that could turn prompts, notes, documents, or research into a polished, editable presentation.”",
     "keywords": [
       "AI",
-      "OpenAI",
-      "GPT",
-      "ChatGPT"
+      "OpenAI"
     ],
     "date": "2026-08-08"
   },
@@ -308,64 +435,6 @@
     "date": "2026-08-06"
   },
   {
-    "title": "速描 | 字节跳动为什么不蒸馏别的模型？",
-    "link": "https://www.pingwest.com/a/316237",
-    "source": "品玩",
-    "category": "other",
-    "summary": "速描 |  字节跳动为什么不蒸馏别的模型？\n\n不走捷径，Seed 才可能摸到全球大模型的智能天花板",
-    "keywords": [
-      "大模型",
-      "智能"
-    ],
-    "date": "2026-08-06"
-  },
-  {
-    "title": "Keep上线超级AI会员，垂类AI进入产品化新阶段",
-    "link": "https://www.pingwest.com/w/316252",
-    "source": "品玩",
-    "category": "other",
-    "summary": "Keep\n\n\n\nKeep上线超级AI会员，垂类AI进入产品化新阶段",
-    "keywords": [
-      "AI"
-    ],
-    "date": "2026-08-06"
-  },
-  {
-    "title": "DACon北京站大会启动：语义层、上下文工程、Agentic RAG、数据工程等技术全覆盖",
-    "link": "https://www.pingwest.com/a/316191",
-    "source": "品玩",
-    "category": "other",
-    "summary": "DACon北京站大会启动：语义层、上下文工程、Agentic RAG、数据工程等技术全覆盖",
-    "keywords": [
-      "Agent"
-    ],
-    "date": "2026-08-06"
-  },
-  {
-    "title": "AICon 深圳 2026 全日程揭晓｜聚焦 Agent 工程化，构建可靠智能的技术路径",
-    "link": "https://www.pingwest.com/a/316208",
-    "source": "品玩",
-    "category": "other",
-    "summary": "AICon 深圳 2026 全日程揭晓｜聚焦 Agent 工程化，构建可靠智能的技术路径",
-    "keywords": [
-      "AI",
-      "Agent",
-      "智能"
-    ],
-    "date": "2026-08-06"
-  },
-  {
-    "title": "Artificial Analysis榜单：阿里Qwen3.8Agentic能力得分全球第一",
-    "link": "https://www.pingwest.com/w/316243",
-    "source": "品玩",
-    "category": "other",
-    "summary": "阿里\n\n\n\nArtificial Analysis榜单：阿里Qwen3.8Agentic能力得分全球第一",
-    "keywords": [
-      "Agent"
-    ],
-    "date": "2026-08-06"
-  },
-  {
     "title": "OpenAI’s new AI smart speaker will reportedly sell for between $300 and $400",
     "link": "https://techcrunch.com/2026/08/06/openais-new-ai-smart-speaker-will-reportedly-sell-for-between-300-and-400/",
     "source": "TechCrunch",
@@ -390,72 +459,5 @@
       "ChatGPT"
     ],
     "date": "2026-08-06"
-  },
-  {
-    "title": "Naïve raises $28.5M to automate the grunt work of setting up and running a company",
-    "link": "https://techcrunch.com/2026/08/06/naive-raises-28-5m-to-automate-the-grunt-work-of-setting-up-and-running-a-company/",
-    "source": "TechCrunch",
-    "category": "funding",
-    "summary": "Taking vibe-coding a step further, Naïve claims its infra can automate most of the work in setting up and running a business.",
-    "keywords": [
-      "AI"
-    ],
-    "date": "2026-08-06"
-  },
-  {
-    "title": "Gen Z dating apps like Ditto ditch swiping in favor of AI matchmaking",
-    "link": "https://techcrunch.com/2026/08/06/gen-z-dating-apps-like-ditto-ditch-swiping-in-favor-of-ai-matchmaking/",
-    "source": "TechCrunch",
-    "category": "other",
-    "summary": "This generation of twentysomethings is so disillusioned with swipe-based dating apps that they'll try literally anything else — even an AI matchmaker.",
-    "keywords": [
-      "AI"
-    ],
-    "date": "2026-08-06"
-  },
-  {
-    "title": "OpenAI says Apple’s own security practices undermine its trade secrets case",
-    "link": "https://techcrunch.com/2026/08/06/openai-says-apples-own-security-practices-undermine-its-trade-secrets-case/",
-    "source": "TechCrunch",
-    "category": "other",
-    "summary": "Newly filed court exhibits show OpenAI’s legal strategy in Apple’s trade secrets lawsuit: argue that Apple’s own security and offboarding practices — including allowing an Apple manager to access a fo",
-    "keywords": [
-      "AI",
-      "OpenAI"
-    ],
-    "date": "2026-08-06"
-  },
-  {
-    "title": "Ex-Spotify employees raise $10M to bring the AI behind its recommendations to e-commerce",
-    "link": "https://techcrunch.com/2026/08/06/ex-spotify-employees-raise-10m-to-bring-the-ai-behind-its-recommendations-to-e-commerce/",
-    "source": "TechCrunch",
-    "category": "other",
-    "summary": "The startup's platform predicts which product a shopper wants next, learns their general taste, and fine-tunes continuously based on what they do in real time.",
-    "keywords": [
-      "AI"
-    ],
-    "date": "2026-08-06"
-  },
-  {
-    "title": "李飞飞的“中国同路人”：无问智科搭建具身智能虚实融合数据基座",
-    "link": "https://www.pingwest.com/w/316225",
-    "source": "品玩",
-    "category": "other",
-    "summary": "具身智能\n\n\n\n李飞飞的“中国同路人”：无问智科搭建具身智能虚实融合数据基座",
-    "keywords": [
-      "智能"
-    ],
-    "date": "2026-08-05"
-  },
-  {
-    "title": "MiniMax H3 登顶开源社区第一，定义视频模型领域“斩杀线”",
-    "link": "https://www.pingwest.com/w/316224",
-    "source": "品玩",
-    "category": "other",
-    "summary": "MiniMax\n\n\n\nMiniMax H3 登顶开源社区第一，定义视频模型领域“斩杀线”",
-    "keywords": [
-      "MiniMax"
-    ],
-    "date": "2026-08-05"
   }
 ]
