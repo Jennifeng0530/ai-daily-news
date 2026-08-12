@@ -1,5 +1,62 @@
 [
   {
+    "title": "Insta360 X6 全景相机上手：影石要把拍摄和剪辑全都交给 AI",
+    "link": "https://www.pingwest.com/a/316290",
+    "source": "品玩",
+    "category": "other",
+    "summary": "影石Insta360\n\n\n\nInsta360 X6 全景相机上手：影石要把拍摄和剪辑全都交给 AI\n\n先记录，剩下的交给 AI。",
+    "keywords": [
+      "AI"
+    ],
+    "date": "2026-08-12"
+  },
+  {
+    "title": "腾讯Q2营收同比增11%，全线推进AI",
+    "link": "https://www.pingwest.com/w/316386",
+    "source": "品玩",
+    "category": "other",
+    "summary": "腾讯\n\n\n\n腾讯Q2营收同比增11%，全线推进AI",
+    "keywords": [
+      "AI"
+    ],
+    "date": "2026-08-12"
+  },
+  {
+    "title": "MAI-Code-1.1-Flash正式投入生产，代码质量与效率显著提升",
+    "link": "https://www.pingwest.com/w/316375",
+    "source": "品玩",
+    "category": "other",
+    "summary": "微软\n\n\n\nMAI-Code-1.1-Flash正式投入生产，代码质量与效率显著提升\n\n据微软官方消息，MAI-Code-1.1-Flash现已在GitHub Copilot中正式投入生产。相较于今年6月Microsoft Build上发布的1.0版本，该模型在代码质量、推理效率和成本方面均实现显著优化。",
+    "keywords": [
+      "AI",
+      "Copilot"
+    ],
+    "date": "2026-08-12"
+  },
+  {
+    "title": "IBM与Together AI达成合作，将部署NVIDIA AI基础设施",
+    "link": "https://www.pingwest.com/w/316374",
+    "source": "品玩",
+    "category": "other",
+    "summary": "IBM\n\n\n\nIBM与Together AI达成合作，将部署NVIDIA AI基础设施\n\n据 PRNews 报道，IBM宣布与Together AI达成一项为期多年、价值2.4亿美元的合作协议，旨在通过部署NVIDIA AI基础设施，扩展开源AI推理服务。",
+    "keywords": [
+      "AI"
+    ],
+    "date": "2026-08-12"
+  },
+  {
+    "title": "NVIDIA发布开源模型Nemotron 3.5 Lightning",
+    "link": "https://www.pingwest.com/w/316373",
+    "source": "品玩",
+    "category": "other",
+    "summary": "英伟达\n\n\n\nNVIDIA发布开源模型Nemotron 3.5 Lightning\n\n据英伟达官方消息，NVIDIA近日推出开源模型Nemotron 3.5 Lightning，专为长时间运行的AI智能体执行层设计，旨在以更低成本和延迟处理高频任务。",
+    "keywords": [
+      "AI",
+      "智能"
+    ],
+    "date": "2026-08-12"
+  },
+  {
     "title": "Rippling与Runlayer围绕AI网关产品陷入专利互诉",
     "link": "https://www.pingwest.com/w/316371",
     "source": "品玩",
@@ -63,6 +120,17 @@
     "source": "品玩",
     "category": "funding",
     "summary": "融资\n\n\n\nRiver AI完成11亿美元融资 加速个人AI研发\n\nRiver AI官方宣布，完成11亿美元种子轮及A轮融资，由General Catalyst和AMP PBC领投，NVIDIA、AMD Ventures战略投资，Y Combinator和Temasek参投。",
+    "keywords": [
+      "AI"
+    ],
+    "date": "2026-08-12"
+  },
+  {
+    "title": "AI code-testing startup Blacksmith’s valuation jumps almost 10x in less than a year",
+    "link": "https://techcrunch.com/2026/08/12/blacksmiths-valuation-jumps-10x-to-550m-as-ai-coding-fuels-software-validation/",
+    "source": "TechCrunch",
+    "category": "funding",
+    "summary": "Blacksmith says revenue has grown more than tenfold over the past year.",
     "keywords": [
       "AI"
     ],
@@ -185,18 +253,6 @@
     "date": "2026-08-11"
   },
   {
-    "title": "千问办公助理正式推出付费服务",
-    "link": "https://www.pingwest.com/w/316328",
-    "source": "品玩",
-    "category": "other",
-    "summary": "千问\n\n\n\n千问办公助理正式推出付费服务\n\n据财联社报道，千问App近日面向专业用户推出办公助理付费方案，成为继豆包之后国内第二款探索付费服务的头部AI应用。",
-    "keywords": [
-      "AI",
-      "豆包"
-    ],
-    "date": "2026-08-11"
-  },
-  {
     "title": "Accel closes oversubscribed $550M India fund within weeks, 19 months after its last",
     "link": "https://techcrunch.com/2026/08/11/accel-closes-oversubscribed-550m-india-fund-within-weeks-19-months-after-its-last/",
     "source": "TechCrunch",
@@ -304,80 +360,6 @@
     "date": "2026-08-11"
   },
   {
-    "title": "纳米Work首批通过中国信通院办公智能体能力评估",
-    "link": "https://www.pingwest.com/w/316326",
-    "source": "品玩",
-    "category": "other",
-    "summary": "纳米\n\n\n\n纳米Work首批通过中国信通院办公智能体能力评估",
-    "keywords": [
-      "智能"
-    ],
-    "date": "2026-08-10"
-  },
-  {
-    "title": "阿里AI应用创作平Meoo上线团队版",
-    "link": "https://www.pingwest.com/w/316319",
-    "source": "品玩",
-    "category": "other",
-    "summary": "阿里巴巴\n\n\n\n阿里AI应用创作平Meoo上线团队版\n\n阿里AI应用创作平台Meoo（秒悟）近日正式上线团队版，面向团队及企业开放订阅，标志着Meoo从个人AI创作工具进一步扩展为组织级生产力工具。",
-    "keywords": [
-      "AI"
-    ],
-    "date": "2026-08-10"
-  },
-  {
-    "title": "NVIDIA发布开源全双工语音模型NemotronLabs VoiceChat 11B",
-    "link": "https://www.pingwest.com/w/316318",
-    "source": "品玩",
-    "category": "other",
-    "summary": "英伟达\n\n\n\nNVIDIA发布开源全双工语音模型NemotronLabs VoiceChat 11B\n\n据marktechpost 报道，NVIDIA近日发布开源端到端全双工语音对话模型NemotronLabs VoiceChat 11B，在统一网络中完成流式语音理解与生成，无需串联ASR、LLM和TTS等多个模型，大幅降低端到端延迟。",
-    "keywords": [
-      "LLM"
-    ],
-    "date": "2026-08-10"
-  },
-  {
-    "title": "OpenAI收购演示文稿初创公司NextSlide 团队并入ChatGPT",
-    "link": "https://www.pingwest.com/w/316316",
-    "source": "品玩",
-    "category": "other",
-    "summary": "OpenAI\n\n\n\nOpenAI收购演示文稿初创公司NextSlide 团队并入ChatGPT\n\n据 officechai 报道，OpenAI近日被曝已完成对演示文稿初创公司NextSlide的收购，其团队已整体并入ChatGPT开发部门。该交易实际于今年早些时候完成，财务条款未予披露。",
-    "keywords": [
-      "AI",
-      "OpenAI",
-      "GPT",
-      "ChatGPT"
-    ],
-    "date": "2026-08-10"
-  },
-  {
-    "title": "xAI发布Imagine Image 2.0 图像生成模型",
-    "link": "https://www.pingwest.com/w/316313",
-    "source": "品玩",
-    "category": "other",
-    "summary": "grok\n\n\n\nxAI发布Imagine Image 2.0 图像生成模型\n\n据 the-decoder 报道，xAI近日推出Imagine Image 2.0，该模型已作为“质量模式”在grok.com/imagine及Grok的iOS和Android应用中上线，API访问权限即将开放。",
-    "keywords": [
-      "AI",
-      "xAI",
-      "Grok"
-    ],
-    "date": "2026-08-10"
-  },
-  {
-    "title": "OpenAI取消ChatGPT文本对话限制 全面升级至GPT-5.6模型",
-    "link": "https://www.pingwest.com/w/316312",
-    "source": "品玩",
-    "category": "other",
-    "summary": "ChatGPT\n\n\n\nOpenAI取消ChatGPT文本对话限制 全面升级至GPT-5.6模型\n\n据 TechCrunch 报道，OpenAI近日宣布，将取消ChatGPT所有用户的文本对话次数限制。目前ChatGPT周活跃用户已突破10亿。",
-    "keywords": [
-      "AI",
-      "OpenAI",
-      "GPT",
-      "ChatGPT"
-    ],
-    "date": "2026-08-10"
-  },
-  {
     "title": "As AI-led attacks multiply, OpenAI launches a new cyber model",
     "link": "https://techcrunch.com/2026/08/10/as-ai-led-attacks-multiply-openai-launches-a-new-cyber-model/",
     "source": "TechCrunch",
@@ -478,18 +460,6 @@
     "summary": "AI has already had a significant impact on Amazon’s carbon emissions, which it reported were up 16% last year — the wrong direction for a company that pledged to eliminate its carbon emissions by 2040",
     "keywords": [
       "AI"
-    ],
-    "date": "2026-08-08"
-  },
-  {
-    "title": "OpenAI acquires presentation startup NextSlide",
-    "link": "https://techcrunch.com/2026/08/08/openai-acquires-presentation-startup-nextslide/",
-    "source": "TechCrunch",
-    "category": "other",
-    "summary": "Founder Ahmed Beshry describes the startup’s product as one “that could turn prompts, notes, documents, or research into a polished, editable presentation.”",
-    "keywords": [
-      "AI",
-      "OpenAI"
     ],
     "date": "2026-08-08"
   }
