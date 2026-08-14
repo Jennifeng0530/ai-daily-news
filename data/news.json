@@ -1,5 +1,114 @@
 [
   {
+    "title": "百度搭子位列全球AI Agent增速第一，月访问量增长845%",
+    "link": "https://www.pingwest.com/w/316443",
+    "source": "品玩",
+    "category": "other",
+    "summary": "百度\n\n\n\n百度搭子位列全球AI Agent增速第一，月访问量增长845%",
+    "keywords": [
+      "AI",
+      "Agent"
+    ],
+    "date": "2026-08-14"
+  },
+  {
+    "title": "玩了一夜DeepSeek Harness，我发现它在用《我的世界》的方式干掉Claude Code",
+    "link": "https://www.pingwest.com/a/316436",
+    "source": "品玩",
+    "category": "other",
+    "summary": "玩了一夜DeepSeek Harness，我发现它在用《我的世界》的方式干掉Claude Code\n\n迟早“harness”会最终消失",
+    "keywords": [
+      "Claude",
+      "DeepSeek"
+    ],
+    "date": "2026-08-14"
+  },
+  {
+    "title": "OpenAI推出ChatGPT Computer History功能",
+    "link": "https://www.pingwest.com/w/316437",
+    "source": "品玩",
+    "category": "other",
+    "summary": "ChatGPT\n\n\n\nOpenAI推出ChatGPT Computer History功能\n\n据 9to5Mac 报道，OpenAI推出Computer History功能，替代Chronicle研究预览版。该功能通过macOS辅助功能接口记录用户在选定应用和网站中的点击、输入、快捷键及应用切换等操作事件，构建可搜索的操作时间线。",
+    "keywords": [
+      "AI",
+      "OpenAI",
+      "GPT",
+      "ChatGPT"
+    ],
+    "date": "2026-08-14"
+  },
+  {
+    "title": "腾讯AI产品专项招聘启动，四大维度升级",
+    "link": "https://www.pingwest.com/w/316435",
+    "source": "品玩",
+    "category": "other",
+    "summary": "腾讯\n\n\n\n腾讯AI产品专项招聘启动，四大维度升级",
+    "keywords": [
+      "AI"
+    ],
+    "date": "2026-08-14"
+  },
+  {
+    "title": "X公开\"For You\"推荐算法源代码",
+    "link": "https://www.pingwest.com/w/316434",
+    "source": "品玩",
+    "category": "other",
+    "summary": "xAI\n\n\n\nX公开\"For You\"推荐算法源代码\n\n据 cryptobriefing 报道，X于1月20日在GitHub发布\"For You\"推荐算法的完整源代码，托管于xai-org/x-algorithm仓库，以Rust和Python重写，取代2023年公开的旧版Scala代码。",
+    "keywords": [
+      "AI",
+      "xAI",
+      "算法"
+    ],
+    "date": "2026-08-14"
+  },
+  {
+    "title": "Writer发布Palmyra X6模型，聚焦企业部署降本",
+    "link": "https://www.pingwest.com/w/316433",
+    "source": "品玩",
+    "category": "other",
+    "summary": "AI工具\n\n\n\nWriter发布Palmyra X6模型，聚焦企业部署降本\n\n据TechCrunch 报道，Writer于周四发布旗舰模型Palmyra X6，面向营销领域的AI工具与智能体场景。",
+    "keywords": [
+      "AI",
+      "智能"
+    ],
+    "date": "2026-08-14"
+  },
+  {
+    "title": "Google发布Gemini 3.7 Flash模型",
+    "link": "https://www.pingwest.com/w/316432",
+    "source": "品玩",
+    "category": "other",
+    "summary": "GEMINI\n\n\n\nGoogle发布Gemini 3.7 Flash模型\n\n据9to5Google报道，谷歌近日发布Gemini 3.7 Flash模型，距上一版本发布仅三周。该模型基于开发者反馈与算法创新打造，在软件工程、网页开发及知识工作等领域均有显著提升。",
+    "keywords": [
+      "Gemini",
+      "算法"
+    ],
+    "date": "2026-08-14"
+  },
+  {
+    "title": "Anthropic投资者预计IPO估值将超2万亿美元",
+    "link": "https://www.pingwest.com/w/316429",
+    "source": "品玩",
+    "category": "key_news",
+    "summary": "Anthropic\n\n\n\nAnthropic投资者预计IPO估值将超2万亿美元\n\n据seekingalpha报道，Anthropic多位投资者表示，这家AI实验室预计最快将于今年10月启动首次公开募股，估值有望达到2万亿美元甚至更高。",
+    "keywords": [
+      "AI",
+      "Anthropic"
+    ],
+    "date": "2026-08-14"
+  },
+  {
+    "title": "DeepSeek Harness 开放测试",
+    "link": "https://www.pingwest.com/w/316428",
+    "source": "品玩",
+    "category": "other",
+    "summary": "DEEPseek\n\n\n\nDeepSeek Harness 开放测试\n\n据DeepSeek Harness 团队消息，DeepSeek Harness 开发者预览版（v0.1）现已面向全球开发者开放测试，并以 MIT 协议开源。",
+    "keywords": [
+      "DeepSeek"
+    ],
+    "date": "2026-08-14"
+  },
+  {
     "title": "2026腾讯广告算法大赛收官，顶尖高校获奖选手亮相国际顶会KDD",
     "link": "https://www.pingwest.com/w/316416",
     "source": "品玩",
@@ -143,6 +252,101 @@
     "date": "2026-08-13"
   },
   {
+    "title": "Writer introduces new AI model and upgraded harness to contain token costs",
+    "link": "https://techcrunch.com/2026/08/13/writer-introduces-new-ai-model-and-upgraded-harness-to-contain-token-costs/",
+    "source": "TechCrunch",
+    "category": "other",
+    "summary": "Built as a post-training variation on Z.ai's open source model GLM-5.2, Writer says the new system should provide deployment-ready capabilities at a much lower price.",
+    "keywords": [
+      "AI"
+    ],
+    "date": "2026-08-13"
+  },
+  {
+    "title": "Databricks wanted to raise $1B, investors wanted $15B. It settled on $5B at a $190B valuation.",
+    "link": "https://techcrunch.com/2026/08/13/databricks-wanted-to-raise-1b-investors-wanted-15b-it-settled-on-5b-at-a-190b-valuation/",
+    "source": "TechCrunch",
+    "category": "funding",
+    "summary": "AI is expensive, Ali Ghodsi tells TechCrunch. With so many investors wanting into his latest round, he said yes to more than planned.",
+    "keywords": [
+      "AI"
+    ],
+    "date": "2026-08-13"
+  },
+  {
+    "title": "OpenAI introduces ‘Ultrafast,’ a new mode that makes GPT-5.6 Sol work at 14x the speed",
+    "link": "https://techcrunch.com/2026/08/13/openai-introduces-ultrafast-a-new-mode-that-makes-gpt-5-6-sol-work-at-14x-the-speed/",
+    "source": "TechCrunch",
+    "category": "other",
+    "summary": "OpenAI is launching a preview of a sped up version of its latest, most powerful model, in an effort to court enterprise users.",
+    "keywords": [
+      "AI",
+      "OpenAI",
+      "GPT"
+    ],
+    "date": "2026-08-13"
+  },
+  {
+    "title": "IBM partners with OpenAI to bolster enterprise AI push",
+    "link": "https://techcrunch.com/2026/08/13/ibm-partners-with-openai-to-bolster-enterprise-ai-push/",
+    "source": "TechCrunch",
+    "category": "other",
+    "summary": "IBM plans to train and certify tens of thousands of consultants on OpenAI's technologies as part of this deal.",
+    "keywords": [
+      "AI",
+      "OpenAI"
+    ],
+    "date": "2026-08-13"
+  },
+  {
+    "title": "Anthropic set AI agents loose on the same task. They started a turf war.",
+    "link": "https://techcrunch.com/2026/08/13/anthropic-set-ai-agents-loose-on-the-same-task-they-started-a-turf-war/",
+    "source": "TechCrunch",
+    "category": "other",
+    "summary": "Anthropic researchers found AI agents can clash, collude, and coordinate in unexpected ways, raising new questions about whether today’s safety tests capture the risks of multi-agent systems.",
+    "keywords": [
+      "AI",
+      "Agent",
+      "Anthropic"
+    ],
+    "date": "2026-08-13"
+  },
+  {
+    "title": "OpenAI hires new CRO as executive shake-up continues",
+    "link": "https://techcrunch.com/2026/08/13/openai-hires-new-cro-as-executive-shake-up-continues/",
+    "source": "TechCrunch",
+    "category": "other",
+    "summary": "OpenAI has replaced chief revenue officer Denise Dresser after just nine months on the job, tapping Wiz president and chief operating officer Dali Rajic to take on frontier lab's top sales job.",
+    "keywords": [
+      "AI",
+      "OpenAI"
+    ],
+    "date": "2026-08-13"
+  },
+  {
+    "title": "Microsoft kills off unsuccessful AI features while merging its separate Copilot apps",
+    "link": "https://techcrunch.com/2026/08/13/microsoft-kills-off-unsuccessful-ai-features-while-merging-its-separate-copilot-apps/",
+    "source": "TechCrunch",
+    "category": "other",
+    "summary": "Microsoft is simplifying Copilot by combining its consumer and business apps, and dropping AI-generated podcasts, Group Chats, Deep Research, and its Mico character.",
+    "keywords": [
+      "AI",
+      "Copilot"
+    ],
+    "date": "2026-08-13"
+  },
+  {
+    "title": "Nvidia’s new $500B plan is risky but brilliant, especially for aging GPUs",
+    "link": "https://techcrunch.com/2026/08/13/nvidias-new-500b-plan-is-risky-but-brilliant-especially-for-aging-gpus/",
+    "source": "TechCrunch",
+    "category": "other",
+    "summary": "Nvidia has a plan to make sure its GPUs won't lose value. It wants to convince a new crop of financiers to keep lending for AI buildouts.",
+    "keywords": [
+      "AI"
+    ],
+    "date": "2026-08-13"
+  },
+  {
     "title": "引领智能手机迈入具身交互时代 全球首款机器人手机荣耀Robot Phone发布",
     "link": "https://www.pingwest.com/w/316391",
     "source": "品玩",
@@ -162,99 +366,6 @@
     "summary": "影石Insta360\n\n\n\nInsta360 X6 全景相机上手：影石要把拍摄和剪辑全都交给 AI\n\n先记录，剩下的交给 AI。",
     "keywords": [
       "AI"
-    ],
-    "date": "2026-08-12"
-  },
-  {
-    "title": "腾讯Q2营收同比增11%，全线推进AI",
-    "link": "https://www.pingwest.com/w/316386",
-    "source": "品玩",
-    "category": "other",
-    "summary": "腾讯\n\n\n\n腾讯Q2营收同比增11%，全线推进AI",
-    "keywords": [
-      "AI"
-    ],
-    "date": "2026-08-12"
-  },
-  {
-    "title": "MAI-Code-1.1-Flash正式投入生产，代码质量与效率显著提升",
-    "link": "https://www.pingwest.com/w/316375",
-    "source": "品玩",
-    "category": "other",
-    "summary": "微软\n\n\n\nMAI-Code-1.1-Flash正式投入生产，代码质量与效率显著提升\n\n据微软官方消息，MAI-Code-1.1-Flash现已在GitHub Copilot中正式投入生产。相较于今年6月Microsoft Build上发布的1.0版本，该模型在代码质量、推理效率和成本方面均实现显著优化。",
-    "keywords": [
-      "AI",
-      "Copilot"
-    ],
-    "date": "2026-08-12"
-  },
-  {
-    "title": "IBM与Together AI达成合作，将部署NVIDIA AI基础设施",
-    "link": "https://www.pingwest.com/w/316374",
-    "source": "品玩",
-    "category": "other",
-    "summary": "IBM\n\n\n\nIBM与Together AI达成合作，将部署NVIDIA AI基础设施\n\n据 PRNews 报道，IBM宣布与Together AI达成一项为期多年、价值2.4亿美元的合作协议，旨在通过部署NVIDIA AI基础设施，扩展开源AI推理服务。",
-    "keywords": [
-      "AI"
-    ],
-    "date": "2026-08-12"
-  },
-  {
-    "title": "NVIDIA发布开源模型Nemotron 3.5 Lightning",
-    "link": "https://www.pingwest.com/w/316373",
-    "source": "品玩",
-    "category": "other",
-    "summary": "英伟达\n\n\n\nNVIDIA发布开源模型Nemotron 3.5 Lightning\n\n据英伟达官方消息，NVIDIA近日推出开源模型Nemotron 3.5 Lightning，专为长时间运行的AI智能体执行层设计，旨在以更低成本和延迟处理高频任务。",
-    "keywords": [
-      "AI",
-      "智能"
-    ],
-    "date": "2026-08-12"
-  },
-  {
-    "title": "Rippling与Runlayer围绕AI网关产品陷入专利互诉",
-    "link": "https://www.pingwest.com/w/316371",
-    "source": "品玩",
-    "category": "other",
-    "summary": "runlayer\n\n\n\nRippling与Runlayer围绕AI网关产品陷入专利互诉\n\n据 TechCrunch 报道，HR软件公司Rippling于本周一提起诉讼，指控AI基础设施初创公司Runlayer侵犯其三项专利。此前一个月，Runlayer已率先起诉Rippling，指控其违约并窃取产品创意。",
-    "keywords": [
-      "AI"
-    ],
-    "date": "2026-08-12"
-  },
-  {
-    "title": "miHoYo宣布AI陪伴软件BSide: Olivia Lin将于8月31日停止服务",
-    "link": "https://www.pingwest.com/w/316369",
-    "source": "品玩",
-    "category": "other",
-    "summary": "AI数字人\n\n\n\nmiHoYo宣布AI陪伴软件BSide: Olivia Lin将于8月31日停止服务\n\n据 gamegeeker 报道，miHoYo于8月11日发布公告，AI桌面陪伴软件BSide: Olivia Lin将于2026年8月31日15:00正式关闭服务器，并从Steam下架。该软件于7月13日上线Steam抢先体验，运营周期约一个月。",
-    "keywords": [
-      "AI"
-    ],
-    "date": "2026-08-12"
-  },
-  {
-    "title": "Gemini应用月活跃用户突破10亿",
-    "link": "https://www.pingwest.com/w/316366",
-    "source": "品玩",
-    "category": "other",
-    "summary": "GEMINI\n\n\n\nGemini应用月活跃用户突破10亿\n\n据 9to5 Google 报道，Google宣布，Gemini应用月活跃用户已突破10亿，成为公司历史上增长最快的产品，也是继Search、Gmail、Android、Maps、Chrome、Play和YouTube之后，第14款达到该里程碑的产品。",
-    "keywords": [
-      "AI",
-      "Gemini"
-    ],
-    "date": "2026-08-12"
-  },
-  {
-    "title": "Meta发布AI战略声明 推进开放模型路线",
-    "link": "https://www.pingwest.com/w/316364",
-    "source": "品玩",
-    "category": "other",
-    "summary": "META\n\n\n\nMeta发布AI战略声明 推进开放模型路线\n\n据 The Motely Fool 报道，Meta首席执行官Mark Zuckerberg于本周一发表题为《未来属于每一个人》的公开信，系统阐述公司在人工智能领域的战略方向。",
-    "keywords": [
-      "AI",
-      "人工智能",
-      "智能"
     ],
     "date": "2026-08-12"
   },
@@ -382,111 +493,5 @@
       "Gemini"
     ],
     "date": "2026-08-12"
-  },
-  {
-    "title": "AI code-testing startup Blacksmith’s valuation jumps almost 10x in less than a year",
-    "link": "https://techcrunch.com/2026/08/12/blacksmiths-valuation-jumps-10x-to-550m-as-ai-coding-fuels-software-validation/",
-    "source": "TechCrunch",
-    "category": "funding",
-    "summary": "Blacksmith says revenue has grown more than tenfold over the past year.",
-    "keywords": [
-      "AI"
-    ],
-    "date": "2026-08-12"
-  },
-  {
-    "title": "Accel closes oversubscribed $550M India fund within weeks, 19 months after its last",
-    "link": "https://techcrunch.com/2026/08/11/accel-closes-oversubscribed-550m-india-fund-within-weeks-19-months-after-its-last/",
-    "source": "TechCrunch",
-    "category": "other",
-    "summary": "The U.S. VC firm still has more than 55% of its previous $650 million India fund available for deployment.",
-    "keywords": [
-      "AI"
-    ],
-    "date": "2026-08-11"
-  },
-  {
-    "title": "OpenAI launches ChatGPT desktop app for Linux",
-    "link": "https://techcrunch.com/2026/08/11/openai-launches-chatgpt-desktop-app-for-linux/",
-    "source": "TechCrunch",
-    "category": "other",
-    "summary": "OpenAI is finally bringing a dedicated ChatGPT desktop app to Linux operating systems.",
-    "keywords": [
-      "AI",
-      "OpenAI",
-      "GPT",
-      "ChatGPT"
-    ],
-    "date": "2026-08-11"
-  },
-  {
-    "title": "Google’s Gemini app surges to 1 billion users",
-    "link": "https://techcrunch.com/2026/08/11/googles-gemini-app-surges-to-one-billion-users/",
-    "source": "TechCrunch",
-    "category": "funding",
-    "summary": "Google also shared numbers of how people are actually using the chatbot, with 63% of Gemini users talking directly to the assistant using the voice feature. Plus, Gemini now generates more than 150 mi",
-    "keywords": [
-      "Gemini"
-    ],
-    "date": "2026-08-11"
-  },
-  {
-    "title": "Brad Lightcap, OpenAI’s longtime COO, is leaving to ‘start something new’",
-    "link": "https://techcrunch.com/2026/08/11/brad-lightcap-openais-longtime-coo-is-leaving-to-start-something-new/",
-    "source": "TechCrunch",
-    "category": "other",
-    "summary": "One of OpenAI's longest-serving executives is headed out the door, although the longtime COO told staff that he was \"excited to help you all advance the mission from a different vantage point.\"",
-    "keywords": [
-      "AI",
-      "OpenAI"
-    ],
-    "date": "2026-08-11"
-  },
-  {
-    "title": "General Catalyst leads $1.1B round into 2-month-old River AI",
-    "link": "https://techcrunch.com/2026/08/11/general-catalyst-leads-1-1b-round-into-2-month-old-river-ai/",
-    "source": "TechCrunch",
-    "category": "other",
-    "summary": "River AI, a startup founded by xAI co-founder Igor Babuschkin, has a fascinating vision for personal agents and secured $1.1 billion out of the gate.",
-    "keywords": [
-      "AI",
-      "Agent",
-      "xAI"
-    ],
-    "date": "2026-08-11"
-  },
-  {
-    "title": "An unreleased Anthropic model made progress on one of math’s biggest unsolved problems",
-    "link": "https://techcrunch.com/2026/08/11/an-unreleased-anthropic-model-made-progress-on-one-of-maths-biggest-unsolved-problems/",
-    "source": "TechCrunch",
-    "category": "other",
-    "summary": "For more than 150 years, the Riemann hypothesis has stood as one of the major unsolved problems in mathematics. Anthropic hasn't solved it — but the company's models made more progress than you might ",
-    "keywords": [
-      "Anthropic"
-    ],
-    "date": "2026-08-11"
-  },
-  {
-    "title": "Spotify will label ‘AI Persona’ profiles and exclude their music from recommendations",
-    "link": "https://techcrunch.com/2026/08/11/spotify-will-label-ai-persona-profiles-and-exclude-their-music-from-recommendations/",
-    "source": "TechCrunch",
-    "category": "other",
-    "summary": "Spotify is introducing “AI Persona” labels for artist profiles that represent AI-generated identities and will exclude their music from editorial, algorithmic, and personalized recommendations by defa",
-    "keywords": [
-      "AI"
-    ],
-    "date": "2026-08-11"
-  },
-  {
-    "title": "Anthropic says it will watermark text generated by its AI models",
-    "link": "https://techcrunch.com/2026/08/11/anthropic-says-it-will-watermark-text-generated-by-its-ai-models/",
-    "source": "TechCrunch",
-    "category": "other",
-    "summary": "Anthropic will extend support for watermarking AI generations for older models as well.",
-    "keywords": [
-      "AI",
-      "Anthropic"
-    ],
-    "date": "2026-08-11"
   }
 ]
