@@ -1,5 +1,50 @@
 [
   {
+    "title": "Stripe拟逾70亿美元收购OpenRouter",
+    "link": "https://www.pingwest.com/w/316495",
+    "source": "品玩",
+    "category": "other",
+    "summary": "OpenRouter\n\n\n\nStripe拟逾70亿美元收购OpenRouter\n\n据techcrunch报道，Stripe已敲定收购AI网关初创公司OpenRouter的交易，价格超过70亿美元。此前The Wall Street Journal曾披露双方正在洽谈，Stripe方面对TechCrunch表示不对传闻或猜测发表评论。",
+    "keywords": [
+      "AI"
+    ],
+    "date": "2026-08-17"
+  },
+  {
+    "title": "SpaceX正式完成Cursor收购",
+    "link": "https://www.pingwest.com/w/316487",
+    "source": "品玩",
+    "category": "other",
+    "summary": "cursor\n\n\n\nSpaceX正式完成Cursor收购\n\nAI编程初创公司Cursor已在官方博客宣布，正式并入SpaceX。此前，SpaceX于今年4月宣布与Cursor达成合作开发协议，并获得以600亿美元收购Cursor的选择权。两个月后，随着SpaceX完成上市，双方确认推进收购事宜。",
+    "keywords": [
+      "AI"
+    ],
+    "date": "2026-08-17"
+  },
+  {
+    "title": "Nvidia拟投资S Energy，支持OpenAI数据中心建设",
+    "link": "https://www.pingwest.com/w/316479",
+    "source": "品玩",
+    "category": "other",
+    "summary": "英伟达\n\n\n\nNvidia拟投资S Energy，支持OpenAI数据中心建设\n\n据briefs报道，Nvidia正与OpenAI及SB Energy就约30亿美元投资事宜进行磋商，资金将用于支持OpenAI在俄亥俄州的大型数据中心项目。",
+    "keywords": [
+      "AI",
+      "OpenAI"
+    ],
+    "date": "2026-08-17"
+  },
+  {
+    "title": "七鲜咖啡24小时机器人店开业，外国友人到店打卡点赞好味道",
+    "link": "https://www.pingwest.com/w/316477",
+    "source": "品玩",
+    "category": "other",
+    "summary": "七鲜\n\n\n\n七鲜咖啡24小时机器人店开业，外国友人到店打卡点赞好味道",
+    "keywords": [
+      "机器人"
+    ],
+    "date": "2026-08-16"
+  },
+  {
     "title": "荣耀阿尔法全球旗舰店焕新启幕 打造沉浸式AI科技乐园",
     "link": "https://www.pingwest.com/w/316476",
     "source": "品玩",
@@ -7,6 +52,40 @@
     "summary": "荣耀\n\n\n\n荣耀阿尔法全球旗舰店焕新启幕 打造沉浸式AI科技乐园\n\n8月15日，荣耀阿尔法全球旗舰店正式焕新启幕，完成门店IP化与AI场景化的全面升级。",
     "keywords": [
       "AI"
+    ],
+    "date": "2026-08-16"
+  },
+  {
+    "title": "Stripe will reportedly acquire AI gateway startup OpenRouter for $7B+",
+    "link": "https://techcrunch.com/2026/08/16/stripe-will-reportedly-acquire-ai-gateway-startup-openrouter-for-7b/",
+    "source": "TechCrunch",
+    "category": "other",
+    "summary": "OpenRouter's CEO recently described the startup as Stripe for AI.",
+    "keywords": [
+      "AI"
+    ],
+    "date": "2026-08-16"
+  },
+  {
+    "title": "Why people aren’t buying Mark Zuckerberg’s AI future",
+    "link": "https://techcrunch.com/2026/08/16/why-people-arent-buying-mark-zuckerbergs-ai-future/",
+    "source": "TechCrunch",
+    "category": "other",
+    "summary": "On the latest episode of Equity podcast, we discuss why not everyone is buying Zuckerberg’s vision.",
+    "keywords": [
+      "AI"
+    ],
+    "date": "2026-08-16"
+  },
+  {
+    "title": "Anthropic CEO says AI backlash is ‘fundamentally a crisis of trust’",
+    "link": "https://techcrunch.com/2026/08/16/anthropic-ceo-says-ai-backlash-is-fundamentally-a-crisis-of-trust/",
+    "source": "TechCrunch",
+    "category": "other",
+    "summary": "Dario Amodei is pushing back against the idea that he's been painting an overly pessimistic picture of AI.",
+    "keywords": [
+      "AI",
+      "Anthropic"
     ],
     "date": "2026-08-16"
   },
@@ -293,78 +372,6 @@
     "date": "2026-08-13"
   },
   {
-    "title": "腾讯Q2 模型+产品双线突破，AI投入再加码！",
-    "link": "https://www.pingwest.com/v/316403",
-    "source": "品玩",
-    "category": "other",
-    "summary": "腾讯\n\n\n\n腾讯Q2 模型+产品双线突破，AI投入再加码！",
-    "keywords": [
-      "AI"
-    ],
-    "date": "2026-08-13"
-  },
-  {
-    "title": "Google发布Pixel Watch 5，搭载全新健康监测功能",
-    "link": "https://www.pingwest.com/w/316400",
-    "source": "品玩",
-    "category": "other",
-    "summary": "谷歌\n\n\n\nGoogle发布Pixel Watch 5，搭载全新健康监测功能\n\n据 TechCrunch 报道，Google于8月13日发布Pixel Watch 5智能手表，起售价399美元。新款手表搭载高通Snapdragon W5 Gen 2平台，整体性能提升20%，电池续航最长可达40小时。",
-    "keywords": [
-      "智能"
-    ],
-    "date": "2026-08-13"
-  },
-  {
-    "title": "SpaceXAI发布Grok 4.6，对标OpenAI与Anthropic前沿模型",
-    "link": "https://www.pingwest.com/w/316398",
-    "source": "品玩",
-    "category": "other",
-    "summary": "grok\n\n\n\nSpaceXAI发布Grok 4.6，对标OpenAI与Anthropic前沿模型\n\n据 9to5mac报道，SpaceXAI于8月12日正式发布其最新旗舰模型Grok 4.6，旨在提升其在AI智能体、编码及知识工作领域的竞争力。",
-    "keywords": [
-      "AI",
-      "OpenAI",
-      "Anthropic",
-      "xAI",
-      "Grok"
-    ],
-    "date": "2026-08-13"
-  },
-  {
-    "title": "旅行场景正成为AI落地最严厉的父亲",
-    "link": "https://www.pingwest.com/a/316389",
-    "source": "品玩",
-    "category": "other",
-    "summary": "旅行场景正成为AI落地最严厉的父亲\n\n一切需要更多耐心。",
-    "keywords": [
-      "AI"
-    ],
-    "date": "2026-08-13"
-  },
-  {
-    "title": "Spotify将推出“AI Persona”标识，强化艺术家身份透明度",
-    "link": "https://www.pingwest.com/w/316396",
-    "source": "品玩",
-    "category": "other",
-    "summary": "Spotify\n\n\n\nSpotify将推出“AI Persona”标识，强化艺术家身份透明度\n\n据 Spotify官方宣布，将从9月中旬起为部分艺术家主页添加“AI Persona”标识，以明确区分AI生成的虚拟艺人与真实人类艺术家，提升音乐服务的透明度与可信度。",
-    "keywords": [
-      "AI"
-    ],
-    "date": "2026-08-13"
-  },
-  {
-    "title": "SpaceXAI推出Grok Bot，布局“全天候”AI同事",
-    "link": "https://www.pingwest.com/w/316395",
-    "source": "品玩",
-    "category": "other",
-    "summary": "spacexAI\n\n\n\nSpaceXAI推出Grok Bot，布局“全天候”AI同事\n\n据 datacamp 报道，SpaceXAI于8月11日推出Grok Bot测试版，该产品围绕“全天候”AI同事构建，旨在将AI从问答工具转变为可委托实际工作的执行者。",
-    "keywords": [
-      "AI",
-      "xAI",
-      "Grok"
-    ],
-    "date": "2026-08-13"
-  },
-  {
     "title": "Writer introduces new AI model and upgraded harness to contain token costs",
     "link": "https://techcrunch.com/2026/08/13/writer-introduces-new-ai-model-and-upgraded-harness-to-contain-token-costs/",
     "source": "TechCrunch",
@@ -458,40 +465,5 @@
       "AI"
     ],
     "date": "2026-08-13"
-  },
-  {
-    "title": "Some Claude users are mad that Anthropic’s new watermarks will catch them using it at their jobs, classes",
-    "link": "https://techcrunch.com/2026/08/12/some-claude-users-are-mad-that-anthropics-new-watermarks-will-catch-them-cheating-at-their-jobs-classes/",
-    "source": "TechCrunch",
-    "category": "other",
-    "summary": "Is Anthropic's new watermarking system a travesty? Some have taken to social media to complain that it is.",
-    "keywords": [
-      "AI",
-      "Anthropic",
-      "Claude"
-    ],
-    "date": "2026-08-12"
-  },
-  {
-    "title": "Amazon will train on Twitch streamers’ content by default, unless they opt out",
-    "link": "https://techcrunch.com/2026/08/12/amazon-will-train-on-twitch-streamers-content-by-default-unless-they-opt-out/",
-    "source": "TechCrunch",
-    "category": "other",
-    "summary": "\"If this was opt-in, nobody would opt in,\" Twitch CPO Mike Minton said on a livestream responding to user feedback. \"That's honestly the answer.\"",
-    "keywords": [
-      "AI"
-    ],
-    "date": "2026-08-12"
-  },
-  {
-    "title": "AI coding startup Cognition reportedly already in talks to raise at $40B valuation",
-    "link": "https://techcrunch.com/2026/08/12/ai-coding-startup-cognition-reportedly-already-in-talks-to-raise-at-40b-valuation/",
-    "source": "TechCrunch",
-    "category": "funding",
-    "summary": "Cognition may be looking to raise another mega round just a few months after raising $1 billion at a $26 billion valuation.",
-    "keywords": [
-      "AI"
-    ],
-    "date": "2026-08-12"
   }
 ]
