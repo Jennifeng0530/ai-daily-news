@@ -1,5 +1,84 @@
 [
   {
+    "title": "人人都能写好听的歌，阿里发布AI音乐模型HappyShrimp",
+    "link": "https://www.pingwest.com/w/316518",
+    "source": "品玩",
+    "category": "other",
+    "summary": "阿里\n\n\n\n人人都能写好听的歌，阿里发布AI音乐模型HappyShrimp",
+    "keywords": [
+      "AI"
+    ],
+    "date": "2026-08-17"
+  },
+  {
+    "title": "共生知行发布人形机器人赛车Demo：以卡丁车测试双足机器人的“全身智能”",
+    "link": "https://www.pingwest.com/w/316517",
+    "source": "品玩",
+    "category": "other",
+    "summary": "共生知行\n\n\n\n共生知行发布人形机器人赛车Demo：以卡丁车测试双足机器人的“全身智能”",
+    "keywords": [
+      "机器人",
+      "智能"
+    ],
+    "date": "2026-08-17"
+  },
+  {
+    "title": "周鸿祎发布全员信：360启动AI时代组织变革，用领导力驱动AI原生转型",
+    "link": "https://www.pingwest.com/w/316512",
+    "source": "品玩",
+    "category": "other",
+    "summary": "360\n\n\n\n周鸿祎发布全员信：360启动AI时代组织变革，用领导力驱动AI原生转型\n\n8月17日，360集团创始人周鸿祎发布全员信。",
+    "keywords": [
+      "AI"
+    ],
+    "date": "2026-08-17"
+  },
+  {
+    "title": "蚂蚁集团 CEO 韩歆毅：智能体商业将在6至12个月内爆发",
+    "link": "https://www.pingwest.com/w/316508",
+    "source": "品玩",
+    "category": "other",
+    "summary": "蚂蚁集团\n\n\n\n蚂蚁集团 CEO 韩歆毅：智能体商业将在6至12个月内爆发",
+    "keywords": [
+      "智能"
+    ],
+    "date": "2026-08-17"
+  },
+  {
+    "title": "AI如何落地？全球化怎么走？9月新加坡，1500位决策者给你一个答案",
+    "link": "https://www.pingwest.com/a/316501",
+    "source": "品玩",
+    "category": "other",
+    "summary": "AI如何落地？全球化怎么走？9月新加坡，1500位决策者给你一个答案",
+    "keywords": [
+      "AI"
+    ],
+    "date": "2026-08-17"
+  },
+  {
+    "title": "Google允许用户移除AI生成内容可见水印",
+    "link": "https://www.pingwest.com/w/316506",
+    "source": "品玩",
+    "category": "other",
+    "summary": "谷歌\n\n\n\nGoogle允许用户移除AI生成内容可见水印\n\n据TechCrunch 报道，Google周五宣布，用户现可移除其AI生成内容中的可见水印，涵盖图像、视频及音频。公司强调，此举不影响不可见的SynthID水印及C2PA标准相关元数据。",
+    "keywords": [
+      "AI"
+    ],
+    "date": "2026-08-17"
+  },
+  {
+    "title": "Anthropic发文说明Claude文本水印机制",
+    "link": "https://www.pingwest.com/w/316502",
+    "source": "品玩",
+    "category": "other",
+    "summary": "Anthropic\n\n\n\nAnthropic发文说明Claude文本水印机制\n\n据 TechCrcunch报道，Anthropic周五发布博客文章，回应外界对Claude文本水印机制的关注。",
+    "keywords": [
+      "Anthropic",
+      "Claude"
+    ],
+    "date": "2026-08-17"
+  },
+  {
     "title": "Stripe拟逾70亿美元收购OpenRouter",
     "link": "https://www.pingwest.com/w/316495",
     "source": "品玩",
@@ -258,17 +337,6 @@
     "date": "2026-08-14"
   },
   {
-    "title": "DeepSeek Harness 开放测试",
-    "link": "https://www.pingwest.com/w/316428",
-    "source": "品玩",
-    "category": "other",
-    "summary": "DEEPseek\n\n\n\nDeepSeek Harness 开放测试\n\n据DeepSeek Harness 团队消息，DeepSeek Harness 开发者预览版（v0.1）现已面向全球开发者开放测试，并以 MIT 协议开源。",
-    "keywords": [
-      "DeepSeek"
-    ],
-    "date": "2026-08-14"
-  },
-  {
     "title": "Google will now allow users to remove visible watermark from its AI generations",
     "link": "https://techcrunch.com/2026/08/14/google-will-now-allow-users-to-remove-visible-watermark-from-its-ai-generations/",
     "source": "TechCrunch",
@@ -322,54 +390,6 @@
       "AI"
     ],
     "date": "2026-08-14"
-  },
-  {
-    "title": "2026腾讯广告算法大赛收官，顶尖高校获奖选手亮相国际顶会KDD",
-    "link": "https://www.pingwest.com/w/316416",
-    "source": "品玩",
-    "category": "other",
-    "summary": "腾讯\n\n\n\n2026腾讯广告算法大赛收官，顶尖高校获奖选手亮相国际顶会KDD",
-    "keywords": [
-      "算法"
-    ],
-    "date": "2026-08-13"
-  },
-  {
-    "title": "Google DeepMind发布手语转文字模型SL2T",
-    "link": "https://www.pingwest.com/w/316415",
-    "source": "品玩",
-    "category": "other",
-    "summary": "DeepMind\n\n\n\nGoogle DeepMind发布手语转文字模型SL2T\n\n据 aichatdaily 报道，Google DeepMind于今日正式发布手语转文字翻译模型SL2T，该模型已内置于Pixel 11的Gboard和Live Transcribe中，标志着手语AI首次进入主流消费级产品。",
-    "keywords": [
-      "AI",
-      "DeepMind"
-    ],
-    "date": "2026-08-13"
-  },
-  {
-    "title": "Anthropic将为AI生成内容添加水印以符合欧盟法规",
-    "link": "https://www.pingwest.com/w/316413",
-    "source": "品玩",
-    "category": "other",
-    "summary": "Claude\n\n\n\nAnthropic将为AI生成内容添加水印以符合欧盟法规\n\n据 TechCrunch 报道，Anthropic宣布，将为其模型（包括Claude）生成的文本添加水印，以遵守欧盟《AI法案》透明度准则。该准则已于8月2日生效，要求AI公司对生成或编辑的内容进行标识，以便其他系统识别。",
-    "keywords": [
-      "AI",
-      "Anthropic",
-      "Claude"
-    ],
-    "date": "2026-08-13"
-  },
-  {
-    "title": "天猫上线「AI生意管家·新商版」，AI助力新品牌经营效率提升70%",
-    "link": "https://www.pingwest.com/w/316405",
-    "source": "品玩",
-    "category": "other",
-    "summary": "天猫\n\n\n\n天猫上线「AI生意管家·新商版」，AI助力新品牌经营效率提升70%\n\n近期，天猫全面上线电商经营Agent产品「AI生意管家·新商版」，面向入驻天猫一年内的新商家全量开放，商家可在“生意管家”官网下载使用。",
-    "keywords": [
-      "AI",
-      "Agent"
-    ],
-    "date": "2026-08-13"
   },
   {
     "title": "Writer introduces new AI model and upgraded harness to contain token costs",
