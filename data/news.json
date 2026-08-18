@@ -1,5 +1,83 @@
 [
   {
+    "title": "Serve Robotics与Grubhub达成合作，自动驾驶配送机器人接入Grubhub订单网络",
+    "link": "https://www.pingwest.com/w/316549",
+    "source": "品玩",
+    "category": "other",
+    "summary": "机器人\n\n\n\nServe Robotics与Grubhub达成合作，自动驾驶配送机器人接入Grubhub订单网络\n\n据unite 报道，Serve Robotics与Grubhub于8月17日宣布达成合作，Serve的自动驾驶人行道配送机器人正式接入Grubhub订单网络，首批在芝加哥、洛杉矶及弗吉尼亚州亚历山大上线。芝加哥已有超100家、洛杉矶近200家Grubhub合作商户接入，后续将有更多餐",
+    "keywords": [
+      "机器人",
+      "自动驾驶"
+    ],
+    "date": "2026-08-18"
+  },
+  {
+    "title": "Round Hill Music起诉Suno与Anthropic侵犯版权",
+    "link": "https://www.pingwest.com/w/316547",
+    "source": "品玩",
+    "category": "other",
+    "summary": "Suno\n\n\n\nRound Hill Music起诉Suno与Anthropic侵犯版权\n\n据 TMCnet 报道，音乐版权管理公司Round Hill Music L.P.近日对Suno与Anthropic提起版权侵权诉讼。",
+    "keywords": [
+      "Anthropic"
+    ],
+    "date": "2026-08-18"
+  },
+  {
+    "title": "Mureka发布新一代AI音乐生成模型V9.5",
+    "link": "https://www.pingwest.com/w/316546",
+    "source": "品玩",
+    "category": "other",
+    "summary": "昆仑万维\n\n\n\nMureka发布新一代AI音乐生成模型V9.5\n\n据昆仑万维官方消息，Mureka今日正式发布新一代AI音乐生成模型V9.5。该模型基于MusiCoT（Music Chain-of-Thought，音乐思维链）框架，在生成音频前构建完整音乐逻辑，从全曲结构到局部表达进行系统化组织，强调编配留白、人声自然与情绪克制，追求真实感与耐听度。",
+    "keywords": [
+      "AI"
+    ],
+    "date": "2026-08-18"
+  },
+  {
+    "title": "Anthropic新模型Model 2内部评估达标，暂不对外发布",
+    "link": "https://www.pingwest.com/w/316544",
+    "source": "品玩",
+    "category": "other",
+    "summary": "Anthropic\n\n\n\nAnthropic新模型Model 2内部评估达标，暂不对外发布\n\n据 geeky-gadgets 报道，Anthropic在2026年风险概述中披露，其最新内部模型Model 2在内部评估中表现优于前代Mythos 5，在自研Codebench测试中获得62.8%的成绩，但尚未达到85%的广泛部署门槛。该模型目前仅作为内部工具使用，暂不对外发布。",
+    "keywords": [
+      "Anthropic"
+    ],
+    "date": "2026-08-18"
+  },
+  {
+    "title": "Groq完成3.5亿美元融资，加速转型AI推理云服务",
+    "link": "https://www.pingwest.com/w/316543",
+    "source": "品玩",
+    "category": "funding",
+    "summary": "Groq\n\n\n\nGroq完成3.5亿美元融资，加速转型AI推理云服务\n\n据 TechCrunch 报道，AI初创公司Groq宣布完成3.5亿美元新一轮融资，由投资机构Disruptive领投，Nvidia计划参与，投后估值35亿美元。",
+    "keywords": [
+      "AI"
+    ],
+    "date": "2026-08-18"
+  },
+  {
+    "title": "今日起，阿里“千问办公”接入企业微信",
+    "link": "https://www.pingwest.com/w/316536",
+    "source": "品玩",
+    "category": "other",
+    "summary": "千问\n\n\n\n今日起，阿里“千问办公”接入企业微信\n\n8月18日，阿里旗下Agent产品“千问办公”正式接入企业微信。此前，该产品已接入钉钉和飞书。至此，“千问办公”实现国内三大主流协同办公平台的全面支持。",
+    "keywords": [
+      "Agent"
+    ],
+    "date": "2026-08-18"
+  },
+  {
+    "title": "豆包“工作任务”模式升级，支持手机远程操控电脑",
+    "link": "https://www.pingwest.com/w/316534",
+    "source": "品玩",
+    "category": "other",
+    "summary": "豆包\n\n\n\n豆包“工作任务”模式升级，支持手机远程操控电脑\n\n据豆包官方消息，豆包近日发布产品更新，“工作任务”模式新增手机远程控制电脑功能。此次更新将操控任务扩展至手机端，支持关联多台电脑，可跨设备调取文件。",
+    "keywords": [
+      "豆包"
+    ],
+    "date": "2026-08-18"
+  },
+  {
     "title": "实测｜阿里 AI 音乐模型 HappyShrimp 来了：一句话，写出一首好听的歌",
     "link": "https://www.pingwest.com/a/316494",
     "source": "品玩",
@@ -282,17 +360,6 @@
     "date": "2026-08-15"
   },
   {
-    "title": "黄仁勋给联想的“预言”，现在应验了",
-    "link": "https://www.pingwest.com/a/316468",
-    "source": "品玩",
-    "category": "other",
-    "summary": "黄仁勋给联想的“预言”，现在应验了\n\nAI重新定义联想",
-    "keywords": [
-      "AI"
-    ],
-    "date": "2026-08-15"
-  },
-  {
     "title": "Woman claims her stepfather used Grok to transform childhood photo into explicit imagery",
     "link": "https://techcrunch.com/2026/08/15/woman-claims-her-stepfather-used-grok-to-transform-childhood-photo-into-explicit-imagery/",
     "source": "TechCrunch",
@@ -338,56 +405,6 @@
       "AI"
     ],
     "date": "2026-08-15"
-  },
-  {
-    "title": "智谱发布GLM-5.3模型，编程与安全能力大幅跃升",
-    "link": "https://www.pingwest.com/w/316449",
-    "source": "品玩",
-    "category": "other",
-    "summary": "智谱\n\n\n\n智谱发布GLM-5.3模型，编程与安全能力大幅跃升\n\n智谱正式发布GLM-5.3，基座模型与GLM-5.2一致，通过大规模后训练显著提升智能上限。编程方面，GLM-5.3在Terminal-Bench 3.0得分从4.6提升至28.3，DeepSWE v1.1从46.2提升至66.9，位列开源第一。",
-    "keywords": [
-      "智谱",
-      "智能"
-    ],
-    "date": "2026-08-14"
-  },
-  {
-    "title": "百度搭子位列全球AI Agent增速第一，月访问量增长845%",
-    "link": "https://www.pingwest.com/w/316443",
-    "source": "品玩",
-    "category": "other",
-    "summary": "百度\n\n\n\n百度搭子位列全球AI Agent增速第一，月访问量增长845%",
-    "keywords": [
-      "AI",
-      "Agent"
-    ],
-    "date": "2026-08-14"
-  },
-  {
-    "title": "玩了一夜DeepSeek Harness，我发现它在用《我的世界》的方式干掉Claude Code",
-    "link": "https://www.pingwest.com/a/316436",
-    "source": "品玩",
-    "category": "other",
-    "summary": "玩了一夜DeepSeek Harness，我发现它在用《我的世界》的方式干掉Claude Code\n\n迟早“harness”会最终消失",
-    "keywords": [
-      "Claude",
-      "DeepSeek"
-    ],
-    "date": "2026-08-14"
-  },
-  {
-    "title": "OpenAI推出ChatGPT Computer History功能",
-    "link": "https://www.pingwest.com/w/316437",
-    "source": "品玩",
-    "category": "other",
-    "summary": "ChatGPT\n\n\n\nOpenAI推出ChatGPT Computer History功能\n\n据 9to5Mac 报道，OpenAI推出Computer History功能，替代Chronicle研究预览版。该功能通过macOS辅助功能接口记录用户在选定应用和网站中的点击、输入、快捷键及应用切换等操作事件，构建可搜索的操作时间线。",
-    "keywords": [
-      "AI",
-      "OpenAI",
-      "GPT",
-      "ChatGPT"
-    ],
-    "date": "2026-08-14"
   },
   {
     "title": "Google will now allow users to remove visible watermark from its AI generations",
