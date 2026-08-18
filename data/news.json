@@ -1,5 +1,28 @@
 [
   {
+    "title": "Anthropic年化营收飙升至650亿美元",
+    "link": "https://www.pingwest.com/w/316527",
+    "source": "品玩",
+    "category": "other",
+    "summary": "Anthropic\n\n\n\nAnthropic年化营收飙升至650亿美元\n\n据TechCrunch报道，Anthropic的年化营收运行率截至7月底已突破650亿美元，较5月的470亿美元及去年底的90亿美元大幅增长，增长势头持续加速。Anthropic未立即回应置评请求。",
+    "keywords": [
+      "Anthropic"
+    ],
+    "date": "2026-08-18"
+  },
+  {
+    "title": "千问办公开源上下文基础设施项目MyContext",
+    "link": "https://www.pingwest.com/w/316525",
+    "source": "品玩",
+    "category": "other",
+    "summary": "通义千问\n\n\n\n千问办公开源上下文基础设施项目MyContext\n\n据阿里云官方消息，千问办公近日开源上下文基础设施项目MyContext，可将IM沟通、文档、会议等多源工作数据加工为Agent可理解的专属工作档案，提升Agent在工作场景下的表现。项目开源一周已获超1k Star。",
+    "keywords": [
+      "Agent",
+      "通义千问"
+    ],
+    "date": "2026-08-18"
+  },
+  {
     "title": "人人都能写好听的歌，阿里发布AI音乐模型HappyShrimp",
     "link": "https://www.pingwest.com/w/316518",
     "source": "品玩",
@@ -109,6 +132,74 @@
     "keywords": [
       "AI",
       "OpenAI"
+    ],
+    "date": "2026-08-17"
+  },
+  {
+    "title": "Anthropic’s annualized revenue surges to $65B",
+    "link": "https://techcrunch.com/2026/08/17/anthropics-annualized-revenue-surges-to-65b/",
+    "source": "TechCrunch",
+    "category": "other",
+    "summary": "The model maker added $18 billion in annualized revenue in two months.",
+    "keywords": [
+      "Anthropic"
+    ],
+    "date": "2026-08-17"
+  },
+  {
+    "title": "AI automation startup Relay shuts down, staff joins Google’s Chrome team",
+    "link": "https://techcrunch.com/2026/08/17/ai-automation-startup-relay-shuts-down-staff-joins-googles-chrome-team/",
+    "source": "TechCrunch",
+    "category": "other",
+    "summary": "\"We have some really ambitious plans to help you work with AI in Chrome to get things done, and I’ll have more to share soon,\" Jacob Bank, Relay founder and CEO, said.",
+    "keywords": [
+      "AI"
+    ],
+    "date": "2026-08-17"
+  },
+  {
+    "title": "Amazon, which started off selling books, is destroying rare texts to train AI",
+    "link": "https://techcrunch.com/2026/08/17/amazon-once-an-online-bookseller-is-destroying-rare-books-to-train-ai-models/",
+    "source": "TechCrunch",
+    "category": "other",
+    "summary": "Rare books are incredibly valuable for training LLMs, since these models have already trained on whatever's available online.",
+    "keywords": [
+      "AI",
+      "LLM"
+    ],
+    "date": "2026-08-17"
+  },
+  {
+    "title": "Groq raises $350M to fuel its pivot from AI chips to neocloud",
+    "link": "https://techcrunch.com/2026/08/17/groq-raises-350m-to-fuel-its-pivot-from-ai-chips-to-neocloud/",
+    "source": "TechCrunch",
+    "category": "funding",
+    "summary": "Groq raised $350 million at a $3.5 billion valuation as the former AI chipmaker pivots to a neocloud business and expands its Nvidia-powered data center footprint.",
+    "keywords": [
+      "AI"
+    ],
+    "date": "2026-08-17"
+  },
+  {
+    "title": "Nvidia investing $1.5B in SoftBank data center developer behind OpenAI project",
+    "link": "https://techcrunch.com/2026/08/17/nvidia-investing-1-5b-in-softbank-data-center-developer-behind-openai-project/",
+    "source": "TechCrunch",
+    "category": "other",
+    "summary": "Nvidia's investment in SoftBank's data center developer will guarantee its chips power an OpenAI data center.",
+    "keywords": [
+      "AI",
+      "OpenAI"
+    ],
+    "date": "2026-08-17"
+  },
+  {
+    "title": "Wispr raises $280M at $2B valuation as it looks beyond dictation",
+    "link": "https://techcrunch.com/2026/08/17/wispr-raises-280m-at-2b-valuation-as-it-looks-beyond-dictation/",
+    "source": "TechCrunch",
+    "category": "funding",
+    "summary": "The funds will allow Wispr to increase its footprint as it ventures into new areas, such as meetings, with its newly released note-taker tool.",
+    "keywords": [
+      "AI"
     ],
     "date": "2026-08-17"
   },
@@ -227,6 +318,17 @@
     "date": "2026-08-15"
   },
   {
+    "title": "How to tell if your AI platforms’ accounts have been hacked",
+    "link": "https://techcrunch.com/2026/08/15/how-to-tell-if-your-ai-platforms-accounts-have-been-hacked/",
+    "source": "TechCrunch",
+    "category": "other",
+    "summary": "A guide on how to check if hackers have broken into your accounts on the most popular AI platforms.",
+    "keywords": [
+      "AI"
+    ],
+    "date": "2026-08-15"
+  },
+  {
     "title": "智谱发布GLM-5.3模型，编程与安全能力大幅跃升",
     "link": "https://www.pingwest.com/w/316449",
     "source": "品玩",
@@ -284,55 +386,6 @@
     "summary": "腾讯\n\n\n\n腾讯AI产品专项招聘启动，四大维度升级",
     "keywords": [
       "AI"
-    ],
-    "date": "2026-08-14"
-  },
-  {
-    "title": "X公开\"For You\"推荐算法源代码",
-    "link": "https://www.pingwest.com/w/316434",
-    "source": "品玩",
-    "category": "other",
-    "summary": "xAI\n\n\n\nX公开\"For You\"推荐算法源代码\n\n据 cryptobriefing 报道，X于1月20日在GitHub发布\"For You\"推荐算法的完整源代码，托管于xai-org/x-algorithm仓库，以Rust和Python重写，取代2023年公开的旧版Scala代码。",
-    "keywords": [
-      "AI",
-      "xAI",
-      "算法"
-    ],
-    "date": "2026-08-14"
-  },
-  {
-    "title": "Writer发布Palmyra X6模型，聚焦企业部署降本",
-    "link": "https://www.pingwest.com/w/316433",
-    "source": "品玩",
-    "category": "other",
-    "summary": "AI工具\n\n\n\nWriter发布Palmyra X6模型，聚焦企业部署降本\n\n据TechCrunch 报道，Writer于周四发布旗舰模型Palmyra X6，面向营销领域的AI工具与智能体场景。",
-    "keywords": [
-      "AI",
-      "智能"
-    ],
-    "date": "2026-08-14"
-  },
-  {
-    "title": "Google发布Gemini 3.7 Flash模型",
-    "link": "https://www.pingwest.com/w/316432",
-    "source": "品玩",
-    "category": "other",
-    "summary": "GEMINI\n\n\n\nGoogle发布Gemini 3.7 Flash模型\n\n据9to5Google报道，谷歌近日发布Gemini 3.7 Flash模型，距上一版本发布仅三周。该模型基于开发者反馈与算法创新打造，在软件工程、网页开发及知识工作等领域均有显著提升。",
-    "keywords": [
-      "Gemini",
-      "算法"
-    ],
-    "date": "2026-08-14"
-  },
-  {
-    "title": "Anthropic投资者预计IPO估值将超2万亿美元",
-    "link": "https://www.pingwest.com/w/316429",
-    "source": "品玩",
-    "category": "key_news",
-    "summary": "Anthropic\n\n\n\nAnthropic投资者预计IPO估值将超2万亿美元\n\n据seekingalpha报道，Anthropic多位投资者表示，这家AI实验室预计最快将于今年10月启动首次公开募股，估值有望达到2万亿美元甚至更高。",
-    "keywords": [
-      "AI",
-      "Anthropic"
     ],
     "date": "2026-08-14"
   },
@@ -408,79 +461,6 @@
     "source": "TechCrunch",
     "category": "funding",
     "summary": "AI is expensive, Ali Ghodsi tells TechCrunch. With so many investors wanting into his latest round, he said yes to more than planned.",
-    "keywords": [
-      "AI"
-    ],
-    "date": "2026-08-13"
-  },
-  {
-    "title": "OpenAI introduces ‘Ultrafast,’ a new mode that makes GPT-5.6 Sol work at 14x the speed",
-    "link": "https://techcrunch.com/2026/08/13/openai-introduces-ultrafast-a-new-mode-that-makes-gpt-5-6-sol-work-at-14x-the-speed/",
-    "source": "TechCrunch",
-    "category": "other",
-    "summary": "OpenAI is launching a preview of a sped up version of its latest, most powerful model, in an effort to court enterprise users.",
-    "keywords": [
-      "AI",
-      "OpenAI",
-      "GPT"
-    ],
-    "date": "2026-08-13"
-  },
-  {
-    "title": "IBM partners with OpenAI to bolster enterprise AI push",
-    "link": "https://techcrunch.com/2026/08/13/ibm-partners-with-openai-to-bolster-enterprise-ai-push/",
-    "source": "TechCrunch",
-    "category": "other",
-    "summary": "IBM plans to train and certify tens of thousands of consultants on OpenAI's technologies as part of this deal.",
-    "keywords": [
-      "AI",
-      "OpenAI"
-    ],
-    "date": "2026-08-13"
-  },
-  {
-    "title": "Anthropic set AI agents loose on the same task. They started a turf war.",
-    "link": "https://techcrunch.com/2026/08/13/anthropic-set-ai-agents-loose-on-the-same-task-they-started-a-turf-war/",
-    "source": "TechCrunch",
-    "category": "other",
-    "summary": "Anthropic researchers found AI agents can clash, collude, and coordinate in unexpected ways, raising new questions about whether today’s safety tests capture the risks of multi-agent systems.",
-    "keywords": [
-      "AI",
-      "Agent",
-      "Anthropic"
-    ],
-    "date": "2026-08-13"
-  },
-  {
-    "title": "OpenAI hires new CRO as executive shake-up continues",
-    "link": "https://techcrunch.com/2026/08/13/openai-hires-new-cro-as-executive-shake-up-continues/",
-    "source": "TechCrunch",
-    "category": "other",
-    "summary": "OpenAI has replaced chief revenue officer Denise Dresser after just nine months on the job, tapping Wiz president and chief operating officer Dali Rajic to take on frontier lab's top sales job.",
-    "keywords": [
-      "AI",
-      "OpenAI"
-    ],
-    "date": "2026-08-13"
-  },
-  {
-    "title": "Microsoft kills off unsuccessful AI features while merging its separate Copilot apps",
-    "link": "https://techcrunch.com/2026/08/13/microsoft-kills-off-unsuccessful-ai-features-while-merging-its-separate-copilot-apps/",
-    "source": "TechCrunch",
-    "category": "other",
-    "summary": "Microsoft is simplifying Copilot by combining its consumer and business apps, and dropping AI-generated podcasts, Group Chats, Deep Research, and its Mico character.",
-    "keywords": [
-      "AI",
-      "Copilot"
-    ],
-    "date": "2026-08-13"
-  },
-  {
-    "title": "Nvidia’s new $500B plan is risky but brilliant, especially for aging GPUs",
-    "link": "https://techcrunch.com/2026/08/13/nvidias-new-500b-plan-is-risky-but-brilliant-especially-for-aging-gpus/",
-    "source": "TechCrunch",
-    "category": "other",
-    "summary": "Nvidia has a plan to make sure its GPUs won't lose value. It wants to convince a new crop of financiers to keep lending for AI buildouts.",
     "keywords": [
       "AI"
     ],
