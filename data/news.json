@@ -1,5 +1,122 @@
 [
   {
+    "title": "GLM-5.3 API正式上线，AA综合智能指数达60分",
+    "link": "https://www.pingwest.com/w/316571",
+    "source": "品玩",
+    "category": "other",
+    "summary": "智谱\n\n\n\nGLM-5.3 API正式上线，AA综合智能指数达60分\n\n据智谱官方消息，GLM-5.3 API即日起正式上线，擅长复杂编码、防御性网络安全及长程任务。",
+    "keywords": [
+      "智谱",
+      "智能"
+    ],
+    "date": "2026-08-19"
+  },
+  {
+    "title": "Warp推出Warp Factories，助力企业搭建AI软件工厂",
+    "link": "https://www.pingwest.com/w/316570",
+    "source": "品玩",
+    "category": "other",
+    "summary": "warp\n\n\n\nWarp推出Warp Factories，助力企业搭建AI软件工厂\n\n据 TechCrunch 报道，AI编程公司Warp于周二推出Warp Factories系统，旨在帮助企业更便捷地搭建和运营AI软件工厂。",
+    "keywords": [
+      "AI"
+    ],
+    "date": "2026-08-19"
+  },
+  {
+    "title": "网易传媒发布“蜜蜂AI” :探索AI与年轻化社区的新连接",
+    "link": "https://www.pingwest.com/a/316553",
+    "source": "品玩",
+    "category": "other",
+    "summary": "网易传媒发布“蜜蜂AI” :探索AI与年轻化社区的新连接",
+    "keywords": [
+      "AI"
+    ],
+    "date": "2026-08-19"
+  },
+  {
+    "title": "OpenAI发布新安全政策，强化模型测试阶段风险管控",
+    "link": "https://www.pingwest.com/w/316568",
+    "source": "品玩",
+    "category": "other",
+    "summary": "OpenAI\n\n\n\nOpenAI发布新安全政策，强化模型测试阶段风险管控\n\n据 TechCrunch 报道，OpenAI于周二宣布推出一批新安全政策，重点加强模型测试阶段的安全事件管控。新措施包括在开发过程中对模型进行更细致的监控，并在后训练阶段进一步强化对齐与安全要求。",
+    "keywords": [
+      "AI",
+      "OpenAI"
+    ],
+    "date": "2026-08-19"
+  },
+  {
+    "title": "Cursor推出代码托管服务Origin，正式进军代码托管领域",
+    "link": "https://www.pingwest.com/w/316567",
+    "source": "品玩",
+    "category": "other",
+    "summary": "cursor\n\n\n\nCursor推出代码托管服务Origin，正式进军代码托管领域\n\n据 TechCrunch 报道，AI初创公司Cursor本周正式推出代码托管服务Origin，进军代码托管领域。",
+    "keywords": [
+      "AI"
+    ],
+    "date": "2026-08-19"
+  },
+  {
+    "title": "苹果相机版AirPods或归入AirPods Pro产品线",
+    "link": "https://www.pingwest.com/w/316566",
+    "source": "品玩",
+    "category": "other",
+    "summary": "苹果\n\n\n\n苹果相机版AirPods或归入AirPods Pro产品线\n\n据 MacRumors报道，苹果正在研发的相机版AirPods大概率将纳入AirPods Pro产品线，而非此前传闻中独立的\"AirPods Ultra\"。",
+    "keywords": [
+      "AI"
+    ],
+    "date": "2026-08-19"
+  },
+  {
+    "title": "OpenAI推出青少年版ChatGPT，强化安全防护与学习引导",
+    "link": "https://www.pingwest.com/w/316565",
+    "source": "品玩",
+    "category": "other",
+    "summary": "ChatGPT\n\n\n\nOpenAI推出青少年版ChatGPT，强化安全防护与学习引导\n\n据 TechCrunch 报道，OpenAI于周一宣布推出青少年版ChatGPT。该产品针对此前AI聊天机器人因缺乏安全措施引发的青少年心理健康问题，新增多项安全防护功能，并着力应对校园中借助ChatGPT作弊的教育问题。",
+    "keywords": [
+      "AI",
+      "OpenAI",
+      "GPT",
+      "ChatGPT",
+      "机器人"
+    ],
+    "date": "2026-08-19"
+  },
+  {
+    "title": "企业微信5.0.10版本发布，AI能力全面升级",
+    "link": "https://www.pingwest.com/w/316564",
+    "source": "品玩",
+    "category": "other",
+    "summary": "企业微信\n\n\n\n企业微信5.0.10版本发布，AI能力全面升级\n\n据企业微信官方消息，企业微信5.0.10版本正式上线，全面开放CLI和MCP能力，WorkBuddy、Codex及企业自建Agent等各类AI Agent均可直接接入企业微信，打通企微文档、表格、邮件、会议等十大办公能力。",
+    "keywords": [
+      "AI",
+      "Agent"
+    ],
+    "date": "2026-08-19"
+  },
+  {
+    "title": "韶音发布首款AI耳机OpenFit 2 AI",
+    "link": "https://www.pingwest.com/w/316562",
+    "source": "品玩",
+    "category": "other",
+    "summary": "阿里云\n\n\n\n韶音发布首款AI耳机OpenFit 2 AI\n\n据阿里云官方消息，韶音正式发布首款AI耳机OpenFit 2 AI。该产品基于千问系列模型打造，面向律师、金融从业者等日常沟通密集的用户，支持8小时双耳通话录音或现场录音，并提供AI多维会议总结与实时翻译功能。",
+    "keywords": [
+      "AI"
+    ],
+    "date": "2026-08-19"
+  },
+  {
+    "title": "闪极第二次做 AI 眼镜，好像有点开窍了",
+    "link": "https://www.pingwest.com/a/316559",
+    "source": "品玩",
+    "category": "other",
+    "summary": "闪极\n\n\n\n闪极第二次做 AI 眼镜，好像有点开窍了\n\n在它成为计算平台之前，先得是一副人们愿意每天戴的眼镜。",
+    "keywords": [
+      "AI"
+    ],
+    "date": "2026-08-18"
+  },
+  {
     "title": "Serve Robotics与Grubhub达成合作，自动驾驶配送机器人接入Grubhub订单网络",
     "link": "https://www.pingwest.com/w/316549",
     "source": "品玩",
@@ -112,6 +229,88 @@
     "date": "2026-08-18"
   },
   {
+    "title": "Cursor capitalizes on GitHub frustration, launches rival hosting platform",
+    "link": "https://techcrunch.com/2026/08/18/cursor-capitalizes-on-github-frustration-launches-rival-hosting-platform/",
+    "source": "TechCrunch",
+    "category": "other",
+    "summary": "Cursor, known for its AI Code Editor, is launching a new code-hosting platform to rival developers' long preferred favorite, GitHub.",
+    "keywords": [
+      "AI"
+    ],
+    "date": "2026-08-18"
+  },
+  {
+    "title": "OpenAI institutes new safeguards after Hugging Face breach",
+    "link": "https://techcrunch.com/2026/08/18/openai-institutes-new-safeguards-after-hugging-face-breach/",
+    "source": "TechCrunch",
+    "category": "other",
+    "summary": "The new safeguards include more detailed monitoring of models during the development process, as well as greater emphasis on alignment and security during the post-training process.",
+    "keywords": [
+      "AI",
+      "OpenAI"
+    ],
+    "date": "2026-08-18"
+  },
+  {
+    "title": "Etched’s valuation doubles to $21B in a month",
+    "link": "https://techcrunch.com/2026/08/18/etcheds-valuation-doubles-to-21b-in-a-month/",
+    "source": "TechCrunch",
+    "category": "funding",
+    "summary": "Jane Street has installed Etched's first shipped AI cluster system, and was so impressed, it led another massive round, the startup says.",
+    "keywords": [
+      "AI"
+    ],
+    "date": "2026-08-18"
+  },
+  {
+    "title": "Why Apple’s camera-equipped AirPods may not be the ‘pervert pods’ consumers fear",
+    "link": "https://techcrunch.com/2026/08/18/why-apples-camera-equipped-airpods-may-not-be-the-pervert-pods-consumers-fear/",
+    "source": "TechCrunch",
+    "category": "other",
+    "summary": "Apple’s leaked camera-equipped AirPods might avoid the privacy pitfalls of other AI wearables by preventing users from recording photos and videos.",
+    "keywords": [
+      "AI"
+    ],
+    "date": "2026-08-18"
+  },
+  {
+    "title": "Warp’s new system is an out-of-the-box software factory for AI development",
+    "link": "https://techcrunch.com/2026/08/18/warps-new-system-is-an-out-of-the-box-software-factory-for-ai-development/",
+    "source": "TechCrunch",
+    "category": "other",
+    "summary": "On Tuesday, Warp introduced Warp Factories, a new infrastructure system designed to make building AI software factories as easy as possible.",
+    "keywords": [
+      "AI"
+    ],
+    "date": "2026-08-18"
+  },
+  {
+    "title": "OpenAI launches a safer ChatGPT for teens — years after teens started using it",
+    "link": "https://techcrunch.com/2026/08/18/openai-launches-a-safer-chatgpt-for-teens-years-after-teens-started-using-it/",
+    "source": "TechCrunch",
+    "category": "other",
+    "summary": "ChatGPT for Teens adds age-appropriate safety measures, parental controls, and learning tools designed to steer teens away from harmful content — and from using AI to cheat on their homework.",
+    "keywords": [
+      "AI",
+      "OpenAI",
+      "GPT",
+      "ChatGPT"
+    ],
+    "date": "2026-08-18"
+  },
+  {
+    "title": "Perplexity’s free AI offer left it with millions more users in India",
+    "link": "https://techcrunch.com/2026/08/18/perplexitys-free-ai-offer-left-it-with-millions-more-users-in-india/",
+    "source": "TechCrunch",
+    "category": "funding",
+    "summary": "Perplexity's India revenue rose about 60% after the Airtel offer ended for new users, even as downloads declined.",
+    "keywords": [
+      "AI",
+      "Perplexity"
+    ],
+    "date": "2026-08-18"
+  },
+  {
     "title": "人人都能写好听的歌，阿里发布AI音乐模型HappyShrimp",
     "link": "https://www.pingwest.com/w/316518",
     "source": "品玩",
@@ -175,52 +374,6 @@
     "summary": "谷歌\n\n\n\nGoogle允许用户移除AI生成内容可见水印\n\n据TechCrunch 报道，Google周五宣布，用户现可移除其AI生成内容中的可见水印，涵盖图像、视频及音频。公司强调，此举不影响不可见的SynthID水印及C2PA标准相关元数据。",
     "keywords": [
       "AI"
-    ],
-    "date": "2026-08-17"
-  },
-  {
-    "title": "Anthropic发文说明Claude文本水印机制",
-    "link": "https://www.pingwest.com/w/316502",
-    "source": "品玩",
-    "category": "other",
-    "summary": "Anthropic\n\n\n\nAnthropic发文说明Claude文本水印机制\n\n据 TechCrcunch报道，Anthropic周五发布博客文章，回应外界对Claude文本水印机制的关注。",
-    "keywords": [
-      "Anthropic",
-      "Claude"
-    ],
-    "date": "2026-08-17"
-  },
-  {
-    "title": "Stripe拟逾70亿美元收购OpenRouter",
-    "link": "https://www.pingwest.com/w/316495",
-    "source": "品玩",
-    "category": "other",
-    "summary": "OpenRouter\n\n\n\nStripe拟逾70亿美元收购OpenRouter\n\n据techcrunch报道，Stripe已敲定收购AI网关初创公司OpenRouter的交易，价格超过70亿美元。此前The Wall Street Journal曾披露双方正在洽谈，Stripe方面对TechCrunch表示不对传闻或猜测发表评论。",
-    "keywords": [
-      "AI"
-    ],
-    "date": "2026-08-17"
-  },
-  {
-    "title": "SpaceX正式完成Cursor收购",
-    "link": "https://www.pingwest.com/w/316487",
-    "source": "品玩",
-    "category": "other",
-    "summary": "cursor\n\n\n\nSpaceX正式完成Cursor收购\n\nAI编程初创公司Cursor已在官方博客宣布，正式并入SpaceX。此前，SpaceX于今年4月宣布与Cursor达成合作开发协议，并获得以600亿美元收购Cursor的选择权。两个月后，随着SpaceX完成上市，双方确认推进收购事宜。",
-    "keywords": [
-      "AI"
-    ],
-    "date": "2026-08-17"
-  },
-  {
-    "title": "Nvidia拟投资S Energy，支持OpenAI数据中心建设",
-    "link": "https://www.pingwest.com/w/316479",
-    "source": "品玩",
-    "category": "other",
-    "summary": "英伟达\n\n\n\nNvidia拟投资S Energy，支持OpenAI数据中心建设\n\n据briefs报道，Nvidia正与OpenAI及SB Energy就约30亿美元投资事宜进行磋商，资金将用于支持OpenAI在俄亥俄州的大型数据中心项目。",
-    "keywords": [
-      "AI",
-      "OpenAI"
     ],
     "date": "2026-08-17"
   },
@@ -293,28 +446,6 @@
     "date": "2026-08-17"
   },
   {
-    "title": "七鲜咖啡24小时机器人店开业，外国友人到店打卡点赞好味道",
-    "link": "https://www.pingwest.com/w/316477",
-    "source": "品玩",
-    "category": "other",
-    "summary": "七鲜\n\n\n\n七鲜咖啡24小时机器人店开业，外国友人到店打卡点赞好味道",
-    "keywords": [
-      "机器人"
-    ],
-    "date": "2026-08-16"
-  },
-  {
-    "title": "荣耀阿尔法全球旗舰店焕新启幕 打造沉浸式AI科技乐园",
-    "link": "https://www.pingwest.com/w/316476",
-    "source": "品玩",
-    "category": "other",
-    "summary": "荣耀\n\n\n\n荣耀阿尔法全球旗舰店焕新启幕 打造沉浸式AI科技乐园\n\n8月15日，荣耀阿尔法全球旗舰店正式焕新启幕，完成门店IP化与AI场景化的全面升级。",
-    "keywords": [
-      "AI"
-    ],
-    "date": "2026-08-16"
-  },
-  {
     "title": "Stripe will reportedly acquire AI gateway startup OpenRouter for $7B+",
     "link": "https://techcrunch.com/2026/08/16/stripe-will-reportedly-acquire-ai-gateway-startup-openrouter-for-7b/",
     "source": "TechCrunch",
@@ -347,17 +478,6 @@
       "Anthropic"
     ],
     "date": "2026-08-16"
-  },
-  {
-    "title": "阿里开源Qwen3.8，千问大模型全球下载超30亿次",
-    "link": "https://www.pingwest.com/w/316469",
-    "source": "品玩",
-    "category": "other",
-    "summary": "阿里千问\n\n\n\n阿里开源Qwen3.8，千问大模型全球下载超30亿次\n\n8月14日晚，阿里千问正式开源Qwen3.8系列模型，所有开发者、科研机构和企业均可自由下载、部署和使用。",
-    "keywords": [
-      "大模型"
-    ],
-    "date": "2026-08-15"
   },
   {
     "title": "Woman claims her stepfather used Grok to transform childhood photo into explicit imagery",
@@ -405,82 +525,5 @@
       "AI"
     ],
     "date": "2026-08-15"
-  },
-  {
-    "title": "Google will now allow users to remove visible watermark from its AI generations",
-    "link": "https://techcrunch.com/2026/08/14/google-will-now-allow-users-to-remove-visible-watermark-from-its-ai-generations/",
-    "source": "TechCrunch",
-    "category": "other",
-    "summary": "Turning off this setting won't affect invisible benchmarks used to identify an AI generated file.",
-    "keywords": [
-      "AI"
-    ],
-    "date": "2026-08-14"
-  },
-  {
-    "title": "Does Mark Zuckerberg really believe AI is ‘for everyone’?",
-    "link": "https://techcrunch.com/video/does-mark-zuckerberg-really-believe-ai-is-for-everyone/",
-    "source": "TechCrunch",
-    "category": "other",
-    "summary": "Meta released Glimmer this week, an open-weight AI&#160;model&#160;anyone can download and run on their own hardware&#160;— a contrast to&#160;Muse&#160;Spark, the company’s more powerful model that s",
-    "keywords": [
-      "AI"
-    ],
-    "date": "2026-08-14"
-  },
-  {
-    "title": "Kog is going deeper to squeeze more inference out of GPUs",
-    "link": "https://techcrunch.com/2026/08/14/kog-is-going-deeper-to-squeeze-more-inference-out-of-gpus/",
-    "source": "TechCrunch",
-    "category": "other",
-    "summary": "The idea that GPUs are poorly suited for agentic workflows may be a misconception, according to French startup Kog.",
-    "keywords": [
-      "Agent"
-    ],
-    "date": "2026-08-14"
-  },
-  {
-    "title": "Hyperscalers might regret embracing natural gas if new forecast proves correct",
-    "link": "https://techcrunch.com/2026/08/14/hyperscalers-might-regret-embracing-natural-gas-if-new-forecast-proves-correct/",
-    "source": "TechCrunch",
-    "category": "other",
-    "summary": "Natural gas prices could triple in some parts of the U.S., which could saddle hyperscalers with massive bills to power their AI data centers.",
-    "keywords": [
-      "AI"
-    ],
-    "date": "2026-08-14"
-  },
-  {
-    "title": "Meta’s ‘open’ AI, and a $250M deal gone very wrong",
-    "link": "https://techcrunch.com/podcast/metas-open-ai-and-a-250m-deal-gone-very-wrong/",
-    "source": "TechCrunch",
-    "category": "other",
-    "summary": "Meta released Glimmer this week, an open-weight AI&#160;model&#160;anyone can download and run on their own hardware&#160;— a contrast to&#160;Muse&#160;Spark, the company’s more powerful model that s",
-    "keywords": [
-      "AI"
-    ],
-    "date": "2026-08-14"
-  },
-  {
-    "title": "Writer introduces new AI model and upgraded harness to contain token costs",
-    "link": "https://techcrunch.com/2026/08/13/writer-introduces-new-ai-model-and-upgraded-harness-to-contain-token-costs/",
-    "source": "TechCrunch",
-    "category": "other",
-    "summary": "Built as a post-training variation on Z.ai's open source model GLM-5.2, Writer says the new system should provide deployment-ready capabilities at a much lower price.",
-    "keywords": [
-      "AI"
-    ],
-    "date": "2026-08-13"
-  },
-  {
-    "title": "Databricks wanted to raise $1B, investors wanted $15B. It settled on $5B at a $190B valuation.",
-    "link": "https://techcrunch.com/2026/08/13/databricks-wanted-to-raise-1b-investors-wanted-15b-it-settled-on-5b-at-a-190b-valuation/",
-    "source": "TechCrunch",
-    "category": "funding",
-    "summary": "AI is expensive, Ali Ghodsi tells TechCrunch. With so many investors wanting into his latest round, he said yes to more than planned.",
-    "keywords": [
-      "AI"
-    ],
-    "date": "2026-08-13"
   }
 ]
