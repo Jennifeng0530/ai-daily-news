@@ -1,5 +1,42 @@
 [
   {
+    "title": "百度AI收入占比连续过半，双重主要上市开启重估窗口",
+    "link": "https://www.pingwest.com/a/316586",
+    "source": "品玩",
+    "category": "key_news",
+    "summary": "百度AI收入占比连续过半，双重主要上市开启重估窗口",
+    "keywords": [
+      "AI"
+    ],
+    "date": "2026-08-19"
+  },
+  {
+    "title": "华尔街实测8款全球主流Agent：千问办公综合排名第一，超Claude Cowork、Codex",
+    "link": "https://www.pingwest.com/w/316583",
+    "source": "品玩",
+    "category": "other",
+    "summary": "通义千问\n\n\n\n华尔街实测8款全球主流Agent：千问办公综合排名第一，超Claude Cowork、Codex",
+    "keywords": [
+      "Agent",
+      "Claude",
+      "通义千问"
+    ],
+    "date": "2026-08-19"
+  },
+  {
+    "title": "Anthropic预告Claude Code新增 /design 命令",
+    "link": "https://www.pingwest.com/w/316576",
+    "source": "品玩",
+    "category": "other",
+    "summary": "Anthropic\n\n\n\nAnthropic预告Claude Code新增 /design 命令\n\n据 AI BASE报道，Anthropic产品设计师Nate Parrott于8月18日在X平台发布推文，正式预告将在Claude Code中整合推出全新的 /design 命令。该功能旨在为开发者和技术团队提供更高效的交互式设计与开发体验。",
+    "keywords": [
+      "AI",
+      "Anthropic",
+      "Claude"
+    ],
+    "date": "2026-08-19"
+  },
+  {
     "title": "APUS AI开源全球首个iOS/Android双端专业级LLM Agent引擎",
     "link": "https://www.pingwest.com/w/316572",
     "source": "品玩",
@@ -113,6 +150,17 @@
     "source": "品玩",
     "category": "other",
     "summary": "阿里云\n\n\n\n韶音发布首款AI耳机OpenFit 2 AI\n\n据阿里云官方消息，韶音正式发布首款AI耳机OpenFit 2 AI。该产品基于千问系列模型打造，面向律师、金融从业者等日常沟通密集的用户，支持8小时双耳通话录音或现场录音，并提供AI多维会议总结与实时翻译功能。",
+    "keywords": [
+      "AI"
+    ],
+    "date": "2026-08-19"
+  },
+  {
+    "title": "Relativity Networks raises $22 million to bring a faster kind of fiber to data centers",
+    "link": "https://techcrunch.com/2026/08/19/relativity-networks-raises-22-million-to-bring-a-faster-kind-of-fiber-to-data-centers/",
+    "source": "TechCrunch",
+    "category": "funding",
+    "summary": "Relativity Networks deals in hollow-core fiber, a rarely deployed technology that allows data to be transmitted 30% faster than conventional fiber.",
     "keywords": [
       "AI"
     ],
@@ -324,62 +372,6 @@
     "date": "2026-08-18"
   },
   {
-    "title": "人人都能写好听的歌，阿里发布AI音乐模型HappyShrimp",
-    "link": "https://www.pingwest.com/w/316518",
-    "source": "品玩",
-    "category": "other",
-    "summary": "阿里\n\n\n\n人人都能写好听的歌，阿里发布AI音乐模型HappyShrimp",
-    "keywords": [
-      "AI"
-    ],
-    "date": "2026-08-17"
-  },
-  {
-    "title": "共生知行发布人形机器人赛车Demo：以卡丁车测试双足机器人的“全身智能”",
-    "link": "https://www.pingwest.com/w/316517",
-    "source": "品玩",
-    "category": "other",
-    "summary": "共生知行\n\n\n\n共生知行发布人形机器人赛车Demo：以卡丁车测试双足机器人的“全身智能”",
-    "keywords": [
-      "机器人",
-      "智能"
-    ],
-    "date": "2026-08-17"
-  },
-  {
-    "title": "周鸿祎发布全员信：360启动AI时代组织变革，用领导力驱动AI原生转型",
-    "link": "https://www.pingwest.com/w/316512",
-    "source": "品玩",
-    "category": "other",
-    "summary": "360\n\n\n\n周鸿祎发布全员信：360启动AI时代组织变革，用领导力驱动AI原生转型\n\n8月17日，360集团创始人周鸿祎发布全员信。",
-    "keywords": [
-      "AI"
-    ],
-    "date": "2026-08-17"
-  },
-  {
-    "title": "蚂蚁集团 CEO 韩歆毅：智能体商业将在6至12个月内爆发",
-    "link": "https://www.pingwest.com/w/316508",
-    "source": "品玩",
-    "category": "other",
-    "summary": "蚂蚁集团\n\n\n\n蚂蚁集团 CEO 韩歆毅：智能体商业将在6至12个月内爆发",
-    "keywords": [
-      "智能"
-    ],
-    "date": "2026-08-17"
-  },
-  {
-    "title": "AI如何落地？全球化怎么走？9月新加坡，1500位决策者给你一个答案",
-    "link": "https://www.pingwest.com/a/316501",
-    "source": "品玩",
-    "category": "other",
-    "summary": "AI如何落地？全球化怎么走？9月新加坡，1500位决策者给你一个答案",
-    "keywords": [
-      "AI"
-    ],
-    "date": "2026-08-17"
-  },
-  {
     "title": "Anthropic’s annualized revenue surges to $65B",
     "link": "https://techcrunch.com/2026/08/17/anthropics-annualized-revenue-surges-to-65b/",
     "source": "TechCrunch",
@@ -512,17 +504,6 @@
     "source": "TechCrunch",
     "category": "funding",
     "summary": "AI coding startup Cursor is now officially a part of SpaceX.",
-    "keywords": [
-      "AI"
-    ],
-    "date": "2026-08-15"
-  },
-  {
-    "title": "How to tell if your AI platforms’ accounts have been hacked",
-    "link": "https://techcrunch.com/2026/08/15/how-to-tell-if-your-ai-platforms-accounts-have-been-hacked/",
-    "source": "TechCrunch",
-    "category": "other",
-    "summary": "A guide on how to check if hackers have broken into your accounts on the most popular AI platforms.",
     "keywords": [
       "AI"
     ],
