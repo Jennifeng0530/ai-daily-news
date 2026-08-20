@@ -1,5 +1,28 @@
 [
   {
+    "title": "MiniMax发布MiniMax Design，推动H3模型能力进入商业内容生产",
+    "link": "https://www.pingwest.com/w/316617",
+    "source": "品玩",
+    "category": "other",
+    "summary": "MiniMax\n\n\n\nMiniMax发布MiniMax Design，推动H3模型能力进入商业内容生产\n\n据MiniMax官方消息，minimax正式推出多模态创作Agent工作台MiniMax Design，进一步释放原生多模态视频模型H3的生产力，推动模型能力进入商业内容生产流程。",
+    "keywords": [
+      "Agent",
+      "MiniMax"
+    ],
+    "date": "2026-08-20"
+  },
+  {
+    "title": "Build｜我们把硅星人变成了Agent！各位Founder请让你们的Agent放马过来勾兑起来吧！",
+    "link": "https://www.pingwest.com/a/316599",
+    "source": "品玩",
+    "category": "other",
+    "summary": "Build｜我们把硅星人变成了Agent！各位Founder请让你们的Agent放马过来勾兑起来吧！\n\n让你的 Agent，来和硅星人的 Demo Agent 聊聊。",
+    "keywords": [
+      "Agent"
+    ],
+    "date": "2026-08-20"
+  },
+  {
     "title": "智身科技亮相2026世界机器人大会，定义\"真正干活的机器人\"",
     "link": "https://www.pingwest.com/w/316604",
     "source": "品玩",
@@ -78,6 +101,21 @@
     "keywords": [
       "Agent",
       "DeepSeek"
+    ],
+    "date": "2026-08-20"
+  },
+  {
+    "title": "Binance now lets AI agents trade, but keeping them in check is largely up to users",
+    "link": "https://techcrunch.com/2026/08/20/binance-now-lets-ai-agents-trade-but-keeping-them-in-check-is-largely-up-to-users/",
+    "source": "TechCrunch",
+    "category": "other",
+    "summary": "Binance's Agent OS works with tools including ChatGPT, Claude Code, and Cursor.",
+    "keywords": [
+      "AI",
+      "Agent",
+      "GPT",
+      "Claude",
+      "ChatGPT"
     ],
     "date": "2026-08-20"
   },
@@ -421,28 +459,6 @@
     "date": "2026-08-18"
   },
   {
-    "title": "Groq完成3.5亿美元融资，加速转型AI推理云服务",
-    "link": "https://www.pingwest.com/w/316543",
-    "source": "品玩",
-    "category": "funding",
-    "summary": "Groq\n\n\n\nGroq完成3.5亿美元融资，加速转型AI推理云服务\n\n据 TechCrunch 报道，AI初创公司Groq宣布完成3.5亿美元新一轮融资，由投资机构Disruptive领投，Nvidia计划参与，投后估值35亿美元。",
-    "keywords": [
-      "AI"
-    ],
-    "date": "2026-08-18"
-  },
-  {
-    "title": "今日起，阿里“千问办公”接入企业微信",
-    "link": "https://www.pingwest.com/w/316536",
-    "source": "品玩",
-    "category": "other",
-    "summary": "千问\n\n\n\n今日起，阿里“千问办公”接入企业微信\n\n8月18日，阿里旗下Agent产品“千问办公”正式接入企业微信。此前，该产品已接入钉钉和飞书。至此，“千问办公”实现国内三大主流协同办公平台的全面支持。",
-    "keywords": [
-      "Agent"
-    ],
-    "date": "2026-08-18"
-  },
-  {
     "title": "Cursor capitalizes on GitHub frustration, launches rival hosting platform",
     "link": "https://techcrunch.com/2026/08/18/cursor-capitalizes-on-github-frustration-launches-rival-hosting-platform/",
     "source": "TechCrunch",
@@ -523,16 +539,5 @@
       "Perplexity"
     ],
     "date": "2026-08-18"
-  },
-  {
-    "title": "Anthropic’s annualized revenue surges to $65B",
-    "link": "https://techcrunch.com/2026/08/17/anthropics-annualized-revenue-surges-to-65b/",
-    "source": "TechCrunch",
-    "category": "other",
-    "summary": "The model maker added $18 billion in annualized revenue in two months.",
-    "keywords": [
-      "Anthropic"
-    ],
-    "date": "2026-08-17"
   }
 ]
