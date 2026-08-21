@@ -1,5 +1,110 @@
 [
   {
+    "title": "从“打开App”到“意图即服务”，近200位开发者在HDD深圳站探索鸿蒙AI开发新范式",
+    "link": "https://www.pingwest.com/w/316676",
+    "source": "品玩",
+    "category": "other",
+    "summary": "鸿蒙\n\n\n\n从“打开App”到“意图即服务”，近200位开发者在HDD深圳站探索鸿蒙AI开发新范式\n\n8月21日，HDD·HarmonyOS创新论坛AI专场在深圳圆满落下帷幕。",
+    "keywords": [
+      "AI"
+    ],
+    "date": "2026-08-21"
+  },
+  {
+    "title": "Adobe Firefly推出AI音乐生成器，支持视频配乐与自定义创作",
+    "link": "https://www.pingwest.com/w/316666",
+    "source": "品玩",
+    "category": "other",
+    "summary": "Adobe\n\n\n\nAdobe Firefly推出AI音乐生成器，支持视频配乐与自定义创作\n\n据 Adobe 官方消息，Adobe Firefly上线AI音乐生成器（Generate Music）功能，用户可通过文字提示或上传视频自动生成原创音乐。",
+    "keywords": [
+      "AI"
+    ],
+    "date": "2026-08-21"
+  },
+  {
+    "title": "具身公司变“老实”：啥VLA、世界模型，我现在只要数据｜WRC观察",
+    "link": "https://www.pingwest.com/a/316645",
+    "source": "品玩",
+    "category": "other",
+    "summary": "具身公司变“老实”：啥VLA、世界模型，我现在只要数据｜WRC观察\n\n世界模型也救不了没见过世界的机器人。",
+    "keywords": [
+      "机器人"
+    ],
+    "date": "2026-08-21"
+  },
+  {
+    "title": "把 4K 生图门槛打下来！商汤开源 SenseNova U1.5 Lite",
+    "link": "https://www.pingwest.com/a/316646",
+    "source": "品玩",
+    "category": "other",
+    "summary": "把 4K 生图门槛打下来！商汤开源 SenseNova U1.5 Lite\n\n4K 还开源",
+    "keywords": [
+      "商汤"
+    ],
+    "date": "2026-08-21"
+  },
+  {
+    "title": "百度发布库库AI，AI办公MAU突破2500万",
+    "link": "https://www.pingwest.com/w/316658",
+    "source": "品玩",
+    "category": "other",
+    "summary": "百度\n\n\n\n百度发布库库AI，AI办公MAU突破2500万\n\n据百度官方消息，百度在AI Day上发布百度文库网盘通用智能体GenFlow中文品牌\"库库AI\"，AI办公月活跃用户突破2500万。库库AI上线网页端、PC客户端和小程序独立入口，并推出企业版。",
+    "keywords": [
+      "AI",
+      "智能"
+    ],
+    "date": "2026-08-21"
+  },
+  {
+    "title": "OpenAI推出ChatGPT桌面版Apple Messages插件，支持iMessage读写与发送",
+    "link": "https://www.pingwest.com/w/316657",
+    "source": "品玩",
+    "category": "other",
+    "summary": "ChatGPT\n\n\n\nOpenAI推出ChatGPT桌面版Apple Messages插件，支持iMessage读写与发送\n\nOpenAI于2026年8月20日在ChatGPT桌面版macOS应用中上线Apple Messages插件，允许ChatGPT读取、搜索Mac上的iMessage、SMS和RCS对话，并通过Messages应用起草或发送信息。",
+    "keywords": [
+      "AI",
+      "OpenAI",
+      "GPT",
+      "ChatGPT"
+    ],
+    "date": "2026-08-21"
+  },
+  {
+    "title": "Google推出多项AI学习工具，Search与Gemini功能全面升级",
+    "link": "https://www.pingwest.com/w/316655",
+    "source": "品玩",
+    "category": "other",
+    "summary": "GEMINI\n\n\n\nGoogle推出多项AI学习工具，Search与Gemini功能全面升级\n\n据 TechCrunch 报道，Google宣布在Search和Gemini中推出多项全新学习工具，包括AI生成的交互式视觉内容、3D模拟、学生专属中心、定制化练习测验等，进一步巩固Gemini作为学生学习助手的地位，与OpenAI及Knowt、Gauth等教育初创公司展开竞争。",
+    "keywords": [
+      "AI",
+      "OpenAI",
+      "Gemini"
+    ],
+    "date": "2026-08-21"
+  },
+  {
+    "title": "美光宣布成立Micron Research Labs，十年投资100亿美元布局AI前沿研发",
+    "link": "https://www.pingwest.com/w/316654",
+    "source": "品玩",
+    "category": "other",
+    "summary": "美光\n\n\n\n美光宣布成立Micron Research Labs，十年投资100亿美元布局AI前沿研发\n\n据美光科技官方消息，美光宣布成立Micron Research Labs，总部位于爱达荷州博伊西市，是一家面向长周期的美国本土前沿研究机构。",
+    "keywords": [
+      "AI"
+    ],
+    "date": "2026-08-21"
+  },
+  {
+    "title": "Apple Music将强制标注AI生成内容，年底前上线\"Made With AI\"标识",
+    "link": "https://www.pingwest.com/w/316651",
+    "source": "品玩",
+    "category": "other",
+    "summary": "Apple Music\n\n\n\nApple Music将强制标注AI生成内容，年底前上线\"Made With AI\"标识\n\n据Macrumors 报道，苹果近日向音乐行业合作伙伴发送邮件，宣布Apple Music将上线\"Made With AI\"标签，用于标识\"实质性由AI生成\"的内容，所有用户均可查看。",
+    "keywords": [
+      "AI"
+    ],
+    "date": "2026-08-21"
+  },
+  {
     "title": "2026科学智能大会在京开幕 聚焦人工智能赋能科学研究",
     "link": "https://www.pingwest.com/w/316648",
     "source": "品玩",
@@ -289,138 +394,6 @@
       "Agent",
       "Claude",
       "通义千问"
-    ],
-    "date": "2026-08-19"
-  },
-  {
-    "title": "Anthropic预告Claude Code新增 /design 命令",
-    "link": "https://www.pingwest.com/w/316576",
-    "source": "品玩",
-    "category": "other",
-    "summary": "Anthropic\n\n\n\nAnthropic预告Claude Code新增 /design 命令\n\n据 AI BASE报道，Anthropic产品设计师Nate Parrott于8月18日在X平台发布推文，正式预告将在Claude Code中整合推出全新的 /design 命令。该功能旨在为开发者和技术团队提供更高效的交互式设计与开发体验。",
-    "keywords": [
-      "AI",
-      "Anthropic",
-      "Claude"
-    ],
-    "date": "2026-08-19"
-  },
-  {
-    "title": "APUS AI开源全球首个iOS/Android双端专业级LLM Agent引擎",
-    "link": "https://www.pingwest.com/w/316572",
-    "source": "品玩",
-    "category": "other",
-    "summary": "APUS\n\n\n\nAPUS AI开源全球首个iOS/Android双端专业级LLM Agent引擎",
-    "keywords": [
-      "AI",
-      "Agent",
-      "LLM"
-    ],
-    "date": "2026-08-19"
-  },
-  {
-    "title": "GLM-5.3 API正式上线，AA综合智能指数达60分",
-    "link": "https://www.pingwest.com/w/316571",
-    "source": "品玩",
-    "category": "other",
-    "summary": "智谱\n\n\n\nGLM-5.3 API正式上线，AA综合智能指数达60分\n\n据智谱官方消息，GLM-5.3 API即日起正式上线，擅长复杂编码、防御性网络安全及长程任务。",
-    "keywords": [
-      "智谱",
-      "智能"
-    ],
-    "date": "2026-08-19"
-  },
-  {
-    "title": "Warp推出Warp Factories，助力企业搭建AI软件工厂",
-    "link": "https://www.pingwest.com/w/316570",
-    "source": "品玩",
-    "category": "other",
-    "summary": "warp\n\n\n\nWarp推出Warp Factories，助力企业搭建AI软件工厂\n\n据 TechCrunch 报道，AI编程公司Warp于周二推出Warp Factories系统，旨在帮助企业更便捷地搭建和运营AI软件工厂。",
-    "keywords": [
-      "AI"
-    ],
-    "date": "2026-08-19"
-  },
-  {
-    "title": "网易传媒发布“蜜蜂AI” :探索AI与年轻化社区的新连接",
-    "link": "https://www.pingwest.com/a/316553",
-    "source": "品玩",
-    "category": "other",
-    "summary": "网易传媒发布“蜜蜂AI” :探索AI与年轻化社区的新连接",
-    "keywords": [
-      "AI"
-    ],
-    "date": "2026-08-19"
-  },
-  {
-    "title": "OpenAI发布新安全政策，强化模型测试阶段风险管控",
-    "link": "https://www.pingwest.com/w/316568",
-    "source": "品玩",
-    "category": "other",
-    "summary": "OpenAI\n\n\n\nOpenAI发布新安全政策，强化模型测试阶段风险管控\n\n据 TechCrunch 报道，OpenAI于周二宣布推出一批新安全政策，重点加强模型测试阶段的安全事件管控。新措施包括在开发过程中对模型进行更细致的监控，并在后训练阶段进一步强化对齐与安全要求。",
-    "keywords": [
-      "AI",
-      "OpenAI"
-    ],
-    "date": "2026-08-19"
-  },
-  {
-    "title": "Cursor推出代码托管服务Origin，正式进军代码托管领域",
-    "link": "https://www.pingwest.com/w/316567",
-    "source": "品玩",
-    "category": "other",
-    "summary": "cursor\n\n\n\nCursor推出代码托管服务Origin，正式进军代码托管领域\n\n据 TechCrunch 报道，AI初创公司Cursor本周正式推出代码托管服务Origin，进军代码托管领域。",
-    "keywords": [
-      "AI"
-    ],
-    "date": "2026-08-19"
-  },
-  {
-    "title": "苹果相机版AirPods或归入AirPods Pro产品线",
-    "link": "https://www.pingwest.com/w/316566",
-    "source": "品玩",
-    "category": "other",
-    "summary": "苹果\n\n\n\n苹果相机版AirPods或归入AirPods Pro产品线\n\n据 MacRumors报道，苹果正在研发的相机版AirPods大概率将纳入AirPods Pro产品线，而非此前传闻中独立的\"AirPods Ultra\"。",
-    "keywords": [
-      "AI"
-    ],
-    "date": "2026-08-19"
-  },
-  {
-    "title": "OpenAI推出青少年版ChatGPT，强化安全防护与学习引导",
-    "link": "https://www.pingwest.com/w/316565",
-    "source": "品玩",
-    "category": "other",
-    "summary": "ChatGPT\n\n\n\nOpenAI推出青少年版ChatGPT，强化安全防护与学习引导\n\n据 TechCrunch 报道，OpenAI于周一宣布推出青少年版ChatGPT。该产品针对此前AI聊天机器人因缺乏安全措施引发的青少年心理健康问题，新增多项安全防护功能，并着力应对校园中借助ChatGPT作弊的教育问题。",
-    "keywords": [
-      "AI",
-      "OpenAI",
-      "GPT",
-      "ChatGPT",
-      "机器人"
-    ],
-    "date": "2026-08-19"
-  },
-  {
-    "title": "企业微信5.0.10版本发布，AI能力全面升级",
-    "link": "https://www.pingwest.com/w/316564",
-    "source": "品玩",
-    "category": "other",
-    "summary": "企业微信\n\n\n\n企业微信5.0.10版本发布，AI能力全面升级\n\n据企业微信官方消息，企业微信5.0.10版本正式上线，全面开放CLI和MCP能力，WorkBuddy、Codex及企业自建Agent等各类AI Agent均可直接接入企业微信，打通企微文档、表格、邮件、会议等十大办公能力。",
-    "keywords": [
-      "AI",
-      "Agent"
-    ],
-    "date": "2026-08-19"
-  },
-  {
-    "title": "韶音发布首款AI耳机OpenFit 2 AI",
-    "link": "https://www.pingwest.com/w/316562",
-    "source": "品玩",
-    "category": "other",
-    "summary": "阿里云\n\n\n\n韶音发布首款AI耳机OpenFit 2 AI\n\n据阿里云官方消息，韶音正式发布首款AI耳机OpenFit 2 AI。该产品基于千问系列模型打造，面向律师、金融从业者等日常沟通密集的用户，支持8小时双耳通话录音或现场录音，并提供AI多维会议总结与实时翻译功能。",
-    "keywords": [
-      "AI"
     ],
     "date": "2026-08-19"
   },
