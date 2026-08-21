@@ -1,5 +1,27 @@
 [
   {
+    "title": "AI data startup Micro1 reaches $500M gross run rate amid AI training boom",
+    "link": "https://techcrunch.com/2026/08/20/ai-data-startup-micro1-reaches-500m-gross-run-rate-amid-ai-training-boom/",
+    "source": "TechCrunch",
+    "category": "other",
+    "summary": "Surging demand for AI training data is driving rapid growth for the startup and its rivals.",
+    "keywords": [
+      "AI"
+    ],
+    "date": "2026-08-21"
+  },
+  {
+    "title": "光轮智能亮相WRC，发布全球首个十万小时全模态人类行为开源数据集",
+    "link": "https://www.pingwest.com/w/316627",
+    "source": "品玩",
+    "category": "other",
+    "summary": "光轮智能\n\n\n\n光轮智能亮相WRC，发布全球首个十万小时全模态人类行为开源数据集",
+    "keywords": [
+      "智能"
+    ],
+    "date": "2026-08-20"
+  },
+  {
     "title": "MiniMax发布MiniMax Design，推动H3模型能力进入商业内容生产",
     "link": "https://www.pingwest.com/w/316617",
     "source": "品玩",
@@ -105,11 +127,126 @@
     "date": "2026-08-20"
   },
   {
+    "title": "OpenAI is gaining on Anthropic with business users, new data indicates",
+    "link": "https://techcrunch.com/2026/08/20/openai-is-gaining-on-anthropic-with-business-users-new-data-indicates/",
+    "source": "TechCrunch",
+    "category": "other",
+    "summary": "Businesses are willing to flop back and forth as each lab releases new models, volatility that should give both companies' investors pause about how \"sticky\" enterprise AI spending really is.",
+    "keywords": [
+      "AI",
+      "OpenAI",
+      "Anthropic"
+    ],
+    "date": "2026-08-20"
+  },
+  {
+    "title": "ChatGPT can now send texts for you with new Apple Messages plug-in",
+    "link": "https://techcrunch.com/2026/08/20/chatgpt-can-now-send-texts-for-you-with-new-apple-messages-plugin/",
+    "source": "TechCrunch",
+    "category": "other",
+    "summary": "Ever wanted someone else to do your texting for you? ChatGPT is being offered up as an automated text scribe via a new Apple Messages integration.",
+    "keywords": [
+      "GPT",
+      "ChatGPT"
+    ],
+    "date": "2026-08-20"
+  },
+  {
+    "title": "Google gives publishers a new way to fight AI-driven traffic losses",
+    "link": "https://techcrunch.com/2026/08/20/google-gives-publishers-a-new-way-to-fight-ai-driven-traffic-losses/",
+    "source": "TechCrunch",
+    "category": "other",
+    "summary": "Google is giving publishers a new button that lets readers make them a preferred source across Search, Discover, and Google News, potentially boosting their traffic as AI search sends fewer clicks to ",
+    "keywords": [
+      "AI"
+    ],
+    "date": "2026-08-20"
+  },
+  {
+    "title": "Runlayer, Rippling drop lawsuits — but the brouhaha is still a cautionary tale for founders",
+    "link": "https://techcrunch.com/2026/08/20/runlayer-rippling-drop-lawsuits-but-the-brouhaha-is-still-a-cautionary-tale-for-founders/",
+    "source": "TechCrunch",
+    "category": "other",
+    "summary": "Runlayer and Rippling have dropped their lawsuits. No money was paid. Rippling celebrated by releasing a competing product.",
+    "keywords": [
+      "AI"
+    ],
+    "date": "2026-08-20"
+  },
+  {
+    "title": "Linkdaze’s smart calendar is built to run a household, not just track a schedule",
+    "link": "https://techcrunch.com/2026/08/20/linkdazes-smart-calendar-is-built-to-run-a-household-not-just-track-a-schedule/",
+    "source": "TechCrunch",
+    "category": "other",
+    "summary": "Linkdaze's smart digital calendar stands out for not putting its features behind a paywall, including an AI meal planner tool.",
+    "keywords": [
+      "AI"
+    ],
+    "date": "2026-08-20"
+  },
+  {
+    "title": "Grok keeps sending gibberish responses to users",
+    "link": "https://techcrunch.com/2026/08/20/grok-keeps-sending-gibberish-responses-to-users/",
+    "source": "TechCrunch",
+    "category": "other",
+    "summary": "Affected users told TechCrunch they were using Grok Lite, and noticed the issues as early as Wednesday morning.",
+    "keywords": [
+      "Grok"
+    ],
+    "date": "2026-08-20"
+  },
+  {
+    "title": "A third of web pages published since ChatGPT’s launch show signs of AI authorship, study finds",
+    "link": "https://techcrunch.com/2026/08/20/a-third-of-webpages-published-since-chatgpts-launch-show-signs-of-ai-authorship-study-finds/",
+    "source": "TechCrunch",
+    "category": "other",
+    "summary": "ChatGPT and other AI models are now authoring and editing much of the new web.",
+    "keywords": [
+      "AI",
+      "GPT",
+      "ChatGPT"
+    ],
+    "date": "2026-08-20"
+  },
+  {
+    "title": "Ramp launches its own AI model router, called Router",
+    "link": "https://techcrunch.com/2026/08/20/ramp-launches-its-own-ai-model-router-called-router/",
+    "source": "TechCrunch",
+    "category": "other",
+    "summary": "Ramp has launched its own AI model routing service, dubbed Router, that lets users and companies use and switch between various large language models via an API.",
+    "keywords": [
+      "AI"
+    ],
+    "date": "2026-08-20"
+  },
+  {
+    "title": "Meta brings Pocket, an app that lets you vibe-code and share games, to US users",
+    "link": "https://techcrunch.com/2026/08/20/meta-brings-pocket-an-app-that-lets-you-vibe-code-and-share-games-to-us-users/",
+    "source": "TechCrunch",
+    "category": "other",
+    "summary": "Meta is bringing Pocket, its experimental AI-powered app for creating and sharing interactive games, to users across the U.S. after quietly testing it in Brazil.",
+    "keywords": [
+      "AI"
+    ],
+    "date": "2026-08-20"
+  },
+  {
+    "title": "Meta AI’s new Mac app wants you to talk to your apps",
+    "link": "https://techcrunch.com/2026/08/20/meta-ais-new-mac-app-wants-you-to-talk-to-your-apps/",
+    "source": "TechCrunch",
+    "category": "other",
+    "summary": "The company said that the dictation feature works across all apps, just like other tools such as Wispr Flow, Superwhisper, and Monologue.",
+    "keywords": [
+      "AI"
+    ],
+    "date": "2026-08-20"
+  },
+  {
     "title": "Binance now lets AI agents trade, but keeping them in check is largely up to users",
     "link": "https://techcrunch.com/2026/08/20/binance-now-lets-ai-agents-trade-but-keeping-them-in-check-is-largely-up-to-users/",
     "source": "TechCrunch",
     "category": "other",
-    "summary": "Binance's Agent OS works with tools including ChatGPT, Claude Code, and Cursor.",
+    "summary": "Binance's Agent OS works with tools such as ChatGPT, Claude Code, and Cursor.",
     "keywords": [
       "AI",
       "Agent",
@@ -348,61 +485,6 @@
     "date": "2026-08-19"
   },
   {
-    "title": "Meet the startup helping Wall Street put a price on AI compute",
-    "link": "https://techcrunch.com/video/meet-the-startup-helping-wall-street-put-a-price-on-ai-compute/",
-    "source": "TechCrunch",
-    "category": "other",
-    "summary": "The AI buildout shows no signs of slowing. And&#160;with&#160;hundreds of&#160;billions of dollars a year going into data centers and GPUs,&#160;compute has&#160;become the single biggest cost for any",
-    "keywords": [
-      "AI"
-    ],
-    "date": "2026-08-19"
-  },
-  {
-    "title": "TerraPower’s nuclear reactor has a secret weapon for powering AI data centers",
-    "link": "https://techcrunch.com/2026/08/19/terrapowers-nuclear-reactor-has-a-secret-weapon-for-powering-ai-data-centers/",
-    "source": "TechCrunch",
-    "category": "other",
-    "summary": "TerraPower's nuclear power plant possesses a strategic advantage over competitors, especially when chasing after data center deals.",
-    "keywords": [
-      "AI"
-    ],
-    "date": "2026-08-19"
-  },
-  {
-    "title": "Amazon makes its AI-powered Alexa+ free on Fire TV, no Prime required",
-    "link": "https://techcrunch.com/2026/08/19/amazon-makes-its-ai-powered-alexa-free-on-fire-tv-no-prime-required/",
-    "source": "TechCrunch",
-    "category": "other",
-    "summary": "Amazon is making its AI-powered Alexa+ assistant free on all compatible Fire TV devices in the U.S., automatically upgrading users whether or not they subscribe to Prime.",
-    "keywords": [
-      "AI"
-    ],
-    "date": "2026-08-19"
-  },
-  {
-    "title": "AI isn’t close to curing cancer. This startup says it knows what it will take.",
-    "link": "https://techcrunch.com/2026/08/19/ai-isnt-close-to-curing-cancer-this-startup-says-it-knows-what-it-will-take/",
-    "source": "TechCrunch",
-    "category": "other",
-    "summary": "It's the data, stupid.",
-    "keywords": [
-      "AI"
-    ],
-    "date": "2026-08-19"
-  },
-  {
-    "title": "Relativity Networks raises $22 million to bring a faster kind of fiber to data centers",
-    "link": "https://techcrunch.com/2026/08/19/relativity-networks-raises-22-million-to-bring-a-faster-kind-of-fiber-to-data-centers/",
-    "source": "TechCrunch",
-    "category": "funding",
-    "summary": "Relativity Networks deals in hollow-core fiber, a rarely deployed technology that allows data to be transmitted 30% faster than conventional fiber.",
-    "keywords": [
-      "AI"
-    ],
-    "date": "2026-08-19"
-  },
-  {
     "title": "闪极第二次做 AI 眼镜，好像有点开窍了",
     "link": "https://www.pingwest.com/a/316559",
     "source": "品玩",
@@ -410,133 +492,6 @@
     "summary": "闪极\n\n\n\n闪极第二次做 AI 眼镜，好像有点开窍了\n\n在它成为计算平台之前，先得是一副人们愿意每天戴的眼镜。",
     "keywords": [
       "AI"
-    ],
-    "date": "2026-08-18"
-  },
-  {
-    "title": "Serve Robotics与Grubhub达成合作，自动驾驶配送机器人接入Grubhub订单网络",
-    "link": "https://www.pingwest.com/w/316549",
-    "source": "品玩",
-    "category": "other",
-    "summary": "机器人\n\n\n\nServe Robotics与Grubhub达成合作，自动驾驶配送机器人接入Grubhub订单网络\n\n据unite 报道，Serve Robotics与Grubhub于8月17日宣布达成合作，Serve的自动驾驶人行道配送机器人正式接入Grubhub订单网络，首批在芝加哥、洛杉矶及弗吉尼亚州亚历山大上线。芝加哥已有超100家、洛杉矶近200家Grubhub合作商户接入，后续将有更多餐",
-    "keywords": [
-      "机器人",
-      "自动驾驶"
-    ],
-    "date": "2026-08-18"
-  },
-  {
-    "title": "Round Hill Music起诉Suno与Anthropic侵犯版权",
-    "link": "https://www.pingwest.com/w/316547",
-    "source": "品玩",
-    "category": "other",
-    "summary": "Suno\n\n\n\nRound Hill Music起诉Suno与Anthropic侵犯版权\n\n据 TMCnet 报道，音乐版权管理公司Round Hill Music L.P.近日对Suno与Anthropic提起版权侵权诉讼。",
-    "keywords": [
-      "Anthropic"
-    ],
-    "date": "2026-08-18"
-  },
-  {
-    "title": "Mureka发布新一代AI音乐生成模型V9.5",
-    "link": "https://www.pingwest.com/w/316546",
-    "source": "品玩",
-    "category": "other",
-    "summary": "昆仑万维\n\n\n\nMureka发布新一代AI音乐生成模型V9.5\n\n据昆仑万维官方消息，Mureka今日正式发布新一代AI音乐生成模型V9.5。该模型基于MusiCoT（Music Chain-of-Thought，音乐思维链）框架，在生成音频前构建完整音乐逻辑，从全曲结构到局部表达进行系统化组织，强调编配留白、人声自然与情绪克制，追求真实感与耐听度。",
-    "keywords": [
-      "AI"
-    ],
-    "date": "2026-08-18"
-  },
-  {
-    "title": "Anthropic新模型Model 2内部评估达标，暂不对外发布",
-    "link": "https://www.pingwest.com/w/316544",
-    "source": "品玩",
-    "category": "other",
-    "summary": "Anthropic\n\n\n\nAnthropic新模型Model 2内部评估达标，暂不对外发布\n\n据 geeky-gadgets 报道，Anthropic在2026年风险概述中披露，其最新内部模型Model 2在内部评估中表现优于前代Mythos 5，在自研Codebench测试中获得62.8%的成绩，但尚未达到85%的广泛部署门槛。该模型目前仅作为内部工具使用，暂不对外发布。",
-    "keywords": [
-      "Anthropic"
-    ],
-    "date": "2026-08-18"
-  },
-  {
-    "title": "Cursor capitalizes on GitHub frustration, launches rival hosting platform",
-    "link": "https://techcrunch.com/2026/08/18/cursor-capitalizes-on-github-frustration-launches-rival-hosting-platform/",
-    "source": "TechCrunch",
-    "category": "other",
-    "summary": "Cursor, known for its AI Code Editor, is launching a new code-hosting platform to rival developers' long preferred favorite, GitHub.",
-    "keywords": [
-      "AI"
-    ],
-    "date": "2026-08-18"
-  },
-  {
-    "title": "OpenAI institutes new safeguards after Hugging Face breach",
-    "link": "https://techcrunch.com/2026/08/18/openai-institutes-new-safeguards-after-hugging-face-breach/",
-    "source": "TechCrunch",
-    "category": "other",
-    "summary": "The new safeguards include more detailed monitoring of models during the development process, as well as greater emphasis on alignment and security during the post-training process.",
-    "keywords": [
-      "AI",
-      "OpenAI"
-    ],
-    "date": "2026-08-18"
-  },
-  {
-    "title": "Etched’s valuation doubles to $21B in a month",
-    "link": "https://techcrunch.com/2026/08/18/etcheds-valuation-doubles-to-21b-in-a-month/",
-    "source": "TechCrunch",
-    "category": "funding",
-    "summary": "Jane Street has installed Etched's first shipped AI cluster system, and was so impressed, it led another massive round, the startup says.",
-    "keywords": [
-      "AI"
-    ],
-    "date": "2026-08-18"
-  },
-  {
-    "title": "Why Apple’s camera-equipped AirPods may not be the ‘pervert pods’ consumers fear",
-    "link": "https://techcrunch.com/2026/08/18/why-apples-camera-equipped-airpods-may-not-be-the-pervert-pods-consumers-fear/",
-    "source": "TechCrunch",
-    "category": "other",
-    "summary": "Apple’s leaked camera-equipped AirPods might avoid the privacy pitfalls of other AI wearables by preventing users from recording photos and videos.",
-    "keywords": [
-      "AI"
-    ],
-    "date": "2026-08-18"
-  },
-  {
-    "title": "Warp’s new system is an out-of-the-box software factory for AI development",
-    "link": "https://techcrunch.com/2026/08/18/warps-new-system-is-an-out-of-the-box-software-factory-for-ai-development/",
-    "source": "TechCrunch",
-    "category": "other",
-    "summary": "On Tuesday, Warp introduced Warp Factories, a new infrastructure system designed to make building AI software factories as easy as possible.",
-    "keywords": [
-      "AI"
-    ],
-    "date": "2026-08-18"
-  },
-  {
-    "title": "OpenAI launches a safer ChatGPT for teens — years after teens started using it",
-    "link": "https://techcrunch.com/2026/08/18/openai-launches-a-safer-chatgpt-for-teens-years-after-teens-started-using-it/",
-    "source": "TechCrunch",
-    "category": "other",
-    "summary": "ChatGPT for Teens adds age-appropriate safety measures, parental controls, and learning tools designed to steer teens away from harmful content — and from using AI to cheat on their homework.",
-    "keywords": [
-      "AI",
-      "OpenAI",
-      "GPT",
-      "ChatGPT"
-    ],
-    "date": "2026-08-18"
-  },
-  {
-    "title": "Perplexity’s free AI offer left it with millions more users in India",
-    "link": "https://techcrunch.com/2026/08/18/perplexitys-free-ai-offer-left-it-with-millions-more-users-in-india/",
-    "source": "TechCrunch",
-    "category": "funding",
-    "summary": "Perplexity's India revenue rose about 60% after the Airtel offer ended for new users, even as downloads declined.",
-    "keywords": [
-      "AI",
-      "Perplexity"
     ],
     "date": "2026-08-18"
   }
