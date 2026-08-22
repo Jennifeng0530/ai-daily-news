@@ -1,5 +1,17 @@
 [
   {
+    "title": "重磅！“中关村（海淀）科学智能（AI4S）创新集聚区”正式发布",
+    "link": "https://www.pingwest.com/w/316680",
+    "source": "品玩",
+    "category": "other",
+    "summary": "中关村\n\n\n\n重磅！“中关村（海淀）科学智能（AI4S）创新集聚区”正式发布",
+    "keywords": [
+      "AI",
+      "智能"
+    ],
+    "date": "2026-08-21"
+  },
+  {
     "title": "从“打开App”到“意图即服务”，近200位开发者在HDD深圳站探索鸿蒙AI开发新范式",
     "link": "https://www.pingwest.com/w/316676",
     "source": "品玩",
@@ -113,6 +125,52 @@
     "keywords": [
       "人工智能",
       "智能"
+    ],
+    "date": "2026-08-21"
+  },
+  {
+    "title": "Anthropic’s Opus 4.6 is a smut-machine",
+    "link": "https://techcrunch.com/2026/08/21/anthropics-opus-4-6-is-a-smut-machine/",
+    "source": "TechCrunch",
+    "category": "other",
+    "summary": "Anthropic forbids its Claude models from generating sexually explicit content. But a series of tests conducted by TechCrunch found that it didn't take much to get past the restriction.",
+    "keywords": [
+      "Anthropic",
+      "Claude"
+    ],
+    "date": "2026-08-21"
+  },
+  {
+    "title": "Nvidia partners with data center developer Cloverleaf",
+    "link": "https://techcrunch.com/2026/08/21/nvidia-partners-with-data-center-developer-cloverleaf/",
+    "source": "TechCrunch",
+    "category": "other",
+    "summary": "Nvidia continues to pour money into data center development — just as AI data centers bring lots of money into Nvidia.",
+    "keywords": [
+      "AI"
+    ],
+    "date": "2026-08-21"
+  },
+  {
+    "title": "Nvidia just showed that the harness, not the AI model, is now the real hero",
+    "link": "https://techcrunch.com/2026/08/21/nvidia-just-showed-that-the-harness-not-the-ai-model-is-now-the-real-hero/",
+    "source": "TechCrunch",
+    "category": "other",
+    "summary": "Nvidia research shows that AI agents can perform well, and not go off the deep end, through fine-tuning, even if the AI model isn't that great at the task.",
+    "keywords": [
+      "AI",
+      "Agent"
+    ],
+    "date": "2026-08-21"
+  },
+  {
+    "title": "Starcloud raises $250 million for orbital data centers as launch options dry up",
+    "link": "https://techcrunch.com/2026/08/21/starcloud-raises-200-million-for-orbital-data-centers-as-launch-options-dry-up/",
+    "source": "TechCrunch",
+    "category": "funding",
+    "summary": "There's about to be a big fight to secure access to space.",
+    "keywords": [
+      "AI"
     ],
     "date": "2026-08-21"
   },
@@ -313,7 +371,7 @@
     "date": "2026-08-20"
   },
   {
-    "title": "A third of web pages published since ChatGPT’s launch show signs of AI authorship, study finds",
+    "title": "A third of web pages published since ChatGPT launched were written by AI, study finds",
     "link": "https://techcrunch.com/2026/08/20/a-third-of-webpages-published-since-chatgpts-launch-show-signs-of-ai-authorship-study-finds/",
     "source": "TechCrunch",
     "category": "other",
@@ -405,67 +463,6 @@
     "summary": "What does a payments giant want with a startup that routes prompts between different AI models? Stripe says it's because of \"the singularity\" but it's really for a far more real and powerful reason.",
     "keywords": [
       "AI"
-    ],
-    "date": "2026-08-19"
-  },
-  {
-    "title": "OpenAI seeks to one-up Anthropic with new customer privacy protections",
-    "link": "https://techcrunch.com/2026/08/19/openai-seeks-to-one-up-anthropic-with-new-customer-privacy-protections/",
-    "source": "TechCrunch",
-    "category": "other",
-    "summary": "A competition is developing between OpenAI and Anthropic over who can provide the best privacy protections for enterprise customer data.",
-    "keywords": [
-      "AI",
-      "OpenAI",
-      "Anthropic"
-    ],
-    "date": "2026-08-19"
-  },
-  {
-    "title": "Cognition CEO denies report that SpaceX tried to acquire the startup",
-    "link": "https://techcrunch.com/2026/08/19/cognition-ceo-denies-report-that-spacex-tried-to-acquire-the-startup/",
-    "source": "TechCrunch",
-    "category": "other",
-    "summary": "SpaceX was reportedly in talks to buy AI coding startup Cognition. SpaceX has already acquired Cursor as it races to catch up to rivals like OpenAI and Anthropic in enterprise AI.",
-    "keywords": [
-      "AI",
-      "OpenAI",
-      "Anthropic"
-    ],
-    "date": "2026-08-19"
-  },
-  {
-    "title": "AI was supposed to win people over by now — it hasn’t",
-    "link": "https://techcrunch.com/2026/08/19/ai-was-supposed-to-win-people-over-by-now-it-hasnt/",
-    "source": "TechCrunch",
-    "category": "other",
-    "summary": "As AI becomes harder to avoid, consumers are growing more wary of the technology — and Silicon Valley is discovering that widespread adoption doesn’t necessarily lead to acceptance.",
-    "keywords": [
-      "AI"
-    ],
-    "date": "2026-08-19"
-  },
-  {
-    "title": "Google packs Search and Gemini with new AI study tools",
-    "link": "https://techcrunch.com/2026/08/19/google-launches-new-study-tools-for-students-across-search-and-gemini/",
-    "source": "TechCrunch",
-    "category": "other",
-    "summary": "The launch of the new study features marks Google's latest effort to make Gemini the AI assistant that students turn to when learning and studying, as it continues to compete with companies like OpenA",
-    "keywords": [
-      "AI",
-      "Gemini"
-    ],
-    "date": "2026-08-19"
-  },
-  {
-    "title": "Researchers say OpenAI revoked their access to limited cyber program",
-    "link": "https://techcrunch.com/2026/08/19/researchers-complain-that-openai-revoked-their-access-to-limited-cyber-program/",
-    "source": "TechCrunch",
-    "category": "other",
-    "summary": "The idea behind OpenAI's Trusted Access for Cyber program is to give trusted defenders better models so they can report bugs and vulnerabilities to companies, with the aim of getting flaws patched fas",
-    "keywords": [
-      "AI",
-      "OpenAI"
     ],
     "date": "2026-08-19"
   }
