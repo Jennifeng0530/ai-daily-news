@@ -1,5 +1,102 @@
 [
   {
+    "title": "构筑人车家 AI 算力底座，小米玄戒发布三款自研芯片贯通全场景",
+    "link": "https://www.pingwest.com/w/316723",
+    "source": "品玩",
+    "category": "other",
+    "summary": "小米\n\n\n\n构筑人车家 AI 算力底座，小米玄戒发布三款自研芯片贯通全场景",
+    "keywords": [
+      "AI"
+    ],
+    "date": "2026-08-24"
+  },
+  {
+    "title": "字节跳动整合办公AI业务，豆包将推出独立AI办公产品",
+    "link": "https://www.pingwest.com/w/316721",
+    "source": "品玩",
+    "category": "other",
+    "summary": "豆包\n\n\n\n字节跳动整合办公AI业务，豆包将推出独立AI办公产品\n\n据界面新闻报道，字节跳动近日对旗下办公AI产品完成团队整合，TRAE、扣子（Coze）团队整体并入豆包体系。",
+    "keywords": [
+      "AI",
+      "豆包"
+    ],
+    "date": "2026-08-24"
+  },
+  {
+    "title": "机器人如何走向通用？Arm技术负责人提到了“智能层”",
+    "link": "https://www.pingwest.com/w/316719",
+    "source": "品玩",
+    "category": "other",
+    "summary": "ARM\n\n\n\n机器人如何走向通用？Arm技术负责人提到了“智能层”",
+    "keywords": [
+      "机器人",
+      "智能"
+    ],
+    "date": "2026-08-24"
+  },
+  {
+    "title": "OpenAI发布Codex开源Agent框架，开放三层开发者集成方案",
+    "link": "https://www.pingwest.com/w/316717",
+    "source": "品玩",
+    "category": "other",
+    "summary": "codex\n\n\n\nOpenAI发布Codex开源Agent框架，开放三层开发者集成方案\n\n据 explainx 报道，OpenAI于2026年8月19日发布Codex开源Agent框架，由Nicolas Bonamy和Derrick Choi开发，将Agent能力封装为可嵌入第三方产品的底层设施，与Anthropic的Claude Agent SDK形成直接竞争。",
+    "keywords": [
+      "AI",
+      "Agent",
+      "OpenAI",
+      "Anthropic",
+      "Claude"
+    ],
+    "date": "2026-08-24"
+  },
+  {
+    "title": "OpenBMB开源数学自动形式化框架MathForm",
+    "link": "https://www.pingwest.com/w/316715",
+    "source": "品玩",
+    "category": "other",
+    "summary": "openbmb\n\n\n\nOpenBMB开源数学自动形式化框架MathForm\n\n据 AIBASE 报道，OpenBMB团队近日正式开源数学自动形式化框架、数据集与模型MathForm，旨在解决数学形式化过程中代码可编译但语义不准确的核心痛点。",
+    "keywords": [
+      "AI"
+    ],
+    "date": "2026-08-24"
+  },
+  {
+    "title": "OpenAI资深研究员Luke Metz加入Meta超级智能实验室",
+    "link": "https://www.pingwest.com/w/316713",
+    "source": "品玩",
+    "category": "other",
+    "summary": "META\n\n\n\nOpenAI资深研究员Luke Metz加入Meta超级智能实验室\n\n据Axios报道，AI研究员Luke Metz已离开OpenAI，加入Meta超级智能实验室（Superintelligence Labs），直接向首席AI官Alexandr Wang汇报。",
+    "keywords": [
+      "AI",
+      "OpenAI",
+      "智能"
+    ],
+    "date": "2026-08-24"
+  },
+  {
+    "title": "达摩院发布肝脏肿瘤AI模型DAMO LiON，辅助医生精准识别肝转移",
+    "link": "https://www.pingwest.com/w/316711",
+    "source": "品玩",
+    "category": "other",
+    "summary": "达摩院\n\n\n\n达摩院发布肝脏肿瘤AI模型DAMO LiON，辅助医生精准识别肝转移\n\n达摩院今天宣布，发布医疗影像AI模型DAMO LiON，作为\"AI安全员\"协助医生阅片，重点提升原发性肝癌及易被忽视的肝转移病灶检出率。实验显示，该模型识别恶性肿瘤的准确率高于放射科医生；在AI协助下，医生阅片用时减少27%，恶性肿瘤敏感性提高11.5%，初级医生可达到资深医生水平。",
+    "keywords": [
+      "AI"
+    ],
+    "date": "2026-08-24"
+  },
+  {
+    "title": "摩尔线程发布MTT S5000 Prefill-as-a-Service白皮书",
+    "link": "https://www.pingwest.com/w/316710",
+    "source": "品玩",
+    "category": "other",
+    "summary": "摩尔线程\n\n\n\n摩尔线程发布MTT S5000 Prefill-as-a-Service白皮书\n\n据摩尔线程官方消息，摩尔线程正式发布《MTT S5000 Prefill-as-a-Service技术白皮书》，基于旗舰级AI训推一体智算卡MTT S5000构建\"Prefill As a Service\"新范式，面向AI Agent、超长文档分析等长上下文推理场景。",
+    "keywords": [
+      "AI",
+      "Agent"
+    ],
+    "date": "2026-08-24"
+  },
+  {
     "title": "一场开幕式，看懂加速进化在具身智能行业的真正野心",
     "link": "https://www.pingwest.com/v/316700",
     "source": "品玩",
@@ -280,40 +377,6 @@
     "date": "2026-08-21"
   },
   {
-    "title": "美光宣布成立Micron Research Labs，十年投资100亿美元布局AI前沿研发",
-    "link": "https://www.pingwest.com/w/316654",
-    "source": "品玩",
-    "category": "other",
-    "summary": "美光\n\n\n\n美光宣布成立Micron Research Labs，十年投资100亿美元布局AI前沿研发\n\n据美光科技官方消息，美光宣布成立Micron Research Labs，总部位于爱达荷州博伊西市，是一家面向长周期的美国本土前沿研究机构。",
-    "keywords": [
-      "AI"
-    ],
-    "date": "2026-08-21"
-  },
-  {
-    "title": "Apple Music将强制标注AI生成内容，年底前上线\"Made With AI\"标识",
-    "link": "https://www.pingwest.com/w/316651",
-    "source": "品玩",
-    "category": "other",
-    "summary": "Apple Music\n\n\n\nApple Music将强制标注AI生成内容，年底前上线\"Made With AI\"标识\n\n据Macrumors 报道，苹果近日向音乐行业合作伙伴发送邮件，宣布Apple Music将上线\"Made With AI\"标签，用于标识\"实质性由AI生成\"的内容，所有用户均可查看。",
-    "keywords": [
-      "AI"
-    ],
-    "date": "2026-08-21"
-  },
-  {
-    "title": "2026科学智能大会在京开幕 聚焦人工智能赋能科学研究",
-    "link": "https://www.pingwest.com/w/316648",
-    "source": "品玩",
-    "category": "other",
-    "summary": "科学智能\n\n\n\n2026科学智能大会在京开幕 聚焦人工智能赋能科学研究",
-    "keywords": [
-      "人工智能",
-      "智能"
-    ],
-    "date": "2026-08-21"
-  },
-  {
     "title": "Anthropic’s Opus 4.6 is a smut-machine",
     "link": "https://techcrunch.com/2026/08/21/anthropics-opus-4-6-is-a-smut-machine/",
     "source": "TechCrunch",
@@ -369,29 +432,6 @@
       "AI"
     ],
     "date": "2026-08-21"
-  },
-  {
-    "title": "光轮智能亮相WRC，发布全球首个十万小时全模态人类行为开源数据集",
-    "link": "https://www.pingwest.com/w/316627",
-    "source": "品玩",
-    "category": "other",
-    "summary": "光轮智能\n\n\n\n光轮智能亮相WRC，发布全球首个十万小时全模态人类行为开源数据集",
-    "keywords": [
-      "智能"
-    ],
-    "date": "2026-08-20"
-  },
-  {
-    "title": "MiniMax发布MiniMax Design，推动H3模型能力进入商业内容生产",
-    "link": "https://www.pingwest.com/w/316617",
-    "source": "品玩",
-    "category": "other",
-    "summary": "MiniMax\n\n\n\nMiniMax发布MiniMax Design，推动H3模型能力进入商业内容生产\n\n据MiniMax官方消息，minimax正式推出多模态创作Agent工作台MiniMax Design，进一步释放原生多模态视频模型H3的生产力，推动模型能力进入商业内容生产流程。",
-    "keywords": [
-      "Agent",
-      "MiniMax"
-    ],
-    "date": "2026-08-20"
   },
   {
     "title": "OpenAI is gaining on Anthropic with business users, new data indicates",
