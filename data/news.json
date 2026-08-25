@@ -1,5 +1,62 @@
 [
   {
+    "title": "英伟达洽谈投资AI搜索公司Perplexity，估值或超300亿美元",
+    "link": "https://www.pingwest.com/w/316733",
+    "source": "品玩",
+    "category": "funding",
+    "summary": "英伟达\n\n\n\n英伟达洽谈投资AI搜索公司Perplexity，估值或超300亿美元\n\n据The Information报道，英伟达正就投资AI搜索初创公司Perplexity进行谈判，本轮融资完成后，Perplexity估值有望突破300亿美元，较一年前约200亿美元的估值上涨超50%。",
+    "keywords": [
+      "AI",
+      "Perplexity"
+    ],
+    "date": "2026-08-25"
+  },
+  {
+    "title": "Hugging Face传获130亿美元估值收购意向，CEO此前强调社区责任",
+    "link": "https://www.pingwest.com/w/316730",
+    "source": "品玩",
+    "category": "funding",
+    "summary": "HuggingFace\n\n\n\nHugging Face传获130亿美元估值收购意向，CEO此前强调社区责任\n\n据Business Insider报道，AI开源社区Hugging Face正探索出售事宜，潜在估值或达130亿美元以上。目前公司已聘请投资银行评估潜在买家意向，但尚未达成任何交易，具体接洽方尚不明确。",
+    "keywords": [
+      "AI"
+    ],
+    "date": "2026-08-25"
+  },
+  {
+    "title": "豆包工作正式发布：让 AI 从生成内容到完成工作",
+    "link": "https://www.pingwest.com/w/316728",
+    "source": "品玩",
+    "category": "other",
+    "summary": "豆包\n\n\n\n豆包工作正式发布：让 AI 从生成内容到完成工作",
+    "keywords": [
+      "AI",
+      "豆包"
+    ],
+    "date": "2026-08-25"
+  },
+  {
+    "title": "Harvey发布首个后训练法律AI模型Tenet研究预览版",
+    "link": "https://www.pingwest.com/w/316726",
+    "source": "品玩",
+    "category": "other",
+    "summary": "后训练模型\n\n\n\nHarvey发布首个后训练法律AI模型Tenet研究预览版\n\n据 marktechpost 报道，Harvey于2026年8月20日发布Harvey Tenet，这是其首个后训练模型，目前以研究预览形式推出。",
+    "keywords": [
+      "AI"
+    ],
+    "date": "2026-08-25"
+  },
+  {
+    "title": "Situational Awareness, star AI hedge fund that nearly imploded, now being probed by the SEC",
+    "link": "https://techcrunch.com/2026/08/24/situational-awareness-star-ai-hedge-fund-that-nearly-imploded-now-being-probed-by-the-sec/",
+    "source": "TechCrunch",
+    "category": "other",
+    "summary": "The AI hedge fund went from \"the talk of Wall Street\" to \"subject of federal subpoenas\" faster than you can say \"diversify your portfolio.\"",
+    "keywords": [
+      "AI"
+    ],
+    "date": "2026-08-25"
+  },
+  {
     "title": "构筑人车家 AI 算力底座，小米玄戒发布三款自研芯片贯通全场景",
     "link": "https://www.pingwest.com/w/316723",
     "source": "品玩",
@@ -143,6 +200,42 @@
     "date": "2026-08-24"
   },
   {
+    "title": "Instinct’s powerful AI assistant is raising privacy and security concerns",
+    "link": "https://techcrunch.com/2026/08/24/instincts-powerful-ai-assistant-is-raising-privacy-and-security-concerns/",
+    "source": "TechCrunch",
+    "category": "other",
+    "summary": "Early testers are raving about what Instinct can do, but some say the AI assistant’s sweeping access, broad terms and ability to act on users’ behalf come with uncomfortable trade-offs.",
+    "keywords": [
+      "AI"
+    ],
+    "date": "2026-08-24"
+  },
+  {
+    "title": "Valor, Point72 back General Intuition at $6B valuation as AI startup pushes into robotics",
+    "link": "https://techcrunch.com/2026/08/24/valor-point72-back-general-intuition-at-6b-valuation-as-ai-startup-pushes-into-robotics/",
+    "source": "TechCrunch",
+    "category": "funding",
+    "summary": "General Intuition, the startup building a foundation model that trains generalized AI agents how to move through space and time, is in talks to raise at a $6 billion pre-money valuation from new inves",
+    "keywords": [
+      "AI",
+      "Agent"
+    ],
+    "date": "2026-08-24"
+  },
+  {
+    "title": "OpenAI is building AI agents for everything. Will everyone use them?",
+    "link": "https://techcrunch.com/2026/08/24/openai-is-building-an-ai-agent-for-everything-will-everyone-use-them/",
+    "source": "TechCrunch",
+    "category": "other",
+    "summary": "Inside the frontier lab’s push to bring AI agents from software engineers to the masses.",
+    "keywords": [
+      "AI",
+      "Agent",
+      "OpenAI"
+    ],
+    "date": "2026-08-24"
+  },
+  {
     "title": "Rabbit做了个“所有Agents的Agent” ，体验后我觉得Agent早就该长它这样",
     "link": "https://www.pingwest.com/a/316684",
     "source": "品玩",
@@ -263,7 +356,7 @@
     "link": "https://techcrunch.com/2026/08/22/openai-says-california-should-strengthen-its-ai-safety-bill/",
     "source": "TechCrunch",
     "category": "other",
-    "summary": "OpenAI is calling for California to strengthen SB 53, an AI safety bill that the company previously opposed.",
+    "summary": "OpenAI's global affairs team post also referenced “recent incidents” that “underscore both the need for these protections and the importance of updating them” as new risks emerge.",
     "keywords": [
       "AI",
       "OpenAI"
@@ -276,6 +369,17 @@
     "source": "TechCrunch",
     "category": "other",
     "summary": "A new study finds leading AI labs have few publicly documented plans for containing rogue models, raising questions about preparedness as AI systems increasingly demonstrate unexpected and potentially",
+    "keywords": [
+      "AI"
+    ],
+    "date": "2026-08-22"
+  },
+  {
+    "title": "Michael Polansky is training an AI model on skin that’s still alive",
+    "link": "https://techcrunch.com/2026/08/21/michael-polansky-is-training-an-ai-model-on-skin-thats-still-alive/",
+    "source": "TechCrunch",
+    "category": "other",
+    "summary": "Michael Polansky — better known publicly as Lady Gaga's partner and a former top deputy to Sean Parker — has quietly spent years building an AI-driven startup that keeps living human skin tissue alive",
     "keywords": [
       "AI"
     ],
@@ -312,67 +416,6 @@
     "summary": "Adobe\n\n\n\nAdobe Firefly推出AI音乐生成器，支持视频配乐与自定义创作\n\n据 Adobe 官方消息，Adobe Firefly上线AI音乐生成器（Generate Music）功能，用户可通过文字提示或上传视频自动生成原创音乐。",
     "keywords": [
       "AI"
-    ],
-    "date": "2026-08-21"
-  },
-  {
-    "title": "具身公司变“老实”：啥VLA、世界模型，我现在只要数据｜WRC观察",
-    "link": "https://www.pingwest.com/a/316645",
-    "source": "品玩",
-    "category": "other",
-    "summary": "具身公司变“老实”：啥VLA、世界模型，我现在只要数据｜WRC观察\n\n世界模型也救不了没见过世界的机器人。",
-    "keywords": [
-      "机器人"
-    ],
-    "date": "2026-08-21"
-  },
-  {
-    "title": "把 4K 生图门槛打下来！商汤开源 SenseNova U1.5 Lite",
-    "link": "https://www.pingwest.com/a/316646",
-    "source": "品玩",
-    "category": "other",
-    "summary": "把 4K 生图门槛打下来！商汤开源 SenseNova U1.5 Lite\n\n4K 还开源",
-    "keywords": [
-      "商汤"
-    ],
-    "date": "2026-08-21"
-  },
-  {
-    "title": "百度发布库库AI，AI办公MAU突破2500万",
-    "link": "https://www.pingwest.com/w/316658",
-    "source": "品玩",
-    "category": "other",
-    "summary": "百度\n\n\n\n百度发布库库AI，AI办公MAU突破2500万\n\n据百度官方消息，百度在AI Day上发布百度文库网盘通用智能体GenFlow中文品牌\"库库AI\"，AI办公月活跃用户突破2500万。库库AI上线网页端、PC客户端和小程序独立入口，并推出企业版。",
-    "keywords": [
-      "AI",
-      "智能"
-    ],
-    "date": "2026-08-21"
-  },
-  {
-    "title": "OpenAI推出ChatGPT桌面版Apple Messages插件，支持iMessage读写与发送",
-    "link": "https://www.pingwest.com/w/316657",
-    "source": "品玩",
-    "category": "other",
-    "summary": "ChatGPT\n\n\n\nOpenAI推出ChatGPT桌面版Apple Messages插件，支持iMessage读写与发送\n\nOpenAI于2026年8月20日在ChatGPT桌面版macOS应用中上线Apple Messages插件，允许ChatGPT读取、搜索Mac上的iMessage、SMS和RCS对话，并通过Messages应用起草或发送信息。",
-    "keywords": [
-      "AI",
-      "OpenAI",
-      "GPT",
-      "ChatGPT"
-    ],
-    "date": "2026-08-21"
-  },
-  {
-    "title": "Google推出多项AI学习工具，Search与Gemini功能全面升级",
-    "link": "https://www.pingwest.com/w/316655",
-    "source": "品玩",
-    "category": "other",
-    "summary": "GEMINI\n\n\n\nGoogle推出多项AI学习工具，Search与Gemini功能全面升级\n\n据 TechCrunch 报道，Google宣布在Search和Gemini中推出多项全新学习工具，包括AI生成的交互式视觉内容、3D模拟、学生专属中心、定制化练习测验等，进一步巩固Gemini作为学生学习助手的地位，与OpenAI及Knowt、Gauth等教育初创公司展开竞争。",
-    "keywords": [
-      "AI",
-      "OpenAI",
-      "Gemini"
     ],
     "date": "2026-08-21"
   },
@@ -421,74 +464,5 @@
       "AI"
     ],
     "date": "2026-08-21"
-  },
-  {
-    "title": "AI data startup Micro1 reaches $500M gross run rate amid AI training boom",
-    "link": "https://techcrunch.com/2026/08/20/ai-data-startup-micro1-reaches-500m-gross-run-rate-amid-ai-training-boom/",
-    "source": "TechCrunch",
-    "category": "other",
-    "summary": "Surging demand for AI training data is driving rapid growth for the startup and its rivals.",
-    "keywords": [
-      "AI"
-    ],
-    "date": "2026-08-21"
-  },
-  {
-    "title": "OpenAI is gaining on Anthropic with business users, new data indicates",
-    "link": "https://techcrunch.com/2026/08/20/openai-is-gaining-on-anthropic-with-business-users-new-data-indicates/",
-    "source": "TechCrunch",
-    "category": "other",
-    "summary": "Businesses are willing to flop back and forth as each lab releases new models, volatility that should give both companies' investors pause about how \"sticky\" enterprise AI spending really is.",
-    "keywords": [
-      "AI",
-      "OpenAI",
-      "Anthropic"
-    ],
-    "date": "2026-08-20"
-  },
-  {
-    "title": "ChatGPT can now send texts for you with new Apple Messages plug-in",
-    "link": "https://techcrunch.com/2026/08/20/chatgpt-can-now-send-texts-for-you-with-new-apple-messages-plugin/",
-    "source": "TechCrunch",
-    "category": "other",
-    "summary": "Ever wanted someone else to do your texting for you? ChatGPT is being offered up as an automated text scribe via a new Apple Messages integration.",
-    "keywords": [
-      "GPT",
-      "ChatGPT"
-    ],
-    "date": "2026-08-20"
-  },
-  {
-    "title": "Google gives publishers a new way to fight AI-driven traffic losses",
-    "link": "https://techcrunch.com/2026/08/20/google-gives-publishers-a-new-way-to-fight-ai-driven-traffic-losses/",
-    "source": "TechCrunch",
-    "category": "other",
-    "summary": "Google is giving publishers a new button that lets readers make them a preferred source across Search, Discover, and Google News, potentially boosting their traffic as AI search sends fewer clicks to ",
-    "keywords": [
-      "AI"
-    ],
-    "date": "2026-08-20"
-  },
-  {
-    "title": "Runlayer, Rippling drop lawsuits — but the brouhaha is still a cautionary tale for founders",
-    "link": "https://techcrunch.com/2026/08/20/runlayer-rippling-drop-lawsuits-but-the-brouhaha-is-still-a-cautionary-tale-for-founders/",
-    "source": "TechCrunch",
-    "category": "other",
-    "summary": "Runlayer and Rippling have dropped their lawsuits. No money was paid. Rippling celebrated by releasing a competing product.",
-    "keywords": [
-      "AI"
-    ],
-    "date": "2026-08-20"
-  },
-  {
-    "title": "Grok keeps sending gibberish responses to users",
-    "link": "https://techcrunch.com/2026/08/20/grok-keeps-sending-gibberish-responses-to-users/",
-    "source": "TechCrunch",
-    "category": "other",
-    "summary": "Affected users told TechCrunch they were using Grok Lite, and noticed the issues as early as Wednesday morning.",
-    "keywords": [
-      "Grok"
-    ],
-    "date": "2026-08-20"
   }
 ]
