@@ -1,5 +1,69 @@
 [
   {
+    "title": "减少Claude依赖，路透社转向阿里Qwen大模型",
+    "link": "https://www.pingwest.com/w/316753",
+    "source": "品玩",
+    "category": "other",
+    "summary": "阿里\n\n\n\n减少Claude依赖，路透社转向阿里Qwen大模型",
+    "keywords": [
+      "大模型",
+      "Claude"
+    ],
+    "date": "2026-08-25"
+  },
+  {
+    "title": "Meta拟推出消费级AI智能体Hatch 下月发布新一代模型Watermelon",
+    "link": "https://www.pingwest.com/w/316748",
+    "source": "品玩",
+    "category": "other",
+    "summary": "META\n\n\n\nMeta拟推出消费级AI智能体Hatch 下月发布新一代模型Watermelon\n\n据The Information援引内部文件报道，Meta Platforms正计划在数周内推出消费级AI智能体Hatch，下一代AI模型Watermelon目标于10月发布。",
+    "keywords": [
+      "AI",
+      "智能"
+    ],
+    "date": "2026-08-25"
+  },
+  {
+    "title": "OpenAI推出ChatGPT贴纸功能 支持iMessage与WhatsApp",
+    "link": "https://www.pingwest.com/w/316746",
+    "source": "品玩",
+    "category": "other",
+    "summary": "ChatGPT\n\n\n\nOpenAI推出ChatGPT贴纸功能 支持iMessage与WhatsApp\n\n据 9to5Mac 报道，OpenAI正式推出ChatGPT贴纸功能，用户可将任意照片转换为iMessage或WhatsApp贴纸，也可上传图片作为灵感来源创建自定义贴纸包。",
+    "keywords": [
+      "AI",
+      "OpenAI",
+      "GPT",
+      "ChatGPT"
+    ],
+    "date": "2026-08-25"
+  },
+  {
+    "title": "OpenAI面向白领推出自主AI任务工具ChatGPT Work",
+    "link": "https://www.pingwest.com/w/316743",
+    "source": "品玩",
+    "category": "other",
+    "summary": "OpenAI\n\n\n\nOpenAI面向白领推出自主AI任务工具ChatGPT Work\n\n据 TechCrunch 报道，OpenAI推出ChatGPT Work，面向白领用户开放AI自主完成任务功能，已集成邮箱、Slack、Notion、Figma等数字工作流，月费20美元。",
+    "keywords": [
+      "AI",
+      "OpenAI",
+      "GPT",
+      "ChatGPT"
+    ],
+    "date": "2026-08-25"
+  },
+  {
+    "title": "Multilogin推出云端手机服务 助力社交媒体多账号管理",
+    "link": "https://www.pingwest.com/w/316742",
+    "source": "品玩",
+    "category": "other",
+    "summary": "AI智能体\n\n\n\nMultilogin推出云端手机服务 助力社交媒体多账号管理\n\n据 TechCrunch 报道，Multilogin推出云端手机服务，为社交媒体营销人员提供云端Android手机、浏览器配置与代理服务的统一管理方案，面向个人与AI智能体设计。",
+    "keywords": [
+      "AI",
+      "智能"
+    ],
+    "date": "2026-08-25"
+  },
+  {
     "title": "英伟达洽谈投资AI搜索公司Perplexity，估值或超300亿美元",
     "link": "https://www.pingwest.com/w/316733",
     "source": "品玩",
@@ -384,40 +448,6 @@
       "AI"
     ],
     "date": "2026-08-22"
-  },
-  {
-    "title": "重磅！“中关村（海淀）科学智能（AI4S）创新集聚区”正式发布",
-    "link": "https://www.pingwest.com/w/316680",
-    "source": "品玩",
-    "category": "other",
-    "summary": "中关村\n\n\n\n重磅！“中关村（海淀）科学智能（AI4S）创新集聚区”正式发布",
-    "keywords": [
-      "AI",
-      "智能"
-    ],
-    "date": "2026-08-21"
-  },
-  {
-    "title": "从“打开App”到“意图即服务”，近200位开发者在HDD深圳站探索鸿蒙AI开发新范式",
-    "link": "https://www.pingwest.com/w/316676",
-    "source": "品玩",
-    "category": "other",
-    "summary": "鸿蒙\n\n\n\n从“打开App”到“意图即服务”，近200位开发者在HDD深圳站探索鸿蒙AI开发新范式\n\n8月21日，HDD·HarmonyOS创新论坛AI专场在深圳圆满落下帷幕。",
-    "keywords": [
-      "AI"
-    ],
-    "date": "2026-08-21"
-  },
-  {
-    "title": "Adobe Firefly推出AI音乐生成器，支持视频配乐与自定义创作",
-    "link": "https://www.pingwest.com/w/316666",
-    "source": "品玩",
-    "category": "other",
-    "summary": "Adobe\n\n\n\nAdobe Firefly推出AI音乐生成器，支持视频配乐与自定义创作\n\n据 Adobe 官方消息，Adobe Firefly上线AI音乐生成器（Generate Music）功能，用户可通过文字提示或上传视频自动生成原创音乐。",
-    "keywords": [
-      "AI"
-    ],
-    "date": "2026-08-21"
   },
   {
     "title": "Anthropic’s Opus 4.6 is a smut-machine",
