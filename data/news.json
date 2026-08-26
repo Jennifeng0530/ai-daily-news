@@ -1,5 +1,52 @@
 [
   {
+    "title": "汤道生刊文回应\"腾讯AI慢了\"：大模型竞赛是马拉松 场景是腾讯最厚底牌",
+    "link": "https://www.pingwest.com/w/316797",
+    "source": "品玩",
+    "category": "other",
+    "summary": "腾讯\n\n\n\n汤道生刊文回应\"腾讯AI慢了\"：大模型竞赛是马拉松 场景是腾讯最厚底牌\n\n据界面新闻报道，腾讯集团高级执行副总裁、云与智慧产业事业群CEO汤道生近日在内部刊物《知点》刊发署名文章《和AI一起长跑：这两年的一些思考》，回应外界对腾讯AI节奏的讨论。",
+    "keywords": [
+      "AI",
+      "大模型"
+    ],
+    "date": "2026-08-26"
+  },
+  {
+    "title": "千问办公国际版开启公测 面向海外市场推出AI办公助手",
+    "link": "https://www.pingwest.com/w/316795",
+    "source": "品玩",
+    "category": "other",
+    "summary": "千问\n\n\n\n千问办公国际版开启公测 面向海外市场推出AI办公助手\n\n据千问办公官方消息，千问办公国际版（QwenWork）今日开启公测，海外用户可通过官网qwenwork.ai体验网页版与PC客户端。",
+    "keywords": [
+      "AI"
+    ],
+    "date": "2026-08-26"
+  },
+  {
+    "title": "OpenRouter推出统一异步视频生成API 简化多模型切换适配",
+    "link": "https://www.pingwest.com/w/316792",
+    "source": "品玩",
+    "category": "other",
+    "summary": "OpenRouter\n\n\n\nOpenRouter推出统一异步视频生成API 简化多模型切换适配\n\n据 AIBASE 报道，OpenRouter推出统一异步视频生成API，旨在解决开发者在对比或切换不同视频大模型时面临的繁琐适配问题。",
+    "keywords": [
+      "AI",
+      "大模型"
+    ],
+    "date": "2026-08-26"
+  },
+  {
+    "title": "Stability AI完成7600万美元B轮融资 娱乐巨头集体入局",
+    "link": "https://www.pingwest.com/w/316789",
+    "source": "品玩",
+    "category": "funding",
+    "summary": "Stability AI\n\n\n\nStability AI完成7600万美元B轮融资 娱乐巨头集体入局\n\n据 TechCrunch 报道，AI图像生成模型Stable Diffusion背后的Stability AI宣布完成7600万美元B轮融资，累计融资总额达2.32亿美元。",
+    "keywords": [
+      "AI",
+      "diffusion"
+    ],
+    "date": "2026-08-26"
+  },
+  {
     "title": "Physical AI还在寻找身体，AIVA给出的答案是汽车",
     "link": "https://www.pingwest.com/a/316759",
     "source": "品玩",
@@ -107,11 +154,11 @@
     "date": "2026-08-26"
   },
   {
-    "title": "OpenAI loses a top data center exec, as stream of high-profile departures continues",
+    "title": "OpenAI loses a top data center exec as stream of high-profile departures continues",
     "link": "https://techcrunch.com/2026/08/25/openai-loses-a-top-data-center-exec-as-stream-of-high-profile-departures-continues/",
     "source": "TechCrunch",
     "category": "other",
-    "summary": "Before Malone left, OpenAI had already reshuffled its infrastructure org, shifting his reporting line away from President Greg Brockman and putting Vice President Sachin Katti in charge of the group.",
+    "summary": "In a statement to TechCrunch about Malone's departure, OpenAI said it had \"recently reorganized\" its \"infrastructure organization to support the scale and pace of our work.\"",
     "keywords": [
       "AI",
       "OpenAI"
@@ -332,79 +379,6 @@
     "summary": "ARM\n\n\n\n机器人如何走向通用？Arm技术负责人提到了“智能层”",
     "keywords": [
       "机器人",
-      "智能"
-    ],
-    "date": "2026-08-24"
-  },
-  {
-    "title": "OpenAI发布Codex开源Agent框架，开放三层开发者集成方案",
-    "link": "https://www.pingwest.com/w/316717",
-    "source": "品玩",
-    "category": "other",
-    "summary": "codex\n\n\n\nOpenAI发布Codex开源Agent框架，开放三层开发者集成方案\n\n据 explainx 报道，OpenAI于2026年8月19日发布Codex开源Agent框架，由Nicolas Bonamy和Derrick Choi开发，将Agent能力封装为可嵌入第三方产品的底层设施，与Anthropic的Claude Agent SDK形成直接竞争。",
-    "keywords": [
-      "AI",
-      "Agent",
-      "OpenAI",
-      "Anthropic",
-      "Claude"
-    ],
-    "date": "2026-08-24"
-  },
-  {
-    "title": "OpenBMB开源数学自动形式化框架MathForm",
-    "link": "https://www.pingwest.com/w/316715",
-    "source": "品玩",
-    "category": "other",
-    "summary": "openbmb\n\n\n\nOpenBMB开源数学自动形式化框架MathForm\n\n据 AIBASE 报道，OpenBMB团队近日正式开源数学自动形式化框架、数据集与模型MathForm，旨在解决数学形式化过程中代码可编译但语义不准确的核心痛点。",
-    "keywords": [
-      "AI"
-    ],
-    "date": "2026-08-24"
-  },
-  {
-    "title": "OpenAI资深研究员Luke Metz加入Meta超级智能实验室",
-    "link": "https://www.pingwest.com/w/316713",
-    "source": "品玩",
-    "category": "other",
-    "summary": "META\n\n\n\nOpenAI资深研究员Luke Metz加入Meta超级智能实验室\n\n据Axios报道，AI研究员Luke Metz已离开OpenAI，加入Meta超级智能实验室（Superintelligence Labs），直接向首席AI官Alexandr Wang汇报。",
-    "keywords": [
-      "AI",
-      "OpenAI",
-      "智能"
-    ],
-    "date": "2026-08-24"
-  },
-  {
-    "title": "达摩院发布肝脏肿瘤AI模型DAMO LiON，辅助医生精准识别肝转移",
-    "link": "https://www.pingwest.com/w/316711",
-    "source": "品玩",
-    "category": "other",
-    "summary": "达摩院\n\n\n\n达摩院发布肝脏肿瘤AI模型DAMO LiON，辅助医生精准识别肝转移\n\n达摩院今天宣布，发布医疗影像AI模型DAMO LiON，作为\"AI安全员\"协助医生阅片，重点提升原发性肝癌及易被忽视的肝转移病灶检出率。实验显示，该模型识别恶性肿瘤的准确率高于放射科医生；在AI协助下，医生阅片用时减少27%，恶性肿瘤敏感性提高11.5%，初级医生可达到资深医生水平。",
-    "keywords": [
-      "AI"
-    ],
-    "date": "2026-08-24"
-  },
-  {
-    "title": "摩尔线程发布MTT S5000 Prefill-as-a-Service白皮书",
-    "link": "https://www.pingwest.com/w/316710",
-    "source": "品玩",
-    "category": "other",
-    "summary": "摩尔线程\n\n\n\n摩尔线程发布MTT S5000 Prefill-as-a-Service白皮书\n\n据摩尔线程官方消息，摩尔线程正式发布《MTT S5000 Prefill-as-a-Service技术白皮书》，基于旗舰级AI训推一体智算卡MTT S5000构建\"Prefill As a Service\"新范式，面向AI Agent、超长文档分析等长上下文推理场景。",
-    "keywords": [
-      "AI",
-      "Agent"
-    ],
-    "date": "2026-08-24"
-  },
-  {
-    "title": "一场开幕式，看懂加速进化在具身智能行业的真正野心",
-    "link": "https://www.pingwest.com/v/316700",
-    "source": "品玩",
-    "category": "other",
-    "summary": "加速\n\n\n\n一场开幕式，看懂加速进化在具身智能行业的真正野心",
-    "keywords": [
       "智能"
     ],
     "date": "2026-08-24"
