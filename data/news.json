@@ -1,5 +1,102 @@
 [
   {
+    "title": "Anthropic统一Claude记忆系统 实现跨场景信息持续共享",
+    "link": "https://www.pingwest.com/w/316779",
+    "source": "品玩",
+    "category": "other",
+    "summary": "Anthropic\n\n\n\nAnthropic统一Claude记忆系统 实现跨场景信息持续共享\n\n据 TechCrunch 报道，Anthropic宣布将Claude聊天与Claude Cowork的记忆系统合并，实现跨场景信息持续共享。用户在对话中积累的信息将自动同步至Cowork，无需重复说明，解决此前切换场景需重新输入背景信息的痛点。",
+    "keywords": [
+      "Anthropic",
+      "Claude"
+    ],
+    "date": "2026-08-26"
+  },
+  {
+    "title": "Google Cloud发布Gemini Enterprise for Legal 面向法律行业推出专用AI解决方案",
+    "link": "https://www.pingwest.com/w/316778",
+    "source": "品玩",
+    "category": "other",
+    "summary": "谷歌\n\n\n\nGoogle Cloud发布Gemini Enterprise for Legal 面向法律行业推出专用AI解决方案\n\n谷歌官方消息，Google Cloud正式发布Gemini Enterprise for Legal，面向法律行业的企业级AI解决方案，首批试用客户包括Cleary、Freshfields、Weil及Williams &amp; Connolly。",
+    "keywords": [
+      "AI",
+      "Gemini"
+    ],
+    "date": "2026-08-26"
+  },
+  {
+    "title": "SpaceXAI部署NVIDIA Vera CPU 扩展Grok AI基础设施至太空",
+    "link": "https://www.pingwest.com/w/316776",
+    "source": "品玩",
+    "category": "other",
+    "summary": "英伟达\n\n\n\nSpaceXAI部署NVIDIA Vera CPU 扩展Grok AI基础设施至太空\n\nNVIDIA宣布，SpaceXAI将部署NVIDIA Vera CPU以加速其下一代智能体AI应用，并基于NVIDIA Vera Rubin平台扩展Grok背后的AI基础设施，算力规模将向吉瓦级迈进。",
+    "keywords": [
+      "AI",
+      "xAI",
+      "Grok",
+      "智能"
+    ],
+    "date": "2026-08-26"
+  },
+  {
+    "title": "OpenAI披露Jalapeño推理芯片首批性能数据",
+    "link": "https://www.pingwest.com/w/316766",
+    "source": "品玩",
+    "category": "other",
+    "summary": "OpenAI\n\n\n\nOpenAI披露Jalapeño推理芯片首批性能数据\n\n据 TechCrunch 报道，OpenAI在Hot Chips大会上披露自研推理芯片Jalapeño的首批基准测试结果。",
+    "keywords": [
+      "AI",
+      "OpenAI"
+    ],
+    "date": "2026-08-26"
+  },
+  {
+    "title": "SpaceX AI为Grok Build新增Browser-Use插件",
+    "link": "https://www.pingwest.com/w/316763",
+    "source": "品玩",
+    "category": "other",
+    "summary": "spacexAI\n\n\n\nSpaceX AI为Grok Build新增Browser-Use插件\n\nSpaceX AI近日宣布，为旗下Grok Build新增Browser-Use插件。该插件使Grok可直接调用真实浏览器，打通AI与复杂网页交互的技术壁垒。",
+    "keywords": [
+      "AI",
+      "xAI",
+      "Grok"
+    ],
+    "date": "2026-08-26"
+  },
+  {
+    "title": "India’s Ringg gets backing from Peak XV as it pushes voice AI past the phone call",
+    "link": "https://techcrunch.com/2026/08/25/indias-ringg-gets-backing-from-peak-xv-as-it-pushes-voice-ai-past-the-phone-call/",
+    "source": "TechCrunch",
+    "category": "other",
+    "summary": "Ringg has raised $10 million from Peak XV as a part of its Series A extension.",
+    "keywords": [
+      "AI"
+    ],
+    "date": "2026-08-26"
+  },
+  {
+    "title": "Robotics startup Generalist reaches $3B valuation, sources say",
+    "link": "https://techcrunch.com/2026/08/25/robotics-startup-generalist-reaches-3b-valuation-sources-say/",
+    "source": "TechCrunch",
+    "category": "funding",
+    "summary": "The $200 million extension comes just months after the physical AI startup reached a $2 billion valuation.",
+    "keywords": [
+      "AI"
+    ],
+    "date": "2026-08-26"
+  },
+  {
+    "title": "OpenAI loses a top data center exec, as stream of high-profile departures continues",
+    "link": "https://techcrunch.com/2026/08/25/openai-loses-a-top-data-center-exec-as-stream-of-high-profile-departures-continues/",
+    "source": "TechCrunch",
+    "category": "other",
+    "summary": "Before Malone left, OpenAI had already reshuffled its infrastructure org, shifting his reporting line away from President Greg Brockman and putting Vice President Sachin Katti in charge of the group.",
+    "keywords": [
+      "AI",
+      "OpenAI"
+    ],
+    "date": "2026-08-26"
+  },
+  {
     "title": "减少Claude依赖，路透社转向阿里Qwen大模型",
     "link": "https://www.pingwest.com/w/316753",
     "source": "品玩",
@@ -106,6 +203,68 @@
     "summary": "后训练模型\n\n\n\nHarvey发布首个后训练法律AI模型Tenet研究预览版\n\n据 marktechpost 报道，Harvey于2026年8月20日发布Harvey Tenet，这是其首个后训练模型，目前以研究预览形式推出。",
     "keywords": [
       "AI"
+    ],
+    "date": "2026-08-25"
+  },
+  {
+    "title": "Stability AI, maker of image generator Stable Diffusion, raises $76 million in fresh funding",
+    "link": "https://techcrunch.com/2026/08/25/stability-ai-maker-of-image-generator-stable-diffusion-raises-76-million-in-fresh-funding/",
+    "source": "TechCrunch",
+    "category": "funding",
+    "summary": "The company's new fundraising total now stands at $232 million.",
+    "keywords": [
+      "AI",
+      "diffusion"
+    ],
+    "date": "2026-08-25"
+  },
+  {
+    "title": "Claude Cowork finally remembers what you told the app in chat",
+    "link": "https://techcrunch.com/2026/08/25/claude-cowork-finally-remembers-what-you-told-the-app-in-chat/",
+    "source": "TechCrunch",
+    "category": "other",
+    "summary": "Anthropic is giving Claude a shared memory across chat and Cowork, so users no longer have to repeatedly brief the AI on projects, preferences, and other context.",
+    "keywords": [
+      "AI",
+      "Anthropic",
+      "Claude"
+    ],
+    "date": "2026-08-25"
+  },
+  {
+    "title": "OpenAI’s Jalapeño chip is built for fast inference at scale, benchmarks show",
+    "link": "https://techcrunch.com/2026/08/25/openais-jalapeno-chip-is-built-for-fast-inference-at-scale-benchmarks-show/",
+    "source": "TechCrunch",
+    "category": "other",
+    "summary": "Tested on SemiAnalysis’ InferenceX benchmark, Jalapeño registered both more tokens per user and more throughput per kilowatt than the currently available state-of-the art.",
+    "keywords": [
+      "AI",
+      "OpenAI"
+    ],
+    "date": "2026-08-25"
+  },
+  {
+    "title": "Accel-backed Keenable is indexing the web for AI agents",
+    "link": "https://techcrunch.com/2026/08/25/accel-backed-keenable-is-indexing-the-web-for-ai-agents/",
+    "source": "TechCrunch",
+    "category": "other",
+    "summary": "Now exiting stealth mode with a $26 million seed round, Keenable has been building a vast web search index for AI agents.",
+    "keywords": [
+      "AI",
+      "Agent"
+    ],
+    "date": "2026-08-25"
+  },
+  {
+    "title": "‘The world seems to be ready’: An interview with OpenAI head of product Thibault Sottiaux",
+    "link": "https://techcrunch.com/2026/08/25/the-world-seems-to-be-ready-an-interview-with-openai-head-of-product-thibault-sottiaux/",
+    "source": "TechCrunch",
+    "category": "other",
+    "summary": "TechCrunch talks agents, UX, and reporting to Greg Brockman with OpenAI's head of product.",
+    "keywords": [
+      "AI",
+      "Agent",
+      "OpenAI"
     ],
     "date": "2026-08-25"
   },
@@ -252,18 +411,6 @@
     "date": "2026-08-24"
   },
   {
-    "title": "全球首个十万小时全模态人类数据集开源发布！光轮智能在2026世界机器人大会推出具身智能持续学习基础设施",
-    "link": "https://www.pingwest.com/w/316686",
-    "source": "品玩",
-    "category": "other",
-    "summary": "光轮智能\n\n\n\n全球首个十万小时全模态人类数据集开源发布！光轮智能在2026世界机器人大会推出具身智能持续学习基础设施",
-    "keywords": [
-      "机器人",
-      "智能"
-    ],
-    "date": "2026-08-24"
-  },
-  {
     "title": "Instinct’s powerful AI assistant is raising privacy and security concerns",
     "link": "https://techcrunch.com/2026/08/24/instincts-powerful-ai-assistant-is-raising-privacy-and-security-concerns/",
     "source": "TechCrunch",
@@ -300,28 +447,6 @@
     "date": "2026-08-24"
   },
   {
-    "title": "Rabbit做了个“所有Agents的Agent” ，体验后我觉得Agent早就该长它这样",
-    "link": "https://www.pingwest.com/a/316684",
-    "source": "品玩",
-    "category": "other",
-    "summary": "Rabbit做了个“所有Agents的Agent” ，体验后我觉得Agent早就该长它这样\n\nAgent 普及的关键不是再加十个能力，而是让用户少理解十个概念",
-    "keywords": [
-      "Agent"
-    ],
-    "date": "2026-08-23"
-  },
-  {
-    "title": "本周AI项目推荐｜Mirendil、INT21、rekursiv.ai ……最热门RSI 公司都在“自我改进”什么",
-    "link": "https://www.pingwest.com/a/316681",
-    "source": "品玩",
-    "category": "other",
-    "summary": "本周AI项目推荐｜Mirendil、INT21、rekursiv.ai ……最热门RSI 公司都在“自我改进”什么\n\n让 AI 参与改进 AI",
-    "keywords": [
-      "AI"
-    ],
-    "date": "2026-08-23"
-  },
-  {
     "title": "Who’s behind the new ‘stealth model’ Ox Alpha?",
     "link": "https://techcrunch.com/2026/08/23/whos-behind-the-new-stealth-model-ox-alpha/",
     "source": "TechCrunch",
@@ -353,146 +478,5 @@
       "AI"
     ],
     "date": "2026-08-23"
-  },
-  {
-    "title": "看完今年的北京科学智能大会，我们读到AI4S六大趋势——2026科学智能大会全体会议观察",
-    "link": "https://www.pingwest.com/w/316683",
-    "source": "品玩",
-    "category": "other",
-    "summary": "中关村\n\n\n\n看完今年的北京科学智能大会，我们读到AI4S六大趋势——2026科学智能大会全体会议观察",
-    "keywords": [
-      "AI",
-      "智能"
-    ],
-    "date": "2026-08-22"
-  },
-  {
-    "title": "2026世界机器人大会｜AIVA李博：汽车是物理AI当下最重要的‘身体’之一。",
-    "link": "https://www.pingwest.com/w/316682",
-    "source": "品玩",
-    "category": "other",
-    "summary": "火山引擎\n\n\n\n2026世界机器人大会｜AIVA李博：汽车是物理AI当下最重要的‘身体’之一。",
-    "keywords": [
-      "AI",
-      "机器人"
-    ],
-    "date": "2026-08-22"
-  },
-  {
-    "title": "接管科研“体力活”，深势科技发布玻尔·科学空间——人类与AI科学家的协作科研空间",
-    "link": "https://www.pingwest.com/a/316625",
-    "source": "品玩",
-    "category": "other",
-    "summary": "接管科研“体力活”，深势科技发布玻尔·科学空间——人类与AI科学家的协作科研空间\n\n平台精选多学科AI科学家帮你做科研。",
-    "keywords": [
-      "AI"
-    ],
-    "date": "2026-08-22"
-  },
-  {
-    "title": "Harvard’s $699 startup bootcamp offers AI avatars of its instructors",
-    "link": "https://techcrunch.com/2026/08/22/harvards-699-startup-bootcamp-offers-ai-avatars-of-its-instructors/",
-    "source": "TechCrunch",
-    "category": "other",
-    "summary": "In the HBS Foundry program, AI avatars provide feedback during practice pitches and board meetings.",
-    "keywords": [
-      "AI"
-    ],
-    "date": "2026-08-22"
-  },
-  {
-    "title": "Inherent, founded by DeepMind alumni, says its AI ‘teammate’ just outperformed Anthropic and OpenAI at replicating research",
-    "link": "https://techcrunch.com/2026/08/22/inherent-founded-by-deepmind-alumni-says-its-ai-teammate-just-outperformed-anthropic-and-openai-at-replicating-research/",
-    "source": "TechCrunch",
-    "category": "other",
-    "summary": "Built by DeepMind alumni, British AI lab Inherent released Faraday, an AI agent whose ability to replicate scientific papers could be a stepping stone for innovation.",
-    "keywords": [
-      "AI",
-      "Agent",
-      "OpenAI",
-      "Anthropic",
-      "DeepMind"
-    ],
-    "date": "2026-08-22"
-  },
-  {
-    "title": "OpenAI says California should strengthen its AI safety bill",
-    "link": "https://techcrunch.com/2026/08/22/openai-says-california-should-strengthen-its-ai-safety-bill/",
-    "source": "TechCrunch",
-    "category": "other",
-    "summary": "OpenAI's global affairs team post also referenced “recent incidents” that “underscore both the need for these protections and the importance of updating them” as new risks emerge.",
-    "keywords": [
-      "AI",
-      "OpenAI"
-    ],
-    "date": "2026-08-22"
-  },
-  {
-    "title": "Frontier AI labs still won’t say how they’d contain a rogue model",
-    "link": "https://techcrunch.com/2026/08/22/frontier-ai-labs-still-wont-say-how-theyd-contain-a-rogue-model/",
-    "source": "TechCrunch",
-    "category": "other",
-    "summary": "A new study finds leading AI labs have few publicly documented plans for containing rogue models, raising questions about preparedness as AI systems increasingly demonstrate unexpected and potentially",
-    "keywords": [
-      "AI"
-    ],
-    "date": "2026-08-22"
-  },
-  {
-    "title": "Michael Polansky is training an AI model on skin that’s still alive",
-    "link": "https://techcrunch.com/2026/08/21/michael-polansky-is-training-an-ai-model-on-skin-thats-still-alive/",
-    "source": "TechCrunch",
-    "category": "other",
-    "summary": "Michael Polansky — better known publicly as Lady Gaga's partner and a former top deputy to Sean Parker — has quietly spent years building an AI-driven startup that keeps living human skin tissue alive",
-    "keywords": [
-      "AI"
-    ],
-    "date": "2026-08-22"
-  },
-  {
-    "title": "Anthropic’s Opus 4.6 is a smut-machine",
-    "link": "https://techcrunch.com/2026/08/21/anthropics-opus-4-6-is-a-smut-machine/",
-    "source": "TechCrunch",
-    "category": "other",
-    "summary": "Anthropic forbids its Claude models from generating sexually explicit content. But a series of tests conducted by TechCrunch found that it didn't take much to get past the restriction.",
-    "keywords": [
-      "Anthropic",
-      "Claude"
-    ],
-    "date": "2026-08-21"
-  },
-  {
-    "title": "Nvidia partners with data center developer Cloverleaf",
-    "link": "https://techcrunch.com/2026/08/21/nvidia-partners-with-data-center-developer-cloverleaf/",
-    "source": "TechCrunch",
-    "category": "other",
-    "summary": "Nvidia continues to pour money into data center development — just as AI data centers bring lots of money into Nvidia.",
-    "keywords": [
-      "AI"
-    ],
-    "date": "2026-08-21"
-  },
-  {
-    "title": "Nvidia just showed that the harness, not the AI model, is now the real hero",
-    "link": "https://techcrunch.com/2026/08/21/nvidia-just-showed-that-the-harness-not-the-ai-model-is-now-the-real-hero/",
-    "source": "TechCrunch",
-    "category": "other",
-    "summary": "Nvidia research shows that AI agents can perform well, and not go off the deep end, through fine-tuning, even if the AI model isn't that great at the task.",
-    "keywords": [
-      "AI",
-      "Agent"
-    ],
-    "date": "2026-08-21"
-  },
-  {
-    "title": "Starcloud raises $250 million for orbital data centers as launch options dry up",
-    "link": "https://techcrunch.com/2026/08/21/starcloud-raises-200-million-for-orbital-data-centers-as-launch-options-dry-up/",
-    "source": "TechCrunch",
-    "category": "funding",
-    "summary": "There's about to be a big fight to secure access to space.",
-    "keywords": [
-      "AI"
-    ],
-    "date": "2026-08-21"
   }
 ]
