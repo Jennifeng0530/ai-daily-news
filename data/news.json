@@ -1,91 +1,414 @@
 [
   {
-    "title": "汤道生刊文回应\"腾讯AI慢了\"：大模型竞赛是马拉松 场景是腾讯最厚底牌",
-    "link": "https://www.pingwest.com/w/316797",
+    "title": "Google收紧Android应用内存使用标准 应对AI驱动下的芯片供应紧张",
+    "link": "https://www.pingwest.com/w/316873",
     "source": "品玩",
     "category": "other",
-    "summary": "腾讯\n\n\n\n汤道生刊文回应\"腾讯AI慢了\"：大模型竞赛是马拉松 场景是腾讯最厚底牌\n\n据界面新闻报道，腾讯集团高级执行副总裁、云与智慧产业事业群CEO汤道生近日在内部刊物《知点》刊发署名文章《和AI一起长跑：这两年的一些思考》，回应外界对腾讯AI节奏的讨论。",
+    "summary": "谷歌\n\n\n\nGoogle收紧Android应用内存使用标准 应对AI驱动下的芯片供应紧张\n\n据 TechCrunch 报道，受AI数据中心需求推动，全球内存芯片供应持续紧张，Google本周宣布对Android应用提出两项新的质量要求，旨在优化应用内存占用与代码效率。",
     "keywords": [
-      "AI",
+      "AI"
+    ],
+    "date": "2026-08-28"
+  },
+  {
+    "title": "蚂蚁集团发布Ling-3.0-flash-Fin 金融大模型 聚焦投研核心能力",
+    "link": "https://www.pingwest.com/w/316872",
+    "source": "品玩",
+    "category": "other",
+    "summary": "蚂蚁集团\n\n\n\n蚂蚁集团发布Ling-3.0-flash-Fin 金融大模型 聚焦投研核心能力\n\n据百灵大模型官方消息，蚂蚁集团携手中金公司及行业专家发布Ling-3.0-flash-Fin，为蚂蚁百灵首个金融增强模型，延续Ling-3.0-flash架构，保持124B总参数、5.1B激活参数配置，通过金融语料持续预训练和领域后训练强化投研能力。",
+    "keywords": [
       "大模型"
     ],
-    "date": "2026-08-26"
+    "date": "2026-08-28"
   },
   {
-    "title": "千问办公国际版开启公测 面向海外市场推出AI办公助手",
-    "link": "https://www.pingwest.com/w/316795",
+    "title": "Google发布Gemini Omni 1.1 Flash 增强视频生成控制能力",
+    "link": "https://www.pingwest.com/w/316871",
     "source": "品玩",
     "category": "other",
-    "summary": "千问\n\n\n\n千问办公国际版开启公测 面向海外市场推出AI办公助手\n\n据千问办公官方消息，千问办公国际版（QwenWork）今日开启公测，海外用户可通过官网qwenwork.ai体验网页版与PC客户端。",
-    "keywords": [
-      "AI"
-    ],
-    "date": "2026-08-26"
-  },
-  {
-    "title": "OpenRouter推出统一异步视频生成API 简化多模型切换适配",
-    "link": "https://www.pingwest.com/w/316792",
-    "source": "品玩",
-    "category": "other",
-    "summary": "OpenRouter\n\n\n\nOpenRouter推出统一异步视频生成API 简化多模型切换适配\n\n据 AIBASE 报道，OpenRouter推出统一异步视频生成API，旨在解决开发者在对比或切换不同视频大模型时面临的繁琐适配问题。",
+    "summary": "谷歌\n\n\n\nGoogle发布Gemini Omni 1.1 Flash 增强视频生成控制能力\n\n据startuphub 报道，Google正式发布Gemini Omni 1.1 Flash，对其生成式视频模型进行重大升级，为开发者提供更精细的视频创作与编辑控制能力。该版本已可通过Gemini API在Google AI Studio和Gemini Enterprise Agent Platform",
     "keywords": [
       "AI",
-      "大模型"
+      "Agent",
+      "Gemini",
+      "生成式"
     ],
-    "date": "2026-08-26"
+    "date": "2026-08-28"
   },
   {
-    "title": "Stability AI完成7600万美元B轮融资 娱乐巨头集体入局",
-    "link": "https://www.pingwest.com/w/316789",
+    "title": "Google升级AI Mode旅行功能 支持机票追踪与酒店预订",
+    "link": "https://www.pingwest.com/w/316870",
     "source": "品玩",
-    "category": "funding",
-    "summary": "Stability AI\n\n\n\nStability AI完成7600万美元B轮融资 娱乐巨头集体入局\n\n据 TechCrunch 报道，AI图像生成模型Stable Diffusion背后的Stability AI宣布完成7600万美元B轮融资，累计融资总额达2.32亿美元。",
+    "category": "other",
+    "summary": "Google\n\n\n\nGoogle升级AI Mode旅行功能 支持机票追踪与酒店预订\n\n据TechCrunch 报道，Google宣布为AI Mode新增旅行规划与预订功能，用户可通过自然对话方式查询航班价格、预订酒店，并以里程或积分查看出行费用，进一步将AI Mode定位为AI旅行助手。",
+    "keywords": [
+      "AI"
+    ],
+    "date": "2026-08-28"
+  },
+  {
+    "title": "Anthropic签署约450亿美元算力租赁协议 与英国Nscale合作采用Vera Rubin芯片",
+    "link": "https://www.pingwest.com/w/316868",
+    "source": "品玩",
+    "category": "other",
+    "summary": "Anthropic\n\n\n\nAnthropic签署约450亿美元算力租赁协议 与英国Nscale合作采用Vera Rubin芯片\n\n据 TechCrcunch 报道，Anthropic已与英国AI基础设施公司Nscale签署算力租赁协议，涉及金额约450亿美元。",
     "keywords": [
       "AI",
-      "diffusion"
+      "Anthropic"
     ],
-    "date": "2026-08-26"
+    "date": "2026-08-28"
   },
   {
-    "title": "Physical AI还在寻找身体，AIVA给出的答案是汽车",
-    "link": "https://www.pingwest.com/a/316759",
+    "title": "Adobe推出Photoshop AI辅助编辑器Beta版 基于自然语言指令简化图像编辑",
+    "link": "https://www.pingwest.com/w/316867",
     "source": "品玩",
     "category": "other",
-    "summary": "Physical AI还在寻找身体，AIVA给出的答案是汽车\n\n人形之外，Physical AI 还有一条已经驶入现实世界的汽车路径。",
+    "summary": "Adobe\n\n\n\nAdobe推出Photoshop AI辅助编辑器Beta版 基于自然语言指令简化图像编辑\n\n据 9to5Google 报道，Adobe宣布推出Photoshop AI辅助编辑器Beta版，以提示词驱动界面替代传统复杂工具。",
     "keywords": [
       "AI"
     ],
-    "date": "2026-08-26"
+    "date": "2026-08-28"
   },
   {
-    "title": "DEMO | 前剪映负责人Kiki融资近亿，替代Figma，给AI Coding们补补审美",
-    "link": "https://www.pingwest.com/a/316735",
-    "source": "品玩",
-    "category": "funding",
-    "summary": "DEMO | 前剪映负责人Kiki融资近亿，替代Figma，给AI Coding们补补审美\n\n实现变容易后，判断开始稀缺。",
-    "keywords": [
-      "AI"
-    ],
-    "date": "2026-08-26"
-  },
-  {
-    "title": "Anthropic统一Claude记忆系统 实现跨场景信息持续共享",
-    "link": "https://www.pingwest.com/w/316779",
+    "title": "Anthropic发布Model Hardware Standard 开放AI智能体操控物理设备规范",
+    "link": "https://www.pingwest.com/w/316864",
     "source": "品玩",
     "category": "other",
-    "summary": "Anthropic\n\n\n\nAnthropic统一Claude记忆系统 实现跨场景信息持续共享\n\n据 TechCrunch 报道，Anthropic宣布将Claude聊天与Claude Cowork的记忆系统合并，实现跨场景信息持续共享。用户在对话中积累的信息将自动同步至Cowork，无需重复说明，解决此前切换场景需重新输入背景信息的痛点。",
+    "summary": "Anthropic\n\n\n\nAnthropic发布Model Hardware Standard 开放AI智能体操控物理设备规范\n\n据Anthropic官方宣布，正式开放Model Hardware Standard（MHS）研究预览版，面向AI智能体安全操控物理设备。",
     "keywords": [
+      "AI",
       "Anthropic",
-      "Claude"
+      "智能"
+    ],
+    "date": "2026-08-28"
+  },
+  {
+    "title": "OpenAI联合百余家企业发公开信 呼吁加强AI网络防御",
+    "link": "https://www.pingwest.com/w/316863",
+    "source": "品玩",
+    "category": "other",
+    "summary": "Anthropic\n\n\n\nOpenAI联合百余家企业发公开信 呼吁加强AI网络防御\n\n据 tech-insider 报道，OpenAI联合Anthropic、Google、Microsoft、Amazon、Cisco、Oracle、Cloudflare、CrowdStrike、Palo Alto Networks等116家企业发布联名公开信，警告AI驱动的网络攻击将在未来数月内大幅增多，呼吁各国政",
+    "keywords": [
+      "AI",
+      "OpenAI",
+      "Anthropic"
+    ],
+    "date": "2026-08-28"
+  },
+  {
+    "title": "Google升级Gemini Live 新增Spark等多项生产力集成功能",
+    "link": "https://www.pingwest.com/w/316839",
+    "source": "品玩",
+    "category": "other",
+    "summary": "GEMINI\n\n\n\nGoogle升级Gemini Live 新增Spark等多项生产力集成功能\n\n据9to5Google 报道，Google宣布对AI语音助手Gemini Live进行重大升级，新增多项以生产力为核心的集成功能。",
+    "keywords": [
+      "AI",
+      "Gemini"
+    ],
+    "date": "2026-08-27"
+  },
+  {
+    "title": "Nvidia拟以129亿美元收购Hugging Face 布局开源AI模型生态",
+    "link": "https://www.pingwest.com/w/316834",
+    "source": "品玩",
+    "category": "other",
+    "summary": "英伟达\n\n\n\nNvidia拟以129亿美元收购Hugging Face 布局开源AI模型生态\n\n据The Information报道，Nvidia将以129亿美元收购Hugging Face。不过目前Nvidia与Hugging Face均未回应该消息。",
+    "keywords": [
+      "AI"
+    ],
+    "date": "2026-08-27"
+  },
+  {
+    "title": "阿里发布全新Qoder智能体工作台 内置Qwen3.8-Max等多款前沿模型",
+    "link": "https://www.pingwest.com/w/316832",
+    "source": "品玩",
+    "category": "other",
+    "summary": "阿里云\n\n\n\n阿里发布全新Qoder智能体工作台 内置Qwen3.8-Max等多款前沿模型\n\n阿里发布全新Qoder，定位为以Coding为核心能力、面向所有人的智能体工作台。产品采用以任务为中心的简洁界面，用户以自然语言描述目标，即可调用Coding和工具能力完成开发、原型制作、数据处理等任务。",
+    "keywords": [
+      "智能"
+    ],
+    "date": "2026-08-27"
+  },
+  {
+    "title": "啦啦操夺金、街舞包揽冠亚军，鹿明机器人斩获世界人形机器人运动会两金一银",
+    "link": "https://www.pingwest.com/w/316831",
+    "source": "品玩",
+    "category": "other",
+    "summary": "机器人\n\n\n\n啦啦操夺金、街舞包揽冠亚军，鹿明机器人斩获世界人形机器人运动会两金一银",
+    "keywords": [
+      "机器人"
+    ],
+    "date": "2026-08-27"
+  },
+  {
+    "title": "MiniMax 7 月 Token 消耗量飙至年初 20 倍，8 月 ARR 冲破 8 亿美元",
+    "link": "https://www.pingwest.com/w/316829",
+    "source": "品玩",
+    "category": "other",
+    "summary": "MiniMax\n\n\n\nMiniMax 7 月 Token 消耗量飙至年初 20 倍，8 月 ARR 冲破 8 亿美元\n\n8 月 26 日晚，MiniMax 在 2026 年中期业绩会上披露多项最新经营数据及模型研发进展。公司第二季度收入较第一季度环比增长 81.8%。",
+    "keywords": [
+      "MiniMax"
+    ],
+    "date": "2026-08-27"
+  },
+  {
+    "title": "OpenAI数据中心负责人Chris Malone离职 上市前高管层持续调整",
+    "link": "https://www.pingwest.com/w/316822",
+    "source": "品玩",
+    "category": "key_news",
+    "summary": "OpenAI\n\n\n\nOpenAI数据中心负责人Chris Malone离职 上市前高管层持续调整\n\n据econotimes报道，OpenAI数据中心负责人Chris Malone已于上周离职，成为该公司计划2027年上市前第四位离任的核心高管。",
+    "keywords": [
+      "AI",
+      "OpenAI"
+    ],
+    "date": "2026-08-27"
+  },
+  {
+    "title": "OpenAI推出ChatGPT Business Premium席位 面向高频用户提供更高用量层级",
+    "link": "https://www.pingwest.com/w/316821",
+    "source": "品玩",
+    "category": "other",
+    "summary": "ChatGPT\n\n\n\nOpenAI推出ChatGPT Business Premium席位 面向高频用户提供更高用量层级\n\n据 explainx.ai 报道，OpenAI确认ChatGPT Business已上线Premium席位，这是面向团队成员的第二档席位层级，主要服务于Standard席位用量已无法满足需求的高频用户。",
+    "keywords": [
+      "AI",
+      "OpenAI",
+      "GPT",
+      "ChatGPT"
+    ],
+    "date": "2026-08-27"
+  },
+  {
+    "title": "AI初创公司Instinct完成2.5亿美元B轮融资 估值达25亿美元",
+    "link": "https://www.pingwest.com/w/316820",
+    "source": "品玩",
+    "category": "funding",
+    "summary": "融资\n\n\n\nAI初创公司Instinct完成2.5亿美元B轮融资 估值达25亿美元\n\n据 techCrunch 报道，AI初创公司Instinct近日完成2.5亿美元B轮融资，累计融资总额达3.5亿美元，估值达25亿美元。本轮融资由Index Ventures和Benchmark联合领投。",
+    "keywords": [
+      "AI"
+    ],
+    "date": "2026-08-27"
+  },
+  {
+    "title": "OpenAI发布Hugging Face安全事件官方报告 披露AI模型逃逸细节",
+    "link": "https://www.pingwest.com/w/316817",
+    "source": "品玩",
+    "category": "other",
+    "summary": "OpenAI\n\n\n\nOpenAI发布Hugging Face安全事件官方报告 披露AI模型逃逸细节\n\n据 TechCrunch 报道，OpenAI于周三发布Hugging Face安全事件官方报告，披露AI模型突破测试环境并引发网络安全事件的完整经过。",
+    "keywords": [
+      "AI",
+      "OpenAI"
+    ],
+    "date": "2026-08-27"
+  },
+  {
+    "title": "千问办公推出全新模式，Agent迎来量大管饱时代",
+    "link": "https://www.pingwest.com/w/316815",
+    "source": "品玩",
+    "category": "other",
+    "summary": "通义千问\n\n\n\n千问办公推出全新模式，Agent迎来量大管饱时代",
+    "keywords": [
+      "Agent",
+      "通义千问"
+    ],
+    "date": "2026-08-27"
+  },
+  {
+    "title": "Z.ai开源GLM-5.3-Flash多模态模型 定价仅为Opus 4.8的1/40",
+    "link": "https://www.pingwest.com/w/316814",
+    "source": "品玩",
+    "category": "other",
+    "summary": "智谱\n\n\n\nZ.ai开源GLM-5.3-Flash多模态模型 定价仅为Opus 4.8的1/40\n\n据智谱官方消息，智谱发布并开源GLM-5.3-Flash（320B-A18B），GLM-5系列首个多模态模型。",
+    "keywords": [
+      "AI",
+      "智谱"
+    ],
+    "date": "2026-08-27"
+  },
+  {
+    "title": "OpenAI销售高管Peter Doolan将重返Salesforce 企业销售团队人事持续调整",
+    "link": "https://www.pingwest.com/w/316811",
+    "source": "品玩",
+    "category": "other",
+    "summary": "OpenAI\n\n\n\nOpenAI销售高管Peter Doolan将重返Salesforce 企业销售团队人事持续调整\n\n据cryptobriefing报道，曾担任Slack首席客户官、今年4月加入OpenAI的Peter Doolan已接受录用通知，将重返Salesforce。",
+    "keywords": [
+      "AI",
+      "OpenAI"
+    ],
+    "date": "2026-08-27"
+  },
+  {
+    "title": "Anthropic and OpenAI are joining the AI stage at TechCrunch Disrupt 2026",
+    "link": "https://techcrunch.com/2026/08/27/anthropic-and-openai-are-joining-the-ai-stage-at-techcrunch-disrupt-2026/",
+    "source": "TechCrunch",
+    "category": "other",
+    "summary": "At TechCrunch Disrupt 2026, the AI Stage is back to dig into the single hottest topic in the community for the past few years, presented by Google for Startups.",
+    "keywords": [
+      "AI",
+      "OpenAI",
+      "Anthropic"
+    ],
+    "date": "2026-08-27"
+  },
+  {
+    "title": "Barret Zoph, the Thinking Machines co-founder ousted before joining OpenAI, is now at Google",
+    "link": "https://techcrunch.com/2026/08/27/barret-zoph-the-thinking-machines-co-founder-who-defected-to-openai-is-now-at-google/",
+    "source": "TechCrunch",
+    "category": "other",
+    "summary": "Zoph, who co-founded Thinking Machines Lab alongside Mira Murati and also served as the startup's CTO, led a brief stint at OpenAI and is now at Google.",
+    "keywords": [
+      "AI",
+      "OpenAI"
+    ],
+    "date": "2026-08-27"
+  },
+  {
+    "title": "OpenAI, Anthropic, Google, and 100 other companies call for action to defend against rogue AI",
+    "link": "https://techcrunch.com/2026/08/27/openai-anthropic-google-and-100-other-companies-call-for-action-to-defend-against-rogue-ai/",
+    "source": "TechCrunch",
+    "category": "other",
+    "summary": "Some of the world's largest tech companies and AI startups have come together to decry the current state of cybersecurity and to advertise a new solution that they say can ward off a new generation of",
+    "keywords": [
+      "AI",
+      "OpenAI",
+      "Anthropic"
+    ],
+    "date": "2026-08-27"
+  },
+  {
+    "title": "Google’s AI Mode can now track flight prices, help book hotels, and more",
+    "link": "https://techcrunch.com/2026/08/27/googles-ai-mode-can-now-track-flight-prices-help-book-hotels-and-more/",
+    "source": "TechCrunch",
+    "category": "other",
+    "summary": "The updates indicate that Google is looking to position AI Mode as an AI travel agent of sorts, as it's moving beyond simply helping users find information to actually handling parts of the trip-plann",
+    "keywords": [
+      "AI",
+      "Agent"
+    ],
+    "date": "2026-08-27"
+  },
+  {
+    "title": "Hugging Face is selling a cute $399 open source duck robot, Microduck",
+    "link": "https://techcrunch.com/2026/08/27/hugging-face-is-selling-a-cute-399-open-source-duck-robot-microduck/",
+    "source": "TechCrunch",
+    "category": "other",
+    "summary": "Clem Delangue, CEO of Hugging Face, said the Microduck is an “open-source robot you can teach new tricks with reinforcement learning.”",
+    "keywords": [
+      "AI"
+    ],
+    "date": "2026-08-27"
+  },
+  {
+    "title": "AI’s memory crunch is coming for Android apps",
+    "link": "https://techcrunch.com/2026/08/27/ais-memory-crunch-is-coming-for-android-apps/",
+    "source": "TechCrunch",
+    "category": "other",
+    "summary": "Google is setting new memory-use limits for Android apps as AI data centers contribute to hardware shortages that could leave lower-cost phones with less memory.",
+    "keywords": [
+      "AI"
+    ],
+    "date": "2026-08-27"
+  },
+  {
+    "title": "Here’s all the times AI has gone rogue and hacked other companies",
+    "link": "https://techcrunch.com/2026/08/27/heres-all-the-times-ai-has-gone-rogue-and-hacked-other-companies/",
+    "source": "TechCrunch",
+    "category": "other",
+    "summary": "A recap of all the incidents involving LLMs made by Anthropic, Meta, and OpenAI, which went rogue and attacked real companies and individuals on the internet.",
+    "keywords": [
+      "AI",
+      "OpenAI",
+      "Anthropic",
+      "LLM"
+    ],
+    "date": "2026-08-27"
+  },
+  {
+    "title": "Plaud’s new earphones come with an eSIM-enabled case for talking to AI agents",
+    "link": "https://techcrunch.com/2026/08/27/plauds-new-earphones-come-with-an-esim-enabled-case-for-talking-to-ai-agents/",
+    "source": "TechCrunch",
+    "category": "other",
+    "summary": "Called Plaud One, these adopt the simple bare-bones style of Apple's AirPods, and can record calls, while their case can be used to record in-person conversations or take notes.",
+    "keywords": [
+      "AI",
+      "Agent"
+    ],
+    "date": "2026-08-27"
+  },
+  {
+    "title": "OpenAI to start showing ads on ChatGPT’s free and Go tiers in India",
+    "link": "https://techcrunch.com/2026/08/27/openai-to-start-showing-ads-on-chatgpts-free-and-go-tiers-in-india/",
+    "source": "TechCrunch",
+    "category": "other",
+    "summary": "OpenAI has more than 100 million weekly active ChatGPT users in India, a huge chunk of whom are on the free or the lower-priced Go tiers.",
+    "keywords": [
+      "AI",
+      "OpenAI",
+      "GPT",
+      "ChatGPT"
+    ],
+    "date": "2026-08-27"
+  },
+  {
+    "title": "Nvidia closes in on Hugging Face acquisition",
+    "link": "https://techcrunch.com/2026/08/26/nvidia-closes-in-on-hugging-face-acquisition/",
+    "source": "TechCrunch",
+    "category": "funding",
+    "summary": "Nvidia has reportedly agreed to buy Hugging Face, the popular open source AI hub, for $12.9 billion in a move that would let Nvidia both protect its chip empire and jump back into the cloud business.",
+    "keywords": [
+      "AI"
+    ],
+    "date": "2026-08-27"
+  },
+  {
+    "title": "Viral AI startup Instinct has raised $350M at a $2.5B valuation",
+    "link": "https://techcrunch.com/2026/08/26/viral-ai-startup-instinct-has-raised-350-million-at-a-2-5-billion-valuation/",
+    "source": "TechCrunch",
+    "category": "funding",
+    "summary": "The startup is only a year old but it has already generated a massive amount of hype (and money) while also spurring privacy concerns.",
+    "keywords": [
+      "AI"
+    ],
+    "date": "2026-08-27"
+  },
+  {
+    "title": "荣耀机器人闪电百米大战跑出8秒83，刷新可靠性上限",
+    "link": "https://www.pingwest.com/w/316808",
+    "source": "品玩",
+    "category": "other",
+    "summary": "荣耀\n\n\n\n荣耀机器人闪电百米大战跑出8秒83，刷新可靠性上限",
+    "keywords": [
+      "机器人"
     ],
     "date": "2026-08-26"
   },
   {
-    "title": "Google Cloud发布Gemini Enterprise for Legal 面向法律行业推出专用AI解决方案",
-    "link": "https://www.pingwest.com/w/316778",
+    "title": "美图2026中期业绩观察：AI生产力产品进入价值兑现期",
+    "link": "https://www.pingwest.com/w/316806",
     "source": "品玩",
     "category": "other",
-    "summary": "谷歌\n\n\n\nGoogle Cloud发布Gemini Enterprise for Legal 面向法律行业推出专用AI解决方案\n\n谷歌官方消息，Google Cloud正式发布Gemini Enterprise for Legal，面向法律行业的企业级AI解决方案，首批试用客户包括Cleary、Freshfields、Weil及Williams &amp; Connolly。",
+    "summary": "美图\n\n\n\n美图2026中期业绩观察：AI生产力产品进入价值兑现期",
+    "keywords": [
+      "AI"
+    ],
+    "date": "2026-08-26"
+  },
+  {
+    "title": "Anthropic continues compute-gobbling streak in $45B deal with Nscale",
+    "link": "https://techcrunch.com/2026/08/26/anthropic-continues-compute-gobbling-streak-in-45-billion-deal-with-nscale/",
+    "source": "TechCrunch",
+    "category": "other",
+    "summary": "The new deal with the infrastructure provider is the latest example of Anthropic's white-hot compute-gobbling streak.",
+    "keywords": [
+      "Anthropic"
+    ],
+    "date": "2026-08-26"
+  },
+  {
+    "title": "Google’s Gemini has a branding problem, and so does the rest of AI",
+    "link": "https://techcrunch.com/2026/08/26/googles-gemini-has-a-branding-problem-and-so-does-the-rest-of-ai/",
+    "source": "TechCrunch",
+    "category": "other",
+    "summary": "Consumer AI apps need to stop making users learn their product architecture.",
     "keywords": [
       "AI",
       "Gemini"
@@ -93,25 +416,11 @@
     "date": "2026-08-26"
   },
   {
-    "title": "SpaceXAI部署NVIDIA Vera CPU 扩展Grok AI基础设施至太空",
-    "link": "https://www.pingwest.com/w/316776",
-    "source": "品玩",
+    "title": "How do we explain OpenAI’s executive exodus?",
+    "link": "https://techcrunch.com/2026/08/26/how-do-we-explain-openais-executive-exodus/",
+    "source": "TechCrunch",
     "category": "other",
-    "summary": "英伟达\n\n\n\nSpaceXAI部署NVIDIA Vera CPU 扩展Grok AI基础设施至太空\n\nNVIDIA宣布，SpaceXAI将部署NVIDIA Vera CPU以加速其下一代智能体AI应用，并基于NVIDIA Vera Rubin平台扩展Grok背后的AI基础设施，算力规模将向吉瓦级迈进。",
-    "keywords": [
-      "AI",
-      "xAI",
-      "Grok",
-      "智能"
-    ],
-    "date": "2026-08-26"
-  },
-  {
-    "title": "OpenAI披露Jalapeño推理芯片首批性能数据",
-    "link": "https://www.pingwest.com/w/316766",
-    "source": "品玩",
-    "category": "other",
-    "summary": "OpenAI\n\n\n\nOpenAI披露Jalapeño推理芯片首批性能数据\n\n据 TechCrunch 报道，OpenAI在Hot Chips大会上披露自研推理芯片Jalapeño的首批基准测试结果。",
+    "summary": "Was Greg Brockman the right executive all along?",
     "keywords": [
       "AI",
       "OpenAI"
@@ -119,46 +428,11 @@
     "date": "2026-08-26"
   },
   {
-    "title": "SpaceX AI为Grok Build新增Browser-Use插件",
-    "link": "https://www.pingwest.com/w/316763",
-    "source": "品玩",
-    "category": "other",
-    "summary": "spacexAI\n\n\n\nSpaceX AI为Grok Build新增Browser-Use插件\n\nSpaceX AI近日宣布，为旗下Grok Build新增Browser-Use插件。该插件使Grok可直接调用真实浏览器，打通AI与复杂网页交互的技术壁垒。",
-    "keywords": [
-      "AI",
-      "xAI",
-      "Grok"
-    ],
-    "date": "2026-08-26"
-  },
-  {
-    "title": "India’s Ringg gets backing from Peak XV as it pushes voice AI past the phone call",
-    "link": "https://techcrunch.com/2026/08/25/indias-ringg-gets-backing-from-peak-xv-as-it-pushes-voice-ai-past-the-phone-call/",
+    "title": "OpenAI releases its official report on the Hugging Face breach",
+    "link": "https://techcrunch.com/2026/08/26/openai-releases-its-official-report-on-the-hugging-face-breach/",
     "source": "TechCrunch",
     "category": "other",
-    "summary": "Ringg has raised $10 million from Peak XV as a part of its Series A extension.",
-    "keywords": [
-      "AI"
-    ],
-    "date": "2026-08-26"
-  },
-  {
-    "title": "Robotics startup Generalist reaches $3B valuation, sources say",
-    "link": "https://techcrunch.com/2026/08/25/robotics-startup-generalist-reaches-3b-valuation-sources-say/",
-    "source": "TechCrunch",
-    "category": "funding",
-    "summary": "The $200 million extension comes just months after the physical AI startup reached a $2 billion valuation.",
-    "keywords": [
-      "AI"
-    ],
-    "date": "2026-08-26"
-  },
-  {
-    "title": "OpenAI loses a top data center exec as stream of high-profile departures continues",
-    "link": "https://techcrunch.com/2026/08/25/openai-loses-a-top-data-center-exec-as-stream-of-high-profile-departures-continues/",
-    "source": "TechCrunch",
-    "category": "other",
-    "summary": "In a statement to TechCrunch about Malone's departure, OpenAI said it had \"recently reorganized\" its \"infrastructure organization to support the scale and pace of our work.\"",
+    "summary": "The report, which spans several discrete cybersecurity compromises, is the most complete accounting of the incident to date.",
     "keywords": [
       "AI",
       "OpenAI"
@@ -166,290 +440,48 @@
     "date": "2026-08-26"
   },
   {
-    "title": "减少Claude依赖，路透社转向阿里Qwen大模型",
-    "link": "https://www.pingwest.com/w/316753",
-    "source": "品玩",
-    "category": "other",
-    "summary": "阿里\n\n\n\n减少Claude依赖，路透社转向阿里Qwen大模型",
-    "keywords": [
-      "大模型",
-      "Claude"
-    ],
-    "date": "2026-08-25"
-  },
-  {
-    "title": "Meta拟推出消费级AI智能体Hatch 下月发布新一代模型Watermelon",
-    "link": "https://www.pingwest.com/w/316748",
-    "source": "品玩",
-    "category": "other",
-    "summary": "META\n\n\n\nMeta拟推出消费级AI智能体Hatch 下月发布新一代模型Watermelon\n\n据The Information援引内部文件报道，Meta Platforms正计划在数周内推出消费级AI智能体Hatch，下一代AI模型Watermelon目标于10月发布。",
-    "keywords": [
-      "AI",
-      "智能"
-    ],
-    "date": "2026-08-25"
-  },
-  {
-    "title": "OpenAI推出ChatGPT贴纸功能 支持iMessage与WhatsApp",
-    "link": "https://www.pingwest.com/w/316746",
-    "source": "品玩",
-    "category": "other",
-    "summary": "ChatGPT\n\n\n\nOpenAI推出ChatGPT贴纸功能 支持iMessage与WhatsApp\n\n据 9to5Mac 报道，OpenAI正式推出ChatGPT贴纸功能，用户可将任意照片转换为iMessage或WhatsApp贴纸，也可上传图片作为灵感来源创建自定义贴纸包。",
-    "keywords": [
-      "AI",
-      "OpenAI",
-      "GPT",
-      "ChatGPT"
-    ],
-    "date": "2026-08-25"
-  },
-  {
-    "title": "OpenAI面向白领推出自主AI任务工具ChatGPT Work",
-    "link": "https://www.pingwest.com/w/316743",
-    "source": "品玩",
-    "category": "other",
-    "summary": "OpenAI\n\n\n\nOpenAI面向白领推出自主AI任务工具ChatGPT Work\n\n据 TechCrunch 报道，OpenAI推出ChatGPT Work，面向白领用户开放AI自主完成任务功能，已集成邮箱、Slack、Notion、Figma等数字工作流，月费20美元。",
-    "keywords": [
-      "AI",
-      "OpenAI",
-      "GPT",
-      "ChatGPT"
-    ],
-    "date": "2026-08-25"
-  },
-  {
-    "title": "Multilogin推出云端手机服务 助力社交媒体多账号管理",
-    "link": "https://www.pingwest.com/w/316742",
-    "source": "品玩",
-    "category": "other",
-    "summary": "AI智能体\n\n\n\nMultilogin推出云端手机服务 助力社交媒体多账号管理\n\n据 TechCrunch 报道，Multilogin推出云端手机服务，为社交媒体营销人员提供云端Android手机、浏览器配置与代理服务的统一管理方案，面向个人与AI智能体设计。",
-    "keywords": [
-      "AI",
-      "智能"
-    ],
-    "date": "2026-08-25"
-  },
-  {
-    "title": "英伟达洽谈投资AI搜索公司Perplexity，估值或超300亿美元",
-    "link": "https://www.pingwest.com/w/316733",
-    "source": "品玩",
-    "category": "funding",
-    "summary": "英伟达\n\n\n\n英伟达洽谈投资AI搜索公司Perplexity，估值或超300亿美元\n\n据The Information报道，英伟达正就投资AI搜索初创公司Perplexity进行谈判，本轮融资完成后，Perplexity估值有望突破300亿美元，较一年前约200亿美元的估值上涨超50%。",
-    "keywords": [
-      "AI",
-      "Perplexity"
-    ],
-    "date": "2026-08-25"
-  },
-  {
-    "title": "Hugging Face传获130亿美元估值收购意向，CEO此前强调社区责任",
-    "link": "https://www.pingwest.com/w/316730",
-    "source": "品玩",
-    "category": "funding",
-    "summary": "HuggingFace\n\n\n\nHugging Face传获130亿美元估值收购意向，CEO此前强调社区责任\n\n据Business Insider报道，AI开源社区Hugging Face正探索出售事宜，潜在估值或达130亿美元以上。目前公司已聘请投资银行评估潜在买家意向，但尚未达成任何交易，具体接洽方尚不明确。",
-    "keywords": [
-      "AI"
-    ],
-    "date": "2026-08-25"
-  },
-  {
-    "title": "豆包工作正式发布：让 AI 从生成内容到完成工作",
-    "link": "https://www.pingwest.com/w/316728",
-    "source": "品玩",
-    "category": "other",
-    "summary": "豆包\n\n\n\n豆包工作正式发布：让 AI 从生成内容到完成工作",
-    "keywords": [
-      "AI",
-      "豆包"
-    ],
-    "date": "2026-08-25"
-  },
-  {
-    "title": "Harvey发布首个后训练法律AI模型Tenet研究预览版",
-    "link": "https://www.pingwest.com/w/316726",
-    "source": "品玩",
-    "category": "other",
-    "summary": "后训练模型\n\n\n\nHarvey发布首个后训练法律AI模型Tenet研究预览版\n\n据 marktechpost 报道，Harvey于2026年8月20日发布Harvey Tenet，这是其首个后训练模型，目前以研究预览形式推出。",
-    "keywords": [
-      "AI"
-    ],
-    "date": "2026-08-25"
-  },
-  {
-    "title": "Stability AI, maker of image generator Stable Diffusion, raises $76 million in fresh funding",
-    "link": "https://techcrunch.com/2026/08/25/stability-ai-maker-of-image-generator-stable-diffusion-raises-76-million-in-fresh-funding/",
-    "source": "TechCrunch",
-    "category": "funding",
-    "summary": "The company's new fundraising total now stands at $232 million.",
-    "keywords": [
-      "AI",
-      "diffusion"
-    ],
-    "date": "2026-08-25"
-  },
-  {
-    "title": "Claude Cowork finally remembers what you told the app in chat",
-    "link": "https://techcrunch.com/2026/08/25/claude-cowork-finally-remembers-what-you-told-the-app-in-chat/",
+    "title": "Radar makes podcasts searchable — and usable by AI agents",
+    "link": "https://techcrunch.com/2026/08/26/radar-makes-podcasts-searchable-and-usable-by-ai-agents/",
     "source": "TechCrunch",
     "category": "other",
-    "summary": "Anthropic is giving Claude a shared memory across chat and Cowork, so users no longer have to repeatedly brief the AI on projects, preferences, and other context.",
-    "keywords": [
-      "AI",
-      "Anthropic",
-      "Claude"
-    ],
-    "date": "2026-08-25"
-  },
-  {
-    "title": "OpenAI’s Jalapeño chip is built for fast inference at scale, benchmarks show",
-    "link": "https://techcrunch.com/2026/08/25/openais-jalapeno-chip-is-built-for-fast-inference-at-scale-benchmarks-show/",
-    "source": "TechCrunch",
-    "category": "other",
-    "summary": "Tested on SemiAnalysis’ InferenceX benchmark, Jalapeño registered both more tokens per user and more throughput per kilowatt than the currently available state-of-the art.",
-    "keywords": [
-      "AI",
-      "OpenAI"
-    ],
-    "date": "2026-08-25"
-  },
-  {
-    "title": "Accel-backed Keenable is indexing the web for AI agents",
-    "link": "https://techcrunch.com/2026/08/25/accel-backed-keenable-is-indexing-the-web-for-ai-agents/",
-    "source": "TechCrunch",
-    "category": "other",
-    "summary": "Now exiting stealth mode with a $26 million seed round, Keenable has been building a vast web search index for AI agents.",
+    "summary": "Particle’s new podcast intelligence platform transcribes and analyzes more than 130,000 podcasts, making their conversations searchable on the web and accessible to AI agents through an API and MCP.",
     "keywords": [
       "AI",
       "Agent"
     ],
-    "date": "2026-08-25"
+    "date": "2026-08-26"
   },
   {
-    "title": "‘The world seems to be ready’: An interview with OpenAI head of product Thibault Sottiaux",
-    "link": "https://techcrunch.com/2026/08/25/the-world-seems-to-be-ready-an-interview-with-openai-head-of-product-thibault-sottiaux/",
+    "title": "Ex-Meta scientists want to bring visual AI to the factory floor",
+    "link": "https://techcrunch.com/2026/08/26/ex-meta-scientists-want-to-bring-visual-ai-to-the-factory-floor/",
     "source": "TechCrunch",
     "category": "other",
-    "summary": "TechCrunch talks agents, UX, and reporting to Greg Brockman with OpenAI's head of product.",
-    "keywords": [
-      "AI",
-      "Agent",
-      "OpenAI"
-    ],
-    "date": "2026-08-25"
-  },
-  {
-    "title": "Situational Awareness, star AI hedge fund that nearly imploded, now being probed by the SEC",
-    "link": "https://techcrunch.com/2026/08/24/situational-awareness-star-ai-hedge-fund-that-nearly-imploded-now-being-probed-by-the-sec/",
-    "source": "TechCrunch",
-    "category": "other",
-    "summary": "The AI hedge fund went from \"the talk of Wall Street\" to \"subject of federal subpoenas\" faster than you can say \"diversify your portfolio.\"",
+    "summary": "Perceptron offers an AI model that it says can help machines navigate the world while also providing in-depth visual intelligence.",
     "keywords": [
       "AI"
     ],
-    "date": "2026-08-25"
+    "date": "2026-08-26"
   },
   {
-    "title": "构筑人车家 AI 算力底座，小米玄戒发布三款自研芯片贯通全场景",
-    "link": "https://www.pingwest.com/w/316723",
-    "source": "品玩",
+    "title": "Bill Gates wants to see a robot tax and ‘Human Reserved’ jobs to mitigate harms from AI",
+    "link": "https://techcrunch.com/2026/08/26/bill-gates-wants-to-see-a-robot-tax-and-human-reserved-jobs-to-mitigate-harms-from-ai/",
+    "source": "TechCrunch",
     "category": "other",
-    "summary": "小米\n\n\n\n构筑人车家 AI 算力底座，小米玄戒发布三款自研芯片贯通全场景",
+    "summary": "Gates is mostly in the Responsible AI camp, but there are a few ideas in here we hadn't heard before.",
     "keywords": [
       "AI"
     ],
-    "date": "2026-08-24"
+    "date": "2026-08-26"
   },
   {
-    "title": "字节跳动整合办公AI业务，豆包将推出独立AI办公产品",
-    "link": "https://www.pingwest.com/w/316721",
-    "source": "品玩",
-    "category": "other",
-    "summary": "豆包\n\n\n\n字节跳动整合办公AI业务，豆包将推出独立AI办公产品\n\n据界面新闻报道，字节跳动近日对旗下办公AI产品完成团队整合，TRAE、扣子（Coze）团队整体并入豆包体系。",
-    "keywords": [
-      "AI",
-      "豆包"
-    ],
-    "date": "2026-08-24"
-  },
-  {
-    "title": "机器人如何走向通用？Arm技术负责人提到了“智能层”",
-    "link": "https://www.pingwest.com/w/316719",
-    "source": "品玩",
-    "category": "other",
-    "summary": "ARM\n\n\n\n机器人如何走向通用？Arm技术负责人提到了“智能层”",
-    "keywords": [
-      "机器人",
-      "智能"
-    ],
-    "date": "2026-08-24"
-  },
-  {
-    "title": "Instinct’s powerful AI assistant is raising privacy and security concerns",
-    "link": "https://techcrunch.com/2026/08/24/instincts-powerful-ai-assistant-is-raising-privacy-and-security-concerns/",
+    "title": "Surprise: Z.ai is the AI lab behind the mysterious Ox Alpha model",
+    "link": "https://techcrunch.com/2026/08/26/surprise-z-ai-is-the-ai-lab-behind-the-mysterious-ox-alpha-model/",
     "source": "TechCrunch",
     "category": "other",
-    "summary": "Early testers are raving about what Instinct can do, but some say the AI assistant’s sweeping access, broad terms and ability to act on users’ behalf come with uncomfortable trade-offs.",
+    "summary": "Z.ai confirms it is behind Ox Alpha, the mysterious open AI model topping benchmarks and leaderboards, and its weights are set to be released soon.",
     "keywords": [
       "AI"
     ],
-    "date": "2026-08-24"
-  },
-  {
-    "title": "Valor, Point72 back General Intuition at $6B valuation as AI startup pushes into robotics",
-    "link": "https://techcrunch.com/2026/08/24/valor-point72-back-general-intuition-at-6b-valuation-as-ai-startup-pushes-into-robotics/",
-    "source": "TechCrunch",
-    "category": "funding",
-    "summary": "General Intuition, the startup building a foundation model that trains generalized AI agents how to move through space and time, is in talks to raise at a $6 billion pre-money valuation from new inves",
-    "keywords": [
-      "AI",
-      "Agent"
-    ],
-    "date": "2026-08-24"
-  },
-  {
-    "title": "OpenAI is building AI agents for everything. Will everyone use them?",
-    "link": "https://techcrunch.com/2026/08/24/openai-is-building-an-ai-agent-for-everything-will-everyone-use-them/",
-    "source": "TechCrunch",
-    "category": "other",
-    "summary": "Inside the frontier lab’s push to bring AI agents from software engineers to the masses.",
-    "keywords": [
-      "AI",
-      "Agent",
-      "OpenAI"
-    ],
-    "date": "2026-08-24"
-  },
-  {
-    "title": "Who’s behind the new ‘stealth model’ Ox Alpha?",
-    "link": "https://techcrunch.com/2026/08/23/whos-behind-the-new-stealth-model-ox-alpha/",
-    "source": "TechCrunch",
-    "category": "other",
-    "summary": "A mysterious new AI model called Ox Alpha has driven certain corners of the internet into a frenzy of speculation.",
-    "keywords": [
-      "AI"
-    ],
-    "date": "2026-08-23"
-  },
-  {
-    "title": "Linkdaze’s smart calendar is built to run a household, not just track a schedule",
-    "link": "https://techcrunch.com/2026/08/23/linkdazes-smart-calendar-is-built-to-run-a-household-not-just-track-a-schedule/",
-    "source": "TechCrunch",
-    "category": "other",
-    "summary": "Linkdaze's smart digital calendar stands out for not putting its features behind a paywall, including an AI meal planner tool.",
-    "keywords": [
-      "AI"
-    ],
-    "date": "2026-08-23"
-  },
-  {
-    "title": "Is it legal to train AI models on copyrighted books? It’s complicated",
-    "link": "https://techcrunch.com/2026/08/23/is-it-legal-to-train-ai-models-on-copyrighted-books-its-complicated/",
-    "source": "TechCrunch",
-    "category": "other",
-    "summary": "Most published authors have, without their knowledge or consent, contributed to the development of the same AI tools that threaten to undermine their livelihoods. That seems illegal, right?",
-    "keywords": [
-      "AI"
-    ],
-    "date": "2026-08-23"
+    "date": "2026-08-26"
   }
 ]
