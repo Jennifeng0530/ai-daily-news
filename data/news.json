@@ -1,5 +1,72 @@
 [
   {
+    "title": "Wan 3.0连续3天限时免费！SkyProduction再掀价格战",
+    "link": "https://www.pingwest.com/w/316900",
+    "source": "品玩",
+    "category": "other",
+    "summary": "天工\n\n\n\nWan 3.0连续3天限时免费！SkyProduction再掀价格战\n\n8月28日，昆仑万维旗下的AI平台SkyProduction（天工工作台，原名“天工短剧工作台”）正式接入阿里巴巴最新视频生成模型Wan 3.0。",
+    "keywords": [
+      "AI"
+    ],
+    "date": "2026-08-28"
+  },
+  {
+    "title": "小鹏让 AI 增加 30 秒记忆",
+    "link": "https://www.pingwest.com/a/316895",
+    "source": "品玩",
+    "category": "other",
+    "summary": "小鹏让 AI 增加 30 秒记忆\n\n汽车公司都会成为物理AI公司",
+    "keywords": [
+      "AI"
+    ],
+    "date": "2026-08-28"
+  },
+  {
+    "title": "覆盖车联网、信创、AI等领域，360入选工信部六大漏洞专业库技术支撑单位",
+    "link": "https://www.pingwest.com/w/316896",
+    "source": "品玩",
+    "category": "other",
+    "summary": "360\n\n\n\n覆盖车联网、信创、AI等领域，360入选工信部六大漏洞专业库技术支撑单位",
+    "keywords": [
+      "AI"
+    ],
+    "date": "2026-08-28"
+  },
+  {
+    "title": "大晓联合香港大学发布StreamPI，让 VLA 真正理解时间，迈向连续物理智能",
+    "link": "https://www.pingwest.com/w/316892",
+    "source": "品玩",
+    "category": "other",
+    "summary": "机器人\n\n\n\n大晓联合香港大学发布StreamPI，让 VLA 真正理解时间，迈向连续物理智能",
+    "keywords": [
+      "机器人",
+      "智能"
+    ],
+    "date": "2026-08-28"
+  },
+  {
+    "title": "腾讯混元 Hy4 preview发布，稳居开源模型第一梯队",
+    "link": "https://www.pingwest.com/w/316883",
+    "source": "品玩",
+    "category": "other",
+    "summary": "腾讯\n\n\n\n腾讯混元 Hy4 preview发布，稳居开源模型第一梯队\n\n8 月 28 日，腾讯混元发布并开源新一代大语言模型 Hy4 preview ，总参数 770B、激活参数 49B，上下文长度突破 1M，在代码、办公、科学等真实生产力任务上展现出卓越能力。",
+    "keywords": [
+      "混元"
+    ],
+    "date": "2026-08-28"
+  },
+  {
+    "title": "AIVA 首款量产车 ME7 谍照曝光，驶入吐鲁番高温测试场",
+    "link": "https://www.pingwest.com/w/316881",
+    "source": "品玩",
+    "category": "other",
+    "summary": "AIVA\n\n\n\nAIVA 首款量产车 ME7 谍照曝光，驶入吐鲁番高温测试场",
+    "keywords": [
+      "AI"
+    ],
+    "date": "2026-08-28"
+  },
+  {
     "title": "Google收紧Android应用内存使用标准 应对AI驱动下的芯片供应紧张",
     "link": "https://www.pingwest.com/w/316873",
     "source": "品玩",
@@ -92,6 +159,64 @@
       "AI",
       "OpenAI",
       "Anthropic"
+    ],
+    "date": "2026-08-28"
+  },
+  {
+    "title": "Neocloud Lambda secures $1B in debt to buy more chips",
+    "link": "https://techcrunch.com/2026/08/28/neocloud-lambda-secures-1b-in-debt-to-buy-more-chips/",
+    "source": "TechCrunch",
+    "category": "other",
+    "summary": "Neocloud Lambda has raised $1B in private debt to buy Nvidia AI chips and lease them to Microsoft. It's the latest in a string of loans, underscoring the high cost of the AI boom.",
+    "keywords": [
+      "AI"
+    ],
+    "date": "2026-08-28"
+  },
+  {
+    "title": "An Anthropic researcher just gave us a peek at self-improving AI",
+    "link": "https://techcrunch.com/2026/08/28/an-anthropic-researcher-just-gave-us-a-peek-at-self-improving-ai/",
+    "source": "TechCrunch",
+    "category": "other",
+    "summary": "Given 10 benchmarks for specific misaligned behaviors, the automated systems were able to improve performance on every single one without degrading overall performance.",
+    "keywords": [
+      "AI",
+      "Anthropic"
+    ],
+    "date": "2026-08-28"
+  },
+  {
+    "title": "Open-weight AI companies are the Valley’s hottest acquisition targets",
+    "link": "https://techcrunch.com/2026/08/28/open-weight-ai-companies-are-the-valleys-hottest-acquisition-targets/",
+    "source": "TechCrunch",
+    "category": "funding",
+    "summary": "There's a lot of capital pouring into the business of giving models away.",
+    "keywords": [
+      "AI"
+    ],
+    "date": "2026-08-28"
+  },
+  {
+    "title": "Anthropic gets its first court win over the Pentagon’s supply-chain risk label",
+    "link": "https://techcrunch.com/2026/08/28/anthropic-gets-its-first-court-win-over-the-pentagons-supply-chain-risk-label/",
+    "source": "TechCrunch",
+    "category": "other",
+    "summary": "A federal judge ruled the Trump administration illegally labeled Anthropic a supply-chain risk, handing the AI company a victory as its second Pentagon lawsuit continues in Washington.",
+    "keywords": [
+      "AI",
+      "Anthropic"
+    ],
+    "date": "2026-08-28"
+  },
+  {
+    "title": "Meta executive leaves for OpenAI as the social media giant faces growing scrutiny in India",
+    "link": "https://techcrunch.com/2026/08/28/meta-executive-leaves-for-openai-as-the-social-media-giant-faces-growing-scrutiny-in-india/",
+    "source": "TechCrunch",
+    "category": "other",
+    "summary": "Sandhya Devanathan will oversee some OpenAI operations across Southeast Asia and Australia in her new role.",
+    "keywords": [
+      "AI",
+      "OpenAI"
     ],
     "date": "2026-08-28"
   },
@@ -194,42 +319,6 @@
     "source": "品玩",
     "category": "other",
     "summary": "OpenAI\n\n\n\nOpenAI发布Hugging Face安全事件官方报告 披露AI模型逃逸细节\n\n据 TechCrunch 报道，OpenAI于周三发布Hugging Face安全事件官方报告，披露AI模型突破测试环境并引发网络安全事件的完整经过。",
-    "keywords": [
-      "AI",
-      "OpenAI"
-    ],
-    "date": "2026-08-27"
-  },
-  {
-    "title": "千问办公推出全新模式，Agent迎来量大管饱时代",
-    "link": "https://www.pingwest.com/w/316815",
-    "source": "品玩",
-    "category": "other",
-    "summary": "通义千问\n\n\n\n千问办公推出全新模式，Agent迎来量大管饱时代",
-    "keywords": [
-      "Agent",
-      "通义千问"
-    ],
-    "date": "2026-08-27"
-  },
-  {
-    "title": "Z.ai开源GLM-5.3-Flash多模态模型 定价仅为Opus 4.8的1/40",
-    "link": "https://www.pingwest.com/w/316814",
-    "source": "品玩",
-    "category": "other",
-    "summary": "智谱\n\n\n\nZ.ai开源GLM-5.3-Flash多模态模型 定价仅为Opus 4.8的1/40\n\n据智谱官方消息，智谱发布并开源GLM-5.3-Flash（320B-A18B），GLM-5系列首个多模态模型。",
-    "keywords": [
-      "AI",
-      "智谱"
-    ],
-    "date": "2026-08-27"
-  },
-  {
-    "title": "OpenAI销售高管Peter Doolan将重返Salesforce 企业销售团队人事持续调整",
-    "link": "https://www.pingwest.com/w/316811",
-    "source": "品玩",
-    "category": "other",
-    "summary": "OpenAI\n\n\n\nOpenAI销售高管Peter Doolan将重返Salesforce 企业销售团队人事持续调整\n\n据cryptobriefing报道，曾担任Slack首席客户官、今年4月加入OpenAI的Peter Doolan已接受录用通知，将重返Salesforce。",
     "keywords": [
       "AI",
       "OpenAI"
@@ -371,28 +460,6 @@
     "date": "2026-08-27"
   },
   {
-    "title": "荣耀机器人闪电百米大战跑出8秒83，刷新可靠性上限",
-    "link": "https://www.pingwest.com/w/316808",
-    "source": "品玩",
-    "category": "other",
-    "summary": "荣耀\n\n\n\n荣耀机器人闪电百米大战跑出8秒83，刷新可靠性上限",
-    "keywords": [
-      "机器人"
-    ],
-    "date": "2026-08-26"
-  },
-  {
-    "title": "美图2026中期业绩观察：AI生产力产品进入价值兑现期",
-    "link": "https://www.pingwest.com/w/316806",
-    "source": "品玩",
-    "category": "other",
-    "summary": "美图\n\n\n\n美图2026中期业绩观察：AI生产力产品进入价值兑现期",
-    "keywords": [
-      "AI"
-    ],
-    "date": "2026-08-26"
-  },
-  {
     "title": "Anthropic continues compute-gobbling streak in $45B deal with Nscale",
     "link": "https://techcrunch.com/2026/08/26/anthropic-continues-compute-gobbling-streak-in-45-billion-deal-with-nscale/",
     "source": "TechCrunch",
@@ -412,75 +479,6 @@
     "keywords": [
       "AI",
       "Gemini"
-    ],
-    "date": "2026-08-26"
-  },
-  {
-    "title": "How do we explain OpenAI’s executive exodus?",
-    "link": "https://techcrunch.com/2026/08/26/how-do-we-explain-openais-executive-exodus/",
-    "source": "TechCrunch",
-    "category": "other",
-    "summary": "Was Greg Brockman the right executive all along?",
-    "keywords": [
-      "AI",
-      "OpenAI"
-    ],
-    "date": "2026-08-26"
-  },
-  {
-    "title": "OpenAI releases its official report on the Hugging Face breach",
-    "link": "https://techcrunch.com/2026/08/26/openai-releases-its-official-report-on-the-hugging-face-breach/",
-    "source": "TechCrunch",
-    "category": "other",
-    "summary": "The report, which spans several discrete cybersecurity compromises, is the most complete accounting of the incident to date.",
-    "keywords": [
-      "AI",
-      "OpenAI"
-    ],
-    "date": "2026-08-26"
-  },
-  {
-    "title": "Radar makes podcasts searchable — and usable by AI agents",
-    "link": "https://techcrunch.com/2026/08/26/radar-makes-podcasts-searchable-and-usable-by-ai-agents/",
-    "source": "TechCrunch",
-    "category": "other",
-    "summary": "Particle’s new podcast intelligence platform transcribes and analyzes more than 130,000 podcasts, making their conversations searchable on the web and accessible to AI agents through an API and MCP.",
-    "keywords": [
-      "AI",
-      "Agent"
-    ],
-    "date": "2026-08-26"
-  },
-  {
-    "title": "Ex-Meta scientists want to bring visual AI to the factory floor",
-    "link": "https://techcrunch.com/2026/08/26/ex-meta-scientists-want-to-bring-visual-ai-to-the-factory-floor/",
-    "source": "TechCrunch",
-    "category": "other",
-    "summary": "Perceptron offers an AI model that it says can help machines navigate the world while also providing in-depth visual intelligence.",
-    "keywords": [
-      "AI"
-    ],
-    "date": "2026-08-26"
-  },
-  {
-    "title": "Bill Gates wants to see a robot tax and ‘Human Reserved’ jobs to mitigate harms from AI",
-    "link": "https://techcrunch.com/2026/08/26/bill-gates-wants-to-see-a-robot-tax-and-human-reserved-jobs-to-mitigate-harms-from-ai/",
-    "source": "TechCrunch",
-    "category": "other",
-    "summary": "Gates is mostly in the Responsible AI camp, but there are a few ideas in here we hadn't heard before.",
-    "keywords": [
-      "AI"
-    ],
-    "date": "2026-08-26"
-  },
-  {
-    "title": "Surprise: Z.ai is the AI lab behind the mysterious Ox Alpha model",
-    "link": "https://techcrunch.com/2026/08/26/surprise-z-ai-is-the-ai-lab-behind-the-mysterious-ox-alpha-model/",
-    "source": "TechCrunch",
-    "category": "other",
-    "summary": "Z.ai confirms it is behind Ox Alpha, the mysterious open AI model topping benchmarks and leaderboards, and its weights are set to be released soon.",
-    "keywords": [
-      "AI"
     ],
     "date": "2026-08-26"
   }
