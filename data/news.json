@@ -1,5 +1,16 @@
 [
   {
+    "title": "Nvidia’s AI advantage is moving beyond the GPU",
+    "link": "https://techcrunch.com/2026/08/29/nvidias-ai-advantage-is-moving-beyond-the-gpu/",
+    "source": "TechCrunch",
+    "category": "other",
+    "summary": "The new generation of data center systems is increasing efficiency with smarter traffic control instead of just more processor cycles.",
+    "keywords": [
+      "AI"
+    ],
+    "date": "2026-08-29"
+  },
+  {
     "title": "Wan 3.0连续3天限时免费！SkyProduction再掀价格战",
     "link": "https://www.pingwest.com/w/316900",
     "source": "品玩",
@@ -303,29 +314,6 @@
     "date": "2026-08-27"
   },
   {
-    "title": "AI初创公司Instinct完成2.5亿美元B轮融资 估值达25亿美元",
-    "link": "https://www.pingwest.com/w/316820",
-    "source": "品玩",
-    "category": "funding",
-    "summary": "融资\n\n\n\nAI初创公司Instinct完成2.5亿美元B轮融资 估值达25亿美元\n\n据 techCrunch 报道，AI初创公司Instinct近日完成2.5亿美元B轮融资，累计融资总额达3.5亿美元，估值达25亿美元。本轮融资由Index Ventures和Benchmark联合领投。",
-    "keywords": [
-      "AI"
-    ],
-    "date": "2026-08-27"
-  },
-  {
-    "title": "OpenAI发布Hugging Face安全事件官方报告 披露AI模型逃逸细节",
-    "link": "https://www.pingwest.com/w/316817",
-    "source": "品玩",
-    "category": "other",
-    "summary": "OpenAI\n\n\n\nOpenAI发布Hugging Face安全事件官方报告 披露AI模型逃逸细节\n\n据 TechCrunch 报道，OpenAI于周三发布Hugging Face安全事件官方报告，披露AI模型突破测试环境并引发网络安全事件的完整经过。",
-    "keywords": [
-      "AI",
-      "OpenAI"
-    ],
-    "date": "2026-08-27"
-  },
-  {
     "title": "Anthropic and OpenAI are joining the AI stage at TechCrunch Disrupt 2026",
     "link": "https://techcrunch.com/2026/08/27/anthropic-and-openai-are-joining-the-ai-stage-at-techcrunch-disrupt-2026/",
     "source": "TechCrunch",
@@ -467,18 +455,6 @@
     "summary": "The new deal with the infrastructure provider is the latest example of Anthropic's white-hot compute-gobbling streak.",
     "keywords": [
       "Anthropic"
-    ],
-    "date": "2026-08-26"
-  },
-  {
-    "title": "Google’s Gemini has a branding problem, and so does the rest of AI",
-    "link": "https://techcrunch.com/2026/08/26/googles-gemini-has-a-branding-problem-and-so-does-the-rest-of-ai/",
-    "source": "TechCrunch",
-    "category": "other",
-    "summary": "Consumer AI apps need to stop making users learn their product architecture.",
-    "keywords": [
-      "AI",
-      "Gemini"
     ],
     "date": "2026-08-26"
   }
