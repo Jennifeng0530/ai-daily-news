@@ -1,5 +1,28 @@
 [
   {
+    "title": "Sony Music, Warner sue Anthropic, alleging a “brazen campaign” of intellectual property theft",
+    "link": "https://techcrunch.com/2026/08/29/sony-music-warner-sue-anthropic-alleging-a-brazen-campaign-of-intellectual-property-theft/",
+    "source": "TechCrunch",
+    "category": "other",
+    "summary": "This latest lawsuit is particularly broad and homes in on accusations of illegal piracy.",
+    "keywords": [
+      "AI",
+      "Anthropic"
+    ],
+    "date": "2026-08-29"
+  },
+  {
+    "title": "“We’re not doing 30 bets a year”: Vijay Pande on betting small after running $4 billion at a16z",
+    "link": "https://techcrunch.com/2026/08/29/were-not-doing-30-bets-a-year-vijay-pande-on-betting-small-after-running-4-billion-at-a16z/",
+    "source": "TechCrunch",
+    "category": "funding",
+    "summary": "Vijay Pande — who left a16z's roughly $4 billion biotech practice last year to start the much smaller, AI-native VZVC — talks about why biology is finally shifting from a \"discovery\" science to an \"en",
+    "keywords": [
+      "AI"
+    ],
+    "date": "2026-08-29"
+  },
+  {
     "title": "Nvidia’s AI advantage is moving beyond the GPU",
     "link": "https://techcrunch.com/2026/08/29/nvidias-ai-advantage-is-moving-beyond-the-gpu/",
     "source": "TechCrunch",
@@ -9,169 +32,6 @@
       "AI"
     ],
     "date": "2026-08-29"
-  },
-  {
-    "title": "Wan 3.0连续3天限时免费！SkyProduction再掀价格战",
-    "link": "https://www.pingwest.com/w/316900",
-    "source": "品玩",
-    "category": "other",
-    "summary": "天工\n\n\n\nWan 3.0连续3天限时免费！SkyProduction再掀价格战\n\n8月28日，昆仑万维旗下的AI平台SkyProduction（天工工作台，原名“天工短剧工作台”）正式接入阿里巴巴最新视频生成模型Wan 3.0。",
-    "keywords": [
-      "AI"
-    ],
-    "date": "2026-08-28"
-  },
-  {
-    "title": "小鹏让 AI 增加 30 秒记忆",
-    "link": "https://www.pingwest.com/a/316895",
-    "source": "品玩",
-    "category": "other",
-    "summary": "小鹏让 AI 增加 30 秒记忆\n\n汽车公司都会成为物理AI公司",
-    "keywords": [
-      "AI"
-    ],
-    "date": "2026-08-28"
-  },
-  {
-    "title": "覆盖车联网、信创、AI等领域，360入选工信部六大漏洞专业库技术支撑单位",
-    "link": "https://www.pingwest.com/w/316896",
-    "source": "品玩",
-    "category": "other",
-    "summary": "360\n\n\n\n覆盖车联网、信创、AI等领域，360入选工信部六大漏洞专业库技术支撑单位",
-    "keywords": [
-      "AI"
-    ],
-    "date": "2026-08-28"
-  },
-  {
-    "title": "大晓联合香港大学发布StreamPI，让 VLA 真正理解时间，迈向连续物理智能",
-    "link": "https://www.pingwest.com/w/316892",
-    "source": "品玩",
-    "category": "other",
-    "summary": "机器人\n\n\n\n大晓联合香港大学发布StreamPI，让 VLA 真正理解时间，迈向连续物理智能",
-    "keywords": [
-      "机器人",
-      "智能"
-    ],
-    "date": "2026-08-28"
-  },
-  {
-    "title": "腾讯混元 Hy4 preview发布，稳居开源模型第一梯队",
-    "link": "https://www.pingwest.com/w/316883",
-    "source": "品玩",
-    "category": "other",
-    "summary": "腾讯\n\n\n\n腾讯混元 Hy4 preview发布，稳居开源模型第一梯队\n\n8 月 28 日，腾讯混元发布并开源新一代大语言模型 Hy4 preview ，总参数 770B、激活参数 49B，上下文长度突破 1M，在代码、办公、科学等真实生产力任务上展现出卓越能力。",
-    "keywords": [
-      "混元"
-    ],
-    "date": "2026-08-28"
-  },
-  {
-    "title": "AIVA 首款量产车 ME7 谍照曝光，驶入吐鲁番高温测试场",
-    "link": "https://www.pingwest.com/w/316881",
-    "source": "品玩",
-    "category": "other",
-    "summary": "AIVA\n\n\n\nAIVA 首款量产车 ME7 谍照曝光，驶入吐鲁番高温测试场",
-    "keywords": [
-      "AI"
-    ],
-    "date": "2026-08-28"
-  },
-  {
-    "title": "Google收紧Android应用内存使用标准 应对AI驱动下的芯片供应紧张",
-    "link": "https://www.pingwest.com/w/316873",
-    "source": "品玩",
-    "category": "other",
-    "summary": "谷歌\n\n\n\nGoogle收紧Android应用内存使用标准 应对AI驱动下的芯片供应紧张\n\n据 TechCrunch 报道，受AI数据中心需求推动，全球内存芯片供应持续紧张，Google本周宣布对Android应用提出两项新的质量要求，旨在优化应用内存占用与代码效率。",
-    "keywords": [
-      "AI"
-    ],
-    "date": "2026-08-28"
-  },
-  {
-    "title": "蚂蚁集团发布Ling-3.0-flash-Fin 金融大模型 聚焦投研核心能力",
-    "link": "https://www.pingwest.com/w/316872",
-    "source": "品玩",
-    "category": "other",
-    "summary": "蚂蚁集团\n\n\n\n蚂蚁集团发布Ling-3.0-flash-Fin 金融大模型 聚焦投研核心能力\n\n据百灵大模型官方消息，蚂蚁集团携手中金公司及行业专家发布Ling-3.0-flash-Fin，为蚂蚁百灵首个金融增强模型，延续Ling-3.0-flash架构，保持124B总参数、5.1B激活参数配置，通过金融语料持续预训练和领域后训练强化投研能力。",
-    "keywords": [
-      "大模型"
-    ],
-    "date": "2026-08-28"
-  },
-  {
-    "title": "Google发布Gemini Omni 1.1 Flash 增强视频生成控制能力",
-    "link": "https://www.pingwest.com/w/316871",
-    "source": "品玩",
-    "category": "other",
-    "summary": "谷歌\n\n\n\nGoogle发布Gemini Omni 1.1 Flash 增强视频生成控制能力\n\n据startuphub 报道，Google正式发布Gemini Omni 1.1 Flash，对其生成式视频模型进行重大升级，为开发者提供更精细的视频创作与编辑控制能力。该版本已可通过Gemini API在Google AI Studio和Gemini Enterprise Agent Platform",
-    "keywords": [
-      "AI",
-      "Agent",
-      "Gemini",
-      "生成式"
-    ],
-    "date": "2026-08-28"
-  },
-  {
-    "title": "Google升级AI Mode旅行功能 支持机票追踪与酒店预订",
-    "link": "https://www.pingwest.com/w/316870",
-    "source": "品玩",
-    "category": "other",
-    "summary": "Google\n\n\n\nGoogle升级AI Mode旅行功能 支持机票追踪与酒店预订\n\n据TechCrunch 报道，Google宣布为AI Mode新增旅行规划与预订功能，用户可通过自然对话方式查询航班价格、预订酒店，并以里程或积分查看出行费用，进一步将AI Mode定位为AI旅行助手。",
-    "keywords": [
-      "AI"
-    ],
-    "date": "2026-08-28"
-  },
-  {
-    "title": "Anthropic签署约450亿美元算力租赁协议 与英国Nscale合作采用Vera Rubin芯片",
-    "link": "https://www.pingwest.com/w/316868",
-    "source": "品玩",
-    "category": "other",
-    "summary": "Anthropic\n\n\n\nAnthropic签署约450亿美元算力租赁协议 与英国Nscale合作采用Vera Rubin芯片\n\n据 TechCrcunch 报道，Anthropic已与英国AI基础设施公司Nscale签署算力租赁协议，涉及金额约450亿美元。",
-    "keywords": [
-      "AI",
-      "Anthropic"
-    ],
-    "date": "2026-08-28"
-  },
-  {
-    "title": "Adobe推出Photoshop AI辅助编辑器Beta版 基于自然语言指令简化图像编辑",
-    "link": "https://www.pingwest.com/w/316867",
-    "source": "品玩",
-    "category": "other",
-    "summary": "Adobe\n\n\n\nAdobe推出Photoshop AI辅助编辑器Beta版 基于自然语言指令简化图像编辑\n\n据 9to5Google 报道，Adobe宣布推出Photoshop AI辅助编辑器Beta版，以提示词驱动界面替代传统复杂工具。",
-    "keywords": [
-      "AI"
-    ],
-    "date": "2026-08-28"
-  },
-  {
-    "title": "Anthropic发布Model Hardware Standard 开放AI智能体操控物理设备规范",
-    "link": "https://www.pingwest.com/w/316864",
-    "source": "品玩",
-    "category": "other",
-    "summary": "Anthropic\n\n\n\nAnthropic发布Model Hardware Standard 开放AI智能体操控物理设备规范\n\n据Anthropic官方宣布，正式开放Model Hardware Standard（MHS）研究预览版，面向AI智能体安全操控物理设备。",
-    "keywords": [
-      "AI",
-      "Anthropic",
-      "智能"
-    ],
-    "date": "2026-08-28"
-  },
-  {
-    "title": "OpenAI联合百余家企业发公开信 呼吁加强AI网络防御",
-    "link": "https://www.pingwest.com/w/316863",
-    "source": "品玩",
-    "category": "other",
-    "summary": "Anthropic\n\n\n\nOpenAI联合百余家企业发公开信 呼吁加强AI网络防御\n\n据 tech-insider 报道，OpenAI联合Anthropic、Google、Microsoft、Amazon、Cisco、Oracle、Cloudflare、CrowdStrike、Palo Alto Networks等116家企业发布联名公开信，警告AI驱动的网络攻击将在未来数月内大幅增多，呼吁各国政",
-    "keywords": [
-      "AI",
-      "OpenAI",
-      "Anthropic"
-    ],
-    "date": "2026-08-28"
   },
   {
     "title": "Neocloud Lambda secures $1B in debt to buy more chips",
@@ -230,88 +90,6 @@
       "OpenAI"
     ],
     "date": "2026-08-28"
-  },
-  {
-    "title": "Google升级Gemini Live 新增Spark等多项生产力集成功能",
-    "link": "https://www.pingwest.com/w/316839",
-    "source": "品玩",
-    "category": "other",
-    "summary": "GEMINI\n\n\n\nGoogle升级Gemini Live 新增Spark等多项生产力集成功能\n\n据9to5Google 报道，Google宣布对AI语音助手Gemini Live进行重大升级，新增多项以生产力为核心的集成功能。",
-    "keywords": [
-      "AI",
-      "Gemini"
-    ],
-    "date": "2026-08-27"
-  },
-  {
-    "title": "Nvidia拟以129亿美元收购Hugging Face 布局开源AI模型生态",
-    "link": "https://www.pingwest.com/w/316834",
-    "source": "品玩",
-    "category": "other",
-    "summary": "英伟达\n\n\n\nNvidia拟以129亿美元收购Hugging Face 布局开源AI模型生态\n\n据The Information报道，Nvidia将以129亿美元收购Hugging Face。不过目前Nvidia与Hugging Face均未回应该消息。",
-    "keywords": [
-      "AI"
-    ],
-    "date": "2026-08-27"
-  },
-  {
-    "title": "阿里发布全新Qoder智能体工作台 内置Qwen3.8-Max等多款前沿模型",
-    "link": "https://www.pingwest.com/w/316832",
-    "source": "品玩",
-    "category": "other",
-    "summary": "阿里云\n\n\n\n阿里发布全新Qoder智能体工作台 内置Qwen3.8-Max等多款前沿模型\n\n阿里发布全新Qoder，定位为以Coding为核心能力、面向所有人的智能体工作台。产品采用以任务为中心的简洁界面，用户以自然语言描述目标，即可调用Coding和工具能力完成开发、原型制作、数据处理等任务。",
-    "keywords": [
-      "智能"
-    ],
-    "date": "2026-08-27"
-  },
-  {
-    "title": "啦啦操夺金、街舞包揽冠亚军，鹿明机器人斩获世界人形机器人运动会两金一银",
-    "link": "https://www.pingwest.com/w/316831",
-    "source": "品玩",
-    "category": "other",
-    "summary": "机器人\n\n\n\n啦啦操夺金、街舞包揽冠亚军，鹿明机器人斩获世界人形机器人运动会两金一银",
-    "keywords": [
-      "机器人"
-    ],
-    "date": "2026-08-27"
-  },
-  {
-    "title": "MiniMax 7 月 Token 消耗量飙至年初 20 倍，8 月 ARR 冲破 8 亿美元",
-    "link": "https://www.pingwest.com/w/316829",
-    "source": "品玩",
-    "category": "other",
-    "summary": "MiniMax\n\n\n\nMiniMax 7 月 Token 消耗量飙至年初 20 倍，8 月 ARR 冲破 8 亿美元\n\n8 月 26 日晚，MiniMax 在 2026 年中期业绩会上披露多项最新经营数据及模型研发进展。公司第二季度收入较第一季度环比增长 81.8%。",
-    "keywords": [
-      "MiniMax"
-    ],
-    "date": "2026-08-27"
-  },
-  {
-    "title": "OpenAI数据中心负责人Chris Malone离职 上市前高管层持续调整",
-    "link": "https://www.pingwest.com/w/316822",
-    "source": "品玩",
-    "category": "key_news",
-    "summary": "OpenAI\n\n\n\nOpenAI数据中心负责人Chris Malone离职 上市前高管层持续调整\n\n据econotimes报道，OpenAI数据中心负责人Chris Malone已于上周离职，成为该公司计划2027年上市前第四位离任的核心高管。",
-    "keywords": [
-      "AI",
-      "OpenAI"
-    ],
-    "date": "2026-08-27"
-  },
-  {
-    "title": "OpenAI推出ChatGPT Business Premium席位 面向高频用户提供更高用量层级",
-    "link": "https://www.pingwest.com/w/316821",
-    "source": "品玩",
-    "category": "other",
-    "summary": "ChatGPT\n\n\n\nOpenAI推出ChatGPT Business Premium席位 面向高频用户提供更高用量层级\n\n据 explainx.ai 报道，OpenAI确认ChatGPT Business已上线Premium席位，这是面向团队成员的第二档席位层级，主要服务于Standard席位用量已无法满足需求的高频用户。",
-    "keywords": [
-      "AI",
-      "OpenAI",
-      "GPT",
-      "ChatGPT"
-    ],
-    "date": "2026-08-27"
   },
   {
     "title": "Anthropic and OpenAI are joining the AI stage at TechCrunch Disrupt 2026",
@@ -446,16 +224,5 @@
       "AI"
     ],
     "date": "2026-08-27"
-  },
-  {
-    "title": "Anthropic continues compute-gobbling streak in $45B deal with Nscale",
-    "link": "https://techcrunch.com/2026/08/26/anthropic-continues-compute-gobbling-streak-in-45-billion-deal-with-nscale/",
-    "source": "TechCrunch",
-    "category": "other",
-    "summary": "The new deal with the infrastructure provider is the latest example of Anthropic's white-hot compute-gobbling streak.",
-    "keywords": [
-      "Anthropic"
-    ],
-    "date": "2026-08-26"
   }
 ]
