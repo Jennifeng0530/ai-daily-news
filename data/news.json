@@ -1,5 +1,87 @@
 [
   {
+    "title": "小马智行Robotaxi将登陆韩国 计划2028年启动全无人驾驶商业化",
+    "link": "https://www.pingwest.com/w/316923",
+    "source": "品玩",
+    "category": "other",
+    "summary": "小马智行\n\n\n\n小马智行Robotaxi将登陆韩国 计划2028年启动全无人驾驶商业化\n\n据sedaily 报道，小马智行（Pony.ai）与韩国FutureLink签署战略合作，计划将第七代Robotaxi引入韩国开展商业化运营。",
+    "keywords": [
+      "AI"
+    ],
+    "date": "2026-08-31"
+  },
+  {
+    "title": "Hugging Face发布Microduck开源机器人 售价399美元",
+    "link": "https://www.pingwest.com/w/316922",
+    "source": "品玩",
+    "category": "other",
+    "summary": "HuggingFace\n\n\n\nHugging Face发布Microduck开源机器人 售价399美元\n\n据 TechCrunch 报道，Hugging Face于8月27日发布Microduck，售价399美元的鸭形开源机器人，预计圣诞节前发货。",
+    "keywords": [
+      "机器人"
+    ],
+    "date": "2026-08-31"
+  },
+  {
+    "title": "SpaceXAI推出Grok Bot智能体应用 支持自动化任务编排与定期执行",
+    "link": "https://www.pingwest.com/w/316920",
+    "source": "品玩",
+    "category": "other",
+    "summary": "grok\n\n\n\nSpaceXAI推出Grok Bot智能体应用 支持自动化任务编排与定期执行\n\n据 datacamp 报道，SpaceXAI近日推出智能体应用Grok Bot，可通过Cursor使用，支持用户创建具备独立角色和持久对话上下文的命名Bot，实现跨应用和网站的自动化任务执行。",
+    "keywords": [
+      "AI",
+      "xAI",
+      "Grok",
+      "智能"
+    ],
+    "date": "2026-08-31"
+  },
+  {
+    "title": "Sony Music与Warner起诉Anthropic 指控大规模侵犯音乐版权",
+    "link": "https://www.pingwest.com/w/316918",
+    "source": "品玩",
+    "category": "other",
+    "summary": "Anthropic\n\n\n\nSony Music与Warner起诉Anthropic 指控大规模侵犯音乐版权\n\n据 TechCrunch 报道，Sony Music、Warner Chappell及多家音乐出版商于上周五向美国加州北区联邦地区法院提起诉讼，指控AI实验室Anthropic及其联合创始人Dario Amodei和Benjamin Mann通过非法下载、抓取受版权保护的作品训练AI模型C",
+    "keywords": [
+      "AI",
+      "Anthropic"
+    ],
+    "date": "2026-08-31"
+  },
+  {
+    "title": "OpenAI宣布终止向Cursor供应AI模型 称无法信任SpaceX合规使用",
+    "link": "https://www.pingwest.com/w/316916",
+    "source": "品玩",
+    "category": "other",
+    "summary": "cursor\n\n\n\nOpenAI宣布终止向Cursor供应AI模型 称无法信任SpaceX合规使用\n\n据 cybersecuritynews 报道，OpenAI于8月28日宣布，已正式通知SpaceX，计划终止向AI编程工具Cursor提供模型服务，拟定停止日期为2026年11月12日，为合同允许的最长通知期限。",
+    "keywords": [
+      "AI",
+      "OpenAI"
+    ],
+    "date": "2026-08-31"
+  },
+  {
+    "title": "Apple提前发布Mac新品 企业AI硬件需求超预期",
+    "link": "https://www.pingwest.com/w/316915",
+    "source": "品玩",
+    "category": "other",
+    "summary": "苹果\n\n\n\nApple提前发布Mac新品 企业AI硬件需求超预期\n\n据The Information报道，Apple上周罕见地提前发布新款Mac mini和Mac Studio，打破了通常在秋季推出Mac新品的惯例。报道称，此举主要受企业客户对AI硬件需求强劲增长的推动。",
+    "keywords": [
+      "AI"
+    ],
+    "date": "2026-08-31"
+  },
+  {
+    "title": "Caterpillar is bringing to AI deployment what it learned from automating mining",
+    "link": "https://techcrunch.com/2026/08/30/caterpillar-is-bringing-to-ai-deployment-what-it-learned-from-automating-mining/",
+    "source": "TechCrunch",
+    "category": "other",
+    "summary": "Caterpillar has spent decades putting autonomous machines to work at remote mining sites. It's now bringing that experience to AI deployment.",
+    "keywords": [
+      "AI"
+    ],
+    "date": "2026-08-30"
+  },
+  {
     "title": "Sony Music, Warner sue Anthropic, alleging a “brazen campaign” of intellectual property theft",
     "link": "https://techcrunch.com/2026/08/29/sony-music-warner-sue-anthropic-alleging-a-brazen-campaign-of-intellectual-property-theft/",
     "source": "TechCrunch",
@@ -255,74 +337,6 @@
     "date": "2026-08-28"
   },
   {
-    "title": "Google升级Gemini Live 新增Spark等多项生产力集成功能",
-    "link": "https://www.pingwest.com/w/316839",
-    "source": "品玩",
-    "category": "other",
-    "summary": "GEMINI\n\n\n\nGoogle升级Gemini Live 新增Spark等多项生产力集成功能\n\n据9to5Google 报道，Google宣布对AI语音助手Gemini Live进行重大升级，新增多项以生产力为核心的集成功能。",
-    "keywords": [
-      "AI",
-      "Gemini"
-    ],
-    "date": "2026-08-27"
-  },
-  {
-    "title": "Nvidia拟以129亿美元收购Hugging Face 布局开源AI模型生态",
-    "link": "https://www.pingwest.com/w/316834",
-    "source": "品玩",
-    "category": "other",
-    "summary": "英伟达\n\n\n\nNvidia拟以129亿美元收购Hugging Face 布局开源AI模型生态\n\n据The Information报道，Nvidia将以129亿美元收购Hugging Face。不过目前Nvidia与Hugging Face均未回应该消息。",
-    "keywords": [
-      "AI"
-    ],
-    "date": "2026-08-27"
-  },
-  {
-    "title": "阿里发布全新Qoder智能体工作台 内置Qwen3.8-Max等多款前沿模型",
-    "link": "https://www.pingwest.com/w/316832",
-    "source": "品玩",
-    "category": "other",
-    "summary": "阿里云\n\n\n\n阿里发布全新Qoder智能体工作台 内置Qwen3.8-Max等多款前沿模型\n\n阿里发布全新Qoder，定位为以Coding为核心能力、面向所有人的智能体工作台。产品采用以任务为中心的简洁界面，用户以自然语言描述目标，即可调用Coding和工具能力完成开发、原型制作、数据处理等任务。",
-    "keywords": [
-      "智能"
-    ],
-    "date": "2026-08-27"
-  },
-  {
-    "title": "啦啦操夺金、街舞包揽冠亚军，鹿明机器人斩获世界人形机器人运动会两金一银",
-    "link": "https://www.pingwest.com/w/316831",
-    "source": "品玩",
-    "category": "other",
-    "summary": "机器人\n\n\n\n啦啦操夺金、街舞包揽冠亚军，鹿明机器人斩获世界人形机器人运动会两金一银",
-    "keywords": [
-      "机器人"
-    ],
-    "date": "2026-08-27"
-  },
-  {
-    "title": "MiniMax 7 月 Token 消耗量飙至年初 20 倍，8 月 ARR 冲破 8 亿美元",
-    "link": "https://www.pingwest.com/w/316829",
-    "source": "品玩",
-    "category": "other",
-    "summary": "MiniMax\n\n\n\nMiniMax 7 月 Token 消耗量飙至年初 20 倍，8 月 ARR 冲破 8 亿美元\n\n8 月 26 日晚，MiniMax 在 2026 年中期业绩会上披露多项最新经营数据及模型研发进展。公司第二季度收入较第一季度环比增长 81.8%。",
-    "keywords": [
-      "MiniMax"
-    ],
-    "date": "2026-08-27"
-  },
-  {
-    "title": "OpenAI数据中心负责人Chris Malone离职 上市前高管层持续调整",
-    "link": "https://www.pingwest.com/w/316822",
-    "source": "品玩",
-    "category": "key_news",
-    "summary": "OpenAI\n\n\n\nOpenAI数据中心负责人Chris Malone离职 上市前高管层持续调整\n\n据econotimes报道，OpenAI数据中心负责人Chris Malone已于上周离职，成为该公司计划2027年上市前第四位离任的核心高管。",
-    "keywords": [
-      "AI",
-      "OpenAI"
-    ],
-    "date": "2026-08-27"
-  },
-  {
     "title": "Anthropic and OpenAI are joining the AI stage at TechCrunch Disrupt 2026",
     "link": "https://techcrunch.com/2026/08/27/anthropic-and-openai-are-joining-the-ai-stage-at-techcrunch-disrupt-2026/",
     "source": "TechCrunch",
@@ -417,42 +431,6 @@
     "keywords": [
       "AI",
       "Agent"
-    ],
-    "date": "2026-08-27"
-  },
-  {
-    "title": "OpenAI to start showing ads on ChatGPT’s free and Go tiers in India",
-    "link": "https://techcrunch.com/2026/08/27/openai-to-start-showing-ads-on-chatgpts-free-and-go-tiers-in-india/",
-    "source": "TechCrunch",
-    "category": "other",
-    "summary": "OpenAI has more than 100 million weekly active ChatGPT users in India, a huge chunk of whom are on the free or the lower-priced Go tiers.",
-    "keywords": [
-      "AI",
-      "OpenAI",
-      "GPT",
-      "ChatGPT"
-    ],
-    "date": "2026-08-27"
-  },
-  {
-    "title": "Nvidia closes in on Hugging Face acquisition",
-    "link": "https://techcrunch.com/2026/08/26/nvidia-closes-in-on-hugging-face-acquisition/",
-    "source": "TechCrunch",
-    "category": "funding",
-    "summary": "Nvidia has reportedly agreed to buy Hugging Face, the popular open source AI hub, for $12.9 billion in a move that would let Nvidia both protect its chip empire and jump back into the cloud business.",
-    "keywords": [
-      "AI"
-    ],
-    "date": "2026-08-27"
-  },
-  {
-    "title": "Viral AI startup Instinct has raised $350M at a $2.5B valuation",
-    "link": "https://techcrunch.com/2026/08/26/viral-ai-startup-instinct-has-raised-350-million-at-a-2-5-billion-valuation/",
-    "source": "TechCrunch",
-    "category": "funding",
-    "summary": "The startup is only a year old but it has already generated a massive amount of hype (and money) while also spurring privacy concerns.",
-    "keywords": [
-      "AI"
     ],
     "date": "2026-08-27"
   }
