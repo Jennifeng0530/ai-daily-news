@@ -1,70 +1,21 @@
 [
   {
-    "title": "小马智行Robotaxi将登陆韩国 计划2028年启动全无人驾驶商业化",
-    "link": "https://www.pingwest.com/w/316923",
-    "source": "品玩",
+    "title": "Clipto uses AI to search terabytes of video and is now valued at $250M",
+    "link": "https://techcrunch.com/2026/08/31/three-year-old-ai-media-search-startup-clipto-hits-a-250m-valuation/",
+    "source": "TechCrunch",
     "category": "other",
-    "summary": "小马智行\n\n\n\n小马智行Robotaxi将登陆韩国 计划2028年启动全无人驾驶商业化\n\n据sedaily 报道，小马智行（Pony.ai）与韩国FutureLink签署战略合作，计划将第七代Robotaxi引入韩国开展商业化运营。",
+    "summary": "The three-year-old startup says it reached $15 million in ARR and profitability before raising its latest $15 million round.",
     "keywords": [
       "AI"
     ],
     "date": "2026-08-31"
   },
   {
-    "title": "Hugging Face发布Microduck开源机器人 售价399美元",
-    "link": "https://www.pingwest.com/w/316922",
-    "source": "品玩",
+    "title": "Nvidia’s $3.5B MediaTek bet reveals its plan for tackling Big Tech’s AI chip buildout",
+    "link": "https://techcrunch.com/2026/08/31/nvidias-3-5b-mediatek-bet-reveals-its-plan-for-tackling-big-techs-ai-chip-buildout/",
+    "source": "TechCrunch",
     "category": "other",
-    "summary": "HuggingFace\n\n\n\nHugging Face发布Microduck开源机器人 售价399美元\n\n据 TechCrunch 报道，Hugging Face于8月27日发布Microduck，售价399美元的鸭形开源机器人，预计圣诞节前发货。",
-    "keywords": [
-      "机器人"
-    ],
-    "date": "2026-08-31"
-  },
-  {
-    "title": "SpaceXAI推出Grok Bot智能体应用 支持自动化任务编排与定期执行",
-    "link": "https://www.pingwest.com/w/316920",
-    "source": "品玩",
-    "category": "other",
-    "summary": "grok\n\n\n\nSpaceXAI推出Grok Bot智能体应用 支持自动化任务编排与定期执行\n\n据 datacamp 报道，SpaceXAI近日推出智能体应用Grok Bot，可通过Cursor使用，支持用户创建具备独立角色和持久对话上下文的命名Bot，实现跨应用和网站的自动化任务执行。",
-    "keywords": [
-      "AI",
-      "xAI",
-      "Grok",
-      "智能"
-    ],
-    "date": "2026-08-31"
-  },
-  {
-    "title": "Sony Music与Warner起诉Anthropic 指控大规模侵犯音乐版权",
-    "link": "https://www.pingwest.com/w/316918",
-    "source": "品玩",
-    "category": "other",
-    "summary": "Anthropic\n\n\n\nSony Music与Warner起诉Anthropic 指控大规模侵犯音乐版权\n\n据 TechCrunch 报道，Sony Music、Warner Chappell及多家音乐出版商于上周五向美国加州北区联邦地区法院提起诉讼，指控AI实验室Anthropic及其联合创始人Dario Amodei和Benjamin Mann通过非法下载、抓取受版权保护的作品训练AI模型C",
-    "keywords": [
-      "AI",
-      "Anthropic"
-    ],
-    "date": "2026-08-31"
-  },
-  {
-    "title": "OpenAI宣布终止向Cursor供应AI模型 称无法信任SpaceX合规使用",
-    "link": "https://www.pingwest.com/w/316916",
-    "source": "品玩",
-    "category": "other",
-    "summary": "cursor\n\n\n\nOpenAI宣布终止向Cursor供应AI模型 称无法信任SpaceX合规使用\n\n据 cybersecuritynews 报道，OpenAI于8月28日宣布，已正式通知SpaceX，计划终止向AI编程工具Cursor提供模型服务，拟定停止日期为2026年11月12日，为合同允许的最长通知期限。",
-    "keywords": [
-      "AI",
-      "OpenAI"
-    ],
-    "date": "2026-08-31"
-  },
-  {
-    "title": "Apple提前发布Mac新品 企业AI硬件需求超预期",
-    "link": "https://www.pingwest.com/w/316915",
-    "source": "品玩",
-    "category": "other",
-    "summary": "苹果\n\n\n\nApple提前发布Mac新品 企业AI硬件需求超预期\n\n据The Information报道，Apple上周罕见地提前发布新款Mac mini和Mac Studio，打破了通常在秋季推出Mac新品的惯例。报道称，此举主要受企业客户对AI硬件需求强劲增长的推动。",
+    "summary": "Nvidia invests $3.5 billion into Taiwanese chipmaker MediaTek. The deal shows how Nvidia plans to stay essential to AI infrastructure as Big Tech begins to build its own AI chips.",
     "keywords": [
       "AI"
     ],
@@ -94,10 +45,10 @@
     "date": "2026-08-29"
   },
   {
-    "title": "“We’re not doing 30 bets a year”: Vijay Pande on betting small after running $4 billion at a16z",
+    "title": "‘We’re not doing 30 bets a year’: Vijay Pande on betting small after running $4B at a16z",
     "link": "https://techcrunch.com/2026/08/29/were-not-doing-30-bets-a-year-vijay-pande-on-betting-small-after-running-4-billion-at-a16z/",
     "source": "TechCrunch",
-    "category": "funding",
+    "category": "other",
     "summary": "Vijay Pande — who left a16z's roughly $4 billion biotech practice last year to start the much smaller, AI-native VZVC — talks about why biology is finally shifting from a \"discovery\" science to an \"en",
     "keywords": [
       "AI"
@@ -114,169 +65,6 @@
       "AI"
     ],
     "date": "2026-08-29"
-  },
-  {
-    "title": "Wan 3.0连续3天限时免费！SkyProduction再掀价格战",
-    "link": "https://www.pingwest.com/w/316900",
-    "source": "品玩",
-    "category": "other",
-    "summary": "天工\n\n\n\nWan 3.0连续3天限时免费！SkyProduction再掀价格战\n\n8月28日，昆仑万维旗下的AI平台SkyProduction（天工工作台，原名“天工短剧工作台”）正式接入阿里巴巴最新视频生成模型Wan 3.0。",
-    "keywords": [
-      "AI"
-    ],
-    "date": "2026-08-28"
-  },
-  {
-    "title": "小鹏让 AI 增加 30 秒记忆",
-    "link": "https://www.pingwest.com/a/316895",
-    "source": "品玩",
-    "category": "other",
-    "summary": "小鹏让 AI 增加 30 秒记忆\n\n汽车公司都会成为物理AI公司",
-    "keywords": [
-      "AI"
-    ],
-    "date": "2026-08-28"
-  },
-  {
-    "title": "覆盖车联网、信创、AI等领域，360入选工信部六大漏洞专业库技术支撑单位",
-    "link": "https://www.pingwest.com/w/316896",
-    "source": "品玩",
-    "category": "other",
-    "summary": "360\n\n\n\n覆盖车联网、信创、AI等领域，360入选工信部六大漏洞专业库技术支撑单位",
-    "keywords": [
-      "AI"
-    ],
-    "date": "2026-08-28"
-  },
-  {
-    "title": "大晓联合香港大学发布StreamPI，让 VLA 真正理解时间，迈向连续物理智能",
-    "link": "https://www.pingwest.com/w/316892",
-    "source": "品玩",
-    "category": "other",
-    "summary": "机器人\n\n\n\n大晓联合香港大学发布StreamPI，让 VLA 真正理解时间，迈向连续物理智能",
-    "keywords": [
-      "机器人",
-      "智能"
-    ],
-    "date": "2026-08-28"
-  },
-  {
-    "title": "腾讯混元 Hy4 preview发布，稳居开源模型第一梯队",
-    "link": "https://www.pingwest.com/w/316883",
-    "source": "品玩",
-    "category": "other",
-    "summary": "腾讯\n\n\n\n腾讯混元 Hy4 preview发布，稳居开源模型第一梯队\n\n8 月 28 日，腾讯混元发布并开源新一代大语言模型 Hy4 preview ，总参数 770B、激活参数 49B，上下文长度突破 1M，在代码、办公、科学等真实生产力任务上展现出卓越能力。",
-    "keywords": [
-      "混元"
-    ],
-    "date": "2026-08-28"
-  },
-  {
-    "title": "AIVA 首款量产车 ME7 谍照曝光，驶入吐鲁番高温测试场",
-    "link": "https://www.pingwest.com/w/316881",
-    "source": "品玩",
-    "category": "other",
-    "summary": "AIVA\n\n\n\nAIVA 首款量产车 ME7 谍照曝光，驶入吐鲁番高温测试场",
-    "keywords": [
-      "AI"
-    ],
-    "date": "2026-08-28"
-  },
-  {
-    "title": "Google收紧Android应用内存使用标准 应对AI驱动下的芯片供应紧张",
-    "link": "https://www.pingwest.com/w/316873",
-    "source": "品玩",
-    "category": "other",
-    "summary": "谷歌\n\n\n\nGoogle收紧Android应用内存使用标准 应对AI驱动下的芯片供应紧张\n\n据 TechCrunch 报道，受AI数据中心需求推动，全球内存芯片供应持续紧张，Google本周宣布对Android应用提出两项新的质量要求，旨在优化应用内存占用与代码效率。",
-    "keywords": [
-      "AI"
-    ],
-    "date": "2026-08-28"
-  },
-  {
-    "title": "蚂蚁集团发布Ling-3.0-flash-Fin 金融大模型 聚焦投研核心能力",
-    "link": "https://www.pingwest.com/w/316872",
-    "source": "品玩",
-    "category": "other",
-    "summary": "蚂蚁集团\n\n\n\n蚂蚁集团发布Ling-3.0-flash-Fin 金融大模型 聚焦投研核心能力\n\n据百灵大模型官方消息，蚂蚁集团携手中金公司及行业专家发布Ling-3.0-flash-Fin，为蚂蚁百灵首个金融增强模型，延续Ling-3.0-flash架构，保持124B总参数、5.1B激活参数配置，通过金融语料持续预训练和领域后训练强化投研能力。",
-    "keywords": [
-      "大模型"
-    ],
-    "date": "2026-08-28"
-  },
-  {
-    "title": "Google发布Gemini Omni 1.1 Flash 增强视频生成控制能力",
-    "link": "https://www.pingwest.com/w/316871",
-    "source": "品玩",
-    "category": "other",
-    "summary": "谷歌\n\n\n\nGoogle发布Gemini Omni 1.1 Flash 增强视频生成控制能力\n\n据startuphub 报道，Google正式发布Gemini Omni 1.1 Flash，对其生成式视频模型进行重大升级，为开发者提供更精细的视频创作与编辑控制能力。该版本已可通过Gemini API在Google AI Studio和Gemini Enterprise Agent Platform",
-    "keywords": [
-      "AI",
-      "Agent",
-      "Gemini",
-      "生成式"
-    ],
-    "date": "2026-08-28"
-  },
-  {
-    "title": "Google升级AI Mode旅行功能 支持机票追踪与酒店预订",
-    "link": "https://www.pingwest.com/w/316870",
-    "source": "品玩",
-    "category": "other",
-    "summary": "Google\n\n\n\nGoogle升级AI Mode旅行功能 支持机票追踪与酒店预订\n\n据TechCrunch 报道，Google宣布为AI Mode新增旅行规划与预订功能，用户可通过自然对话方式查询航班价格、预订酒店，并以里程或积分查看出行费用，进一步将AI Mode定位为AI旅行助手。",
-    "keywords": [
-      "AI"
-    ],
-    "date": "2026-08-28"
-  },
-  {
-    "title": "Anthropic签署约450亿美元算力租赁协议 与英国Nscale合作采用Vera Rubin芯片",
-    "link": "https://www.pingwest.com/w/316868",
-    "source": "品玩",
-    "category": "other",
-    "summary": "Anthropic\n\n\n\nAnthropic签署约450亿美元算力租赁协议 与英国Nscale合作采用Vera Rubin芯片\n\n据 TechCrcunch 报道，Anthropic已与英国AI基础设施公司Nscale签署算力租赁协议，涉及金额约450亿美元。",
-    "keywords": [
-      "AI",
-      "Anthropic"
-    ],
-    "date": "2026-08-28"
-  },
-  {
-    "title": "Adobe推出Photoshop AI辅助编辑器Beta版 基于自然语言指令简化图像编辑",
-    "link": "https://www.pingwest.com/w/316867",
-    "source": "品玩",
-    "category": "other",
-    "summary": "Adobe\n\n\n\nAdobe推出Photoshop AI辅助编辑器Beta版 基于自然语言指令简化图像编辑\n\n据 9to5Google 报道，Adobe宣布推出Photoshop AI辅助编辑器Beta版，以提示词驱动界面替代传统复杂工具。",
-    "keywords": [
-      "AI"
-    ],
-    "date": "2026-08-28"
-  },
-  {
-    "title": "Anthropic发布Model Hardware Standard 开放AI智能体操控物理设备规范",
-    "link": "https://www.pingwest.com/w/316864",
-    "source": "品玩",
-    "category": "other",
-    "summary": "Anthropic\n\n\n\nAnthropic发布Model Hardware Standard 开放AI智能体操控物理设备规范\n\n据Anthropic官方宣布，正式开放Model Hardware Standard（MHS）研究预览版，面向AI智能体安全操控物理设备。",
-    "keywords": [
-      "AI",
-      "Anthropic",
-      "智能"
-    ],
-    "date": "2026-08-28"
-  },
-  {
-    "title": "OpenAI联合百余家企业发公开信 呼吁加强AI网络防御",
-    "link": "https://www.pingwest.com/w/316863",
-    "source": "品玩",
-    "category": "other",
-    "summary": "Anthropic\n\n\n\nOpenAI联合百余家企业发公开信 呼吁加强AI网络防御\n\n据 tech-insider 报道，OpenAI联合Anthropic、Google、Microsoft、Amazon、Cisco、Oracle、Cloudflare、CrowdStrike、Palo Alto Networks等116家企业发布联名公开信，警告AI驱动的网络攻击将在未来数月内大幅增多，呼吁各国政",
-    "keywords": [
-      "AI",
-      "OpenAI",
-      "Anthropic"
-    ],
-    "date": "2026-08-28"
   },
   {
     "title": "Neocloud Lambda secures $1B in debt to buy more chips",
@@ -394,43 +182,6 @@
     "summary": "Clem Delangue, CEO of Hugging Face, said the Microduck is an “open-source robot you can teach new tricks with reinforcement learning.”",
     "keywords": [
       "AI"
-    ],
-    "date": "2026-08-27"
-  },
-  {
-    "title": "AI’s memory crunch is coming for Android apps",
-    "link": "https://techcrunch.com/2026/08/27/ais-memory-crunch-is-coming-for-android-apps/",
-    "source": "TechCrunch",
-    "category": "other",
-    "summary": "Google is setting new memory-use limits for Android apps as AI data centers contribute to hardware shortages that could leave lower-cost phones with less memory.",
-    "keywords": [
-      "AI"
-    ],
-    "date": "2026-08-27"
-  },
-  {
-    "title": "Here’s all the times AI has gone rogue and hacked other companies",
-    "link": "https://techcrunch.com/2026/08/27/heres-all-the-times-ai-has-gone-rogue-and-hacked-other-companies/",
-    "source": "TechCrunch",
-    "category": "other",
-    "summary": "A recap of all the incidents involving LLMs made by Anthropic, Meta, and OpenAI, which went rogue and attacked real companies and individuals on the internet.",
-    "keywords": [
-      "AI",
-      "OpenAI",
-      "Anthropic",
-      "LLM"
-    ],
-    "date": "2026-08-27"
-  },
-  {
-    "title": "Plaud’s new earphones come with an eSIM-enabled case for talking to AI agents",
-    "link": "https://techcrunch.com/2026/08/27/plauds-new-earphones-come-with-an-esim-enabled-case-for-talking-to-ai-agents/",
-    "source": "TechCrunch",
-    "category": "other",
-    "summary": "Called Plaud One, these adopt the simple bare-bones style of Apple's AirPods, and can record calls, while their case can be used to record in-person conversations or take notes.",
-    "keywords": [
-      "AI",
-      "Agent"
     ],
     "date": "2026-08-27"
   }
