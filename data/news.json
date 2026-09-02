@@ -1,79 +1,67 @@
 [
   {
-    "title": "耐士劳IFA 2026：能感知、会理解、可执行的下一代户外庭院",
-    "link": "https://www.pingwest.com/w/316975",
-    "source": "品玩",
+    "title": "AfterQuery reportedly becomes Y Combinator’s fastest-ever unicorn, now valued at $3.2B",
+    "link": "https://techcrunch.com/2026/09/01/afterquery-reportedly-becomes-y-combinators-fastest-ever-unicorn-now-valued-at-3-2b/",
+    "source": "TechCrunch",
     "category": "other",
-    "summary": "机器人\n\n\n\n耐士劳IFA 2026：能感知、会理解、可执行的下一代户外庭院\n\n全球消费电子产业的“风向标”——德国柏林国际消费电子展（IFA 2026）将于9月4日在柏林展览中心启幕。智能户外庭院科技企业耐士劳，将以双展台联动形式，面向全球客户与合作伙伴，带来旗下DREAME、MOVA、NexLawn三大户外庭院品牌的科技产品及创新成果，全面展示其在全球智能割草赛道的技术积淀与多元化庭院场景服务",
-    "keywords": [
-      "机器人",
-      "智能"
-    ],
-    "date": "2026-09-01"
-  },
-  {
-    "title": "IDC权威报告：阿里云位居中国Data Agent领导者，评分第一",
-    "link": "https://www.pingwest.com/w/316967",
-    "source": "品玩",
-    "category": "other",
-    "summary": "阿里云\n\n\n\nIDC权威报告：阿里云位居中国Data Agent领导者，评分第一",
-    "keywords": [
-      "Agent"
-    ],
-    "date": "2026-09-01"
-  },
-  {
-    "title": "MiniMax H3 Max 768P与480P上线 开源三周下载超2400万次",
-    "link": "https://www.pingwest.com/w/316962",
-    "source": "品玩",
-    "category": "other",
-    "summary": "MiniMax\n\n\n\nMiniMax H3 Max 768P与480P上线 开源三周下载超2400万次\n\nMiniMax官方正式宣布，MiniMax H3 Max 768P与480P接入开放平台及MiniMax Design。",
-    "keywords": [
-      "MiniMax"
-    ],
-    "date": "2026-09-01"
-  },
-  {
-    "title": "Anthropic签署350亿美元云计算协议 加速AI基础设施布局",
-    "link": "https://www.pingwest.com/w/316958",
-    "source": "品玩",
-    "category": "other",
-    "summary": "Anthropic\n\n\n\nAnthropic签署350亿美元云计算协议 加速AI基础设施布局\n\n据 AIBASE报道，Anthropic与NVIDIA支持的Lambda签署350亿美元云计算协议。数据中心位于美国德克萨斯州，由Hut8开发，租赁权归NVIDIA。",
-    "keywords": [
-      "AI",
-      "Anthropic"
-    ],
-    "date": "2026-09-01"
-  },
-  {
-    "title": "Instagram将AI创作者标签更名为AI生成档案 未标注账号将限流",
-    "link": "https://www.pingwest.com/w/316954",
-    "source": "品玩",
-    "category": "other",
-    "summary": "Instagram\n\n\n\nInstagram将AI创作者标签更名为AI生成档案 未标注账号将限流\n\n据 TechCrunch 报道，Instagram宣布将其\"AI创作者\"标签更名为\"AI生成档案\"，用于标识个人资料中的人物由AI生成或借助AI创建。",
+    "summary": "AI model-training startup AfterQuery has reportedly raised a round that valued it at $3.2 billion, just five months after announcing its $30 million Series A at a $300 million valuation in April.",
     "keywords": [
       "AI"
     ],
     "date": "2026-09-01"
   },
   {
-    "title": "OpenAI大规模采购Mac mini和Mac Studio 引发供应链紧张",
-    "link": "https://www.pingwest.com/w/316952",
-    "source": "品玩",
+    "title": "OpenAI’s Astra model is on the way — and very good at breaking into computer systems",
+    "link": "https://techcrunch.com/2026/09/01/open-ais-astra-model-is-on-the-way-and-very-good-at-breaking-into-computer-systems/",
+    "source": "TechCrunch",
     "category": "other",
-    "summary": "OpenAI\n\n\n\nOpenAI大规模采购Mac mini和Mac Studio 引发供应链紧张\n\n据 Tech Insider 报道，OpenAI在过去数月悄然采购了数万台Mac mini和Mac Studio设备，引发苹果零售及企业端供应链紧张。",
+    "summary": "OpenAI previewed the precautions it is taking as it prepares to release Astra, its newest, cyber-critical LLM.",
     "keywords": [
       "AI",
-      "OpenAI"
+      "OpenAI",
+      "LLM"
     ],
     "date": "2026-09-01"
   },
   {
-    "title": "OpenAI宣布ChatGPT广告业务年收入突破10亿美元",
-    "link": "https://www.pingwest.com/w/316951",
-    "source": "品玩",
+    "title": "Google’s Android update tackles motion sickness, accessibility, and more",
+    "link": "https://techcrunch.com/2026/09/01/googles-android-update-tackles-motion-sickness-accessibility-and-more/",
+    "source": "TechCrunch",
     "category": "other",
-    "summary": "openaiAI\n\n\n\nOpenAI宣布ChatGPT广告业务年收入突破10亿美元\n\n据 siliconangle 报道，OpenAI Group PBC宣布，ChatGPT广告业务年化收入突破10亿美元。",
+    "summary": "While some of the features see Google playing catch-up to Apple, which already offers similar features for iPhone users, others specifically leverage Gemini to provide various improvements.",
+    "keywords": [
+      "Gemini"
+    ],
+    "date": "2026-09-01"
+  },
+  {
+    "title": "Anthropic’s new Fable release is cheaper, less restrictive",
+    "link": "https://techcrunch.com/2026/09/01/anthropics-new-fable-release-is-cheaper-less-restrictive/",
+    "source": "TechCrunch",
+    "category": "other",
+    "summary": "Fable 5.1 includes changes meant to reduce token cost and false-positive restrictions from the model's safeguards.",
+    "keywords": [
+      "Anthropic"
+    ],
+    "date": "2026-09-01"
+  },
+  {
+    "title": "Google’s answer to Canva is an AI tool where you prompt instead of design",
+    "link": "https://techcrunch.com/2026/09/01/googles-answer-to-canva-is-an-ai-tool-where-you-prompt-instead-of-design/",
+    "source": "TechCrunch",
+    "category": "other",
+    "summary": "With Google Pics, Google is pushing deeper into the creative software market dominated by Canva and Adobe, but with a distinctly AI-first approach.",
+    "keywords": [
+      "AI"
+    ],
+    "date": "2026-09-01"
+  },
+  {
+    "title": "ChatGPT Health adds Epic integration for clinicians to import patient data",
+    "link": "https://techcrunch.com/2026/09/01/chatgpt-health-adds-epic-integration-for-clinicians-to-import-patient-data/",
+    "source": "TechCrunch",
+    "category": "other",
+    "summary": "OpenAI said that the integration provides read-only access to health records for clinicians.",
     "keywords": [
       "AI",
       "OpenAI",
@@ -83,11 +71,23 @@
     "date": "2026-09-01"
   },
   {
-    "title": "腾讯WorkBuddy开学季AI普惠专项启动：认证师生免费领1000积分，AI先锋教师激励计划同步上线",
-    "link": "https://www.pingwest.com/w/316948",
-    "source": "品玩",
+    "title": "AIR raises $50M to help companies vet the skills and add-ons AI agents use",
+    "link": "https://techcrunch.com/2026/09/01/air-raises-50m-to-help-companies-vet-the-skills-and-add-ons-ai-agents-use/",
+    "source": "TechCrunch",
+    "category": "funding",
+    "summary": "AIR's platform can discover agents running at a company, continuously vets any skills and add-ons they use, and blocks any unwanted behavior.",
+    "keywords": [
+      "AI",
+      "Agent"
+    ],
+    "date": "2026-09-01"
+  },
+  {
+    "title": "Fambot introduces an ‘AI chief of staff’ for families",
+    "link": "https://techcrunch.com/2026/09/01/fambot-introduces-an-ai-chief-of-staff-for-families/",
+    "source": "TechCrunch",
     "category": "other",
-    "summary": "workbuddy\n\n\n\n腾讯WorkBuddy开学季AI普惠专项启动：认证师生免费领1000积分，AI先锋教师激励计划同步上线",
+    "summary": "Fambot is building an AI “chief of staff” to help families manage the emails, calendars, school updates, sports schedules, and other logistics of raising kids.",
     "keywords": [
       "AI"
     ],
@@ -104,159 +104,6 @@
       "OpenAI"
     ],
     "date": "2026-09-01"
-  },
-  {
-    "title": "巨简单，更懂家！海信JUOS正式发布：行业首个家庭智能伴侣级AIOS",
-    "link": "https://www.pingwest.com/w/316936",
-    "source": "品玩",
-    "category": "other",
-    "summary": "海信\n\n\n\n巨简单，更懂家！海信JUOS正式发布：行业首个家庭智能伴侣级AIOS",
-    "keywords": [
-      "AI",
-      "智能"
-    ],
-    "date": "2026-08-31"
-  },
-  {
-    "title": "OpenAI完成10万亿参数Bel模型预训练 或成首个AGI基座",
-    "link": "https://www.pingwest.com/w/316934",
-    "source": "品玩",
-    "category": "other",
-    "summary": "OpenAI\n\n\n\nOpenAI完成10万亿参数Bel模型预训练 或成首个AGI基座\n\n据WCCftech报道，OpenAI已完成内部代号“Bel”的下一代基座模型预训练。该模型总参数超过10万亿，规模与GPT-4.5相当，是“Doug”模型的继任者。",
-    "keywords": [
-      "AI",
-      "OpenAI",
-      "GPT"
-    ],
-    "date": "2026-08-31"
-  },
-  {
-    "title": "千问创作上线Agent Teams功能 覆盖AI短剧等专业视频制作场景",
-    "link": "https://www.pingwest.com/w/316932",
-    "source": "品玩",
-    "category": "other",
-    "summary": "通义千问\n\n\n\n千问创作上线Agent Teams功能 覆盖AI短剧等专业视频制作场景\n\n据阿里千问官方消息，千问创作平台正式上线Agent Teams功能，并接入Wan3.0视频生成模型。",
-    "keywords": [
-      "AI",
-      "Agent",
-      "通义千问"
-    ],
-    "date": "2026-08-31"
-  },
-  {
-    "title": "滴滴自动驾驶新一代车型开启载客测试服务",
-    "link": "https://www.pingwest.com/w/316930",
-    "source": "品玩",
-    "category": "other",
-    "summary": "滴滴\n\n\n\n滴滴自动驾驶新一代车型开启载客测试服务",
-    "keywords": [
-      "自动驾驶"
-    ],
-    "date": "2026-08-31"
-  },
-  {
-    "title": "办公Agent抢位战，谁已获得了下阶段的入场券？",
-    "link": "https://www.pingwest.com/a/316913",
-    "source": "品玩",
-    "category": "other",
-    "summary": "办公Agent抢位战，谁已获得了下阶段的入场券？\n\n用户规模和商业化前景开始成为核心指标",
-    "keywords": [
-      "Agent"
-    ],
-    "date": "2026-08-31"
-  },
-  {
-    "title": "无人在意的角落，Grok 成了开发者们的新欢",
-    "link": "https://www.pingwest.com/a/316917",
-    "source": "品玩",
-    "category": "other",
-    "summary": "无人在意的角落，Grok 成了开发者们的新欢\n\n几个月前，人们还觉得马斯克把 Grok 搞砸了",
-    "keywords": [
-      "Grok"
-    ],
-    "date": "2026-08-31"
-  },
-  {
-    "title": "本周AI项目推荐｜津渡生科、临界航天、无尽方舟……AI4S再次站上潮头",
-    "link": "https://www.pingwest.com/a/316911",
-    "source": "品玩",
-    "category": "other",
-    "summary": "本周AI项目推荐｜津渡生科、临界航天、无尽方舟……AI4S再次站上潮头\n\n一大批AI4S创业公司正密集涌现",
-    "keywords": [
-      "AI"
-    ],
-    "date": "2026-08-31"
-  },
-  {
-    "title": "小马智行Robotaxi将登陆韩国 计划2028年启动全无人驾驶商业化",
-    "link": "https://www.pingwest.com/w/316923",
-    "source": "品玩",
-    "category": "other",
-    "summary": "小马智行\n\n\n\n小马智行Robotaxi将登陆韩国 计划2028年启动全无人驾驶商业化\n\n据sedaily 报道，小马智行（Pony.ai）与韩国FutureLink签署战略合作，计划将第七代Robotaxi引入韩国开展商业化运营。",
-    "keywords": [
-      "AI"
-    ],
-    "date": "2026-08-31"
-  },
-  {
-    "title": "Hugging Face发布Microduck开源机器人 售价399美元",
-    "link": "https://www.pingwest.com/w/316922",
-    "source": "品玩",
-    "category": "other",
-    "summary": "HuggingFace\n\n\n\nHugging Face发布Microduck开源机器人 售价399美元\n\n据 TechCrunch 报道，Hugging Face于8月27日发布Microduck，售价399美元的鸭形开源机器人，预计圣诞节前发货。",
-    "keywords": [
-      "机器人"
-    ],
-    "date": "2026-08-31"
-  },
-  {
-    "title": "SpaceXAI推出Grok Bot智能体应用 支持自动化任务编排与定期执行",
-    "link": "https://www.pingwest.com/w/316920",
-    "source": "品玩",
-    "category": "other",
-    "summary": "grok\n\n\n\nSpaceXAI推出Grok Bot智能体应用 支持自动化任务编排与定期执行\n\n据 datacamp 报道，SpaceXAI近日推出智能体应用Grok Bot，可通过Cursor使用，支持用户创建具备独立角色和持久对话上下文的命名Bot，实现跨应用和网站的自动化任务执行。",
-    "keywords": [
-      "AI",
-      "xAI",
-      "Grok",
-      "智能"
-    ],
-    "date": "2026-08-31"
-  },
-  {
-    "title": "Sony Music与Warner起诉Anthropic 指控大规模侵犯音乐版权",
-    "link": "https://www.pingwest.com/w/316918",
-    "source": "品玩",
-    "category": "other",
-    "summary": "Anthropic\n\n\n\nSony Music与Warner起诉Anthropic 指控大规模侵犯音乐版权\n\n据 TechCrunch 报道，Sony Music、Warner Chappell及多家音乐出版商于上周五向美国加州北区联邦地区法院提起诉讼，指控AI实验室Anthropic及其联合创始人Dario Amodei和Benjamin Mann通过非法下载、抓取受版权保护的作品训练AI模型C",
-    "keywords": [
-      "AI",
-      "Anthropic"
-    ],
-    "date": "2026-08-31"
-  },
-  {
-    "title": "OpenAI宣布终止向Cursor供应AI模型 称无法信任SpaceX合规使用",
-    "link": "https://www.pingwest.com/w/316916",
-    "source": "品玩",
-    "category": "other",
-    "summary": "cursor\n\n\n\nOpenAI宣布终止向Cursor供应AI模型 称无法信任SpaceX合规使用\n\n据 cybersecuritynews 报道，OpenAI于8月28日宣布，已正式通知SpaceX，计划终止向AI编程工具Cursor提供模型服务，拟定停止日期为2026年11月12日，为合同允许的最长通知期限。",
-    "keywords": [
-      "AI",
-      "OpenAI"
-    ],
-    "date": "2026-08-31"
-  },
-  {
-    "title": "Apple提前发布Mac新品 企业AI硬件需求超预期",
-    "link": "https://www.pingwest.com/w/316915",
-    "source": "品玩",
-    "category": "other",
-    "summary": "苹果\n\n\n\nApple提前发布Mac新品 企业AI硬件需求超预期\n\n据The Information报道，Apple上周罕见地提前发布新款Mac mini和Mac Studio，打破了通常在秋季推出Mac新品的惯例。报道称，此举主要受企业客户对AI硬件需求强劲增长的推动。",
-    "keywords": [
-      "AI"
-    ],
-    "date": "2026-08-31"
   },
   {
     "title": "The Pentagon now has its own version of ChatGPT and Grok",
@@ -327,108 +174,5 @@
       "AI"
     ],
     "date": "2026-08-30"
-  },
-  {
-    "title": "Sony Music, Warner sue Anthropic, alleging a ‘brazen campaign’ of intellectual property theft",
-    "link": "https://techcrunch.com/2026/08/29/sony-music-warner-sue-anthropic-alleging-a-brazen-campaign-of-intellectual-property-theft/",
-    "source": "TechCrunch",
-    "category": "other",
-    "summary": "This latest lawsuit is particularly broad and homes in on accusations of illegal piracy.",
-    "keywords": [
-      "AI",
-      "Anthropic"
-    ],
-    "date": "2026-08-29"
-  },
-  {
-    "title": "At TechBBQ, Europe’s AI conversations kept coming back to: Who’s actually in control?",
-    "link": "https://techcrunch.com/2026/08/29/at-techbbq-europes-ai-conversations-kept-coming-back-to-whos-actually-in-control/",
-    "source": "TechCrunch",
-    "category": "other",
-    "summary": "Investors, founders, and operators from across Europe arrived for the annual Nordic TechBBQ conference to talk about how humans can have agency over AI.",
-    "keywords": [
-      "AI"
-    ],
-    "date": "2026-08-29"
-  },
-  {
-    "title": "‘We’re not doing 30 bets a year’: Vijay Pande on betting small after running $4B at a16z",
-    "link": "https://techcrunch.com/2026/08/29/were-not-doing-30-bets-a-year-vijay-pande-on-betting-small-after-running-4-billion-at-a16z/",
-    "source": "TechCrunch",
-    "category": "other",
-    "summary": "Vijay Pande — who left a16z's roughly $4 billion biotech practice last year to start the much smaller, AI-native VZVC — talks about why biology is finally shifting from a \"discovery\" science to an \"en",
-    "keywords": [
-      "AI"
-    ],
-    "date": "2026-08-29"
-  },
-  {
-    "title": "Nvidia’s AI advantage is moving beyond the GPU",
-    "link": "https://techcrunch.com/2026/08/29/nvidias-ai-advantage-is-moving-beyond-the-gpu/",
-    "source": "TechCrunch",
-    "category": "other",
-    "summary": "The new generation of data center systems is increasing efficiency with smarter traffic control instead of just more processor cycles.",
-    "keywords": [
-      "AI"
-    ],
-    "date": "2026-08-29"
-  },
-  {
-    "title": "Neocloud Lambda secures $1B in debt to buy more chips",
-    "link": "https://techcrunch.com/2026/08/28/neocloud-lambda-secures-1b-in-debt-to-buy-more-chips/",
-    "source": "TechCrunch",
-    "category": "other",
-    "summary": "Neocloud Lambda has raised $1B in private debt to buy Nvidia AI chips and lease them to Microsoft. It's the latest in a string of loans, underscoring the high cost of the AI boom.",
-    "keywords": [
-      "AI"
-    ],
-    "date": "2026-08-28"
-  },
-  {
-    "title": "An Anthropic researcher just gave us a peek at self-improving AI",
-    "link": "https://techcrunch.com/2026/08/28/an-anthropic-researcher-just-gave-us-a-peek-at-self-improving-ai/",
-    "source": "TechCrunch",
-    "category": "other",
-    "summary": "Given 10 benchmarks for specific misaligned behaviors, the automated systems were able to improve performance on every single one without degrading overall performance.",
-    "keywords": [
-      "AI",
-      "Anthropic"
-    ],
-    "date": "2026-08-28"
-  },
-  {
-    "title": "Open-weight AI companies are the Valley’s hottest acquisition targets",
-    "link": "https://techcrunch.com/2026/08/28/open-weight-ai-companies-are-the-valleys-hottest-acquisition-targets/",
-    "source": "TechCrunch",
-    "category": "funding",
-    "summary": "There's a lot of capital pouring into the business of giving models away.",
-    "keywords": [
-      "AI"
-    ],
-    "date": "2026-08-28"
-  },
-  {
-    "title": "Anthropic gets its first court win over the Pentagon’s supply-chain risk label",
-    "link": "https://techcrunch.com/2026/08/28/anthropic-gets-its-first-court-win-over-the-pentagons-supply-chain-risk-label/",
-    "source": "TechCrunch",
-    "category": "other",
-    "summary": "A federal judge ruled the Trump administration illegally labeled Anthropic a supply-chain risk, handing the AI company a victory as its second Pentagon lawsuit continues in Washington.",
-    "keywords": [
-      "AI",
-      "Anthropic"
-    ],
-    "date": "2026-08-28"
-  },
-  {
-    "title": "Meta executive leaves for OpenAI as the social media giant faces growing scrutiny in India",
-    "link": "https://techcrunch.com/2026/08/28/meta-executive-leaves-for-openai-as-the-social-media-giant-faces-growing-scrutiny-in-india/",
-    "source": "TechCrunch",
-    "category": "other",
-    "summary": "Sandhya Devanathan will oversee some OpenAI operations across Southeast Asia and Australia in her new role.",
-    "keywords": [
-      "AI",
-      "OpenAI"
-    ],
-    "date": "2026-08-28"
   }
 ]
