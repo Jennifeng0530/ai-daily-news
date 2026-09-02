@@ -1,5 +1,211 @@
 [
   {
+    "title": "初创公司Fambot推出家庭AI“参谋长” 获350万美元融资",
+    "link": "https://www.pingwest.com/w/317001",
+    "source": "品玩",
+    "category": "funding",
+    "summary": "融资\n\n\n\n初创公司Fambot推出家庭AI“参谋长” 获350万美元融资\n\n据 TechCrunch 报道，初创公司Fambot近日正式发布面向家庭的AI“参谋长”产品，旨在帮助家长应对儿童活动、学校通知等繁杂的家庭后勤事务。",
+    "keywords": [
+      "AI"
+    ],
+    "date": "2026-09-02"
+  },
+  {
+    "title": "阿里云企业级Agent协作平台万有无界开启公测",
+    "link": "https://www.pingwest.com/w/317000",
+    "source": "品玩",
+    "category": "other",
+    "summary": "阿里云\n\n\n\n阿里云企业级Agent协作平台万有无界开启公测",
+    "keywords": [
+      "Agent"
+    ],
+    "date": "2026-09-02"
+  },
+  {
+    "title": "谷歌推出AI设计工具Google Pics 整合Workspace生态",
+    "link": "https://www.pingwest.com/w/316998",
+    "source": "品玩",
+    "category": "other",
+    "summary": "谷歌\n\n\n\n谷歌推出AI设计工具Google Pics 整合Workspace生态\n\n据TechCrunch 报道，谷歌正式进军创意设计领域，推出AI图像创作与编辑工具Google Pics。该工具由Nano Banana模型驱动，面向Workspace企业客户及Google AI Pro或Ultra个人订阅用户陆续开放。",
+    "keywords": [
+      "AI"
+    ],
+    "date": "2026-09-02"
+  },
+  {
+    "title": "两万套设备、百万小时数据：具身数据采集的“觅蜂时刻”",
+    "link": "https://www.pingwest.com/a/316993",
+    "source": "品玩",
+    "category": "other",
+    "summary": "两万套设备、百万小时数据：具身数据采集的“觅蜂时刻”\n\n把家庭、仓储、零售和工厂里的日常操作，变成可规模生产和交易的物理AI数据。",
+    "keywords": [
+      "AI"
+    ],
+    "date": "2026-09-02"
+  },
+  {
+    "title": "火山引擎发布AgentSentry 统一纳管企业智能体集群",
+    "link": "https://www.pingwest.com/w/316990",
+    "source": "品玩",
+    "category": "other",
+    "summary": "火山引擎\n\n\n\n火山引擎发布AgentSentry 统一纳管企业智能体集群\n\n据火山引擎官方消息，火山引擎全新发布AgentSentry，作为面向企业Agent集群的统一安全管理平台，打通三大独立安全产品，提供跨平台、跨生态的纳管服务。",
+    "keywords": [
+      "Agent",
+      "智能"
+    ],
+    "date": "2026-09-02"
+  },
+  {
+    "title": "VAST完成约30亿融资 发布3D原生基座模型Tripo P2.0",
+    "link": "https://www.pingwest.com/w/316987",
+    "source": "品玩",
+    "category": "key_news",
+    "summary": "VAST\n\n\n\nVAST完成约30亿融资 发布3D原生基座模型Tripo P2.0\n\nVAST宣布完成B轮和B+轮融资合计约30亿元人民币，由经纬创投领投，完美世界、蓝色光标等产业资本及多家财投参投。不到半年，VAST累计融资约50亿元，刷新3D原生智能领域纪录。",
+    "keywords": [
+      "智能"
+    ],
+    "date": "2026-09-02"
+  },
+  {
+    "title": "NVIDIA投资联发科35亿美元",
+    "link": "https://www.pingwest.com/w/316985",
+    "source": "品玩",
+    "category": "other",
+    "summary": "英伟达\n\n\n\nNVIDIA投资联发科35亿美元\n\nNVIDIA官方宣布，投资35亿美元认购联发科可转换债券，双方将围绕AI基础设施、本地AI计算及汽车领域深化合作。",
+    "keywords": [
+      "AI"
+    ],
+    "date": "2026-09-02"
+  },
+  {
+    "title": "World Labs发布世界模型Atlas 支持文图音视频多模态生成",
+    "link": "https://www.pingwest.com/w/316981",
+    "source": "品玩",
+    "category": "other",
+    "summary": "世界模型\n\n\n\nWorld Labs发布世界模型Atlas 支持文图音视频多模态生成\n\n由李飞飞创办的 AI 公司World Labs 正式宣布，推一款下一代世界模型出Atlas。",
+    "keywords": [
+      "AI"
+    ],
+    "date": "2026-09-02"
+  },
+  {
+    "title": "Google Research发布TimesFM-3 多变量时间序列预测架构升级",
+    "link": "https://www.pingwest.com/w/316979",
+    "source": "品玩",
+    "category": "other",
+    "summary": "Google\n\n\n\nGoogle Research发布TimesFM-3 多变量时间序列预测架构升级\n\n据 explainx 报道，Google Research于8月31日发布TimesFM-3，宣称在单次前向传播中实现精准的多变量时间序列预测，在多个主流基准测试中显著优于其他预测模型。",
+    "keywords": [
+      "AI"
+    ],
+    "date": "2026-09-02"
+  },
+  {
+    "title": "Anthropic发布Claude Fable 5.1 编码成本降低45%",
+    "link": "https://www.pingwest.com/w/316978",
+    "source": "品玩",
+    "category": "other",
+    "summary": "Anthropic\n\n\n\nAnthropic发布Claude Fable 5.1 编码成本降低45%\n\n据 Anthropic官方消息，Anthropic现已正式发布Claude Fable 5.1与Claude Mythos 5.1，定位为编码与知识工作领域全球领先模型。",
+    "keywords": [
+      "Anthropic",
+      "Claude"
+    ],
+    "date": "2026-09-02"
+  },
+  {
+    "title": "耐士劳IFA 2026：能感知、会理解、可执行的下一代户外庭院",
+    "link": "https://www.pingwest.com/w/316975",
+    "source": "品玩",
+    "category": "other",
+    "summary": "机器人\n\n\n\n耐士劳IFA 2026：能感知、会理解、可执行的下一代户外庭院\n\n全球消费电子产业的“风向标”——德国柏林国际消费电子展（IFA 2026）将于9月4日在柏林展览中心启幕。智能户外庭院科技企业耐士劳，将以双展台联动形式，面向全球客户与合作伙伴，带来旗下DREAME、MOVA、NexLawn三大户外庭院品牌的科技产品及创新成果，全面展示其在全球智能割草赛道的技术积淀与多元化庭院场景服务",
+    "keywords": [
+      "机器人",
+      "智能"
+    ],
+    "date": "2026-09-01"
+  },
+  {
+    "title": "IDC权威报告：阿里云位居中国Data Agent领导者，评分第一",
+    "link": "https://www.pingwest.com/w/316967",
+    "source": "品玩",
+    "category": "other",
+    "summary": "阿里云\n\n\n\nIDC权威报告：阿里云位居中国Data Agent领导者，评分第一",
+    "keywords": [
+      "Agent"
+    ],
+    "date": "2026-09-01"
+  },
+  {
+    "title": "MiniMax H3 Max 768P与480P上线 开源三周下载超2400万次",
+    "link": "https://www.pingwest.com/w/316962",
+    "source": "品玩",
+    "category": "other",
+    "summary": "MiniMax\n\n\n\nMiniMax H3 Max 768P与480P上线 开源三周下载超2400万次\n\nMiniMax官方正式宣布，MiniMax H3 Max 768P与480P接入开放平台及MiniMax Design。",
+    "keywords": [
+      "MiniMax"
+    ],
+    "date": "2026-09-01"
+  },
+  {
+    "title": "Anthropic签署350亿美元云计算协议 加速AI基础设施布局",
+    "link": "https://www.pingwest.com/w/316958",
+    "source": "品玩",
+    "category": "other",
+    "summary": "Anthropic\n\n\n\nAnthropic签署350亿美元云计算协议 加速AI基础设施布局\n\n据 AIBASE报道，Anthropic与NVIDIA支持的Lambda签署350亿美元云计算协议。数据中心位于美国德克萨斯州，由Hut8开发，租赁权归NVIDIA。",
+    "keywords": [
+      "AI",
+      "Anthropic"
+    ],
+    "date": "2026-09-01"
+  },
+  {
+    "title": "Instagram将AI创作者标签更名为AI生成档案 未标注账号将限流",
+    "link": "https://www.pingwest.com/w/316954",
+    "source": "品玩",
+    "category": "other",
+    "summary": "Instagram\n\n\n\nInstagram将AI创作者标签更名为AI生成档案 未标注账号将限流\n\n据 TechCrunch 报道，Instagram宣布将其\"AI创作者\"标签更名为\"AI生成档案\"，用于标识个人资料中的人物由AI生成或借助AI创建。",
+    "keywords": [
+      "AI"
+    ],
+    "date": "2026-09-01"
+  },
+  {
+    "title": "OpenAI大规模采购Mac mini和Mac Studio 引发供应链紧张",
+    "link": "https://www.pingwest.com/w/316952",
+    "source": "品玩",
+    "category": "other",
+    "summary": "OpenAI\n\n\n\nOpenAI大规模采购Mac mini和Mac Studio 引发供应链紧张\n\n据 Tech Insider 报道，OpenAI在过去数月悄然采购了数万台Mac mini和Mac Studio设备，引发苹果零售及企业端供应链紧张。",
+    "keywords": [
+      "AI",
+      "OpenAI"
+    ],
+    "date": "2026-09-01"
+  },
+  {
+    "title": "OpenAI宣布ChatGPT广告业务年收入突破10亿美元",
+    "link": "https://www.pingwest.com/w/316951",
+    "source": "品玩",
+    "category": "other",
+    "summary": "openaiAI\n\n\n\nOpenAI宣布ChatGPT广告业务年收入突破10亿美元\n\n据 siliconangle 报道，OpenAI Group PBC宣布，ChatGPT广告业务年化收入突破10亿美元。",
+    "keywords": [
+      "AI",
+      "OpenAI",
+      "GPT",
+      "ChatGPT"
+    ],
+    "date": "2026-09-01"
+  },
+  {
+    "title": "腾讯WorkBuddy开学季AI普惠专项启动：认证师生免费领1000积分，AI先锋教师激励计划同步上线",
+    "link": "https://www.pingwest.com/w/316948",
+    "source": "品玩",
+    "category": "other",
+    "summary": "workbuddy\n\n\n\n腾讯WorkBuddy开学季AI普惠专项启动：认证师生免费领1000积分，AI先锋教师激励计划同步上线",
+    "keywords": [
+      "AI"
+    ],
+    "date": "2026-09-01"
+  },
+  {
     "title": "AfterQuery reportedly becomes Y Combinator’s fastest-ever unicorn, now valued at $3.2B",
     "link": "https://techcrunch.com/2026/09/01/afterquery-reportedly-becomes-y-combinators-fastest-ever-unicorn-now-valued-at-3-2b/",
     "source": "TechCrunch",
@@ -104,6 +310,44 @@
       "OpenAI"
     ],
     "date": "2026-09-01"
+  },
+  {
+    "title": "巨简单，更懂家！海信JUOS正式发布：行业首个家庭智能伴侣级AIOS",
+    "link": "https://www.pingwest.com/w/316936",
+    "source": "品玩",
+    "category": "other",
+    "summary": "海信\n\n\n\n巨简单，更懂家！海信JUOS正式发布：行业首个家庭智能伴侣级AIOS",
+    "keywords": [
+      "AI",
+      "智能"
+    ],
+    "date": "2026-08-31"
+  },
+  {
+    "title": "OpenAI完成10万亿参数Bel模型预训练 或成首个AGI基座",
+    "link": "https://www.pingwest.com/w/316934",
+    "source": "品玩",
+    "category": "other",
+    "summary": "OpenAI\n\n\n\nOpenAI完成10万亿参数Bel模型预训练 或成首个AGI基座\n\n据WCCftech报道，OpenAI已完成内部代号“Bel”的下一代基座模型预训练。该模型总参数超过10万亿，规模与GPT-4.5相当，是“Doug”模型的继任者。",
+    "keywords": [
+      "AI",
+      "OpenAI",
+      "GPT"
+    ],
+    "date": "2026-08-31"
+  },
+  {
+    "title": "千问创作上线Agent Teams功能 覆盖AI短剧等专业视频制作场景",
+    "link": "https://www.pingwest.com/w/316932",
+    "source": "品玩",
+    "category": "other",
+    "summary": "通义千问\n\n\n\n千问创作上线Agent Teams功能 覆盖AI短剧等专业视频制作场景\n\n据阿里千问官方消息，千问创作平台正式上线Agent Teams功能，并接入Wan3.0视频生成模型。",
+    "keywords": [
+      "AI",
+      "Agent",
+      "通义千问"
+    ],
+    "date": "2026-08-31"
   },
   {
     "title": "The Pentagon now has its own version of ChatGPT and Grok",
