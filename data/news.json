@@ -1,5 +1,119 @@
 [
   {
+    "title": "Palo Alto Networks paid $500M for Thrive-backed Console, sources say",
+    "link": "https://techcrunch.com/2026/09/02/palo-alto-networks-paid-500m-for-thrive-backed-console-sources-say/",
+    "source": "TechCrunch",
+    "category": "other",
+    "summary": "The acquisition also leaves Sequoia-backed Serval as the de facto startup leader in AI IT service automation, industry watchers believe.",
+    "keywords": [
+      "AI"
+    ],
+    "date": "2026-09-02"
+  },
+  {
+    "title": "TechCrunch Disrupt 2026’s new Real World AI Stage features Nvidia, robots, and extinct animals",
+    "link": "https://techcrunch.com/2026/09/02/techcrunch-disrupt-2026s-new-real-world-ai-stage-features-nvidia-robots-and-extinct-animals/",
+    "source": "TechCrunch",
+    "category": "other",
+    "summary": "On our new Real World AI stage, we’ll be focusing on the intersection between the digital and physical, and all the ways we’ll continue to see a blending of the two.",
+    "keywords": [
+      "AI"
+    ],
+    "date": "2026-09-02"
+  },
+  {
+    "title": "OpenAI’s new reasoning technique alarms AI safety experts",
+    "link": "https://techcrunch.com/2026/09/02/openais-new-reasoning-technique-alarms-ai-safety-experts/",
+    "source": "TechCrunch",
+    "category": "other",
+    "summary": "OpenAI’s new Astra model will use “recurrent depth,” a technique that allows the model to operate outside of the sequential thinking that characterizes most reasoning models.",
+    "keywords": [
+      "AI",
+      "OpenAI"
+    ],
+    "date": "2026-09-02"
+  },
+  {
+    "title": "Pangram’s Max Spero on why AI detection is harder than ‘Real or Fake’",
+    "link": "https://techcrunch.com/video/pangrams-max-spero-on-why-ai-detection-is-harder-than-real-or-fake/",
+    "source": "TechCrunch",
+    "category": "other",
+    "summary": "The internet has a trust problem, and&#160;it’s&#160;not just because social media feeds are filling up with AI&#160;slop. AI-generated text and images are now making their way into job applications, ",
+    "keywords": [
+      "AI"
+    ],
+    "date": "2026-09-02"
+  },
+  {
+    "title": "We’re ‘dangerously close’ to dead internet theory, says Pangram’s CEO",
+    "link": "https://techcrunch.com/podcast/were-dangerously-close-to-dead-internet-theory-says-pangrams-ceo/",
+    "source": "TechCrunch",
+    "category": "other",
+    "summary": "The internet has a trust problem, and&#160;it’s&#160;not just because social media feeds are filling up with AI&#160;slop. AI-generated text and images are now making their way into job applications, ",
+    "keywords": [
+      "AI"
+    ],
+    "date": "2026-09-02"
+  },
+  {
+    "title": "US government sides with OpenAI on issue of training LLMs on copyrighted material",
+    "link": "https://techcrunch.com/2026/09/02/u-s-government-sides-with-openai-on-issue-of-training-llms-on-copyrighted-material/",
+    "source": "TechCrunch",
+    "category": "other",
+    "summary": "\"The United States has a strong interest in continuing to develop a robust and competitive artificial intelligence industry that sets the standard for the practice and procedure of AI use\nglobally,\" t",
+    "keywords": [
+      "AI",
+      "OpenAI",
+      "LLM"
+    ],
+    "date": "2026-09-02"
+  },
+  {
+    "title": "Wonderful more than doubles its valuation to $5B in under 6 months",
+    "link": "https://techcrunch.com/2026/09/02/wonderful-more-than-doubles-its-valuation-to-5b-in-under-6-months/",
+    "source": "TechCrunch",
+    "category": "funding",
+    "summary": "Wonderful said it will use its $550 million Series C funding to develop products faster, expand its FDE teams, and meet demand for its products.",
+    "keywords": [
+      "AI"
+    ],
+    "date": "2026-09-02"
+  },
+  {
+    "title": "India’s richest man now wants to turn aging computers into AI-ready PCs",
+    "link": "https://techcrunch.com/2026/09/02/indias-richest-man-now-wants-to-turn-aging-computers-into-ai-ready-pcs/",
+    "source": "TechCrunch",
+    "category": "other",
+    "summary": "Jio is betting it can turn an aging computer into an AI-ready PC for as little as about $11 for two months.",
+    "keywords": [
+      "AI"
+    ],
+    "date": "2026-09-02"
+  },
+  {
+    "title": "HiddenLayer nabs $100M as enterprises rush to secure their AI deployments",
+    "link": "https://techcrunch.com/2026/09/02/hiddenlayer-nabs-100m-as-enterprises-rush-to-secure-their-ai-deployments/",
+    "source": "TechCrunch",
+    "category": "other",
+    "summary": "Security companies are scrambling to build products that can monitor not just agents but also the tools and add-ons they use.",
+    "keywords": [
+      "AI",
+      "Agent"
+    ],
+    "date": "2026-09-02"
+  },
+  {
+    "title": "PSA: Amazon’s shopping AI can now tell you if that message is a scam",
+    "link": "https://techcrunch.com/2026/09/02/psa-amazons-shopping-ai-can-now-tell-you-if-that-message-is-a-scam/",
+    "source": "TechCrunch",
+    "category": "other",
+    "summary": "Amazon is adding a scam-detection feature to Alexa for Shopping that can verify whether suspicious emails, texts, and other messages actually came from the retailer.",
+    "keywords": [
+      "AI"
+    ],
+    "date": "2026-09-02"
+  },
+  {
     "title": "Adobe acquires Indian market intelligence startup Rilo",
     "link": "https://techcrunch.com/2026/09/02/adobe-acquires-indian-market-intelligence-startup-rilo/",
     "source": "TechCrunch",
@@ -92,99 +206,5 @@
       "ChatGPT"
     ],
     "date": "2026-09-01"
-  },
-  {
-    "title": "AIR raises $50M to help companies vet the skills and add-ons AI agents use",
-    "link": "https://techcrunch.com/2026/09/01/air-raises-50m-to-help-companies-vet-the-skills-and-add-ons-ai-agents-use/",
-    "source": "TechCrunch",
-    "category": "funding",
-    "summary": "AIR's platform can discover agents running at a company, continuously vets any skills and add-ons they use, and blocks any unwanted behavior.",
-    "keywords": [
-      "AI",
-      "Agent"
-    ],
-    "date": "2026-09-01"
-  },
-  {
-    "title": "Fambot introduces an ‘AI chief of staff’ for families",
-    "link": "https://techcrunch.com/2026/09/01/fambot-introduces-an-ai-chief-of-staff-for-families/",
-    "source": "TechCrunch",
-    "category": "other",
-    "summary": "Fambot is building an AI “chief of staff” to help families manage the emails, calendars, school updates, sports schedules, and other logistics of raising kids.",
-    "keywords": [
-      "AI"
-    ],
-    "date": "2026-09-01"
-  },
-  {
-    "title": "Apple shares ‘shocking evidence’ against former employee accused of stealing company data for OpenAI",
-    "link": "https://techcrunch.com/2026/08/31/apple-shares-shocking-evidence-against-former-employee-accused-of-stealing-company-data-for-openai/",
-    "source": "TechCrunch",
-    "category": "other",
-    "summary": "Apple says it has evidence that a former employee destroyed evidence of data theft after learning he was under investigation.",
-    "keywords": [
-      "AI",
-      "OpenAI"
-    ],
-    "date": "2026-09-01"
-  },
-  {
-    "title": "The Pentagon now has its own version of ChatGPT and Grok",
-    "link": "https://techcrunch.com/2026/08/31/the-pentagon-now-has-its-own-version-of-chatgpt-and-grok/",
-    "source": "TechCrunch",
-    "category": "other",
-    "summary": "Versions of OpenAI's ChatGPT and SpaceXAI's Grok will join Google's Gemini on the Pentagon's central portal for AI tools.",
-    "keywords": [
-      "AI",
-      "OpenAI",
-      "GPT",
-      "Gemini",
-      "ChatGPT"
-    ],
-    "date": "2026-08-31"
-  },
-  {
-    "title": "Instagram puts new limits on undisclosed AI profiles",
-    "link": "https://techcrunch.com/2026/08/31/instagram-puts-new-limits-on-undisclosed-ai-profiles/",
-    "source": "TechCrunch",
-    "category": "other",
-    "summary": "As frustration over AI influencers has been growing, Instagram is limiting the reach of undisclosed AI profiles.",
-    "keywords": [
-      "AI"
-    ],
-    "date": "2026-08-31"
-  },
-  {
-    "title": "Harvard Law dropout raises $6M for Blue Voice to build a ‘Harvey for police officers’",
-    "link": "https://techcrunch.com/2026/08/31/harvard-law-dropout-raises-6m-for-blue-voice-to-build-a-harvey-for-police-officers/",
-    "source": "TechCrunch",
-    "category": "funding",
-    "summary": "Blue Voice is trained on department-specific laws, local ordinances, protocols, and guidelines that general-purpose AI tools can't access on the public internet.",
-    "keywords": [
-      "AI"
-    ],
-    "date": "2026-08-31"
-  },
-  {
-    "title": "Clipto uses AI to search terabytes of video and is now valued at $250M",
-    "link": "https://techcrunch.com/2026/08/31/three-year-old-ai-media-search-startup-clipto-hits-a-250m-valuation/",
-    "source": "TechCrunch",
-    "category": "other",
-    "summary": "The three-year-old startup says it reached $15 million in ARR and profitability before raising its latest $15 million round.",
-    "keywords": [
-      "AI"
-    ],
-    "date": "2026-08-31"
-  },
-  {
-    "title": "Nvidia’s $3.5B MediaTek bet reveals its plan for tackling Big Tech’s AI chip buildout",
-    "link": "https://techcrunch.com/2026/08/31/nvidias-3-5b-mediatek-bet-reveals-its-plan-for-tackling-big-techs-ai-chip-buildout/",
-    "source": "TechCrunch",
-    "category": "other",
-    "summary": "Nvidia invests $3.5 billion into Taiwanese chipmaker MediaTek. The deal shows how Nvidia plans to stay essential to AI infrastructure as Big Tech begins to build its own AI chips.",
-    "keywords": [
-      "AI"
-    ],
-    "date": "2026-08-31"
   }
 ]
