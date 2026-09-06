@@ -1,5 +1,42 @@
 [
   {
+    "title": "Seattle Times and Newsday are the latest publications to sue OpenAI and Microsoft",
+    "link": "https://techcrunch.com/2026/09/05/seattle-times-and-newsday-are-the-latest-publications-to-sue-openai-and-microsoft/",
+    "source": "TechCrunch",
+    "category": "other",
+    "summary": "Two more news organizations are suing OpenAI and Microsoft over the supposed use of their journalism to train AI.",
+    "keywords": [
+      "AI",
+      "OpenAI"
+    ],
+    "date": "2026-09-05"
+  },
+  {
+    "title": "Hikers rescued after using Google Gemini for planning",
+    "link": "https://techcrunch.com/2026/09/05/hikers-rescued-after-using-google-gemini-for-planning/",
+    "source": "TechCrunch",
+    "category": "other",
+    "summary": "The sheriff’s office said the hikers “were advised by Gemini to bring far less food and water than their group required.\"",
+    "keywords": [
+      "AI",
+      "Gemini"
+    ],
+    "date": "2026-09-05"
+  },
+  {
+    "title": "OpenAI confirms ‘wiki incident,’ says it’s ‘working on a framework’ for more disclosure",
+    "link": "https://techcrunch.com/2026/09/05/openai-confirms-wiki-incident-says-its-working-on-a-framework-for-more-disclosure/",
+    "source": "TechCrunch",
+    "category": "other",
+    "summary": "OpenAI acknowledged its role in a recently reported incident where AI agents took over a German wiki forum.",
+    "keywords": [
+      "AI",
+      "Agent",
+      "OpenAI"
+    ],
+    "date": "2026-09-05"
+  },
+  {
     "title": "XDOF, just three months out of stealth, is in talks for a Series B at a $1.2B valuation",
     "link": "https://techcrunch.com/2026/09/04/xdof-just-three-months-out-of-stealth-is-in-talks-for-a-series-b-at-a-1-2b-valuation/",
     "source": "TechCrunch",
@@ -149,27 +186,5 @@
       "AI"
     ],
     "date": "2026-09-03"
-  },
-  {
-    "title": "Nvidia confirms it will buy Hugging Face for $12.9 billion",
-    "link": "https://techcrunch.com/2026/09/03/nvidia-confirms-it-will-buy-hugging-face-for-12-9-billion/",
-    "source": "TechCrunch",
-    "category": "funding",
-    "summary": "Nvidia said Hugging Face hosts over 3 million models and is used by over 18 million developers.",
-    "keywords": [
-      "AI"
-    ],
-    "date": "2026-09-03"
-  },
-  {
-    "title": "Palo Alto Networks paid $500M for Thrive-backed Console, sources say",
-    "link": "https://techcrunch.com/2026/09/02/palo-alto-networks-paid-500m-for-thrive-backed-console-sources-say/",
-    "source": "TechCrunch",
-    "category": "other",
-    "summary": "The acquisition also leaves Sequoia-backed Serval as the de facto startup leader in AI IT service automation, industry watchers believe.",
-    "keywords": [
-      "AI"
-    ],
-    "date": "2026-09-02"
   }
 ]
