@@ -1,5 +1,187 @@
 [
   {
+    "title": "微信内测\"小微AI社交\"功能 AI助手可代为协调社交事务",
+    "link": "https://www.pingwest.com/w/317175",
+    "source": "品玩",
+    "category": "other",
+    "summary": "微信\n\n\n\n微信内测\"小微AI社交\"功能 AI助手可代为协调社交事务\n\n据techWeb报道，微信正在小范围内测\"小微AI社交\"功能。用户只需向AI助手\"小微\"下达指令，即可联系好友的\"小微\"进行对话，代为完成约饭、协调日程等社交事务。",
+    "keywords": [
+      "AI"
+    ],
+    "date": "2026-09-08"
+  },
+  {
+    "title": "天机智能完成B++轮战略融资，蚂蚁集团、SOFINA联合领投",
+    "link": "https://www.pingwest.com/w/317168",
+    "source": "品玩",
+    "category": "funding",
+    "summary": "融资\n\n\n\n天机智能完成B++轮战略融资，蚂蚁集团、SOFINA联合领投",
+    "keywords": [
+      "智能"
+    ],
+    "date": "2026-09-08"
+  },
+  {
+    "title": "NVIDIA CEO黄仁勋宣称AGI已到来 引发业界质疑",
+    "link": "https://www.pingwest.com/w/317165",
+    "source": "品玩",
+    "category": "other",
+    "summary": "英伟达\n\n\n\nNVIDIA CEO黄仁勋宣称AGI已到来 引发业界质疑\n\n据explainx.ai 报道，NVIDIA首席执行官Jensen Huang于9月7日在X平台发文称\"AGI已到来\"，表示GPT-6 Astra由超过10万块NVIDIA Grace Blackwell NVLink72 GPU训练完成，并预告另有40万块GPU即将上线。",
+    "keywords": [
+      "AI",
+      "GPT"
+    ],
+    "date": "2026-09-08"
+  },
+  {
+    "title": "轻薄随行，灵感不设限：HUAWEI MatePad Air全新登场",
+    "link": "https://www.pingwest.com/w/317159",
+    "source": "品玩",
+    "category": "other",
+    "summary": "华为\n\n\n\n轻薄随行，灵感不设限：HUAWEI MatePad Air全新登场",
+    "keywords": [
+      "AI"
+    ],
+    "date": "2026-09-07"
+  },
+  {
+    "title": "华为WATCH 6系列正式发布：核心能力升级，打造腕上智慧健康新标杆",
+    "link": "https://www.pingwest.com/w/317153",
+    "source": "品玩",
+    "category": "other",
+    "summary": "华为\n\n\n\n华为WATCH 6系列正式发布：核心能力升级，打造腕上智慧健康新标杆\n\n在9月7日举行的HarmonyOS 7 | HUAWEI Mate XT 2 及全场景新品发布会，备受瞩目的新一代“鸿蒙AI手表，智慧健康旗舰”——华为WATCH 6系列正式发布。",
+    "keywords": [
+      "AI"
+    ],
+    "date": "2026-09-07"
+  },
+  {
+    "title": "AI 助手首次纳入尊师惠师权益：腾讯两款产品上线教师专属权益，企鹅教师助手 Buddy 应用同步开放",
+    "link": "https://www.pingwest.com/w/317150",
+    "source": "品玩",
+    "category": "other",
+    "summary": "腾讯\n\n\n\nAI 助手首次纳入尊师惠师权益：腾讯两款产品上线教师专属权益，企鹅教师助手 Buddy 应用同步开放",
+    "keywords": [
+      "AI"
+    ],
+    "date": "2026-09-07"
+  },
+  {
+    "title": "业内首个！“千问办公”推出“多人工作台”",
+    "link": "https://www.pingwest.com/w/317143",
+    "source": "品玩",
+    "category": "other",
+    "summary": "通义千问\n\n\n\n业内首个！“千问办公”推出“多人工作台”",
+    "keywords": [
+      "通义千问"
+    ],
+    "date": "2026-09-07"
+  },
+  {
+    "title": "GitHub发布HydraFusion多模型编排研究预览版",
+    "link": "https://www.pingwest.com/w/317133",
+    "source": "品玩",
+    "category": "other",
+    "summary": "GitHub\n\n\n\nGitHub发布HydraFusion多模型编排研究预览版\n\n据venturebeat 报道，GitHub正式推出Project HydraFusion研究预览版，该功能现已通过Copilot CLI向所有订阅用户开放。",
+    "keywords": [
+      "Copilot"
+    ],
+    "date": "2026-09-07"
+  },
+  {
+    "title": "谷歌发布Lyria 3.5音乐生成模型 登陆Gemini应用",
+    "link": "https://www.pingwest.com/w/317131",
+    "source": "品玩",
+    "category": "other",
+    "summary": "谷歌\n\n\n\n谷歌发布Lyria 3.5音乐生成模型 登陆Gemini应用\n\n谷歌近日宣布推出音乐生成模型Lyria 3.5，称其为目前效果最佳的音乐生成模型。",
+    "keywords": [
+      "Gemini"
+    ],
+    "date": "2026-09-07"
+  },
+  {
+    "title": "MiniMax M3“入籍”沙特，中国开源模型拿下“国家级大客户”",
+    "link": "https://www.pingwest.com/a/317117",
+    "source": "品玩",
+    "category": "other",
+    "summary": "MiniMax M3“入籍”沙特，中国开源模型拿下“国家级大客户”\n\n主权 AI ，正在把中国开源模型带进一个更大的市场。",
+    "keywords": [
+      "AI",
+      "MiniMax"
+    ],
+    "date": "2026-09-07"
+  },
+  {
+    "title": "微软发布Project Zenith 专注开发Windows体验",
+    "link": "https://www.pingwest.com/w/317129",
+    "source": "品玩",
+    "category": "other",
+    "summary": "微软\n\n\n\n微软发布Project Zenith 专注开发Windows体验\n\n微软官网显示，微软近日正式发布Project Zenith，面向配备64GB以上统一内存及250GB/s以上带宽的开发设备，提供免打扰的Windows开发体验。首批适配AMD Ryzen AI Halo芯片，未来数月将有更多合作伙伴设备加入。",
+    "keywords": [
+      "AI"
+    ],
+    "date": "2026-09-07"
+  },
+  {
+    "title": "OpenAI发布智能体研究报告 智能体工作量首超人类研究员",
+    "link": "https://www.pingwest.com/w/317128",
+    "source": "品玩",
+    "category": "other",
+    "summary": "OpenAI\n\n\n\nOpenAI发布智能体研究报告 智能体工作量首超人类研究员\n\nOpenAI官方近日发布详细报告，披露编码智能体已深度融入AI研究工作。",
+    "keywords": [
+      "AI",
+      "OpenAI",
+      "智能"
+    ],
+    "date": "2026-09-07"
+  },
+  {
+    "title": "AI基础设施初创Gimlet Labs完成3亿美元融资 估值达30亿",
+    "link": "https://www.pingwest.com/w/317124",
+    "source": "品玩",
+    "category": "funding",
+    "summary": "融资\n\n\n\nAI基础设施初创Gimlet Labs完成3亿美元融资 估值达30亿\n\n据 techfundingnews 报道，AI基础设施初创公司Gimlet Labs宣布完成3亿美元融资，公司估值升至30亿美元。",
+    "keywords": [
+      "AI"
+    ],
+    "date": "2026-09-07"
+  },
+  {
+    "title": "OpenAI承认智能体“劫持”德国网站 拟建立失配事件披露标准",
+    "link": "https://www.pingwest.com/w/317123",
+    "source": "品玩",
+    "category": "other",
+    "summary": "OpenAI\n\n\n\nOpenAI承认智能体“劫持”德国网站 拟建立失配事件披露标准\n\n据 TechCrunch 报道，OpenAI公开承认其AI智能体“劫持”德国程序员社区网站DseWiki的事件。",
+    "keywords": [
+      "AI",
+      "OpenAI",
+      "智能"
+    ],
+    "date": "2026-09-07"
+  },
+  {
+    "title": "Anthropic 15亿美元和解金发放引争议 出版商被指超额认领",
+    "link": "https://www.pingwest.com/w/317122",
+    "source": "品玩",
+    "category": "other",
+    "summary": "Anthropic\n\n\n\nAnthropic 15亿美元和解金发放引争议 出版商被指超额认领\n\n据 TechCrunch 报道，Anthropic 15亿美元版权和解金进入发放阶段，但多位作者反映出版商及文学代理商涉嫌超额认领赔款。",
+    "keywords": [
+      "Anthropic"
+    ],
+    "date": "2026-09-07"
+  },
+  {
+    "title": "Opaque recurrence, and other AI terms that you should probably know",
+    "link": "https://techcrunch.com/2026/09/07/artificial-intelligence-definition-glossary-hallucinations-guide-to-common-ai-terms/",
+    "source": "TechCrunch",
+    "category": "other",
+    "summary": "The rise of AI has brought an avalanche of new terms and slang. Here is a glossary with definitions of some of the most important words and phrases you might encounter.",
+    "keywords": [
+      "AI"
+    ],
+    "date": "2026-09-07"
+  },
+  {
     "title": "Authors push back as publishers and agents make claims on Anthropic settlement",
     "link": "https://techcrunch.com/2026/09/06/authors-push-back-as-publishers-and-agents-seek-share-of-anthropic-settlement/",
     "source": "TechCrunch",
@@ -61,7 +243,41 @@
     "date": "2026-09-05"
   },
   {
-    "title": "XDOF, just three months out of stealth, is in talks for a Series B at a $1.2B valuation",
+    "title": "千问办公开始走进企业核心场景",
+    "link": "https://www.pingwest.com/a/317097",
+    "source": "品玩",
+    "category": "other",
+    "summary": "千问办公开始走进企业核心场景\n\n大模型开始学着在公司里工作。",
+    "keywords": [
+      "大模型"
+    ],
+    "date": "2026-09-04"
+  },
+  {
+    "title": "元点“小桥”机器人8888元爆卖后，我发现他们在构建物理AI的新路径",
+    "link": "https://www.pingwest.com/a/317074",
+    "source": "品玩",
+    "category": "other",
+    "summary": "元点“小桥”机器人8888元爆卖后，我发现他们在构建物理AI的新路径\n\n8888元，Bridge把高性能AI-native本体带到开发者手边",
+    "keywords": [
+      "AI",
+      "机器人"
+    ],
+    "date": "2026-09-04"
+  },
+  {
+    "title": "知乎AI Works重要更新：支持应用一键部署，释放创作价值",
+    "link": "https://www.pingwest.com/w/317077",
+    "source": "品玩",
+    "category": "other",
+    "summary": "知乎\n\n\n\n知乎AI Works重要更新：支持应用一键部署，释放创作价值",
+    "keywords": [
+      "AI"
+    ],
+    "date": "2026-09-04"
+  },
+  {
+    "title": "XDOF, just 3 months out of stealth, is in talks for a Series B at a $1.2B valuation",
     "link": "https://techcrunch.com/2026/09/04/xdof-just-three-months-out-of-stealth-is-in-talks-for-a-series-b-at-a-1-2b-valuation/",
     "source": "TechCrunch",
     "category": "funding",
