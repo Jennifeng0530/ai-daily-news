@@ -1,5 +1,66 @@
 [
   {
+    "title": "荣登ECCV！大晓发布全球首个可仿真人–场景交互重建框架HSImul3R ，让人类视频变成机器人技能",
+    "link": "https://www.pingwest.com/w/317202",
+    "source": "品玩",
+    "category": "other",
+    "summary": "大晓\n\n\n\n荣登ECCV！大晓发布全球首个可仿真人–场景交互重建框架HSImul3R ，让人类视频变成机器人技能",
+    "keywords": [
+      "机器人"
+    ],
+    "date": "2026-09-08"
+  },
+  {
+    "title": "DeepSeek扩招150人 战略重心或转向Agent工程化",
+    "link": "https://www.pingwest.com/w/317193",
+    "source": "品玩",
+    "category": "other",
+    "summary": "DEEPseek\n\n\n\nDeepSeek扩招150人 战略重心或转向Agent工程化\n\n据 AIBASE 报道，DeepSeek启动新一轮约150人的工程师招聘，聚焦服务端开发与Agent弹性计算研发两大方向，重点吸纳2至10年经验的资深后端工程师，未设立AI研究类岗位。这是继今年6月全部门扩招后，公司再次大规模补充工程人才。",
+    "keywords": [
+      "AI",
+      "Agent",
+      "DeepSeek"
+    ],
+    "date": "2026-09-08"
+  },
+  {
+    "title": "小鹏启用人形机器人自动化产线 年底将规模量产",
+    "link": "https://www.pingwest.com/w/317190",
+    "source": "品玩",
+    "category": "other",
+    "summary": "小鹏汽车\n\n\n\n小鹏启用人形机器人自动化产线 年底将规模量产\n\n小鹏汽车今天宣布，全球首条高阶通用人形机器人自动化产线正式启用，全球首位高阶通用人形机器人完成自动化总装并自主走下产线，标志着小鹏机器人完成从研发试制到产线制造的关键跨越。",
+    "keywords": [
+      "机器人"
+    ],
+    "date": "2026-09-08"
+  },
+  {
+    "title": "法国AI公司Mistral完成30亿欧元D轮融资 估值突破210亿欧元",
+    "link": "https://www.pingwest.com/w/317189",
+    "source": "品玩",
+    "category": "funding",
+    "summary": "mistralAI\n\n\n\n法国AI公司Mistral完成30亿欧元D轮融资 估值突破210亿欧元\n\n据Unite.AI 报道，法国AI公司Mistral宣布完成30亿欧元D轮融资，投后估值超210亿欧元，创欧洲科技企业最大股权融资纪录。",
+    "keywords": [
+      "AI",
+      "Mistral"
+    ],
+    "date": "2026-09-08"
+  },
+  {
+    "title": "硅谷AI独角兽转投阿里千问：Perplexity基于Qwen3.8打造本地Agent",
+    "link": "https://www.pingwest.com/w/317187",
+    "source": "品玩",
+    "category": "other",
+    "summary": "通义千问\n\n\n\n硅谷AI独角兽转投阿里千问：Perplexity基于Qwen3.8打造本地Agent\n\n9月8日消息，据美国科技媒体Siliconangle报道，硅谷AI独角兽公司Perplexity新推出一款本地Agent产品Portable Computer，采用的正是阿里最新开源模型Qwen3.8-27B。",
+    "keywords": [
+      "AI",
+      "Agent",
+      "通义千问",
+      "Perplexity"
+    ],
+    "date": "2026-09-08"
+  },
+  {
     "title": "微信内测\"小微AI社交\"功能 AI助手可代为协调社交事务",
     "link": "https://www.pingwest.com/w/317175",
     "source": "品玩",
@@ -30,6 +91,133 @@
     "keywords": [
       "AI",
       "GPT"
+    ],
+    "date": "2026-09-08"
+  },
+  {
+    "title": "小鹏机器人，自己走下产线，量产还有多远？",
+    "link": "https://wallstreetcn.com/charts/41959788",
+    "source": "华尔街见闻",
+    "category": "other",
+    "summary": "小鹏的机器人，刚造出来，就自己走下了生产线。\n\n这次不比后空翻了，小鹏真正要干的，是像造汽车一样，批量造机器人。\n\n9月8日，小鹏人形机器人自动化产线正式启用，核心制程自动化率超过80%。\n\n半个月前，机器人业务刚拿到超过9亿美元融资，还定了个目标：今年底就要规模量产。\n\n更关键的是，小鹏机器人超过85%的供应链合作企业，本来就和汽车业务有合作。\n\n说白了，小鹏想把造汽车积累的那套本事，直接用到机",
+    "keywords": [
+      "机器人"
+    ],
+    "date": "2026-09-08"
+  },
+  {
+    "title": "小米MiMo推出首款AI桌面应用",
+    "link": "https://wallstreetcn.com/articles/3781312",
+    "source": "华尔街见闻",
+    "category": "other",
+    "summary": "9月8日，Xiaomi MiMo桌面客户端预览版启动开放邀测，这是Xiaomi MiMo首个面向个人用户的AI桌面应用。\n&nbsp;\n&nbsp;\n文章更新中......风险提示及免责条款\n          \n            市场有风险，投资需谨慎。本文不构成个人投资建议，也未考虑到个别用户特殊的投资目标、财务状况或需要。用户应考虑本文中的任何意见、观点或结论是否符合其特定状况。据此投",
+    "keywords": [
+      "AI"
+    ],
+    "date": "2026-09-08"
+  },
+  {
+    "title": "中国8月原油进口量环比增长6.2%，精铜与铜精矿进口量同比下降10%，集成电路出口金额同比飙升130%",
+    "link": "https://wallstreetcn.com/articles/3781304",
+    "source": "华尔街见闻",
+    "category": "other",
+    "summary": "中国8月集成电路进口延续强劲态势，受全球AI基础设施建设推动的存储芯片短缺影响，相关进口需求持续释放。原油进口亦有所回升。\n中国海关总署最新公布的数据显示，按美元计，中国8月进口同比增长28.2%，前值增长27.5%。\n\n进口数据的核心亮点集中于科技领域，印证了中国在关键技术领域的持续押注。荷兰国际集团（ING）大中华区首席经济学家Lynn Song指出，\n\n“进口增长的主要领域仍与科技产品挂钩。",
+    "keywords": [
+      "AI"
+    ],
+    "date": "2026-09-08"
+  },
+  {
+    "title": "苹果罕见签3-5年NAND长约、或不设价格上限，AI挤占产能令存储议价权易主",
+    "link": "https://wallstreetcn.com/articles/3781290",
+    "source": "华尔街见闻",
+    "category": "other",
+    "summary": "当全球议价能力最强的消费电子买家开始放弃压价、转而签下“可能不设价格上限”的长期合约，存储芯片市场的定价权正在发生根本性转移。\n9月8日，韩国《经济论坛报》报道称，苹果已与日本铠侠（Kioxia）协商 NAND 闪存长期供应协议，其采购逻辑正从传统的“压价+多源”转向“锁量+长约”。\n这份长约期限为3至5年，且可能不设固定价格上限。苹果历来依靠庞大采购规模在组件谈判中占据优势，此举被视为其采购策略",
+    "keywords": [
+      "AI"
+    ],
+    "date": "2026-09-08"
+  },
+  {
+    "title": "黄仁勋：英伟达芯片持久且极具租赁价值",
+    "link": "https://wallstreetcn.com/charts/41959783",
+    "source": "华尔街见闻",
+    "category": "other",
+    "summary": "专为AI算力经济设计的金融基础设施与算力交易平台Ornn 9月8日在社交平台X上发帖称，没有折价！H100租赁价格环比上涨22%，达到每小时3.28美元。虽然都在假设像这样老旧的芯片会贬值。但相反市场却在为它支付更高的价格。\n\n英伟达CEO黄仁勋随后在帖子下面评论称，英伟达芯片具有可替代性、耐久性和高出租率。它是一种生产性的、产生收入的资产。",
+    "keywords": [
+      "AI"
+    ],
+    "date": "2026-09-08"
+  },
+  {
+    "title": "日韩股市集体上涨，韩股涨破7000点创15日新高，日元一度升破153",
+    "link": "https://wallstreetcn.com/articles/3781291",
+    "source": "华尔街见闻",
+    "category": "other",
+    "summary": "韩国芯片股大涨提振亚洲股市，同时大宗商品全线走高，日元则延续强势，市场对日本央行加息预期升温。\n周二韩国综合指数大涨2.1%，15个交易日以来首次站上7000点，三星电子和SK海力士领涨，受益于OpenAI发布新人工智能模型Astra后市场对高性能存储芯片需求的乐观预期。\nMSCI亚太指数整体上涨0.4%，但日本东证指数和澳大利亚ASX 200各自小幅下跌约0.6%。\n\n日元周二盘中升至152.8",
+    "keywords": [
+      "AI",
+      "人工智能",
+      "OpenAI",
+      "智能"
+    ],
+    "date": "2026-09-08"
+  },
+  {
+    "title": "马斯克被国际象棋网站怼惨了：菜就多练",
+    "link": "https://wallstreetcn.com/charts/41959787",
+    "source": "华尔街见闻",
+    "category": "other",
+    "summary": "马斯克这两天，跟一个国际象棋网站杠上了。\n\n起因是他觉得，国际象棋迟早会被AI破解。\n\n结果人家看完之后，回了句：菜就多练。\n\n马斯克越解释，对方越来劲，讲到最后，连Grok都搬出来了，但人家根本无所畏惧。\n\n马斯克后来忍不住吐槽：我到底是在跟哪个实习生吵架。\n\n人家默默回一句：我是全职。就这么一句，拿下500多万浏览量。",
+    "keywords": [
+      "AI",
+      "Grok"
+    ],
+    "date": "2026-09-08"
+  },
+  {
+    "title": "AI硬件链反弹！拥挤交易过后，TMT目前成交占比到什么位置了？",
+    "link": "https://wallstreetcn.com/member/articles/3781279",
+    "source": "华尔街见闻",
+    "category": "other",
+    "summary": "电子＋通信的成交占比已由6月底最高的42%的回落至9月初的27%，与5月初的位置相当。此外，TMT与全A的滚动40日收益差作为TMT超额收益的重要择时指标，历史上该指标触及-10%是行情底部区域的一个重要提示信号。该指标已于9月初回落至-10%，历史上达到这一水平的包括23年8月、24年2月、25年4月。市场究竟站在出清的尾声，还是新一轮拥挤的起点？",
+    "keywords": [
+      "AI"
+    ],
+    "date": "2026-09-08"
+  },
+  {
+    "title": "AI浪潮推高芯片价格，中国8月出口同比增长25%，进口同比增28.2%",
+    "link": "https://wallstreetcn.com/articles/3781286",
+    "source": "华尔街见闻",
+    "category": "other",
+    "summary": "9月8日，海关总署公布的最新数据显示，按美元计，中国8月进口同比增长28.2%，前值增长27.5%；出口同比增长25%，前值增长23.9%。贸易顺差1190.9亿美元，前值1123亿美元。\n\n以人民币计价，中国8月出口同比增18.6%，前值增17.8%；进口增21.7%，前值增21.3%；贸易顺差8093亿元，前值7660亿元。\n\n在全球人工智能基础设施建设热潮带动下，高科技元器件需求大幅攀升，成",
+    "keywords": [
+      "AI",
+      "人工智能",
+      "智能"
+    ],
+    "date": "2026-09-08"
+  },
+  {
+    "title": "国投证券林荣雄：AI暴跌是资金博弈，四季度回归概率大",
+    "link": "https://wallstreetcn.com/articles/3781283",
+    "source": "华尔街见闻",
+    "category": "other",
+    "summary": "上周上证指数跌0.56%，沪深300跌1.33%，创业板指跌4.03%，恒生指数涨0.26%，价值风格表现强于成长风格，大盘股涨幅居前。上周全A日均交易额19643亿，环比上周有所下降。步入9月以来大盘虽回稳，但量能持续萎缩成为比较突出的问题，结构依然呈现低位板块无序轮动，以股息防御-国证2000为代表杠铃策略占优的特征，整体行情颇为“磨人”。在这样的环境中，我们一方面对结构要维持耐心，毕竟根据此",
+    "keywords": [
+      "AI"
+    ],
+    "date": "2026-09-08"
+  },
+  {
+    "title": "DeepSeek大扩招！一口气开放150个后端/服务端工程师岗位，“好多新东西需要搞”",
+    "link": "https://wallstreetcn.com/articles/3781276",
+    "source": "华尔街见闻",
+    "category": "other",
+    "summary": "DeepSeek近日一次性开放约150个后端/服务端工程师岗位，消息由DeepSeek Harness团队负责人Tianyi Cui在社交平台公开发布。此次招聘规模引发广泛关注——据外界估计，DeepSeek现有团队总人数约在300至500人之间，150个新岗位意味着团队规模可能扩大三分之一甚至更多。\nTianyi Cui在帖子中直言：“好多好多新方向新系统新需求需要搞。”\n\n\n为什么现在大规模扩",
+    "keywords": [
+      "DeepSeek"
     ],
     "date": "2026-09-08"
   },
@@ -241,40 +429,6 @@
       "OpenAI"
     ],
     "date": "2026-09-05"
-  },
-  {
-    "title": "千问办公开始走进企业核心场景",
-    "link": "https://www.pingwest.com/a/317097",
-    "source": "品玩",
-    "category": "other",
-    "summary": "千问办公开始走进企业核心场景\n\n大模型开始学着在公司里工作。",
-    "keywords": [
-      "大模型"
-    ],
-    "date": "2026-09-04"
-  },
-  {
-    "title": "元点“小桥”机器人8888元爆卖后，我发现他们在构建物理AI的新路径",
-    "link": "https://www.pingwest.com/a/317074",
-    "source": "品玩",
-    "category": "other",
-    "summary": "元点“小桥”机器人8888元爆卖后，我发现他们在构建物理AI的新路径\n\n8888元，Bridge把高性能AI-native本体带到开发者手边",
-    "keywords": [
-      "AI",
-      "机器人"
-    ],
-    "date": "2026-09-04"
-  },
-  {
-    "title": "知乎AI Works重要更新：支持应用一键部署，释放创作价值",
-    "link": "https://www.pingwest.com/w/317077",
-    "source": "品玩",
-    "category": "other",
-    "summary": "知乎\n\n\n\n知乎AI Works重要更新：支持应用一键部署，释放创作价值",
-    "keywords": [
-      "AI"
-    ],
-    "date": "2026-09-04"
   },
   {
     "title": "XDOF, just 3 months out of stealth, is in talks for a Series B at a $1.2B valuation",
