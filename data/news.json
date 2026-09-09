@@ -1,10 +1,285 @@
 [
   {
+    "title": "人类还在研究 AI，AI 已经开始研究同行了",
+    "link": "https://www.pingwest.com/w/317244",
+    "source": "品玩",
+    "category": "other",
+    "summary": "AI大模型\n\n\n\n人类还在研究 AI，AI 已经开始研究同行了\n\n如果实现了会发生什么？",
+    "keywords": [
+      "AI",
+      "大模型"
+    ],
+    "date": "2026-09-09"
+  },
+  {
+    "title": "三星与Mistral AI达成战略合作 强化AI芯片制造能力",
+    "link": "https://www.pingwest.com/w/317242",
+    "source": "品玩",
+    "category": "other",
+    "summary": "mistralAI\n\n\n\n三星与Mistral AI达成战略合作 强化AI芯片制造能力\n\n据三星官方消息，三星电子宣布与法国AI公司Mistral AI达成战略合作，以强化其在AI芯片技术领域的领先地位。",
+    "keywords": [
+      "AI",
+      "Mistral"
+    ],
+    "date": "2026-09-09"
+  },
+  {
+    "title": "面壁智能开源MiniCPM5-2B 端侧通用Agent能力初具雏形",
+    "link": "https://www.pingwest.com/w/317241",
+    "source": "品玩",
+    "category": "other",
+    "summary": "面壁智能\n\n\n\n面壁智能开源MiniCPM5-2B 端侧通用Agent能力初具雏形\n\n据面壁智能官方消息，面壁智能联合OpenBMB开源新一代端侧语言基座模型MiniCPM5-2B。该模型仅2B参数，支持工具调用、深度搜索与代码生成，初步实现端侧通用Agent雏形。",
+    "keywords": [
+      "Agent",
+      "智能"
+    ],
+    "date": "2026-09-09"
+  },
+  {
+    "title": "Meta发布个人AI助手Muse 基于安全虚拟机运行",
+    "link": "https://www.pingwest.com/w/317235",
+    "source": "品玩",
+    "category": "other",
+    "summary": "META\n\n\n\nMeta发布个人AI助手Muse 基于安全虚拟机运行\n\nMeta官方消息，meta正式发布个人AI助手Muse，可协助完成邮件发送、旅行预订等任务，并将长期目标转化为行动计划。",
+    "keywords": [
+      "AI"
+    ],
+    "date": "2026-09-09"
+  },
+  {
+    "title": "微软推出Project Opal：AI智能体在云端桌面自主执行任务",
+    "link": "https://www.pingwest.com/w/317234",
+    "source": "品玩",
+    "category": "other",
+    "summary": "微软\n\n\n\n微软推出Project Opal：AI智能体在云端桌面自主执行任务\n\n据 aiweekly 报道，微软近日宣布为Microsoft 365 Copilot推出全新AI功能Project Opal，该功能可在安全、可观测的环境中自主执行基于任务的复杂工作。",
+    "keywords": [
+      "AI",
+      "Copilot",
+      "智能"
+    ],
+    "date": "2026-09-09"
+  },
+  {
+    "title": "OpenAI发布ChatGPT Images 2.5 图像生成延迟最高降低50%",
+    "link": "https://www.pingwest.com/w/317233",
+    "source": "品玩",
+    "category": "other",
+    "summary": "OpenAI\n\n\n\nOpenAI发布ChatGPT Images 2.5 图像生成延迟最高降低50%\n\n据9to5google 报道，OpenAI正式推出ChatGPT Images 2.5，在生成速度、编辑精度与画质上实现显著升级。",
+    "keywords": [
+      "AI",
+      "OpenAI",
+      "GPT",
+      "ChatGPT"
+    ],
+    "date": "2026-09-09"
+  },
+  {
+    "title": "Anthropic放弃收购Decart 潜在原因与后续影响引发关注",
+    "link": "https://www.pingwest.com/w/317232",
+    "source": "品玩",
+    "category": "other",
+    "summary": "Anthropic\n\n\n\nAnthropic放弃收购Decart 潜在原因与后续影响引发关注\n\n据.calcalistech报道，Anthropic在尽职调查后期突然放弃以60亿至70亿美元收购以色列AI初创公司Decart的交易。",
+    "keywords": [
+      "AI",
+      "Anthropic"
+    ],
+    "date": "2026-09-09"
+  },
+  {
+    "title": "腾讯文档全端升级 正式推出AI工作台",
+    "link": "https://www.pingwest.com/w/317229",
+    "source": "品玩",
+    "category": "other",
+    "summary": "腾讯文档 \n\n\n\n腾讯文档全端升级 正式推出AI工作台\n\n据腾讯文档官方消息，腾讯文档AI服务全端升级，正式推出「AI工作台」。该工作台基于WorkBuddy提供的Agent内核框架，结合腾讯文档自研的高性能编辑引擎及专业Skill，让AI能够理解并操作真实文件，进入办公任务的完整流程。",
+    "keywords": [
+      "AI",
+      "Agent"
+    ],
+    "date": "2026-09-09"
+  },
+  {
+    "title": "百度搭子搭配小度，智能体既要办公也要“管家”",
+    "link": "https://www.pingwest.com/a/317204",
+    "source": "品玩",
+    "category": "other",
+    "summary": "百度搭子搭配小度，智能体既要办公也要“管家”\n\n软硬件协同，做个全能搭子",
+    "keywords": [
+      "智能"
+    ],
+    "date": "2026-09-09"
+  },
+  {
+    "title": "DEMO | 齐俊元重启 12 年前的 Today.ai：它可能是当下最主动的Personal AI",
+    "link": "https://www.pingwest.com/a/317164",
+    "source": "品玩",
+    "category": "other",
+    "summary": "DEMO | 齐俊元重启 12 年前的 Today.ai：它可能是当下最主动的Personal AI\n\n通用 Agent 解决眼前的任务，Today AI 想继续管任务结束之后的事。",
+    "keywords": [
+      "AI",
+      "Agent"
+    ],
+    "date": "2026-09-09"
+  },
+  {
     "title": "无问智科完成数亿元A轮融资，加速建设物理AI数据基础设施",
     "link": "https://www.pingwest.com/w/317215",
     "source": "品玩",
     "category": "funding",
     "summary": "融资\n\n\n\n无问智科完成数亿元A轮融资，加速建设物理AI数据基础设施",
+    "keywords": [
+      "AI"
+    ],
+    "date": "2026-09-09"
+  },
+  {
+    "title": "从实习生日薪5000，到上亿年薪，AI人才争夺陷入疯狂",
+    "link": "https://wallstreetcn.com/articles/3781404",
+    "source": "华尔街见闻",
+    "category": "other",
+    "summary": "热钱\n得知那位98年的同事，一位一线算法研究员跳槽去一家头部大厂后的年薪时，朱可欣觉得眩晕。\n涨幅高达3倍——朱可欣和同事们在聚餐上猜测对方拿了多少时，“大胆猜测涨50%”。但答案揭晓，是从100万涨到300万，这远超他们预料。一顿饭的时间，饭桌上所有人对自我定价都重估了一遍。\n旧有的薪资坐标被迅速改写，“眩晕”不断发生。距离那次跳槽仅一年过去，朱可欣说，现在已经没人会对一线研究员拿300万年薪感",
+    "keywords": [
+      "AI",
+      "算法"
+    ],
+    "date": "2026-09-09"
+  },
+  {
+    "title": "AI硬件链反弹！拥挤交易过后，TMT目前成交占比到什么位置了？",
+    "link": "https://wallstreetcn.com/member/articles/3781279",
+    "source": "华尔街见闻",
+    "category": "other",
+    "summary": "电子＋通信的成交占比已由6月底最高的42%的回落至9月初的27%，与5月初的位置相当。此外，TMT与全A的滚动40日收益差作为TMT超额收益的重要择时指标，历史上该指标触及-10%是行情底部区域的一个重要提示信号。该指标已于9月初回落至-10%，历史上达到这一水平的包括23年8月、24年2月、25年4月。\n市场究竟站在出清的尾声，还是新一轮拥挤的起点？",
+    "keywords": [
+      "AI"
+    ],
+    "date": "2026-09-09"
+  },
+  {
+    "title": "DeepSeek科创板IPO加速，中信或为辅导机构",
+    "link": "https://wallstreetcn.com/articles/3781405",
+    "source": "华尔街见闻",
+    "category": "key_news",
+    "summary": "9月9日，外媒披露，杭州人工智能企业DeepSeek已选定中信证券，全面筹备科创板上市相关事宜。据两名知情人士透露，其有望在本年度内正式递交IPO申报材料，开启资本化关键进程。此前外媒曾报道，DeepSeek新一轮融资落地后，整体估值将攀升至750亿美元。\n腾讯科技从数位接近该企业资本市场运作相关人士处获悉，公司当前最新估值为5000亿元人民币。\n知情人士告诉腾讯科技，DeepSeek此前已推进科",
+    "keywords": [
+      "人工智能",
+      "DeepSeek",
+      "智能"
+    ],
+    "date": "2026-09-09"
+  },
+  {
+    "title": "OpenAI总裁Greg Brockman：AI已能生成新知识，智能体采用曲线“垂直上升”",
+    "link": "https://wallstreetcn.com/articles/3781398",
+    "source": "华尔街见闻",
+    "category": "other",
+    "summary": "OpenAI正站在一个新的能力拐点上。从破解数学千禧年难题到计算机使用能力的跨越式提升，这家公司正试图向外界证明：AI已不仅仅是聊天工具，而是能够真正替用户完成工作的智能体。\nOpenAI联合创始人兼总裁Greg Brockman近日在一档播客访谈中表示，公司旗下模型已成功找到纳维-斯托克斯方程（Navier-Stokes）的反例，证实这一流体力学核心方程在特定条件下存在奇点，从而攻克了七大\"千禧",
+    "keywords": [
+      "AI",
+      "OpenAI",
+      "智能"
+    ],
+    "date": "2026-09-09"
+  },
+  {
+    "title": "Ackman：AI正在填平护城河，好公司还能好多久？",
+    "link": "https://wallstreetcn.com/charts/41959798",
+    "source": "华尔街见闻",
+    "category": "other",
+    "summary": "传奇对冲基金经理Bill Ackman阐述了其投资哲学的核心是确保能承受最坏结果，上行空间自会实现，以此创造96%盈利。\n但AI正用颠覆性技术填平护城河，理解风险更难。如今19岁青年可筹巨资，哈佛学生入学即辍学创业，颠覆门槛大降。\n缓解之道在于资产轻型、商业模式有韧性、低杠杆运营，同时强调管理层质量与合理买入价格的重要性。",
+    "keywords": [
+      "AI"
+    ],
+    "date": "2026-09-09"
+  },
+  {
+    "title": "OpenAI解出千禧年数学难题后，Altman下一目标：攻克室温超导？",
+    "link": "https://wallstreetcn.com/articles/3781400",
+    "source": "华尔街见闻",
+    "category": "other",
+    "summary": "OpenAI正将AI驱动的科学发现推向更广阔的领域。9月8日，OpenAI宣布，其内部AI系统已提出纳维-斯托克斯方程存在性与光滑性问题的解决方案，并通过Lean形式化验证。这是七大千禧年大奖难题之一，也意味着AI在前沿数学研究中的能力再次向前迈进。\n据OpenAI官网公告，这套系统由约1万个并发智能体组成，从启动到形成解决方案耗时约88小时。OpenAI称，完成证明所使用的内部模型“能力显著超越",
+    "keywords": [
+      "AI",
+      "OpenAI",
+      "智能"
+    ],
+    "date": "2026-09-09"
+  },
+  {
+    "title": "PPI见顶后：下半场的轨迹",
+    "link": "https://wallstreetcn.com/articles/3781397",
+    "source": "华尔街见闻",
+    "category": "other",
+    "summary": "8月PPI同比数据的阶段性回升，是否意味着物价已经扭转了前期的下行轨迹？单月的反弹或许带有一定脉冲性质，相较之下，隐藏在水面之下的结构性切换其实更为关键：上半年，在外部地缘博弈与供给冲击的交织下，上游大宗商品价格的脉冲式攀升成为了推高物价的主力；而进入下半年，输入性动能虽有震荡扰动，但其支撑力度或难以复制上半年之强，AI相关产业持续高景气带来的价格支撑，正悄然接棒成为当前物价图景中的结构性亮色。&",
+    "keywords": [
+      "AI"
+    ],
+    "date": "2026-09-09"
+  },
+  {
+    "title": "大摩：GPT-6 Astra来了，AI算力根本没建够",
+    "link": "https://wallstreetcn.com/charts/41959797",
+    "source": "华尔街见闻",
+    "category": "other",
+    "summary": "GPT-6 Astra一发布，AI市场最担心的问题，反转了！\n\n过去几个月，大家一直发愁：GPU买这么多，数据中心建这么猛，最后真的有那么多人用吗？\n\n但摩根士丹利最新的报告这样问：万一，我们不是建太多了，是根本没建够呢？\n\n因为这次AI不只是聊天更聪明了，它真的开始替人干活了。\n\n写代码、做工程、操作电脑，甚至一些现实世界里的工作，也都能交给它。\n\n以前很多事，AI要么干不了，要么干起来太贵。现",
+    "keywords": [
+      "AI",
+      "GPT"
+    ],
+    "date": "2026-09-09"
+  },
+  {
+    "title": "现有芯片，还有50%-80%的性能没榨出来",
+    "link": "https://wallstreetcn.com/charts/41959796",
+    "source": "华尔街见闻",
+    "category": "other",
+    "summary": "半导体研究机构SemiAnalysis创始人Dylan Patel在访谈中讨论了AI模型如何通过软件优化、推测解码、多Token预测等技术提升芯片利用率。\n\n他表示，即使使用三四年前的Hopper芯片，模型性能仍能持续提升。\n\n更关键的是，现有硬件和模型仍存在约50%至80%的性能提升空间。\n\n未来通过新模型、新硬件及更深层优化，AI算力效率还有巨大增长潜力。",
+    "keywords": [
+      "AI"
+    ],
+    "date": "2026-09-09"
+  },
+  {
+    "title": "OpenAI高管警告：Astra需求太猛，Pro订阅或被迫暂停",
+    "link": "https://wallstreetcn.com/articles/3781396",
+    "source": "华尔街见闻",
+    "category": "other",
+    "summary": "OpenAI产品负责人Tibo表示，对Astra的需求真的是史无前例的。我们正在动用一切可能的杠杆来维持这种需求，但到目前为止，我还从未见过这样的情况，而我们此前已经经历过非常迅猛的增长。优先事项始终是为现有用户保持优质服务，但如果这种情况持续下去，我们可能不得不暂时暂停新的Pro订阅。\n\n&nbsp;\n&nbsp;\n&nbsp;\n文章更新中......风险提示及免责条款\n          \n ",
+    "keywords": [
+      "AI",
+      "OpenAI"
+    ],
+    "date": "2026-09-09"
+  },
+  {
+    "title": "标普料SK海力士四季度再启最高40万亿韩元回购，叠加丰厚股息，韩国Value-up行情再获新催化",
+    "link": "https://wallstreetcn.com/articles/3781366",
+    "source": "华尔街见闻",
+    "category": "other",
+    "summary": "9月8日，标普全球市场情报（S&amp;P Global Market Intelligence）最新预测显示，受AI存储芯片强劲景气度驱动，SK海力士有望在今年第四季度宣布新一轮股票回购计划，规模预计在20万亿至40万亿韩元（约合280亿美元）之间。\n且在完成大规模回购后，公司仍有能力派发丰厚股息，这为韩国政府推进的“企业价值提升（Value-up）”及股东回报重构行情再添强劲催化剂。\n标普亚太",
+    "keywords": [
+      "AI"
+    ],
+    "date": "2026-09-09"
+  },
+  {
+    "title": "30万亿知识工作、30万亿消费市场--驾驭AI推理时代",
+    "link": "https://wallstreetcn.com/articles/3781377",
+    "source": "华尔街见闻",
+    "category": "other",
+    "summary": "摩根士丹利认为人工智能产业正从基础设施建设阶段大步迈入“推理时代”，这一技术演进将数字化并重塑全球20至30万亿美元的知识工作市场与近30万亿美元的消费市场，从而驱动资本市场发生规模空前的板块轮动。\n追风交易台消息，9月7日，摩根士丹利Brian Nowak牵头的研究报告《The Morgan Stanley AI Guidebook: Navigating the Age of Inferenc",
+    "keywords": [
+      "AI",
+      "人工智能",
+      "智能"
+    ],
+    "date": "2026-09-09"
+  },
+  {
+    "title": "美伊战事推升油价逼近百元关口，亚洲芯片股延续涨势，SK海力士涨逾3%，金银齐升",
+    "link": "https://wallstreetcn.com/articles/3781389",
+    "source": "华尔街见闻",
+    "category": "other",
+    "summary": "中东局势急剧恶化，布伦特原油逼近100美元关口，而亚洲芯片股则在AI交易持续火热的带动下延续涨势。\n周三韩国综合指数日内涨幅扩大至2%，三星电子和SK海力士双双走强，此前费城半导体指数周二在美股交易中上涨1.3%。MSCI亚太指数整体上涨0.6%，信息技术板块贡献最大。\n\n据新华社报道，美军周二摧毁了五艘伊朗原油油轮，以报复伊朗伊斯兰革命卫队在过去两天内两度向美国军舰发射弹道导弹。受此影响，布伦特",
     "keywords": [
       "AI"
     ],
@@ -56,103 +331,6 @@
     "summary": "2026年9月8日，Verizon与康宁签下2027–2032年、超8000万英里高密度光纤的数十亿美元长单，首次把“AI资本开支外溢”的证据推进到国家级长途骨干网。有三点值得注意——其一，AI算力正发生第三次边界扩张（GPU→数据中心→园区→DCI→城域→长途骨干），光纤需求函数被改写为“纤对数量×单纤频谱效率”的乘法；其二，本轮光纤紧张是真实的——2026年全球供需缺口约1.8亿芯公里，G.6",
     "keywords": [
       "AI"
-    ],
-    "date": "2026-09-09"
-  },
-  {
-    "title": "Anthropic研究员因“失控”AI担忧辞职，安全隐忧蔓延顶级实验室",
-    "link": "https://wallstreetcn.com/articles/3781383",
-    "source": "华尔街见闻",
-    "category": "other",
-    "summary": "一名Anthropic研究员以\"人类将失去对AI的控制\"为由宣布离职，成为该公司首批因安全顾虑出走的员工之一，令外界对这场技术竞赛的风险评估骤然升温。\n据《华尔街日报》报道，Anthropic研究员Jacob Coxon于周二宣布离职，理由是不愿参与一场他认为将导致AI系统失控的行业竞赛。他警告称，最快到明年底，局面就可能已经“失控”。\n同日，OpenAI首席科学家Jakub Pachocki发布",
-    "keywords": [
-      "AI",
-      "OpenAI",
-      "Anthropic"
-    ],
-    "date": "2026-09-09"
-  },
-  {
-    "title": "GPT-6 Astra真正的意义：将“AI叙事”从“需求争论”拉回“物理瓶颈”",
-    "link": "https://wallstreetcn.com/articles/3781381",
-    "source": "华尔街见闻",
-    "category": "other",
-    "summary": "一个模型的发布，正在改变市场争论的方向。\n市场过去几个月一直在争论一个问题：“服务已知的AI需求，究竟需要多少基础设施？”这个问题的潜台词是：AI基建是否已经过度投资？\n但据追风交易台消息，摩根士丹利9月7日发布的报告指出，GPT-6 Astra的重要性不应被简单理解为又一次规模扩张（Scaling）叙事的延续。这并不是又一次的模型升级。\nAstra代表的是能力广度（breadth of capa",
-    "keywords": [
-      "AI",
-      "GPT"
-    ],
-    "date": "2026-09-09"
-  },
-  {
-    "title": "绝大部分“知识工作”都可以变成代码",
-    "link": "https://wallstreetcn.com/charts/41959792",
-    "source": "华尔街见闻",
-    "category": "other",
-    "summary": "软件工程师Thariq Shihipar表示绝大多数知识工作均可转化为代码。\n技术人员善于将任务拆解为代码化步骤并引导AI执行，例如用Python脚本替代Excel做个人会计，或用FFmpeg库处理视频编辑。模型还需搭配精良的“harness”框架才能发挥最佳效果。这正是体现了从手动操作转向编程式思维与人机协同的范式转变。",
-    "keywords": [
-      "AI"
-    ],
-    "date": "2026-09-09"
-  },
-  {
-    "title": "OpenAI总裁：未来的AI，不用你费劲学",
-    "link": "https://wallstreetcn.com/charts/41959791",
-    "source": "华尔街见闻",
-    "category": "other",
-    "summary": "OpenAI 高管表示：别再折腾选模型、调参数了！\n\n手动操控 AI 的时代很快就会成为过去式。\n\n真正的 AI 未来，绝不是让用户当“调校员”，天天去选思考强度、切模型或者算上下文。\n\n未来所有的复杂工具都会被整合进一个极简的输入框。\n\n你只要给出目标，AI 就会在后台自动完成建模、分析和执行——把真正的控制权和时间，彻底还给人类！",
-    "keywords": [
-      "AI",
-      "OpenAI"
-    ],
-    "date": "2026-09-09"
-  },
-  {
-    "title": "未来一个基金经理，带着一群AI",
-    "link": "https://wallstreetcn.com/charts/41959790",
-    "source": "华尔街见闻",
-    "category": "other",
-    "summary": "未来一个基金经理，可能只需要带几个人，剩下的研究团队，全是AI。\n\nAI实习生负责找数据，AI分析师负责写研究，AI投资总监负责拆任务、做判断，甚至一个顶级研究员十几年积累下来的方法，都可以被做成Skill，复制给AI。\n\n广发证券最新一份报告判断，AI正在从一个投研工具，变成一整套可以被组织、分工和管理的研究团队。\n\n所以未来研究员真正要学的，已经不只是怎么问AI几个问题，是怎么带好这支队伍。",
-    "keywords": [
-      "AI"
-    ],
-    "date": "2026-09-09"
-  },
-  {
-    "title": "光博会之下，AI 光的新探讨：OCS与无源器件成为新主角？",
-    "link": "https://wallstreetcn.com/member/articles/3781206",
-    "source": "华尔街见闻",
-    "category": "other",
-    "summary": "OCS（光电路交换机）需求的\"三连跳\"：谷歌 TPU 架构由 3D Torus 升级 6D Torus 令光互联链路增 3 倍、英伟达以 40 亿美元锁定光通信产能并确认\"超级大客户\"、OpenAI 与亚马逊等云厂商集体入场。OCS 是科技板块中少数需求持续上修的赛道，正从\"强预期弱现实\"向\"强现实\"过渡，但应用的非线性爆发拐点要到 2028 年；产业链上发射端与接收端无源器件是不同方案角逐下的\"",
-    "keywords": [
-      "AI",
-      "OpenAI"
-    ],
-    "date": "2026-09-09"
-  },
-  {
-    "title": "OpenAI再发文：更好的模型开辟新的“工作领域”",
-    "link": "https://wallstreetcn.com/articles/3781369",
-    "source": "华尔街见闻",
-    "category": "other",
-    "summary": "GPT-6 Astra发布后，OpenAI首席商务官Sarah Friar撰文阐述公司商业逻辑：更强的模型能力、更低的算力成本与不断扩大的用户基础形成复利效应，推动AI从辅助工具向核心生产力跃升。\nOpenAI首席商务官Sarah Friar在最新发布的文章中表示，GPT-6 Astra是迄今最具智能与对齐能力的模型，在计算机操作、软件工程、网络安全、科学研究及专业工作等领域均达到业界最高水准。她",
-    "keywords": [
-      "AI",
-      "OpenAI",
-      "GPT",
-      "智能"
-    ],
-    "date": "2026-09-09"
-  },
-  {
-    "title": "Meta版“龙虾”--扎克伯格豪赌的“AI助手Muse”正式发布",
-    "link": "https://wallstreetcn.com/articles/3781370",
-    "source": "华尔街见闻",
-    "category": "other",
-    "summary": "如果说大火的OpenClaw让极客们看到了本地AI助手的雏形，那么扎克伯格豪赌的“AI助手Muse”就是一个面向大众、开箱即用的“云端版本龙虾”。\n9月8日，Meta正式发布了公司迄今规模最大的AI产品押注——个人AI代理Muse，正式将一年多前提出的\"个人超级智能\"愿景付诸实践。\n\n这款产品配备独立虚拟计算机，可全天候代替用户执行任务，并以大规模免费算力开局，向个人AI代理市场发起激进的价格攻势",
-    "keywords": [
-      "AI",
-      "智能"
     ],
     "date": "2026-09-09"
   },
@@ -252,17 +430,6 @@
     "date": "2026-09-08"
   },
   {
-    "title": "华尔街见闻早餐FM-Radio | 2026年9月9日",
-    "link": "https://wallstreetcn.com/articles/3781361",
-    "source": "华尔街见闻",
-    "category": "other",
-    "summary": "华见早安之声\n请各位听众升级为见闻最新版APP，以便成功收听以下音频。\n\n要闻精选\n\n李强：统筹推进住房、小区、社区到城区的更新改造。\nAI浪潮推高芯片价格，中国8月出口同比增长25%，进口同比增28.2%；中国8月原油进口量环比增长6.2%，集成电路出口金额同比飙升130%。\n胡塞武装深入内陆，打击沙特能源设施；美伊冲突加剧，伊朗称美军导弹袭击哈尔克岛附近伊方油轮、警告袭科威特及巴林港油轮；伊朗",
-    "keywords": [
-      "AI"
-    ],
-    "date": "2026-09-08"
-  },
-  {
     "title": "Hackers are stealing Claude tokens from subscribers",
     "link": "https://techcrunch.com/2026/09/08/hackers-are-stealing-claude-tokens-from-subscribers/",
     "source": "TechCrunch",
@@ -351,121 +518,6 @@
     "summary": "华为\n\n\n\n轻薄随行，灵感不设限：HUAWEI MatePad Air全新登场",
     "keywords": [
       "AI"
-    ],
-    "date": "2026-09-07"
-  },
-  {
-    "title": "华为WATCH 6系列正式发布：核心能力升级，打造腕上智慧健康新标杆",
-    "link": "https://www.pingwest.com/w/317153",
-    "source": "品玩",
-    "category": "other",
-    "summary": "华为\n\n\n\n华为WATCH 6系列正式发布：核心能力升级，打造腕上智慧健康新标杆\n\n在9月7日举行的HarmonyOS 7 | HUAWEI Mate XT 2 及全场景新品发布会，备受瞩目的新一代“鸿蒙AI手表，智慧健康旗舰”——华为WATCH 6系列正式发布。",
-    "keywords": [
-      "AI"
-    ],
-    "date": "2026-09-07"
-  },
-  {
-    "title": "AI 助手首次纳入尊师惠师权益：腾讯两款产品上线教师专属权益，企鹅教师助手 Buddy 应用同步开放",
-    "link": "https://www.pingwest.com/w/317150",
-    "source": "品玩",
-    "category": "other",
-    "summary": "腾讯\n\n\n\nAI 助手首次纳入尊师惠师权益：腾讯两款产品上线教师专属权益，企鹅教师助手 Buddy 应用同步开放",
-    "keywords": [
-      "AI"
-    ],
-    "date": "2026-09-07"
-  },
-  {
-    "title": "业内首个！“千问办公”推出“多人工作台”",
-    "link": "https://www.pingwest.com/w/317143",
-    "source": "品玩",
-    "category": "other",
-    "summary": "通义千问\n\n\n\n业内首个！“千问办公”推出“多人工作台”",
-    "keywords": [
-      "通义千问"
-    ],
-    "date": "2026-09-07"
-  },
-  {
-    "title": "GitHub发布HydraFusion多模型编排研究预览版",
-    "link": "https://www.pingwest.com/w/317133",
-    "source": "品玩",
-    "category": "other",
-    "summary": "GitHub\n\n\n\nGitHub发布HydraFusion多模型编排研究预览版\n\n据venturebeat 报道，GitHub正式推出Project HydraFusion研究预览版，该功能现已通过Copilot CLI向所有订阅用户开放。",
-    "keywords": [
-      "Copilot"
-    ],
-    "date": "2026-09-07"
-  },
-  {
-    "title": "谷歌发布Lyria 3.5音乐生成模型 登陆Gemini应用",
-    "link": "https://www.pingwest.com/w/317131",
-    "source": "品玩",
-    "category": "other",
-    "summary": "谷歌\n\n\n\n谷歌发布Lyria 3.5音乐生成模型 登陆Gemini应用\n\n谷歌近日宣布推出音乐生成模型Lyria 3.5，称其为目前效果最佳的音乐生成模型。",
-    "keywords": [
-      "Gemini"
-    ],
-    "date": "2026-09-07"
-  },
-  {
-    "title": "MiniMax M3“入籍”沙特，中国开源模型拿下“国家级大客户”",
-    "link": "https://www.pingwest.com/a/317117",
-    "source": "品玩",
-    "category": "other",
-    "summary": "MiniMax M3“入籍”沙特，中国开源模型拿下“国家级大客户”\n\n主权 AI ，正在把中国开源模型带进一个更大的市场。",
-    "keywords": [
-      "AI",
-      "MiniMax"
-    ],
-    "date": "2026-09-07"
-  },
-  {
-    "title": "微软发布Project Zenith 专注开发Windows体验",
-    "link": "https://www.pingwest.com/w/317129",
-    "source": "品玩",
-    "category": "other",
-    "summary": "微软\n\n\n\n微软发布Project Zenith 专注开发Windows体验\n\n微软官网显示，微软近日正式发布Project Zenith，面向配备64GB以上统一内存及250GB/s以上带宽的开发设备，提供免打扰的Windows开发体验。首批适配AMD Ryzen AI Halo芯片，未来数月将有更多合作伙伴设备加入。",
-    "keywords": [
-      "AI"
-    ],
-    "date": "2026-09-07"
-  },
-  {
-    "title": "OpenAI发布智能体研究报告 智能体工作量首超人类研究员",
-    "link": "https://www.pingwest.com/w/317128",
-    "source": "品玩",
-    "category": "other",
-    "summary": "OpenAI\n\n\n\nOpenAI发布智能体研究报告 智能体工作量首超人类研究员\n\nOpenAI官方近日发布详细报告，披露编码智能体已深度融入AI研究工作。",
-    "keywords": [
-      "AI",
-      "OpenAI",
-      "智能"
-    ],
-    "date": "2026-09-07"
-  },
-  {
-    "title": "AI基础设施初创Gimlet Labs完成3亿美元融资 估值达30亿",
-    "link": "https://www.pingwest.com/w/317124",
-    "source": "品玩",
-    "category": "funding",
-    "summary": "融资\n\n\n\nAI基础设施初创Gimlet Labs完成3亿美元融资 估值达30亿\n\n据 techfundingnews 报道，AI基础设施初创公司Gimlet Labs宣布完成3亿美元融资，公司估值升至30亿美元。",
-    "keywords": [
-      "AI"
-    ],
-    "date": "2026-09-07"
-  },
-  {
-    "title": "OpenAI承认智能体“劫持”德国网站 拟建立失配事件披露标准",
-    "link": "https://www.pingwest.com/w/317123",
-    "source": "品玩",
-    "category": "other",
-    "summary": "OpenAI\n\n\n\nOpenAI承认智能体“劫持”德国网站 拟建立失配事件披露标准\n\n据 TechCrunch 报道，OpenAI公开承认其AI智能体“劫持”德国程序员社区网站DseWiki的事件。",
-    "keywords": [
-      "AI",
-      "OpenAI",
-      "智能"
     ],
     "date": "2026-09-07"
   },
