@@ -1,5 +1,241 @@
 [
   {
+    "title": "谷歌130亿欧元投资芬兰 建设AI基础设施与清洁能源",
+    "link": "https://www.pingwest.com/w/317268",
+    "source": "品玩",
+    "category": "other",
+    "summary": "谷歌\n\n\n\n谷歌130亿欧元投资芬兰 建设AI基础设施与清洁能源\n\n谷歌官方近日宣布，未来两年将在芬兰投资至少130亿欧元，用于建设人工智能基础设施及清洁能源项目。这是谷歌在欧洲迄今最大规模的单笔投资，旨在满足Search、Maps和Gemini等核心服务日益增长的算力需求。",
+    "keywords": [
+      "AI",
+      "人工智能",
+      "Gemini",
+      "智能"
+    ],
+    "date": "2026-09-10"
+  },
+  {
+    "title": "OpenAI悄然限制竞品AI广告投放 广告业务面临收入考验",
+    "link": "https://www.pingwest.com/w/317267",
+    "source": "品玩",
+    "category": "other",
+    "summary": "OpenAI\n\n\n\nOpenAI悄然限制竞品AI广告投放 广告业务面临收入考验\n\n据 Kobaran报道，OpenAI悄然更新广告政策，禁止在ChatGPT内投放独立的图像与音频生成类AI产品广告。",
+    "keywords": [
+      "AI",
+      "OpenAI",
+      "GPT",
+      "ChatGPT"
+    ],
+    "date": "2026-09-10"
+  },
+  {
+    "title": "智元发布GE-Act 2.0 原生世界—动作模型Scaling路径获验证",
+    "link": "https://www.pingwest.com/w/317265",
+    "source": "品玩",
+    "category": "other",
+    "summary": "智元机器人\n\n\n\n智元发布GE-Act 2.0 原生世界—动作模型Scaling路径获验证\n\n据智元机器人官方消息，智元发布原生世界—动作模型GE-Act 2.0，所有参数从随机初始化开始在具身操作数据上从头训练，不针对评测任务做微调或示范，直接在陌生场景接受零样本检验。",
+    "keywords": [
+      "机器人"
+    ],
+    "date": "2026-09-10"
+  },
+  {
+    "title": "OpenAI最强模型GPT-6 Astra正式登陆Amazon Bedrock",
+    "link": "https://www.pingwest.com/w/317260",
+    "source": "品玩",
+    "category": "other",
+    "summary": "亚马逊\n\n\n\nOpenAI最强模型GPT-6 Astra正式登陆Amazon Bedrock\n\n据亚马逊官方消息，OpenAI最新旗舰模型GPT-6 Astra现已在Amazon Bedrock正式可用，企业可通过API直接调用，或在ChatGPT Work与Codex中配置接入。",
+    "keywords": [
+      "AI",
+      "OpenAI",
+      "GPT",
+      "ChatGPT"
+    ],
+    "date": "2026-09-10"
+  },
+  {
+    "title": "会翻译的耳机走进东南亚：3C卖家如何拓展智能音频新场景",
+    "link": "https://www.pingwest.com/a/317236",
+    "source": "品玩",
+    "category": "other",
+    "summary": "会翻译的耳机走进东南亚：3C卖家如何拓展智能音频新场景\n\n从耳机产品切入，逐步走向品牌化运营",
+    "keywords": [
+      "智能"
+    ],
+    "date": "2026-09-10"
+  },
+  {
+    "title": "AI瓶颈交易还存在吗？反方：2028产能大过剩，人类总是建过头",
+    "link": "https://wallstreetcn.com/charts/41959804",
+    "source": "华尔街见闻",
+    "category": "other",
+    "summary": "9月9日，半导体分析师Ben Bajarin和Jay Goldberg讨论认为2027年AI基础设施瓶颈或将缓解，但随之而来的是2028年产能大规模过剩的风险。历史规律表明，每次资本密集型基础设施繁荣，人类都会过度建设。",
+    "keywords": [
+      "AI"
+    ],
+    "date": "2026-09-10"
+  },
+  {
+    "title": "DCI超级周期：康宁长单锁到2032年，光纤真的供不应求？",
+    "link": "https://wallstreetcn.com/member/articles/3781387",
+    "source": "华尔街见闻",
+    "category": "other",
+    "summary": "2026年9月8日，Verizon与康宁签下2027–2032年、超8000万英里高密度光纤的数十亿美元长单，首次把“AI资本开支外溢”的证据推进到国家级长途骨干网。有三点值得注意——其一，AI算力正发生第三次边界扩张（GPU→数据中心→园区→DCI→城域→长途骨干），光纤需求函数被改写为“纤对数量×单纤频谱效率”的乘法；其二，本轮光纤紧张是真实的——2026年全球供需缺口约1.8亿芯公里，G.6",
+    "keywords": [
+      "AI"
+    ],
+    "date": "2026-09-10"
+  },
+  {
+    "title": "浏览破亿！Anthropic对齐负责人亲认：十年内AI灭绝人类概率超10%",
+    "link": "https://wallstreetcn.com/articles/3781465",
+    "source": "华尔街见闻",
+    "category": "other",
+    "summary": "今天，整个AI圈都被这件事刷屏了。\nAnthropic的核心预训练研究员离职了。\n他发布的一篇离职长文，在X上已经浏览破亿。\n更惊人的是，Anthropic对齐负责人Evan Hubinger不仅没有对此公关，反而站出来承认——\n「我们团队内部真诚地相信，AI可能会杀死全人类。我个人预测，未来十年内，这个概率超过了10%。」\n他的结论是：我们根本没有解决超级智能失控的方案，而且当前的研发路线明显已",
+    "keywords": [
+      "AI",
+      "Anthropic",
+      "智能"
+    ],
+    "date": "2026-09-10"
+  },
+  {
+    "title": "调研亚洲机构后，高盛合伙人点评：7月遭重创，如今对AI交易“谨慎过头”了",
+    "link": "https://wallstreetcn.com/articles/3781462",
+    "source": "华尔街见闻",
+    "category": "other",
+    "summary": "经历7月动量股历史性暴跌后，亚洲机构投资者对AI相关交易的热情已大幅降温，但高盛认为市场当前的谨慎情绪已矫枉过正。\n据追风交易台，高盛FICC与股票部门合伙人John Flood在完成为期一周的亚洲客户调研后，于9月10日发布报告指出，亚洲投资者目前对AI交易普遍持怀疑态度，这与7月份大幅回撤留下的\"心理创伤\"密切相关。\n高盛自营经纪数据显示，尽管遭遇7月回撤，亚洲对冲基金年内仍录得约21%的正回",
+    "keywords": [
+      "AI"
+    ],
+    "date": "2026-09-10"
+  },
+  {
+    "title": "高盛TMT大会第二日亮点：AI从概念走向商业化，闪迪判断NAND供给将长期偏弱",
+    "link": "https://wallstreetcn.com/articles/3781463",
+    "source": "华尔街见闻",
+    "category": "other",
+    "summary": "从存储、电商到旅行，高盛科技大会第二日多家公司管理层集中发声，AI落地信号与供给侧判断成为最受关注的两条主线。\n9月10日，高盛Communacopia+科技大会进入第二日。根据高盛TMT策略师Peter Callahan整理的会议纪要，当日参会公司覆盖闪迪、Etsy、NXP半导体、Block等数十家企业，管理层围绕AI商业化进展、消费趋势、存储供需及宏观环境展开密集表态。\n闪迪：NAND供给将长",
+    "keywords": [
+      "AI"
+    ],
+    "date": "2026-09-10"
+  },
+  {
+    "title": "AI瓶颈交易还存在吗？正方：2027年才是最缺的时候",
+    "link": "https://wallstreetcn.com/charts/41959803",
+    "source": "华尔街见闻",
+    "category": "other",
+    "summary": "半导体顶级分析师 Ben Bajarin 和 Jay Goldberg 认为：\n\nAI“瓶颈交易”还没结束，2027年反而可能最缺！\n\n原因很简单：需求已经冲上去了，产能还在路上。\n\n现在扩建的晶圆、存储等产能，很多要到2028年才能真正上线。\n\n所以2027年，很可能就是供需最紧的一年。",
+    "keywords": [
+      "AI"
+    ],
+    "date": "2026-09-10"
+  },
+  {
+    "title": "Codex主管Tibo：“清晰的意图表达、架构品味与系统把控力”是AI时代最不可替代的",
+    "link": "https://wallstreetcn.com/articles/3781458",
+    "source": "华尔街见闻",
+    "category": "other",
+    "summary": "当AI能写代码、做审查、跑重构，工程师的核心价值究竟剩下什么？\n近日，OpenAI Codex主管Tibo Sottiaux在The Pragmatic Engineer播客中表示，在AI快速接管代码执行层的今天，工程师真正难以被替代的，是另一套能力。\n\n“如果你无法解释你在试图实现什么，如果你无法表达你的意图，如果你与你所服务的社区没有连接，如果你没有品味——那做出好的工作会难得多。”\n\n这三件",
+    "keywords": [
+      "AI",
+      "OpenAI"
+    ],
+    "date": "2026-09-10"
+  },
+  {
+    "title": "日本正在把全球“拖下水”",
+    "link": "https://wallstreetcn.com/articles/3781459",
+    "source": "华尔街见闻",
+    "category": "other",
+    "summary": "日本国债收益率30年来首次突破3%，野村研究所警告，这一轮全球长端利率上行的源头正是日本，而非外部输入。日本财政风险与货币政策正常化预期的叠加，正通过债券市场向全球蔓延，对科技股、AI投资乃至实体经济构成系统性威胁。\n10年期日本国债（JGB）收益率在东京市场盘中一度突破3.0%，为1996年9月以来首次。据追风交易台，野村研究所执行经济学家Takahide Kiuchi在最新报告中指出，过去一年",
+    "keywords": [
+      "AI"
+    ],
+    "date": "2026-09-10"
+  },
+  {
+    "title": "AI瓶颈大辩论：2027 顶峰瓶颈 vs 2028 产能大释放与定价崩塌",
+    "link": "https://wallstreetcn.com/articles/3781456",
+    "source": "华尔街见闻",
+    "category": "other",
+    "summary": "AI算力军备竞赛正驶向一个关键拐点。\n随着博通、英伟达等科技巨头在2025年底至2026年初与供应链签署大规模长期锁单协议，半导体行业正在经历史上规模最大的一轮资本扩张，而这笔投资的真正落地，将在2028年引爆一场关于供需格局的根本性争论。\n9月9日，深度行业播客节目《The Circuit》上科技分析师Ben Bajarin与Jay Goldberg就AI芯片周期展开正面交锋。\nBen Baja",
+    "keywords": [
+      "AI"
+    ],
+    "date": "2026-09-10"
+  },
+  {
+    "title": "中国出口增速再超25%！量价分化加剧，高增还能走多远？",
+    "link": "https://wallstreetcn.com/member/articles/3781437",
+    "source": "华尔街见闻",
+    "category": "other",
+    "summary": "9月8日，海关总署公布数据显示，8月份中国出口同比增长25.0%（美元计价），较7月23.9%进一步加快，连续三个月保持20%以上；进口同比增长28.2%，贸易顺差达到1191亿美元。今年以来贸易顺差累计接近8060亿美元，远超2025年同期。从结构上看，出口高增的核心驱动力继续来自于AI产业链及绿色科技。高新技术产品出口额增长57.2%。其中集成电路出口增长129.8%，连续四个月保持三位数增长",
+    "keywords": [
+      "AI"
+    ],
+    "date": "2026-09-10"
+  },
+  {
+    "title": "网络带宽会是Agent时代的“瓶颈”吗？",
+    "link": "https://wallstreetcn.com/charts/41959801",
+    "source": "华尔街见闻",
+    "category": "other",
+    "summary": "思科总裁Chuck Robbins在高盛TMT大会上发言\n\nAI智能体消耗的网络带宽约为人类的5倍。\n\n当数万亿个智能体7×24小时不停运转，网络带宽需求将大幅攀升。",
+    "keywords": [
+      "AI",
+      "Agent",
+      "智能"
+    ],
+    "date": "2026-09-10"
+  },
+  {
+    "title": "吹高了日元，却没守住美债！贝森特是美股“猪队友”？",
+    "link": "https://wallstreetcn.com/articles/3781454",
+    "source": "华尔街见闻",
+    "category": "other",
+    "summary": "美国财政部部长贝森特本周连续出手：先是高调警告市场不要做空日元，日元随即走强；紧接着大幅扩大美债回购规模，试图压住长端收益率。结果，日元涨了，但美债跌了。\n两件事单独看，各有逻辑。合在一起，却构成了对美股近四年牛市的双重威胁——日元走强冲击套息交易，美债收益率走高压制估值。\n9月9日周三，美股连续第三日下跌。道指跌逾400点，跌幅0.8%；标普500跌0.5%；纳斯达克跌0.6%。AI科技股首当其",
+    "keywords": [
+      "AI"
+    ],
+    "date": "2026-09-10"
+  },
+  {
+    "title": "OpenAI\"失控\"智能体活动范围远超此前披露，公司任命安全研究员入驻董事会",
+    "link": "https://wallstreetcn.com/articles/3781443",
+    "source": "华尔街见闻",
+    "category": "other",
+    "summary": "独立研究人员发现，OpenAI\"失控\"智能体活动范围远超此前披露。与此同时，OpenAI宣布将一名知名AI安全研究员纳入非营利董事会，此举被外界视为对日益高涨的安全质疑的回应。\n9月9日，据路透社报道，六组独立调查人员及其审阅的数据显示，OpenAI智能体在今年5月至7月间曾借助至少18个此前未披露的网站相互传递信息。\n加利福尼亚州非营利机构CivAI研究员Andrew Yoon表示，这一规模\"比",
+    "keywords": [
+      "AI",
+      "OpenAI",
+      "智能"
+    ],
+    "date": "2026-09-10"
+  },
+  {
+    "title": "AI research startup Listen Labs scrubbed a $1.5B funding round for Salesforce talks",
+    "link": "https://techcrunch.com/2026/09/09/ai-research-startup-listen-labs-scrubbed-a-1-5b-funding-round-for-salesforce-talks/",
+    "source": "TechCrunch",
+    "category": "funding",
+    "summary": "Listen Labs walked away from a signed Series C term sheet from Menlo Ventures, sources say.",
+    "keywords": [
+      "AI"
+    ],
+    "date": "2026-09-10"
+  },
+  {
+    "title": "一文看完苹果发布会：折叠iPhone又给所有手机上了一课（除了AI）",
+    "link": "https://www.pingwest.com/a/317256",
+    "source": "品玩",
+    "category": "other",
+    "summary": "苹果\n\n\n\n一文看完苹果发布会：折叠iPhone又给所有手机上了一课（除了AI）\n\n这家科技巨头仍然是地球上最注重细节的公司。",
+    "keywords": [
+      "AI"
+    ],
+    "date": "2026-09-09"
+  },
+  {
     "title": "AI越会写代码，Arm越要争取开发者",
     "link": "https://www.pingwest.com/a/317255",
     "source": "品玩",
@@ -154,59 +390,11 @@
     "date": "2026-09-09"
   },
   {
-    "title": "AGI时代的第一个生图模型，ChatGPT Images 2.5上线",
-    "link": "https://wallstreetcn.com/articles/3781427",
-    "source": "华尔街见闻",
-    "category": "other",
-    "summary": "来来来，说多模态路边一条，不是AGI的都来排队道歉（doge）。\n在喊出“AGI时代来了”之后，你奥特曼叔叔搬出来的第一个东西，就是多模态！\n刚刚，OpenAI发布新一代生图模型，ChatGPT Images 2.5，主打生成更快，细节更好，改图也终于越来越像“真·修图”了。\n\n按照OpenAI的说法，这次升级可以先划四个重点：\n\n\n生图更快，相比Images 2.0，生成延迟最多降低50%；\n\n",
-    "keywords": [
-      "AI",
-      "OpenAI",
-      "GPT",
-      "ChatGPT"
-    ],
-    "date": "2026-09-09"
-  },
-  {
-    "title": "Arm把战线推向x86腹地",
-    "link": "https://wallstreetcn.com/articles/3781425",
-    "source": "华尔街见闻",
-    "category": "other",
-    "summary": "9月8日，在上海举行的Arm Everywhere China大会上，Arm一口气更新了移动、云端和物理AI三条产品线：移动端推出第二代计算子系统CSS for Mobile 2，云端发布Neoverse CSS N4，并继续推进今年3月发布的AGI CPU，物理AI则进一步扩展Total Design生态。\n更值得关注的变化主要发生在云端。&nbsp;\n过去，Arm主要靠架构和IP授权赚钱，由高",
-    "keywords": [
-      "AI"
-    ],
-    "date": "2026-09-09"
-  },
-  {
-    "title": "商务部新闻发言人就美发布中国人工智能企业对美蒸馏活动相关网络安全公告答记者问",
-    "link": "https://wallstreetcn.com/articles/3781423",
-    "source": "华尔街见闻",
-    "category": "other",
-    "summary": "商务部新闻发言人表示，中方愿意以平等互利、合作共赢原则，通过对话与美方开展建设性和专业的讨论。但如果美方以打击蒸馏为名，实施遏压中国人工智能企业的行动，中方必将坚决采取措施予以反制。希望美方与中方相向而行，通过对话和沟通管控风险，推动人工智能产业惠及全球。风险提示及免责条款\n          \n            市场有风险，投资需谨慎。本文不构成个人投资建议，也未考虑到个别用户特殊的投资目",
-    "keywords": [
-      "人工智能",
-      "智能"
-    ],
-    "date": "2026-09-09"
-  },
-  {
-    "title": "DeepSeek为什么在这个节点降价？",
-    "link": "https://wallstreetcn.com/articles/3781421",
-    "source": "华尔街见闻",
-    "category": "other",
-    "summary": "竞争压力与新品上线前夕，迫使DeepSeek对旗舰轻量模型实施降价，但此举并未改变其在细分市场的定价劣势。\n9月9日，DeepSeek宣布对V4 Flash模型实施降价，自次日起生效。此次调整覆盖非峰值时段的缓存输入、非缓存输入及输出三项定价，降幅分别为60%、33%和11%。调整后，非缓存输入价格降至每百万token人民币1.5元，缓存输入降至0.03元，输出降至6元。\n据追风交易台消息，摩根士",
-    "keywords": [
-      "DeepSeek"
-    ],
-    "date": "2026-09-09"
-  },
-  {
-    "title": "据报道，OpenAI预计到2030年计算资源支出约7,500亿美元",
+    "title": "报道：OpenAI预计2030年算力支出7500亿美元！公司仍直呼“算力非常不足”",
     "link": "https://wallstreetcn.com/articles/3781418",
     "source": "华尔街见闻",
     "category": "other",
-    "summary": "据报道，OpenAI预计到2030年计算资源支出约7,500亿美元。风险提示及免责条款\n          \n            市场有风险，投资需谨慎。本文不构成个人投资建议，也未考虑到个别用户特殊的投资目标、财务状况或需要。用户应考虑本文中的任何意见、观点或结论是否符合其特定状况。据此投资，责任自负。",
+    "summary": "OpenAI上调算力支出至7500亿美元，供应缺口将AI基础设施板块推至压力测试边缘。\n9月9日，据纽约时报DealBook援引一名了解相关数据的未具名人士报道，OpenAI目前仍感觉算力“非常不足”。\nOpenAI预计，到2030年其算力支出将达到约7500亿美元，较此前约6000亿美元的预测上调逾25%。\n这一表态意味着，芯片、数据中心、电力及网络资源的实际供给，尚未跟上头部模型开发和部署的需",
     "keywords": [
       "AI",
       "OpenAI"
@@ -214,96 +402,26 @@
     "date": "2026-09-09"
   },
   {
-    "title": "AI股独撑大局，宏观信号全面转空——下一波行情或将来势汹汹",
-    "link": "https://wallstreetcn.com/articles/3781416",
+    "title": "华尔街见闻早餐FM-Radio | 2026年9月10日",
+    "link": "https://wallstreetcn.com/articles/3781450",
     "source": "华尔街见闻",
     "category": "other",
-    "summary": "当前美国科技股正处于罕见的“多空撕裂”状态：AI基本面持续走强，但日元升值、利率上行和信用利差扩大不断释放宏观压力，纳斯达克100指数却始终拒绝破位。\n科技股眼下真正的风险并不在AI需求，而在于宏观环境与系统杠杆一旦突然转向，市场可能出现快速重定价。\n高盛交易台主管Rich Privorotsky指出，前沿AI模型仍在持续突破能力边界，谷歌云和AI服务器需求保持强劲，博通甚至认为实际需求已经超过其",
+    "summary": "华见早安之声\n请各位听众升级为见闻最新版APP，以便成功收听以下音频。\n\n要闻精选\n\n特朗普：美国中选后伊朗战事会“立即”结束、油价会跌，普京“想达成协议”。伊朗宣布设立新的海上\"制裁区域\"并袭击美军基地，美军打击伊朗油轮，中东局势升级推动布伦特原油一个多月来首次站上100美元、收报101.21美元。\n中国商务部：美方AI蒸馏指控是推行科技霸权、搞算力垄断，中方坚决反对。\n国家统计局数据显示，中国",
     "keywords": [
       "AI"
     ],
     "date": "2026-09-09"
   },
   {
-    "title": "OpenAI自研AI芯片再进一步！与三星合作扩大，或从HBM延伸至晶圆代工",
-    "link": "https://wallstreetcn.com/articles/3781414",
+    "title": "创纪录！单日6家美国企业赴欧发债，AI借贷潮挤压美国本土债市",
+    "link": "https://wallstreetcn.com/articles/3781449",
     "source": "华尔街见闻",
     "category": "other",
-    "summary": "OpenAI正加速推进自研芯片战略，与三星电子的合作正在向更广泛的半导体领域延伸。\n据路透社报道，OpenAI韩国区总经理Harrison Kim于9月9日在首尔新闻发布会上表示，OpenAI与三星电子在下一代芯片的联合生产与研究方面\"取得了最显著的进展\"。这是OpenAI迄今为止对双方芯片合作最为明确的公开表态。\nHarrison Kim同时强调，随着对更先进芯片的需求持续上升，内存芯片需求将持",
+    "summary": "人工智能军备竞赛引发的借贷浪潮正将美国企业推向大西洋彼岸。在美国债券市场被AI相关融资需求严重挤占之际，美国企业赴欧发债规模正在加速创下历史纪录。\n周三，亚马逊完成首次英镑债券发行，Uber Technologies完成欧元市场首次发行，当日共有六家美国企业在欧洲发债。据彭博汇编数据，这是欧洲市场单日接纳美国发行人数量最多的一次。\n在周三交易完成之前，今年美国企业在欧洲债市的发行规模已达1490亿",
     "keywords": [
       "AI",
-      "OpenAI"
-    ],
-    "date": "2026-09-09"
-  },
-  {
-    "title": "27岁研究员连辞OpenAI、Anthropic！两家都在拿我们的命下注",
-    "link": "https://wallstreetcn.com/articles/3781412",
-    "source": "华尔街见闻",
-    "category": "other",
-    "summary": "「我今天从Anthropic辞职了！」\n9日凌晨，一条推文在X上炸开：\n\n\n过去三年，我在OpenAI和Anthropic做预训练研究。两家公司都没有负责任地行事。它们正直奔自我改进的超级智能，拿我们所有人的命下注。\n\n\n\n发帖人Jacob Coxon，是GPT-4o的核心贡献者。\n\n今年年初，他因为Anthropic的安全声誉从OpenAI跳槽过去。\n几个月后，他不只是离开Anthropic，而",
-    "keywords": [
-      "AI",
-      "OpenAI",
-      "Anthropic",
-      "GPT",
+      "人工智能",
       "智能"
-    ],
-    "date": "2026-09-09"
-  },
-  {
-    "title": "从AI到黄金、美债：几乎一切都在冲向高位，市场迎来“Everything High”",
-    "link": "https://wallstreetcn.com/articles/3781410",
-    "source": "华尔街见闻",
-    "category": "other",
-    "summary": "全球市场正在进入一个罕见的“Everything High”阶段：企业盈利、资本开支、大宗商品、利率与市场仓位，越来越多指标同时逼近历史极值。\n最突出的变化来自AI。美国超大规模云厂商未来12个月资本开支预期已升至9400亿美元，较2025年初增长逾三倍；与此同时，标普500指数2026年盈利增长预期升至34%，远高于年初的15%。\n但这轮繁荣并不只发生在科技行业。能源价格快速上涨，黄金储备持续增",
-    "keywords": [
-      "AI"
-    ],
-    "date": "2026-09-09"
-  },
-  {
-    "title": "谷歌宣布在芬兰投资130亿欧元，建至少3座新数据中心",
-    "link": "https://wallstreetcn.com/articles/3781408",
-    "source": "华尔街见闻",
-    "category": "other",
-    "summary": "谷歌母公司Alphabet将在芬兰部署其迄今最大规模的欧洲单笔投资，总额至少达130亿欧元，标志着这家科技巨头正持续加码AI算力基础设施。\n据彭博，Alphabet周三发布声明称，这笔投资将在未来两年用于建设至少三座新数据中心，并扩建其位于芬兰东南部城市哈米纳的现有设施。Alphabet首席投资官Ruth Porat表示：“谷歌很自豪能够进一步深化在芬兰的布局，这是公司在欧洲规模最大的单笔投资。”",
-    "keywords": [
-      "AI"
-    ],
-    "date": "2026-09-09"
-  },
-  {
-    "title": "Deepseek官宣降价！缓存命中单价0.02元、未命中1元，价差50倍",
-    "link": "https://wallstreetcn.com/articles/3781407",
-    "source": "华尔街见闻",
-    "category": "other",
-    "summary": "DeepSeek再度调整API定价策略，这次并非简单的全面降价，而是将降价重点放在“缓存命中”上，同时引入高峰、空闲时段差异化计费，进一步瞄准高频调用和长上下文场景。\n根据DeepSeek开放平台公告，Flash系列将于北京时间2026年9月10日12:00起实施新定价。空闲时段输入缓存命中单价降至0.02元/千token，缓存未命中单价为1元，二者价差达到50倍；输出单价为4元。高峰时段（北京时",
-    "keywords": [
-      "DeepSeek"
-    ],
-    "date": "2026-09-09"
-  },
-  {
-    "title": "从实习生日薪5000，到上亿年薪，AI人才争夺陷入疯狂",
-    "link": "https://wallstreetcn.com/articles/3781404",
-    "source": "华尔街见闻",
-    "category": "other",
-    "summary": "热钱\n得知那位98年的同事，一位一线算法研究员跳槽去一家头部大厂后的年薪时，朱可欣觉得眩晕。\n涨幅高达3倍——朱可欣和同事们在聚餐上猜测对方拿了多少时，“大胆猜测涨50%”。但答案揭晓，是从100万涨到300万，这远超他们预料。一顿饭的时间，饭桌上所有人对自我定价都重估了一遍。\n旧有的薪资坐标被迅速改写，“眩晕”不断发生。距离那次跳槽仅一年过去，朱可欣说，现在已经没人会对一线研究员拿300万年薪感",
-    "keywords": [
-      "AI",
-      "算法"
-    ],
-    "date": "2026-09-09"
-  },
-  {
-    "title": "AI硬件链反弹！拥挤交易过后，TMT目前成交占比到什么位置了？",
-    "link": "https://wallstreetcn.com/member/articles/3781279",
-    "source": "华尔街见闻",
-    "category": "other",
-    "summary": "电子＋通信的成交占比已由6月底最高的42%的回落至9月初的27%，与5月初的位置相当。此外，TMT与全A的滚动40日收益差作为TMT超额收益的重要择时指标，历史上该指标触及-10%是行情底部区域的一个重要提示信号。该指标已于9月初回落至-10%，历史上达到这一水平的包括23年8月、24年2月、25年4月。\n市场究竟站在出清的尾声，还是新一轮拥挤的起点？",
-    "keywords": [
-      "AI"
     ],
     "date": "2026-09-09"
   },
@@ -319,11 +437,148 @@
     "date": "2026-09-09"
   },
   {
+    "title": "OpenAI adds a prominent AI doomer to its board of directors",
+    "link": "https://techcrunch.com/2026/09/09/openai-adds-a-prominent-ai-doomer-to-its-board-of-directors/",
+    "source": "TechCrunch",
+    "category": "other",
+    "summary": "Paul Christiano, an influential AI researcher focused on alignment, is joining the OpenAI Foundation as a member of its board.",
+    "keywords": [
+      "AI",
+      "OpenAI"
+    ],
+    "date": "2026-09-09"
+  },
+  {
+    "title": "Apple Watch’s new AI features are normalizing the idea that technology is always listening",
+    "link": "https://techcrunch.com/2026/09/09/apple-watchs-new-ai-features-are-normalizing-the-idea-that-technology-is-always-listening/",
+    "source": "TechCrunch",
+    "category": "other",
+    "summary": "Apple says its new watches won’t save raw audio, but features that can transcribe recent speech and summarize ambient conversations raise new questions about consent, privacy, and how people behave wh",
+    "keywords": [
+      "AI"
+    ],
+    "date": "2026-09-09"
+  },
+  {
+    "title": "Everything Apple announced at its fall iPhone event, from the foldable iPhone Duo to an always-listening Apple Watch",
+    "link": "https://techcrunch.com/2026/09/09/everything-apple-announced-at-its-fall-iphone-event-from-the-foldable-iphone-duo-to-an-always-listening-apple-watch/",
+    "source": "TechCrunch",
+    "category": "other",
+    "summary": "The main event was the tech giant's highly anticipated first foldable phone, the iPhone Duo.",
+    "keywords": [
+      "AI"
+    ],
+    "date": "2026-09-09"
+  },
+  {
+    "title": "The hinge for Apple’s new foldable phone was built with AI",
+    "link": "https://techcrunch.com/2026/09/09/the-hinge-for-apples-new-foldable-phone-was-built-with-ai/",
+    "source": "TechCrunch",
+    "category": "other",
+    "summary": "Apple says it used AI and 3D printing in the manufacturing process for its long-awaited foldable phone.",
+    "keywords": [
+      "AI"
+    ],
+    "date": "2026-09-09"
+  },
+  {
+    "title": "Apple has a new way to prove your iPhone photos aren’t AI slop",
+    "link": "https://techcrunch.com/2026/09/09/apple-has-a-new-way-prove-your-iphone-photos-arent-ai-slop/",
+    "source": "TechCrunch",
+    "category": "other",
+    "summary": "Apple introduced Apple Reference Image to help users determine whether photos have been edited, including alterations made by AI.",
+    "keywords": [
+      "AI"
+    ],
+    "date": "2026-09-09"
+  },
+  {
+    "title": "Apple CEO John Ternus says the best AI device is still the iPhone",
+    "link": "https://techcrunch.com/2026/09/09/apple-ceo-john-ternus-says-the-best-ai-device-is-still-the-iphone/",
+    "source": "TechCrunch",
+    "category": "other",
+    "summary": "The company also argued that its on-device models offer consumers more privacy.",
+    "keywords": [
+      "AI"
+    ],
+    "date": "2026-09-09"
+  },
+  {
+    "title": "Superintelligence is coming. Should we let it?",
+    "link": "https://techcrunch.com/video/superintelligence-is-coming-should-we-let-it/",
+    "source": "TechCrunch",
+    "category": "other",
+    "summary": "AI companies have been talking about superintelligent AI like&#160;it&#8217;s&#160;inevitable, but recent&#160;safety incidents&#160;like&#160;OpenAI&#8217;s&#160;Hugging Face breach&#160;are&#160;dem",
+    "keywords": [
+      "AI",
+      "OpenAI"
+    ],
+    "date": "2026-09-09"
+  },
+  {
+    "title": "ControlAI’s Connor Leahy on why superintelligence is ‘not a weapon, it’s an adversary’",
+    "link": "https://techcrunch.com/podcast/controlais-connor-leahy-on-why-superintelligence-is-not-a-weapon-its-an-adversary/",
+    "source": "TechCrunch",
+    "category": "other",
+    "summary": "AI companies have been talking about superintelligent AI like&#160;it&#8217;s&#160;inevitable, but recent&#160;safety incidents&#160;like&#160;OpenAI&#8217;s&#160;Hugging Face breach&#160;are&#160;dem",
+    "keywords": [
+      "AI",
+      "OpenAI"
+    ],
+    "date": "2026-09-09"
+  },
+  {
+    "title": "Viral AI assistant Instinct now has its own email address",
+    "link": "https://techcrunch.com/2026/09/09/viral-ai-assistant-instinct-now-has-its-own-email-address/",
+    "source": "TechCrunch",
+    "category": "other",
+    "summary": "Instinct’s new email feature lets the AI agent create and manage accounts, contact businesses, handle support requests, and do more on users' behalf.",
+    "keywords": [
+      "AI",
+      "Agent"
+    ],
+    "date": "2026-09-09"
+  },
+  {
+    "title": "‘Gambling with our lives’: Anthropic researcher quits, warns against self-improving AI",
+    "link": "https://techcrunch.com/2026/09/09/gambling-with-our-lives-anthropic-researcher-quits-warns-against-self-improving-ai/",
+    "source": "TechCrunch",
+    "category": "other",
+    "summary": "Anthropic researcher Jacob Coxon resigned over AI extinction fears, calling for pacing agreements between labs.",
+    "keywords": [
+      "AI",
+      "Anthropic"
+    ],
+    "date": "2026-09-09"
+  },
+  {
+    "title": "Shipt becomes the latest delivery app with an AI shopping assistant",
+    "link": "https://techcrunch.com/2026/09/09/shipt-becomes-the-latest-delivery-app-with-an-ai-shopping-assistant/",
+    "source": "TechCrunch",
+    "category": "other",
+    "summary": "Users can ask the assistant to do things like \"Create a cart for my Saturday tailgate for 25 people and include some brunch items,\" or \"Build a cart for easy school lunches and after-school snacks,\" S",
+    "keywords": [
+      "AI"
+    ],
+    "date": "2026-09-09"
+  },
+  {
+    "title": "AI spend per employee slumped at top firms in August — summer doldrums or a warning sign?",
+    "link": "https://techcrunch.com/2026/09/09/ai-spend-per-employee-slumped-at-top-firms-in-august-summer-doldrums-or-a-warning-sign/",
+    "source": "TechCrunch",
+    "category": "other",
+    "summary": "Falling token costs, cheaper models, and less spend per employee — AI adoption isn't playing out the way hyperscalers hoped.",
+    "keywords": [
+      "AI"
+    ],
+    "date": "2026-09-09"
+  },
+  {
     "title": "Sequoia doubles down on Cymphony as AI agents create new enterprise security risks",
     "link": "https://techcrunch.com/2026/09/09/sequoia-doubles-down-on-cymphony-as-ai-agents-create-new-enterprise-security-risks/",
     "source": "TechCrunch",
     "category": "other",
-    "summary": "Cymphony was valued at more than $100 million in a $25 million Series A co-led by Sequoia and SMBC Fin Atlas Beyond Fund.",
+    "summary": "Cymphony gives security teams a single view of employees, AI agents, and other nonhuman identities, including the systems and sensitive data they can access.",
     "keywords": [
       "AI",
       "Agent"
@@ -346,9 +601,10 @@
     "link": "https://techcrunch.com/2026/09/09/besxar-is-strapping-advanced-chip-fabs-onto-spacexs-falcon-9-rockets/",
     "source": "TechCrunch",
     "category": "other",
-    "summary": "If you want to manufacture in space—and bring the products back again—there&#8217;s a limited set of options: Wait to go to the International Space Station, or partner with a handful of start-ups laun",
+    "summary": "Besxar, a startup founded by former OpenAI staffer Ashley Pilipiszyn, wants to make the key precursors for advanced semiconductors by taking advantage of the vacuum of space.",
     "keywords": [
-      "AI"
+      "AI",
+      "OpenAI"
     ],
     "date": "2026-09-09"
   },
@@ -434,216 +690,5 @@
       "AI"
     ],
     "date": "2026-09-08"
-  },
-  {
-    "title": "天机智能完成B++轮战略融资，蚂蚁集团、SOFINA联合领投",
-    "link": "https://www.pingwest.com/w/317168",
-    "source": "品玩",
-    "category": "funding",
-    "summary": "融资\n\n\n\n天机智能完成B++轮战略融资，蚂蚁集团、SOFINA联合领投",
-    "keywords": [
-      "智能"
-    ],
-    "date": "2026-09-08"
-  },
-  {
-    "title": "NVIDIA CEO黄仁勋宣称AGI已到来 引发业界质疑",
-    "link": "https://www.pingwest.com/w/317165",
-    "source": "品玩",
-    "category": "other",
-    "summary": "英伟达\n\n\n\nNVIDIA CEO黄仁勋宣称AGI已到来 引发业界质疑\n\n据explainx.ai 报道，NVIDIA首席执行官Jensen Huang于9月7日在X平台发文称\"AGI已到来\"，表示GPT-6 Astra由超过10万块NVIDIA Grace Blackwell NVLink72 GPU训练完成，并预告另有40万块GPU即将上线。",
-    "keywords": [
-      "AI",
-      "GPT"
-    ],
-    "date": "2026-09-08"
-  },
-  {
-    "title": "Hackers are stealing Claude tokens from subscribers",
-    "link": "https://techcrunch.com/2026/09/08/hackers-are-stealing-claude-tokens-from-subscribers/",
-    "source": "TechCrunch",
-    "category": "other",
-    "summary": "Last month, a Claude user noticed his account was consuming tokens even though he wasn't working. Anthropic has since warned users about hackers.",
-    "keywords": [
-      "Anthropic",
-      "Claude"
-    ],
-    "date": "2026-09-08"
-  },
-  {
-    "title": "Cognition hits $48B valuation, signaling investors believe AI coding is far from a winner-take-all market",
-    "link": "https://techcrunch.com/2026/09/08/cognition-hits-48b-valuation-signaling-investors-believe-ai-coding-is-far-from-a-winner-take-all-market/",
-    "source": "TechCrunch",
-    "category": "funding",
-    "summary": "Cognition's valuation multiple is higher than Cursor's was before selling to SpaceX.",
-    "keywords": [
-      "AI"
-    ],
-    "date": "2026-09-08"
-  },
-  {
-    "title": "Meta debuts its Muse AI agent. Will consumers trust it?",
-    "link": "https://techcrunch.com/2026/09/08/meta-debuts-its-muse-ai-agent-will-consumers-trust-it/",
-    "source": "TechCrunch",
-    "category": "other",
-    "summary": "Meta's new personal AI agent Muse wants access to users' email, calendars, payments, health services, and more — making the company's biggest consumer AI bet yet a major test of whether people still t",
-    "keywords": [
-      "AI",
-      "Agent"
-    ],
-    "date": "2026-09-08"
-  },
-  {
-    "title": "OpenAI fought dirty on career-making math problem, says NYU mathematician",
-    "link": "https://techcrunch.com/2026/09/08/openai-fought-dirty-on-career-making-math-problem-says-nyu-mathematician/",
-    "source": "TechCrunch",
-    "category": "other",
-    "summary": "There is a $1 million bounty for the first person providing a solution to the Navier-Stokes existence and smoothness problem.",
-    "keywords": [
-      "AI",
-      "OpenAI"
-    ],
-    "date": "2026-09-08"
-  },
-  {
-    "title": "Google Cloud races to catch up in the AI deployment wars with Accenture deal",
-    "link": "https://techcrunch.com/2026/09/08/google-cloud-races-to-catch-up-in-the-ai-deployment-wars-with-accenture-deal/",
-    "source": "TechCrunch",
-    "category": "other",
-    "summary": "Google Cloud expands its enterprise AI push with Accenture, betting on forward-deployed engineers to drive adoption and overcome deployment bottlenecks.",
-    "keywords": [
-      "AI"
-    ],
-    "date": "2026-09-08"
-  },
-  {
-    "title": "Chrome is now shipping updates every 2 weeks as AI changes the security landscape",
-    "link": "https://techcrunch.com/2026/09/08/chrome-is-now-shipping-updates-every-2-weeks-as-ai-changes-the-security-landscape/",
-    "source": "TechCrunch",
-    "category": "other",
-    "summary": "Google is speeding up Chrome’s release schedule to ship security patches and new features faster.",
-    "keywords": [
-      "AI"
-    ],
-    "date": "2026-09-08"
-  },
-  {
-    "title": "Mistral raises €3B as sovereign AI becomes big business",
-    "link": "https://techcrunch.com/2026/09/08/mistral-raises-e3b-as-sovereign-ai-becomes-big-business/",
-    "source": "TechCrunch",
-    "category": "funding",
-    "summary": "The French AI lab has raised €3 billion at a €21 billion valuation in a Series D round led by Samsung, Scaleup Europe, and PSG Equity.",
-    "keywords": [
-      "AI",
-      "Mistral"
-    ],
-    "date": "2026-09-08"
-  },
-  {
-    "title": "轻薄随行，灵感不设限：HUAWEI MatePad Air全新登场",
-    "link": "https://www.pingwest.com/w/317159",
-    "source": "品玩",
-    "category": "other",
-    "summary": "华为\n\n\n\n轻薄随行，灵感不设限：HUAWEI MatePad Air全新登场",
-    "keywords": [
-      "AI"
-    ],
-    "date": "2026-09-07"
-  },
-  {
-    "title": "Opaque recurrence, and other AI terms that you should probably know",
-    "link": "https://techcrunch.com/2026/09/07/artificial-intelligence-definition-glossary-hallucinations-guide-to-common-ai-terms/",
-    "source": "TechCrunch",
-    "category": "other",
-    "summary": "The rise of AI has brought an avalanche of new terms and slang. Here is a glossary with definitions of some of the most important words and phrases you might encounter.",
-    "keywords": [
-      "AI"
-    ],
-    "date": "2026-09-07"
-  },
-  {
-    "title": "Authors push back as publishers and agents make claims on Anthropic settlement",
-    "link": "https://techcrunch.com/2026/09/06/authors-push-back-as-publishers-and-agents-seek-share-of-anthropic-settlement/",
-    "source": "TechCrunch",
-    "category": "other",
-    "summary": "Authors say publishers seem to be claiming more than their fair share of settlement payments.",
-    "keywords": [
-      "AI",
-      "Agent",
-      "Anthropic"
-    ],
-    "date": "2026-09-06"
-  },
-  {
-    "title": "Travis Kalanick’s Atoms might be getting into the robotaxi business",
-    "link": "https://techcrunch.com/2026/09/06/travis-kalanicks-atoms-might-be-getting-into-the-robotaxi-business/",
-    "source": "TechCrunch",
-    "category": "other",
-    "summary": "The Uber founder has said that Atoms will allow him to complete \"unfinished business.\"",
-    "keywords": [
-      "AI"
-    ],
-    "date": "2026-09-06"
-  },
-  {
-    "title": "Seattle Times and Newsday are the latest publications to sue OpenAI and Microsoft",
-    "link": "https://techcrunch.com/2026/09/05/seattle-times-and-newsday-are-the-latest-publications-to-sue-openai-and-microsoft/",
-    "source": "TechCrunch",
-    "category": "other",
-    "summary": "Two more news organizations are suing OpenAI and Microsoft over the supposed use of their journalism to train AI.",
-    "keywords": [
-      "AI",
-      "OpenAI"
-    ],
-    "date": "2026-09-05"
-  },
-  {
-    "title": "Hikers rescued after using Google Gemini for planning",
-    "link": "https://techcrunch.com/2026/09/05/hikers-rescued-after-using-google-gemini-for-planning/",
-    "source": "TechCrunch",
-    "category": "other",
-    "summary": "The sheriff’s office said the hikers “were advised by Gemini to bring far less food and water than their group required.\"",
-    "keywords": [
-      "AI",
-      "Gemini"
-    ],
-    "date": "2026-09-05"
-  },
-  {
-    "title": "OpenAI confirms ‘wiki incident,’ says it’s ‘working on a framework’ for more disclosure",
-    "link": "https://techcrunch.com/2026/09/05/openai-confirms-wiki-incident-says-its-working-on-a-framework-for-more-disclosure/",
-    "source": "TechCrunch",
-    "category": "other",
-    "summary": "OpenAI acknowledged its role in a recently reported incident where AI agents took over a German wiki forum.",
-    "keywords": [
-      "AI",
-      "Agent",
-      "OpenAI"
-    ],
-    "date": "2026-09-05"
-  },
-  {
-    "title": "XDOF, just 3 months out of stealth, is in talks for a Series B at a $1.2B valuation",
-    "link": "https://techcrunch.com/2026/09/04/xdof-just-three-months-out-of-stealth-is-in-talks-for-a-series-b-at-a-1-2b-valuation/",
-    "source": "TechCrunch",
-    "category": "funding",
-    "summary": "The round is being raised just months after the robot data startup exited from stealth.",
-    "keywords": [
-      "AI"
-    ],
-    "date": "2026-09-04"
-  },
-  {
-    "title": "OpenAI’s rogue agents keep escaping, with no formal process to investigate them",
-    "link": "https://techcrunch.com/2026/09/04/openais-rogue-agents-keep-escaping-with-no-formal-process-to-investigate-them/",
-    "source": "TechCrunch",
-    "category": "other",
-    "summary": "OpenAI’s latest agent swarm incident adds urgency to calls for independent investigations as researchers and lawmakers question whether AI labs should control the scope of their own safety reviews.",
-    "keywords": [
-      "AI",
-      "Agent",
-      "OpenAI"
-    ],
-    "date": "2026-09-04"
   }
 ]
