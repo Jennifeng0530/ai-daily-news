@@ -1,5 +1,27 @@
 [
   {
+    "title": "DeepSeek发布V4.1 Flash模型 成本大幅降低性能超越V4 Pro",
+    "link": "https://www.pingwest.com/w/317280",
+    "source": "品玩",
+    "category": "other",
+    "summary": "DEEPseek\n\n\n\nDeepSeek发布V4.1 Flash模型 成本大幅降低性能超越V4 Pro\n\n据DeepSeek 官方消息，DeepSeek发布V4.1 Flash模型，具备多模态视觉理解能力。552B参数MoE架构，采用Causal-Encoder-Decoder结构，输入激活仅8B、输出激活16B，成本低于同尺寸模型，超越V4 Pro。",
+    "keywords": [
+      "DeepSeek"
+    ],
+    "date": "2026-09-10"
+  },
+  {
+    "title": "Marvis Windows 版本更新 最低门槛从6核16GB降到4核8GB",
+    "link": "https://www.pingwest.com/w/317275",
+    "source": "品玩",
+    "category": "other",
+    "summary": "Windows\n\n\n\nMarvis Windows 版本更新 最低门槛从6核16GB降到4核8GB\n\n近日，Marvis Windows 版本更新，新版客户端将最低配置要求从6核16GB下调至4核8GB，让更多低配置PC设备可以安装并使用 Marvis核心AI能力。",
+    "keywords": [
+      "AI"
+    ],
+    "date": "2026-09-10"
+  },
+  {
     "title": "谷歌130亿欧元投资芬兰 建设AI基础设施与清洁能源",
     "link": "https://www.pingwest.com/w/317268",
     "source": "品玩",
@@ -64,11 +86,87 @@
     "date": "2026-09-10"
   },
   {
+    "title": "规避反垄断审查？英伟达被美司法部调查",
+    "link": "https://wallstreetcn.com/articles/3781484",
+    "source": "华尔街见闻",
+    "category": "other",
+    "summary": "英伟达与AI芯片公司Groq的一笔许可协议，正将这家市值5.4万亿美元的芯片巨头拉入反垄断调查的聚光灯下。美国司法部正在审查英伟达是否刻意将这笔交易包装为许可协议，以规避政府对并购交易的常规审查。\n据纽约时报报道，美国司法部已于去年12月该协议宣布后不久启动调查，并向英伟达发出正式信息披露要求。若司法部认定英伟达存在违规行为，可能对其处以罚款，但预计不会要求撤销该交易。知情人士同时强调，调查目前尚",
+    "keywords": [
+      "AI"
+    ],
+    "date": "2026-09-10"
+  },
+  {
+    "title": "Anthropic AI安全负责人：十年内AI灭绝人类概率超10%",
+    "link": "https://wallstreetcn.com/charts/41959807",
+    "source": "华尔街见闻",
+    "category": "other",
+    "summary": "Anthropic负责控制AI风险的人，刚刚公开承认：未来十年，AI杀死全人类的概率，大于10%。\n\n而且，超级智能怎么控制，他们现在还没有解决方案。\n\n就在这之前，Anthropic一位核心AI研究员突然辞职，指责OpenAI和Anthropic，说他们正在拿所有人的命下注。\n\n可即便是这样，没有人敢停下来，谁都不想输。",
+    "keywords": [
+      "AI",
+      "OpenAI",
+      "Anthropic",
+      "智能"
+    ],
+    "date": "2026-09-10"
+  },
+  {
+    "title": "贝莱德：抛弃传统60/40组合，改用50/30/20——20%配私募市场",
+    "link": "https://wallstreetcn.com/articles/3781478",
+    "source": "华尔街见闻",
+    "category": "other",
+    "summary": "人工智能建设浪潮正在重塑资产配置格局。贝莱德高管表示，AI投资机会的兴起代表着\"百年一遇\"的历史性转变，正在加速私募市场的扩张，并推动投资者逐步抛弃延续数十年的60/40股债组合框架。\n贝莱德另类投资专家团队EMEA财富业务董事总经理Fabio Osta在巴黎举行的IPEM全球会议间隙接受CNBC采访时表示，机构投资者和高净值个人均对私募市场表现出\"强烈兴趣\"。他明确建议将传统的60/40股债配置",
+    "keywords": [
+      "AI",
+      "人工智能",
+      "智能"
+    ],
+    "date": "2026-09-10"
+  },
+  {
+    "title": "韩国央行警告：挂钩芯片股的海外衍生品激增，正在放大本土市场波动",
+    "link": "https://wallstreetcn.com/articles/3781477",
+    "source": "华尔街见闻",
+    "category": "other",
+    "summary": "韩国央行在半年度货币政策报告中罕见点名海外对冲基金，警告与韩国芯片制造商挂钩的海外衍生品正以空前速度膨胀，可能进一步放大本土市场波动——在AI半导体投资热潮的表象之下，高杠杆资金正成为韩股波动的新变量。\n报告点名总部位于美国、专注于人工智能的对冲基金Situational Awareness，称其在建立和解开全球存储芯片公司头寸时据报使用了高达4倍的杠杆，并将其列为加剧7月市场大跌波动的一个因素。",
+    "keywords": [
+      "AI",
+      "人工智能",
+      "智能"
+    ],
+    "date": "2026-09-10"
+  },
+  {
+    "title": "五六年前看100家公司，现在全世界只谈前10家",
+    "link": "https://wallstreetcn.com/charts/41959806",
+    "source": "华尔街见闻",
+    "category": "other",
+    "summary": "红杉资本合伙人David Cahn在采访中谈到了AI投资与风险投资格局的变化：五六年前，投资人关注上百家潜力公司，如今资本和市场注意力却高度集中于OpenAI、Anthropic、xAI、SpaceX等头部企业。\n\n随着Hugging Face、OpenRouter等公司崛起，以及头部AI企业即将IPO，市场估值体系可能被重新定义。\n\nSpaceX的表现也被视为重要风向标，未来资本流动和AI公司估",
+    "keywords": [
+      "AI",
+      "OpenAI",
+      "Anthropic",
+      "xAI"
+    ],
+    "date": "2026-09-10"
+  },
+  {
     "title": "AI瓶颈交易还存在吗？反方：2028产能大过剩，人类总是建过头",
     "link": "https://wallstreetcn.com/charts/41959804",
     "source": "华尔街见闻",
     "category": "other",
     "summary": "9月9日，半导体分析师Ben Bajarin和Jay Goldberg讨论认为2027年AI基础设施瓶颈或将缓解，但随之而来的是2028年产能大规模过剩的风险。历史规律表明，每次资本密集型基础设施繁荣，人类都会过度建设。",
+    "keywords": [
+      "AI"
+    ],
+    "date": "2026-09-10"
+  },
+  {
+    "title": "硅谷都在聊些什么？AI下半场开始！高盛Communacopia + TMT大会现场解码巨头框架",
+    "link": "https://wallstreetcn.com/member/articles/3781467",
+    "source": "华尔街见闻",
+    "category": "other",
+    "summary": "Broadcom CEO Hock Tan给出1GW Frontier算力的$300亿ARR vs $100亿成本的拆解框架——意味着剩余$200亿由模型层+应用层捕获、$100亿由Cloud+Chip+Memory+Power全产业链竞争；AMD CFO Jean Hu披露未来5年$1,050亿TAM以及Helios机架级路线图；Google Cloud CEO Thomas Kurian则首次",
     "keywords": [
       "AI"
     ],
@@ -162,54 +260,6 @@
     "summary": "AI算力军备竞赛正驶向一个关键拐点。\n随着博通、英伟达等科技巨头在2025年底至2026年初与供应链签署大规模长期锁单协议，半导体行业正在经历史上规模最大的一轮资本扩张，而这笔投资的真正落地，将在2028年引爆一场关于供需格局的根本性争论。\n9月9日，深度行业播客节目《The Circuit》上科技分析师Ben Bajarin与Jay Goldberg就AI芯片周期展开正面交锋。\nBen Baja",
     "keywords": [
       "AI"
-    ],
-    "date": "2026-09-10"
-  },
-  {
-    "title": "中国出口增速再超25%！量价分化加剧，高增还能走多远？",
-    "link": "https://wallstreetcn.com/member/articles/3781437",
-    "source": "华尔街见闻",
-    "category": "other",
-    "summary": "9月8日，海关总署公布数据显示，8月份中国出口同比增长25.0%（美元计价），较7月23.9%进一步加快，连续三个月保持20%以上；进口同比增长28.2%，贸易顺差达到1191亿美元。今年以来贸易顺差累计接近8060亿美元，远超2025年同期。从结构上看，出口高增的核心驱动力继续来自于AI产业链及绿色科技。高新技术产品出口额增长57.2%。其中集成电路出口增长129.8%，连续四个月保持三位数增长",
-    "keywords": [
-      "AI"
-    ],
-    "date": "2026-09-10"
-  },
-  {
-    "title": "网络带宽会是Agent时代的“瓶颈”吗？",
-    "link": "https://wallstreetcn.com/charts/41959801",
-    "source": "华尔街见闻",
-    "category": "other",
-    "summary": "思科总裁Chuck Robbins在高盛TMT大会上发言\n\nAI智能体消耗的网络带宽约为人类的5倍。\n\n当数万亿个智能体7×24小时不停运转，网络带宽需求将大幅攀升。",
-    "keywords": [
-      "AI",
-      "Agent",
-      "智能"
-    ],
-    "date": "2026-09-10"
-  },
-  {
-    "title": "吹高了日元，却没守住美债！贝森特是美股“猪队友”？",
-    "link": "https://wallstreetcn.com/articles/3781454",
-    "source": "华尔街见闻",
-    "category": "other",
-    "summary": "美国财政部部长贝森特本周连续出手：先是高调警告市场不要做空日元，日元随即走强；紧接着大幅扩大美债回购规模，试图压住长端收益率。结果，日元涨了，但美债跌了。\n两件事单独看，各有逻辑。合在一起，却构成了对美股近四年牛市的双重威胁——日元走强冲击套息交易，美债收益率走高压制估值。\n9月9日周三，美股连续第三日下跌。道指跌逾400点，跌幅0.8%；标普500跌0.5%；纳斯达克跌0.6%。AI科技股首当其",
-    "keywords": [
-      "AI"
-    ],
-    "date": "2026-09-10"
-  },
-  {
-    "title": "OpenAI\"失控\"智能体活动范围远超此前披露，公司任命安全研究员入驻董事会",
-    "link": "https://wallstreetcn.com/articles/3781443",
-    "source": "华尔街见闻",
-    "category": "other",
-    "summary": "独立研究人员发现，OpenAI\"失控\"智能体活动范围远超此前披露。与此同时，OpenAI宣布将一名知名AI安全研究员纳入非营利董事会，此举被外界视为对日益高涨的安全质疑的回应。\n9月9日，据路透社报道，六组独立调查人员及其审阅的数据显示，OpenAI智能体在今年5月至7月间曾借助至少18个此前未披露的网站相互传递信息。\n加利福尼亚州非营利机构CivAI研究员Andrew Yoon表示，这一规模\"比",
-    "keywords": [
-      "AI",
-      "OpenAI",
-      "智能"
     ],
     "date": "2026-09-10"
   },
@@ -384,53 +434,6 @@
     "source": "品玩",
     "category": "funding",
     "summary": "融资\n\n\n\n无问智科完成数亿元A轮融资，加速建设物理AI数据基础设施",
-    "keywords": [
-      "AI"
-    ],
-    "date": "2026-09-09"
-  },
-  {
-    "title": "报道：OpenAI预计2030年算力支出7500亿美元！公司仍直呼“算力非常不足”",
-    "link": "https://wallstreetcn.com/articles/3781418",
-    "source": "华尔街见闻",
-    "category": "other",
-    "summary": "OpenAI上调算力支出至7500亿美元，供应缺口将AI基础设施板块推至压力测试边缘。\n9月9日，据纽约时报DealBook援引一名了解相关数据的未具名人士报道，OpenAI目前仍感觉算力“非常不足”。\nOpenAI预计，到2030年其算力支出将达到约7500亿美元，较此前约6000亿美元的预测上调逾25%。\n这一表态意味着，芯片、数据中心、电力及网络资源的实际供给，尚未跟上头部模型开发和部署的需",
-    "keywords": [
-      "AI",
-      "OpenAI"
-    ],
-    "date": "2026-09-09"
-  },
-  {
-    "title": "华尔街见闻早餐FM-Radio | 2026年9月10日",
-    "link": "https://wallstreetcn.com/articles/3781450",
-    "source": "华尔街见闻",
-    "category": "other",
-    "summary": "华见早安之声\n请各位听众升级为见闻最新版APP，以便成功收听以下音频。\n\n要闻精选\n\n特朗普：美国中选后伊朗战事会“立即”结束、油价会跌，普京“想达成协议”。伊朗宣布设立新的海上\"制裁区域\"并袭击美军基地，美军打击伊朗油轮，中东局势升级推动布伦特原油一个多月来首次站上100美元、收报101.21美元。\n中国商务部：美方AI蒸馏指控是推行科技霸权、搞算力垄断，中方坚决反对。\n国家统计局数据显示，中国",
-    "keywords": [
-      "AI"
-    ],
-    "date": "2026-09-09"
-  },
-  {
-    "title": "创纪录！单日6家美国企业赴欧发债，AI借贷潮挤压美国本土债市",
-    "link": "https://wallstreetcn.com/articles/3781449",
-    "source": "华尔街见闻",
-    "category": "other",
-    "summary": "人工智能军备竞赛引发的借贷浪潮正将美国企业推向大西洋彼岸。在美国债券市场被AI相关融资需求严重挤占之际，美国企业赴欧发债规模正在加速创下历史纪录。\n周三，亚马逊完成首次英镑债券发行，Uber Technologies完成欧元市场首次发行，当日共有六家美国企业在欧洲发债。据彭博汇编数据，这是欧洲市场单日接纳美国发行人数量最多的一次。\n在周三交易完成之前，今年美国企业在欧洲债市的发行规模已达1490亿",
-    "keywords": [
-      "AI",
-      "人工智能",
-      "智能"
-    ],
-    "date": "2026-09-09"
-  },
-  {
-    "title": "美伊战事推升油价逼近百元关口，亚洲芯片股延续涨势，SK海力士涨逾3%，金银齐升",
-    "link": "https://wallstreetcn.com/articles/3781389",
-    "source": "华尔街见闻",
-    "category": "other",
-    "summary": "中东局势急剧恶化，布伦特原油逼近100美元关口，而亚洲芯片股则在AI交易持续火热的带动下延续涨势。\n周三韩国综合指数日内涨幅扩大至2%，三星电子和SK海力士双双走强，此前费城半导体指数周二在美股交易中上涨1.3%。MSCI亚太指数整体上涨0.6%，信息技术板块贡献最大。\n\n据新华社报道，美军周二摧毁了五艘伊朗原油油轮，以报复伊朗伊斯兰革命卫队在过去两天内两度向美国军舰发射弹道导弹。受此影响，布伦特",
     "keywords": [
       "AI"
     ],
@@ -677,17 +680,6 @@
       "Agent",
       "通义千问",
       "Perplexity"
-    ],
-    "date": "2026-09-08"
-  },
-  {
-    "title": "微信内测\"小微AI社交\"功能 AI助手可代为协调社交事务",
-    "link": "https://www.pingwest.com/w/317175",
-    "source": "品玩",
-    "category": "other",
-    "summary": "微信\n\n\n\n微信内测\"小微AI社交\"功能 AI助手可代为协调社交事务\n\n据techWeb报道，微信正在小范围内测\"小微AI社交\"功能。用户只需向AI助手\"小微\"下达指令，即可联系好友的\"小微\"进行对话，代为完成约饭、协调日程等社交事务。",
-    "keywords": [
-      "AI"
     ],
     "date": "2026-09-08"
   }
