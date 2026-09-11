@@ -1,5 +1,247 @@
 [
   {
+    "title": "DeepMind发布AlphaGenome Atlas 覆盖90亿种基因突变",
+    "link": "https://www.pingwest.com/w/317315",
+    "source": "品玩",
+    "category": "other",
+    "summary": "谷歌\n\n\n\nDeepMind发布AlphaGenome Atlas 覆盖90亿种基因突变\n\n据谷歌官方消息，DeepMind正式发布AlphaGenome Atlas，这是一个预测人类基因组中所有90亿种单核苷酸变异影响的庞大数据库，数据规模达1PB。",
+    "keywords": [
+      "DeepMind"
+    ],
+    "date": "2026-09-11"
+  },
+  {
+    "title": "Suno发布v6模型 首次采用正版授权音乐训练",
+    "link": "https://www.pingwest.com/w/317314",
+    "source": "品玩",
+    "category": "other",
+    "summary": "Suno\n\n\n\nSuno发布v6模型 首次采用正版授权音乐训练\n\nSuno官方消息，正式发布v6模型家族，这是其首个获得版权授权的AI音乐生成模型，训练数据来自华纳音乐、BMG和Believe/TuneCore。v6包含v6、v6-wild和v6-mini三款，分别面向精细创作、实验探索和快速生成。",
+    "keywords": [
+      "AI"
+    ],
+    "date": "2026-09-11"
+  },
+  {
+    "title": "OpenAI发布Agents API开放Codex基础设施",
+    "link": "https://www.pingwest.com/w/317311",
+    "source": "品玩",
+    "category": "other",
+    "summary": "OpenAI\n\n\n\nOpenAI发布Agents API开放Codex基础设施\n\n据 marktechpost 报道，OpenAI正式发布Agents API公开测试版，开放Codex托管基础设施。",
+    "keywords": [
+      "AI",
+      "Agent",
+      "OpenAI"
+    ],
+    "date": "2026-09-11"
+  },
+  {
+    "title": "OpenAI暂停Pro套餐新订阅 应对Astra模型算力需求",
+    "link": "https://www.pingwest.com/w/317302",
+    "source": "品玩",
+    "category": "other",
+    "summary": "OpenAI\n\n\n\nOpenAI暂停Pro套餐新订阅 应对Astra模型算力需求\n\n据 TechCrunch 报道，最新模型Astra需求空前，OpenAI宣布暂停每月200美元Pro套餐的新增订阅。",
+    "keywords": [
+      "AI",
+      "OpenAI"
+    ],
+    "date": "2026-09-11"
+  },
+  {
+    "title": "字节跳动聘请前Coatue高管，加码AI领域投资交易",
+    "link": "https://www.pingwest.com/w/317297",
+    "source": "品玩",
+    "category": "other",
+    "summary": "字节跳动\n\n\n\n字节跳动聘请前Coatue高管，加码AI领域投资交易\n\n据Panews 报道，字节跳动有限公司聘请了Coatue Management的前高管掌管企业投资团队。这家中国社交媒体巨头正加速投资布局，以推进其快速扩张的人工智能战略。",
+    "keywords": [
+      "AI",
+      "人工智能",
+      "智能"
+    ],
+    "date": "2026-09-11"
+  },
+  {
+    "title": "宇树科技开源UnifoLM-WLA-1.0人形机器人基础模型",
+    "link": "https://www.pingwest.com/w/317294",
+    "source": "品玩",
+    "category": "other",
+    "summary": "宇树科技\n\n\n\n宇树科技开源UnifoLM-WLA-1.0人形机器人基础模型\n\n据humanoidsdaily 报道，宇树科技宣布全面开源新一代通用人形机器人基础模型UnifoLM-WLA-1.0。",
+    "keywords": [
+      "AI",
+      "机器人"
+    ],
+    "date": "2026-09-11"
+  },
+  {
+    "title": "DeepSeek发布V4.1 Flash模型 成本大幅降低性能超越V4 Pro",
+    "link": "https://www.pingwest.com/w/317280",
+    "source": "品玩",
+    "category": "other",
+    "summary": "DEEPseek\n\n\n\nDeepSeek发布V4.1 Flash模型 成本大幅降低性能超越V4 Pro\n\n据DeepSeek 官方消息，DeepSeek发布V4.1 Flash模型，具备多模态视觉理解能力。552B参数MoE架构，采用Causal-Encoder-Decoder结构，输入激活仅8B、输出激活16B，成本低于同尺寸模型，超越V4 Pro。",
+    "keywords": [
+      "DeepSeek"
+    ],
+    "date": "2026-09-10"
+  },
+  {
+    "title": "Marvis Windows 版本更新 最低门槛从6核16GB降到4核8GB",
+    "link": "https://www.pingwest.com/w/317275",
+    "source": "品玩",
+    "category": "other",
+    "summary": "Windows\n\n\n\nMarvis Windows 版本更新 最低门槛从6核16GB降到4核8GB\n\n近日，Marvis Windows 版本更新，新版客户端将最低配置要求从6核16GB下调至4核8GB，让更多低配置PC设备可以安装并使用 Marvis核心AI能力。",
+    "keywords": [
+      "AI"
+    ],
+    "date": "2026-09-10"
+  },
+  {
+    "title": "谷歌130亿欧元投资芬兰 建设AI基础设施与清洁能源",
+    "link": "https://www.pingwest.com/w/317268",
+    "source": "品玩",
+    "category": "other",
+    "summary": "谷歌\n\n\n\n谷歌130亿欧元投资芬兰 建设AI基础设施与清洁能源\n\n谷歌官方近日宣布，未来两年将在芬兰投资至少130亿欧元，用于建设人工智能基础设施及清洁能源项目。这是谷歌在欧洲迄今最大规模的单笔投资，旨在满足Search、Maps和Gemini等核心服务日益增长的算力需求。",
+    "keywords": [
+      "AI",
+      "人工智能",
+      "Gemini",
+      "智能"
+    ],
+    "date": "2026-09-10"
+  },
+  {
+    "title": "OpenAI悄然限制竞品AI广告投放 广告业务面临收入考验",
+    "link": "https://www.pingwest.com/w/317267",
+    "source": "品玩",
+    "category": "other",
+    "summary": "OpenAI\n\n\n\nOpenAI悄然限制竞品AI广告投放 广告业务面临收入考验\n\n据 Kobaran报道，OpenAI悄然更新广告政策，禁止在ChatGPT内投放独立的图像与音频生成类AI产品广告。",
+    "keywords": [
+      "AI",
+      "OpenAI",
+      "GPT",
+      "ChatGPT"
+    ],
+    "date": "2026-09-10"
+  },
+  {
+    "title": "智元发布GE-Act 2.0 原生世界—动作模型Scaling路径获验证",
+    "link": "https://www.pingwest.com/w/317265",
+    "source": "品玩",
+    "category": "other",
+    "summary": "智元机器人\n\n\n\n智元发布GE-Act 2.0 原生世界—动作模型Scaling路径获验证\n\n据智元机器人官方消息，智元发布原生世界—动作模型GE-Act 2.0，所有参数从随机初始化开始在具身操作数据上从头训练，不针对评测任务做微调或示范，直接在陌生场景接受零样本检验。",
+    "keywords": [
+      "机器人"
+    ],
+    "date": "2026-09-10"
+  },
+  {
+    "title": "OpenAI最强模型GPT-6 Astra正式登陆Amazon Bedrock",
+    "link": "https://www.pingwest.com/w/317260",
+    "source": "品玩",
+    "category": "other",
+    "summary": "亚马逊\n\n\n\nOpenAI最强模型GPT-6 Astra正式登陆Amazon Bedrock\n\n据亚马逊官方消息，OpenAI最新旗舰模型GPT-6 Astra现已在Amazon Bedrock正式可用，企业可通过API直接调用，或在ChatGPT Work与Codex中配置接入。",
+    "keywords": [
+      "AI",
+      "OpenAI",
+      "GPT",
+      "ChatGPT"
+    ],
+    "date": "2026-09-10"
+  },
+  {
+    "title": "会翻译的耳机走进东南亚：3C卖家如何拓展智能音频新场景",
+    "link": "https://www.pingwest.com/a/317236",
+    "source": "品玩",
+    "category": "other",
+    "summary": "会翻译的耳机走进东南亚：3C卖家如何拓展智能音频新场景\n\n从耳机产品切入，逐步走向品牌化运营",
+    "keywords": [
+      "智能"
+    ],
+    "date": "2026-09-10"
+  },
+  {
+    "title": "Jensen Huang explains why Nvidia will grow an astounding 70% next year",
+    "link": "https://techcrunch.com/2026/09/10/jensen-huang-explains-why-nvidia-will-grow-an-astounding-70-next-year/",
+    "source": "TechCrunch",
+    "category": "other",
+    "summary": "Nvidia has its finger in every pie, and sees another year of plenty in its future, Jensen Huang says. But, he insists, its deals are not circular.",
+    "keywords": [
+      "AI"
+    ],
+    "date": "2026-09-10"
+  },
+  {
+    "title": "OpenAI puts Pro subscriptions on hold due to Astra demand",
+    "link": "https://techcrunch.com/2026/09/10/openai-puts-pro-subscriptions-on-hold-due-to-astra-demand/",
+    "source": "TechCrunch",
+    "category": "other",
+    "summary": "The company said Pro subscriptions put the most strain on its systems, so it's pausing sign-ups while adding more capacity.",
+    "keywords": [
+      "AI",
+      "OpenAI"
+    ],
+    "date": "2026-09-10"
+  },
+  {
+    "title": "Anthropic details distillation campaigns from Alibaba, Moonshot AI, and DeepSeek",
+    "link": "https://techcrunch.com/2026/09/10/anthropic-details-distillation-campaigns-from-alibaba-moonshot-ai-and-deepseek/",
+    "source": "TechCrunch",
+    "category": "other",
+    "summary": "A new report released Thursday by Anthropic alleges persistent distillation attacks by China-based AI companies, which have escalated in recent months as competition in the space has intensified.",
+    "keywords": [
+      "AI",
+      "Anthropic",
+      "DeepSeek"
+    ],
+    "date": "2026-09-10"
+  },
+  {
+    "title": "Meta’s AI agent Muse is now the No. 2 app in the US",
+    "link": "https://techcrunch.com/2026/09/10/metas-ai-agent-muse-is-now-the-no-2-app-in-the-us/",
+    "source": "TechCrunch",
+    "category": "other",
+    "summary": "Meta's newest app Muse is off to a slower start than the company's other apps, like Meta AI or Threads.",
+    "keywords": [
+      "AI",
+      "Agent"
+    ],
+    "date": "2026-09-10"
+  },
+  {
+    "title": "Anthropic reveals rogue AI agents hate CAPTCHAs, just like you",
+    "link": "https://techcrunch.com/2026/09/10/anthropic-reveals-rogue-ai-agents-hate-captchas-just-like-you/",
+    "source": "TechCrunch",
+    "category": "other",
+    "summary": "Come inside the mind of a bot trying to convince the internet it's human.",
+    "keywords": [
+      "AI",
+      "Agent",
+      "Anthropic"
+    ],
+    "date": "2026-09-10"
+  },
+  {
+    "title": "India’s Pocket FM doubles revenue run rate to $500M as AI powers 93% of audio content",
+    "link": "https://techcrunch.com/2026/09/10/indias-pocket-fm-doubles-revenue-run-rate-to-500m-as-ai-powers-93-of-audio-content/",
+    "source": "TechCrunch",
+    "category": "other",
+    "summary": "Pocket FM uses AI to produce 99% of its new content, helping make content production about 80 times cheaper.",
+    "keywords": [
+      "AI"
+    ],
+    "date": "2026-09-10"
+  },
+  {
+    "title": "AI agents are flooding public services with new requests",
+    "link": "https://techcrunch.com/2026/09/10/ai-agents-are-flooding-public-services-with-new-requests/",
+    "source": "TechCrunch",
+    "category": "other",
+    "summary": "“The vast majority of cases we find are people who are entitled to claim for something, claiming for that thing,” the researcher told TechCrunch.",
+    "keywords": [
+      "AI",
+      "Agent"
+    ],
+    "date": "2026-09-10"
+  },
+  {
     "title": "AI research startup Listen Labs scrubbed a $1.5B funding round for Salesforce talks",
     "link": "https://techcrunch.com/2026/09/09/ai-research-startup-listen-labs-scrubbed-a-1-5b-funding-round-for-salesforce-talks/",
     "source": "TechCrunch",
@@ -9,6 +251,148 @@
       "AI"
     ],
     "date": "2026-09-10"
+  },
+  {
+    "title": "一文看完苹果发布会：折叠iPhone又给所有手机上了一课（除了AI）",
+    "link": "https://www.pingwest.com/a/317256",
+    "source": "品玩",
+    "category": "other",
+    "summary": "苹果\n\n\n\n一文看完苹果发布会：折叠iPhone又给所有手机上了一课（除了AI）\n\n这家科技巨头仍然是地球上最注重细节的公司。",
+    "keywords": [
+      "AI"
+    ],
+    "date": "2026-09-09"
+  },
+  {
+    "title": "AI越会写代码，Arm越要争取开发者",
+    "link": "https://www.pingwest.com/a/317255",
+    "source": "品玩",
+    "category": "other",
+    "summary": "ARM\n\n\n\nAI越会写代码，Arm越要争取开发者\n\n开发者是永远的入口",
+    "keywords": [
+      "AI"
+    ],
+    "date": "2026-09-09"
+  },
+  {
+    "title": "AI开始干活，Arm把CPU推回台前",
+    "link": "https://www.pingwest.com/a/317254",
+    "source": "品玩",
+    "category": "other",
+    "summary": "AI开始干活，Arm把CPU推回台前\n\nAI时代的 Arm",
+    "keywords": [
+      "AI"
+    ],
+    "date": "2026-09-09"
+  },
+  {
+    "title": "人类还在研究 AI，AI 已经开始研究同行了",
+    "link": "https://www.pingwest.com/w/317244",
+    "source": "品玩",
+    "category": "other",
+    "summary": "AI大模型\n\n\n\n人类还在研究 AI，AI 已经开始研究同行了\n\n如果实现了会发生什么？",
+    "keywords": [
+      "AI",
+      "大模型"
+    ],
+    "date": "2026-09-09"
+  },
+  {
+    "title": "三星与Mistral AI达成战略合作 强化AI芯片制造能力",
+    "link": "https://www.pingwest.com/w/317242",
+    "source": "品玩",
+    "category": "other",
+    "summary": "mistralAI\n\n\n\n三星与Mistral AI达成战略合作 强化AI芯片制造能力\n\n据三星官方消息，三星电子宣布与法国AI公司Mistral AI达成战略合作，以强化其在AI芯片技术领域的领先地位。",
+    "keywords": [
+      "AI",
+      "Mistral"
+    ],
+    "date": "2026-09-09"
+  },
+  {
+    "title": "面壁智能开源MiniCPM5-2B 端侧通用Agent能力初具雏形",
+    "link": "https://www.pingwest.com/w/317241",
+    "source": "品玩",
+    "category": "other",
+    "summary": "面壁智能\n\n\n\n面壁智能开源MiniCPM5-2B 端侧通用Agent能力初具雏形\n\n据面壁智能官方消息，面壁智能联合OpenBMB开源新一代端侧语言基座模型MiniCPM5-2B。该模型仅2B参数，支持工具调用、深度搜索与代码生成，初步实现端侧通用Agent雏形。",
+    "keywords": [
+      "Agent",
+      "智能"
+    ],
+    "date": "2026-09-09"
+  },
+  {
+    "title": "Meta发布个人AI助手Muse 基于安全虚拟机运行",
+    "link": "https://www.pingwest.com/w/317235",
+    "source": "品玩",
+    "category": "other",
+    "summary": "META\n\n\n\nMeta发布个人AI助手Muse 基于安全虚拟机运行\n\nMeta官方消息，meta正式发布个人AI助手Muse，可协助完成邮件发送、旅行预订等任务，并将长期目标转化为行动计划。",
+    "keywords": [
+      "AI"
+    ],
+    "date": "2026-09-09"
+  },
+  {
+    "title": "微软推出Project Opal：AI智能体在云端桌面自主执行任务",
+    "link": "https://www.pingwest.com/w/317234",
+    "source": "品玩",
+    "category": "other",
+    "summary": "微软\n\n\n\n微软推出Project Opal：AI智能体在云端桌面自主执行任务\n\n据 aiweekly 报道，微软近日宣布为Microsoft 365 Copilot推出全新AI功能Project Opal，该功能可在安全、可观测的环境中自主执行基于任务的复杂工作。",
+    "keywords": [
+      "AI",
+      "Copilot",
+      "智能"
+    ],
+    "date": "2026-09-09"
+  },
+  {
+    "title": "OpenAI发布ChatGPT Images 2.5 图像生成延迟最高降低50%",
+    "link": "https://www.pingwest.com/w/317233",
+    "source": "品玩",
+    "category": "other",
+    "summary": "OpenAI\n\n\n\nOpenAI发布ChatGPT Images 2.5 图像生成延迟最高降低50%\n\n据9to5google 报道，OpenAI正式推出ChatGPT Images 2.5，在生成速度、编辑精度与画质上实现显著升级。",
+    "keywords": [
+      "AI",
+      "OpenAI",
+      "GPT",
+      "ChatGPT"
+    ],
+    "date": "2026-09-09"
+  },
+  {
+    "title": "Anthropic放弃收购Decart 潜在原因与后续影响引发关注",
+    "link": "https://www.pingwest.com/w/317232",
+    "source": "品玩",
+    "category": "other",
+    "summary": "Anthropic\n\n\n\nAnthropic放弃收购Decart 潜在原因与后续影响引发关注\n\n据.calcalistech报道，Anthropic在尽职调查后期突然放弃以60亿至70亿美元收购以色列AI初创公司Decart的交易。",
+    "keywords": [
+      "AI",
+      "Anthropic"
+    ],
+    "date": "2026-09-09"
+  },
+  {
+    "title": "腾讯文档全端升级 正式推出AI工作台",
+    "link": "https://www.pingwest.com/w/317229",
+    "source": "品玩",
+    "category": "other",
+    "summary": "腾讯文档 \n\n\n\n腾讯文档全端升级 正式推出AI工作台\n\n据腾讯文档官方消息，腾讯文档AI服务全端升级，正式推出「AI工作台」。该工作台基于WorkBuddy提供的Agent内核框架，结合腾讯文档自研的高性能编辑引擎及专业Skill，让AI能够理解并操作真实文件，进入办公任务的完整流程。",
+    "keywords": [
+      "AI",
+      "Agent"
+    ],
+    "date": "2026-09-09"
+  },
+  {
+    "title": "百度搭子搭配小度，智能体既要办公也要“管家”",
+    "link": "https://www.pingwest.com/a/317204",
+    "source": "品玩",
+    "category": "other",
+    "summary": "百度搭子搭配小度，智能体既要办公也要“管家”\n\n软硬件协同，做个全能搭子",
+    "keywords": [
+      "智能"
+    ],
+    "date": "2026-09-09"
   },
   {
     "title": "OpenAI adds a prominent AI doomer to its board of directors",
@@ -86,110 +470,6 @@
     "keywords": [
       "AI",
       "OpenAI"
-    ],
-    "date": "2026-09-09"
-  },
-  {
-    "title": "ControlAI’s Connor Leahy on why superintelligence is ‘not a weapon, it’s an adversary’",
-    "link": "https://techcrunch.com/podcast/controlais-connor-leahy-on-why-superintelligence-is-not-a-weapon-its-an-adversary/",
-    "source": "TechCrunch",
-    "category": "other",
-    "summary": "AI companies have been talking about superintelligent AI like&#160;it&#8217;s&#160;inevitable, but recent&#160;safety incidents&#160;like&#160;OpenAI&#8217;s&#160;Hugging Face breach&#160;are&#160;dem",
-    "keywords": [
-      "AI",
-      "OpenAI"
-    ],
-    "date": "2026-09-09"
-  },
-  {
-    "title": "Viral AI assistant Instinct now has its own email address",
-    "link": "https://techcrunch.com/2026/09/09/viral-ai-assistant-instinct-now-has-its-own-email-address/",
-    "source": "TechCrunch",
-    "category": "other",
-    "summary": "Instinct’s new email feature lets the AI agent create and manage accounts, contact businesses, handle support requests, and do more on users' behalf.",
-    "keywords": [
-      "AI",
-      "Agent"
-    ],
-    "date": "2026-09-09"
-  },
-  {
-    "title": "‘Gambling with our lives’: Anthropic researcher quits, warns against self-improving AI",
-    "link": "https://techcrunch.com/2026/09/09/gambling-with-our-lives-anthropic-researcher-quits-warns-against-self-improving-ai/",
-    "source": "TechCrunch",
-    "category": "other",
-    "summary": "Anthropic researcher Jacob Coxon resigned over AI extinction fears, calling for pacing agreements between labs.",
-    "keywords": [
-      "AI",
-      "Anthropic"
-    ],
-    "date": "2026-09-09"
-  },
-  {
-    "title": "Shipt becomes the latest delivery app with an AI shopping assistant",
-    "link": "https://techcrunch.com/2026/09/09/shipt-becomes-the-latest-delivery-app-with-an-ai-shopping-assistant/",
-    "source": "TechCrunch",
-    "category": "other",
-    "summary": "Users can ask the assistant to do things like \"Create a cart for my Saturday tailgate for 25 people and include some brunch items,\" or \"Build a cart for easy school lunches and after-school snacks,\" S",
-    "keywords": [
-      "AI"
-    ],
-    "date": "2026-09-09"
-  },
-  {
-    "title": "AI spend per employee slumped at top firms in August — summer doldrums or a warning sign?",
-    "link": "https://techcrunch.com/2026/09/09/ai-spend-per-employee-slumped-at-top-firms-in-august-summer-doldrums-or-a-warning-sign/",
-    "source": "TechCrunch",
-    "category": "other",
-    "summary": "Falling token costs, cheaper models, and less spend per employee — AI adoption isn't playing out the way hyperscalers hoped.",
-    "keywords": [
-      "AI"
-    ],
-    "date": "2026-09-09"
-  },
-  {
-    "title": "Sequoia doubles down on Cymphony as AI agents create new enterprise security risks",
-    "link": "https://techcrunch.com/2026/09/09/sequoia-doubles-down-on-cymphony-as-ai-agents-create-new-enterprise-security-risks/",
-    "source": "TechCrunch",
-    "category": "other",
-    "summary": "Cymphony gives security teams a single view of employees, AI agents, and other nonhuman identities, including the systems and sensitive data they can access.",
-    "keywords": [
-      "AI",
-      "Agent"
-    ],
-    "date": "2026-09-09"
-  },
-  {
-    "title": "Instacart launches an AI grocery shopping assistant called Clementine",
-    "link": "https://techcrunch.com/2026/09/09/instacart-launches-an-ai-grocery-shopping-assistant-called-clementine/",
-    "source": "TechCrunch",
-    "category": "other",
-    "summary": "Instacart is the latest app to bake a conversational AI assistant into its platform.",
-    "keywords": [
-      "AI"
-    ],
-    "date": "2026-09-09"
-  },
-  {
-    "title": "Besxar is building an orbital semiconductor factory, one SpaceX rocket at a time",
-    "link": "https://techcrunch.com/2026/09/09/besxar-is-strapping-advanced-chip-fabs-onto-spacexs-falcon-9-rockets/",
-    "source": "TechCrunch",
-    "category": "other",
-    "summary": "Besxar, a startup founded by former OpenAI staffer Ashley Pilipiszyn, wants to make the key precursors for advanced semiconductors by taking advantage of the vacuum of space.",
-    "keywords": [
-      "AI",
-      "OpenAI"
-    ],
-    "date": "2026-09-09"
-  },
-  {
-    "title": "Suno replaces its AI models with a new one trained on licensed music as copyright suits pile up",
-    "link": "https://techcrunch.com/2026/09/09/suno-replaces-its-ai-models-with-a-new-one-trained-on-licensed-music-as-copyright-suits-pile-up/",
-    "source": "TechCrunch",
-    "category": "other",
-    "summary": "As it grapples with a bevy of lawsuits, Suno said its new model, Suno v6, is not trained using music it used to train previous versions of the AI model.",
-    "keywords": [
-      "AI"
     ],
     "date": "2026-09-09"
   }
