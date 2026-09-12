@@ -1,5 +1,290 @@
 [
   {
+    "title": "OpenAI的担心反而是具身的正路？这家具身大脑公司已经先往前走了一步",
+    "link": "https://www.pingwest.com/a/317325",
+    "source": "品玩",
+    "category": "other",
+    "summary": "OpenAI的担心反而是具身的正路？这家具身大脑公司已经先往前走了一步\n\n乐享科技正式认领具身大模型 Aether",
+    "keywords": [
+      "AI",
+      "大模型",
+      "OpenAI"
+    ],
+    "date": "2026-09-11"
+  },
+  {
+    "title": "别把杰作留在实验室，张江见｜2026 GDPS 国际具身智能技能大赛 · 高校赛队招募",
+    "link": "https://www.pingwest.com/w/317349",
+    "source": "品玩",
+    "category": "other",
+    "summary": "具身智能\n\n\n\n别把杰作留在实验室，张江见｜2026 GDPS 国际具身智能技能大赛 · 高校赛队招募",
+    "keywords": [
+      "智能"
+    ],
+    "date": "2026-09-11"
+  },
+  {
+    "title": "我们见了 B 站最会“整活”的 AI UP 主，拿到他们的创造心得",
+    "link": "https://www.pingwest.com/a/317304",
+    "source": "品玩",
+    "category": "other",
+    "summary": "我们见了 B 站最会“整活”的 AI UP 主，拿到他们的创造心得\n\nAI 让各种创造都更像内容创作",
+    "keywords": [
+      "AI"
+    ],
+    "date": "2026-09-11"
+  },
+  {
+    "title": "阿里云Token Plan个人版升级 加量不加价赋能Agent开发",
+    "link": "https://www.pingwest.com/w/317323",
+    "source": "品玩",
+    "category": "other",
+    "summary": "阿里云\n\n\n\n阿里云Token Plan个人版升级 加量不加价赋能Agent开发\n\n阿里云官方宣布，Token Plan个人版宣布升级，原有价格及Credit额度保持不变。Standard和Pro套餐新增Agent Harness工具权益，覆盖搜索、网页解析、图像生成、语音处理等12项Agent开发常用能力，均通过MCP协议开放，支持直接接入自有Agent应用。",
+    "keywords": [
+      "Agent"
+    ],
+    "date": "2026-09-11"
+  },
+  {
+    "title": "首个金融领域智能体安全团体标准发布——明确第三方智能体操作金融应用界面须获金融机构授权",
+    "link": "https://www.pingwest.com/w/317319",
+    "source": "品玩",
+    "category": "other",
+    "summary": "腾讯\n\n\n\n首个金融领域智能体安全团体标准发布——明确第三方智能体操作金融应用界面须获金融机构授权",
+    "keywords": [
+      "智能"
+    ],
+    "date": "2026-09-11"
+  },
+  {
+    "title": "DeepMind发布AlphaGenome Atlas 覆盖90亿种基因突变",
+    "link": "https://www.pingwest.com/w/317315",
+    "source": "品玩",
+    "category": "other",
+    "summary": "谷歌\n\n\n\nDeepMind发布AlphaGenome Atlas 覆盖90亿种基因突变\n\n据谷歌官方消息，DeepMind正式发布AlphaGenome Atlas，这是一个预测人类基因组中所有90亿种单核苷酸变异影响的庞大数据库，数据规模达1PB。",
+    "keywords": [
+      "DeepMind"
+    ],
+    "date": "2026-09-11"
+  },
+  {
+    "title": "Suno发布v6模型 首次采用正版授权音乐训练",
+    "link": "https://www.pingwest.com/w/317314",
+    "source": "品玩",
+    "category": "other",
+    "summary": "Suno\n\n\n\nSuno发布v6模型 首次采用正版授权音乐训练\n\nSuno官方消息，正式发布v6模型家族，这是其首个获得版权授权的AI音乐生成模型，训练数据来自华纳音乐、BMG和Believe/TuneCore。v6包含v6、v6-wild和v6-mini三款，分别面向精细创作、实验探索和快速生成。",
+    "keywords": [
+      "AI"
+    ],
+    "date": "2026-09-11"
+  },
+  {
+    "title": "OpenAI发布Agents API开放Codex基础设施",
+    "link": "https://www.pingwest.com/w/317311",
+    "source": "品玩",
+    "category": "other",
+    "summary": "OpenAI\n\n\n\nOpenAI发布Agents API开放Codex基础设施\n\n据 marktechpost 报道，OpenAI正式发布Agents API公开测试版，开放Codex托管基础设施。",
+    "keywords": [
+      "AI",
+      "Agent",
+      "OpenAI"
+    ],
+    "date": "2026-09-11"
+  },
+  {
+    "title": "OpenAI暂停Pro套餐新订阅 应对Astra模型算力需求",
+    "link": "https://www.pingwest.com/w/317302",
+    "source": "品玩",
+    "category": "other",
+    "summary": "OpenAI\n\n\n\nOpenAI暂停Pro套餐新订阅 应对Astra模型算力需求\n\n据 TechCrunch 报道，最新模型Astra需求空前，OpenAI宣布暂停每月200美元Pro套餐的新增订阅。",
+    "keywords": [
+      "AI",
+      "OpenAI"
+    ],
+    "date": "2026-09-11"
+  },
+  {
+    "title": "字节跳动聘请前Coatue高管，加码AI领域投资交易",
+    "link": "https://www.pingwest.com/w/317297",
+    "source": "品玩",
+    "category": "other",
+    "summary": "字节跳动\n\n\n\n字节跳动聘请前Coatue高管，加码AI领域投资交易\n\n据Panews 报道，字节跳动有限公司聘请了Coatue Management的前高管掌管企业投资团队。这家中国社交媒体巨头正加速投资布局，以推进其快速扩张的人工智能战略。",
+    "keywords": [
+      "AI",
+      "人工智能",
+      "智能"
+    ],
+    "date": "2026-09-11"
+  },
+  {
+    "title": "宇树科技开源UnifoLM-WLA-1.0人形机器人基础模型",
+    "link": "https://www.pingwest.com/w/317294",
+    "source": "品玩",
+    "category": "other",
+    "summary": "宇树科技\n\n\n\n宇树科技开源UnifoLM-WLA-1.0人形机器人基础模型\n\n据humanoidsdaily 报道，宇树科技宣布全面开源新一代通用人形机器人基础模型UnifoLM-WLA-1.0。",
+    "keywords": [
+      "AI",
+      "机器人"
+    ],
+    "date": "2026-09-11"
+  },
+  {
+    "title": "Mecka AI nears $500M valuation in Sequoia-led deal amid rush for robot training data",
+    "link": "https://techcrunch.com/2026/09/11/mecka-ai-nears-500m-valuation-in-sequoia-led-deal-amid-rush-for-robot-training-data/",
+    "source": "TechCrunch",
+    "category": "funding",
+    "summary": "The round for the two-year-old startup is coming together months after Mecka announced its Series A.",
+    "keywords": [
+      "AI"
+    ],
+    "date": "2026-09-11"
+  },
+  {
+    "title": "Y Combinator’s Garry Tan wants US open-weight AI labs to ‘distill’ frontier models, too",
+    "link": "https://techcrunch.com/2026/09/11/y-combinators-garry-tan-wants-u-s-open-weight-ai-labs-to-distill-frontier-models-too/",
+    "source": "TechCrunch",
+    "category": "other",
+    "summary": "Tan wants smaller, American open-weight AI labs to use the same kind of training techniques on American frontier AI labs, giving the U.S. a more robust set of open-weight options that aren’t Chinese.",
+    "keywords": [
+      "AI"
+    ],
+    "date": "2026-09-11"
+  },
+  {
+    "title": "OpenAI’s feud with mathematicians is only escalating",
+    "link": "https://techcrunch.com/2026/09/11/openais-feud-with-mathematicians-is-only-escalating/",
+    "source": "TechCrunch",
+    "category": "other",
+    "summary": "Twenty-five leading mathematicians signed an open letter arguing that AI labs are threatening their intellectual work.",
+    "keywords": [
+      "AI",
+      "OpenAI"
+    ],
+    "date": "2026-09-11"
+  },
+  {
+    "title": "Kimi-maker Moonshot AI targets $2B in annual revenue",
+    "link": "https://techcrunch.com/2026/09/11/kimi-maker-moonshot-ai-targets-2-billion-in-annual-revenue/",
+    "source": "TechCrunch",
+    "category": "other",
+    "summary": "While K3's usage figures have declined slightly in recent months, OpenRouter data currently shows as many as 300 billion tokens being generated each day by K3 models on the system.",
+    "keywords": [
+      "AI",
+      "Kimi"
+    ],
+    "date": "2026-09-11"
+  },
+  {
+    "title": "An Anthropic researcher’s doomsday warning comes at a very interesting time",
+    "link": "https://techcrunch.com/podcast/an-anthropic-researchers-doomsday-warning-comes-at-a-very-interesting-time/",
+    "source": "TechCrunch",
+    "category": "other",
+    "summary": "An Anthropic researcher resigned this week,&#160;warning in a post on X&#160;that the company is “racing straight to self-improving superintelligence and gambling with our lives”.&#160;The company&#82",
+    "keywords": [
+      "AI",
+      "Anthropic"
+    ],
+    "date": "2026-09-11"
+  },
+  {
+    "title": "Nscale adds former OpenAI exec Fidji Simo to its board ahead of potential IPO",
+    "link": "https://techcrunch.com/2026/09/11/nscale-adds-former-openai-exec-fidji-simo-to-its-board-ahead-of-potential-ipo/",
+    "source": "TechCrunch",
+    "category": "key_news",
+    "summary": "The No. 2 exec at OpenAI also led Instacart through its IPO in 2023.",
+    "keywords": [
+      "AI",
+      "OpenAI"
+    ],
+    "date": "2026-09-11"
+  },
+  {
+    "title": "DeepSeek发布V4.1 Flash模型 成本大幅降低性能超越V4 Pro",
+    "link": "https://www.pingwest.com/w/317280",
+    "source": "品玩",
+    "category": "other",
+    "summary": "DEEPseek\n\n\n\nDeepSeek发布V4.1 Flash模型 成本大幅降低性能超越V4 Pro\n\n据DeepSeek 官方消息，DeepSeek发布V4.1 Flash模型，具备多模态视觉理解能力。552B参数MoE架构，采用Causal-Encoder-Decoder结构，输入激活仅8B、输出激活16B，成本低于同尺寸模型，超越V4 Pro。",
+    "keywords": [
+      "DeepSeek"
+    ],
+    "date": "2026-09-10"
+  },
+  {
+    "title": "Marvis Windows 版本更新 最低门槛从6核16GB降到4核8GB",
+    "link": "https://www.pingwest.com/w/317275",
+    "source": "品玩",
+    "category": "other",
+    "summary": "Windows\n\n\n\nMarvis Windows 版本更新 最低门槛从6核16GB降到4核8GB\n\n近日，Marvis Windows 版本更新，新版客户端将最低配置要求从6核16GB下调至4核8GB，让更多低配置PC设备可以安装并使用 Marvis核心AI能力。",
+    "keywords": [
+      "AI"
+    ],
+    "date": "2026-09-10"
+  },
+  {
+    "title": "谷歌130亿欧元投资芬兰 建设AI基础设施与清洁能源",
+    "link": "https://www.pingwest.com/w/317268",
+    "source": "品玩",
+    "category": "other",
+    "summary": "谷歌\n\n\n\n谷歌130亿欧元投资芬兰 建设AI基础设施与清洁能源\n\n谷歌官方近日宣布，未来两年将在芬兰投资至少130亿欧元，用于建设人工智能基础设施及清洁能源项目。这是谷歌在欧洲迄今最大规模的单笔投资，旨在满足Search、Maps和Gemini等核心服务日益增长的算力需求。",
+    "keywords": [
+      "AI",
+      "人工智能",
+      "Gemini",
+      "智能"
+    ],
+    "date": "2026-09-10"
+  },
+  {
+    "title": "OpenAI悄然限制竞品AI广告投放 广告业务面临收入考验",
+    "link": "https://www.pingwest.com/w/317267",
+    "source": "品玩",
+    "category": "other",
+    "summary": "OpenAI\n\n\n\nOpenAI悄然限制竞品AI广告投放 广告业务面临收入考验\n\n据 Kobaran报道，OpenAI悄然更新广告政策，禁止在ChatGPT内投放独立的图像与音频生成类AI产品广告。",
+    "keywords": [
+      "AI",
+      "OpenAI",
+      "GPT",
+      "ChatGPT"
+    ],
+    "date": "2026-09-10"
+  },
+  {
+    "title": "智元发布GE-Act 2.0 原生世界—动作模型Scaling路径获验证",
+    "link": "https://www.pingwest.com/w/317265",
+    "source": "品玩",
+    "category": "other",
+    "summary": "智元机器人\n\n\n\n智元发布GE-Act 2.0 原生世界—动作模型Scaling路径获验证\n\n据智元机器人官方消息，智元发布原生世界—动作模型GE-Act 2.0，所有参数从随机初始化开始在具身操作数据上从头训练，不针对评测任务做微调或示范，直接在陌生场景接受零样本检验。",
+    "keywords": [
+      "机器人"
+    ],
+    "date": "2026-09-10"
+  },
+  {
+    "title": "OpenAI最强模型GPT-6 Astra正式登陆Amazon Bedrock",
+    "link": "https://www.pingwest.com/w/317260",
+    "source": "品玩",
+    "category": "other",
+    "summary": "亚马逊\n\n\n\nOpenAI最强模型GPT-6 Astra正式登陆Amazon Bedrock\n\n据亚马逊官方消息，OpenAI最新旗舰模型GPT-6 Astra现已在Amazon Bedrock正式可用，企业可通过API直接调用，或在ChatGPT Work与Codex中配置接入。",
+    "keywords": [
+      "AI",
+      "OpenAI",
+      "GPT",
+      "ChatGPT"
+    ],
+    "date": "2026-09-10"
+  },
+  {
+    "title": "会翻译的耳机走进东南亚：3C卖家如何拓展智能音频新场景",
+    "link": "https://www.pingwest.com/a/317236",
+    "source": "品玩",
+    "category": "other",
+    "summary": "会翻译的耳机走进东南亚：3C卖家如何拓展智能音频新场景\n\n从耳机产品切入，逐步走向品牌化运营",
+    "keywords": [
+      "智能"
+    ],
+    "date": "2026-09-10"
+  },
+  {
     "title": "Jensen Huang explains why Nvidia will grow an astounding 70% next year",
     "link": "https://techcrunch.com/2026/09/10/jensen-huang-explains-why-nvidia-will-grow-an-astounding-70-next-year/",
     "source": "TechCrunch",
@@ -95,78 +380,68 @@
     "date": "2026-09-10"
   },
   {
+    "title": "一文看完苹果发布会：折叠iPhone又给所有手机上了一课（除了AI）",
+    "link": "https://www.pingwest.com/a/317256",
+    "source": "品玩",
+    "category": "other",
+    "summary": "苹果\n\n\n\n一文看完苹果发布会：折叠iPhone又给所有手机上了一课（除了AI）\n\n这家科技巨头仍然是地球上最注重细节的公司。",
+    "keywords": [
+      "AI"
+    ],
+    "date": "2026-09-09"
+  },
+  {
+    "title": "AI越会写代码，Arm越要争取开发者",
+    "link": "https://www.pingwest.com/a/317255",
+    "source": "品玩",
+    "category": "other",
+    "summary": "ARM\n\n\n\nAI越会写代码，Arm越要争取开发者\n\n开发者是永远的入口",
+    "keywords": [
+      "AI"
+    ],
+    "date": "2026-09-09"
+  },
+  {
+    "title": "AI开始干活，Arm把CPU推回台前",
+    "link": "https://www.pingwest.com/a/317254",
+    "source": "品玩",
+    "category": "other",
+    "summary": "AI开始干活，Arm把CPU推回台前\n\nAI时代的 Arm",
+    "keywords": [
+      "AI"
+    ],
+    "date": "2026-09-09"
+  },
+  {
+    "title": "人类还在研究 AI，AI 已经开始研究同行了",
+    "link": "https://www.pingwest.com/w/317244",
+    "source": "品玩",
+    "category": "other",
+    "summary": "AI大模型\n\n\n\n人类还在研究 AI，AI 已经开始研究同行了\n\n如果实现了会发生什么？",
+    "keywords": [
+      "AI",
+      "大模型"
+    ],
+    "date": "2026-09-09"
+  },
+  {
+    "title": "三星与Mistral AI达成战略合作 强化AI芯片制造能力",
+    "link": "https://www.pingwest.com/w/317242",
+    "source": "品玩",
+    "category": "other",
+    "summary": "mistralAI\n\n\n\n三星与Mistral AI达成战略合作 强化AI芯片制造能力\n\n据三星官方消息，三星电子宣布与法国AI公司Mistral AI达成战略合作，以强化其在AI芯片技术领域的领先地位。",
+    "keywords": [
+      "AI",
+      "Mistral"
+    ],
+    "date": "2026-09-09"
+  },
+  {
     "title": "OpenAI adds a prominent AI doomer to its board of directors",
     "link": "https://techcrunch.com/2026/09/09/openai-adds-a-prominent-ai-doomer-to-its-board-of-directors/",
     "source": "TechCrunch",
     "category": "other",
     "summary": "Paul Christiano, an influential AI researcher focused on alignment, is joining the OpenAI Foundation as a member of its board.",
-    "keywords": [
-      "AI",
-      "OpenAI"
-    ],
-    "date": "2026-09-09"
-  },
-  {
-    "title": "Apple Watch’s new AI features are normalizing the idea that technology is always listening",
-    "link": "https://techcrunch.com/2026/09/09/apple-watchs-new-ai-features-are-normalizing-the-idea-that-technology-is-always-listening/",
-    "source": "TechCrunch",
-    "category": "other",
-    "summary": "Apple says its new watches won’t save raw audio, but features that can transcribe recent speech and summarize ambient conversations raise new questions about consent, privacy, and how people behave wh",
-    "keywords": [
-      "AI"
-    ],
-    "date": "2026-09-09"
-  },
-  {
-    "title": "Everything Apple announced at its fall iPhone event, from the foldable iPhone Duo to an always-listening Apple Watch",
-    "link": "https://techcrunch.com/2026/09/09/everything-apple-announced-at-its-fall-iphone-event-from-the-foldable-iphone-duo-to-an-always-listening-apple-watch/",
-    "source": "TechCrunch",
-    "category": "other",
-    "summary": "The main event was the tech giant's highly anticipated first foldable phone, the iPhone Duo.",
-    "keywords": [
-      "AI"
-    ],
-    "date": "2026-09-09"
-  },
-  {
-    "title": "The hinge for Apple’s new foldable phone was built with AI",
-    "link": "https://techcrunch.com/2026/09/09/the-hinge-for-apples-new-foldable-phone-was-built-with-ai/",
-    "source": "TechCrunch",
-    "category": "other",
-    "summary": "Apple says it used AI and 3D printing in the manufacturing process for its long-awaited foldable phone.",
-    "keywords": [
-      "AI"
-    ],
-    "date": "2026-09-09"
-  },
-  {
-    "title": "Apple has a new way to prove your iPhone photos aren’t AI slop",
-    "link": "https://techcrunch.com/2026/09/09/apple-has-a-new-way-prove-your-iphone-photos-arent-ai-slop/",
-    "source": "TechCrunch",
-    "category": "other",
-    "summary": "Apple introduced Apple Reference Image to help users determine whether photos have been edited, including alterations made by AI.",
-    "keywords": [
-      "AI"
-    ],
-    "date": "2026-09-09"
-  },
-  {
-    "title": "Apple CEO John Ternus says the best AI device is still the iPhone",
-    "link": "https://techcrunch.com/2026/09/09/apple-ceo-john-ternus-says-the-best-ai-device-is-still-the-iphone/",
-    "source": "TechCrunch",
-    "category": "other",
-    "summary": "The company also argued that its on-device models offer consumers more privacy.",
-    "keywords": [
-      "AI"
-    ],
-    "date": "2026-09-09"
-  },
-  {
-    "title": "Superintelligence is coming. Should we let it?",
-    "link": "https://techcrunch.com/video/superintelligence-is-coming-should-we-let-it/",
-    "source": "TechCrunch",
-    "category": "other",
-    "summary": "AI companies have been talking about superintelligent AI like&#160;it&#8217;s&#160;inevitable, but recent&#160;safety incidents&#160;like&#160;OpenAI&#8217;s&#160;Hugging Face breach&#160;are&#160;dem",
     "keywords": [
       "AI",
       "OpenAI"
