@@ -1,5 +1,29 @@
 [
   {
+    "title": "Early Anthropic hire, former METR COO have found a way to rein in rogue AI agents",
+    "link": "https://techcrunch.com/2026/09/15/early-anthropic-hire-former-metr-coo-have-found-a-way-to-rein-in-rogue-ai-agents/",
+    "source": "TechCrunch",
+    "category": "other",
+    "summary": "Their startup, Artificial Intelligence Underwriting Company (AIUC) has raised $40 million in a Series A round led by Ribbit Capital, with participation from First Harmonic.",
+    "keywords": [
+      "AI",
+      "Agent",
+      "Anthropic"
+    ],
+    "date": "2026-09-15"
+  },
+  {
+    "title": "Salesforce and Nvidia’s new reasoning model is everything the AI labs should fear",
+    "link": "https://techcrunch.com/2026/09/15/salesforce-and-nvidias-new-reasoning-model-is-everything-the-ai-labs-should-fear/",
+    "source": "TechCrunch",
+    "category": "other",
+    "summary": "Salesforce Koa is built on Nvidia's open-weight Nemotron model and is trained to do sales, marketing, and customer-support tasks.",
+    "keywords": [
+      "AI"
+    ],
+    "date": "2026-09-15"
+  },
+  {
     "title": "Nvidia CEO Jensen Huang tells Trump ‘we’re not going to let [an AI slowdown] happen’",
     "link": "https://techcrunch.com/2026/09/14/nvidia-ceo-jensen-huang-tells-trump-were-not-going-to-let-an-ai-slowdown-happen/",
     "source": "TechCrunch",
@@ -134,29 +158,6 @@
     "summary": "The round for the two-year-old startup is coming together months after Mecka announced its Series A.",
     "keywords": [
       "AI"
-    ],
-    "date": "2026-09-11"
-  },
-  {
-    "title": "Y Combinator’s Garry Tan wants US open-weight AI labs to ‘distill’ frontier models, too",
-    "link": "https://techcrunch.com/2026/09/11/y-combinators-garry-tan-wants-u-s-open-weight-ai-labs-to-distill-frontier-models-too/",
-    "source": "TechCrunch",
-    "category": "other",
-    "summary": "Tan wants smaller, American open-weight AI labs to use the same kind of training techniques on American frontier AI labs, giving the U.S. a more robust set of open-weight options that aren’t Chinese.",
-    "keywords": [
-      "AI"
-    ],
-    "date": "2026-09-11"
-  },
-  {
-    "title": "OpenAI’s feud with mathematicians is only escalating",
-    "link": "https://techcrunch.com/2026/09/11/openais-feud-with-mathematicians-is-only-escalating/",
-    "source": "TechCrunch",
-    "category": "other",
-    "summary": "Twenty-five leading mathematicians signed an open letter arguing that AI labs are threatening their intellectual work.",
-    "keywords": [
-      "AI",
-      "OpenAI"
     ],
     "date": "2026-09-11"
   }
