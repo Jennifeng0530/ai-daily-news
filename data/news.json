@@ -1,5 +1,285 @@
 [
   {
+    "title": "We don’t need AI regulation — leave safety to us, Nvidia’s Jensen Huang says",
+    "link": "https://techcrunch.com/2026/09/15/we-dont-need-ai-regulation-leave-safety-to-us-nvidias-jensen-huang-says/",
+    "source": "TechCrunch",
+    "category": "other",
+    "summary": "AI isn't some new form of \"alien mind,\" according to Jensen Huang. It's just hardware and software, so safety can be engineered by each AI product maker.",
+    "keywords": [
+      "AI"
+    ],
+    "date": "2026-09-16"
+  },
+  {
+    "title": "荣耀CEO李健：荣耀把 AI 探索的无人区走成主干道",
+    "link": "https://www.pingwest.com/w/317453",
+    "source": "品玩",
+    "category": "other",
+    "summary": "荣耀\n\n\n\n荣耀CEO李健：荣耀把 AI 探索的无人区走成主干道",
+    "keywords": [
+      "AI"
+    ],
+    "date": "2026-09-15"
+  },
+  {
+    "title": "从 14 步到超百步，荣耀 MagicOS 11 重新定义 AI 手机的“执行力”",
+    "link": "https://www.pingwest.com/a/317452",
+    "source": "品玩",
+    "category": "other",
+    "summary": "荣耀\n\n\n\n从 14 步到超百步，荣耀 MagicOS 11 重新定义 AI 手机的“执行力”\n\n当 AI 不再只负责聊天，MagicOS 11 开始接管你的下一步。",
+    "keywords": [
+      "AI"
+    ],
+    "date": "2026-09-15"
+  },
+  {
+    "title": "先进企业，先让 Agent 上飞书",
+    "link": "https://www.pingwest.com/a/317445",
+    "source": "品玩",
+    "category": "other",
+    "summary": "先进企业，先让 Agent 上飞书\n\n当一些企业还在教员工怎样使用 AI 时，另一些企业已经开始为 Agent 安排身份、权限、工位和工作。",
+    "keywords": [
+      "AI",
+      "Agent"
+    ],
+    "date": "2026-09-15"
+  },
+  {
+    "title": "周鸿祎：北斗应用走向智能化，安全防护也要同步升级",
+    "link": "https://www.pingwest.com/w/317451",
+    "source": "品玩",
+    "category": "other",
+    "summary": "360\n\n\n\n周鸿祎：北斗应用走向智能化，安全防护也要同步升级",
+    "keywords": [
+      "智能"
+    ],
+    "date": "2026-09-15"
+  },
+  {
+    "title": "MediaTek发布天玑9600 Pro，卓越AI 重构强悍冷劲旗舰体验",
+    "link": "https://www.pingwest.com/w/317450",
+    "source": "品玩",
+    "category": "other",
+    "summary": "联发科\n\n\n\nMediaTek发布天玑9600 Pro，卓越AI 重构强悍冷劲旗舰体验",
+    "keywords": [
+      "AI"
+    ],
+    "date": "2026-09-15"
+  },
+  {
+    "title": "飞书 CEO 谢欣：飞书与豆包工作是 AI 时代的最优解",
+    "link": "https://www.pingwest.com/w/317429",
+    "source": "品玩",
+    "category": "other",
+    "summary": "飞书\n\n\n\n飞书 CEO 谢欣：飞书与豆包工作是 AI 时代的最优解",
+    "keywords": [
+      "AI",
+      "豆包"
+    ],
+    "date": "2026-09-15"
+  },
+  {
+    "title": "Cornelis获2.05亿美元融资，发力开放架构挑战英伟达",
+    "link": "https://www.pingwest.com/w/317423",
+    "source": "品玩",
+    "category": "funding",
+    "summary": "融资\n\n\n\nCornelis获2.05亿美元融资，发力开放架构挑战英伟达\n\n据 TechCrunch 报道，AI基础设施公司Cornelis宣布完成由IAG Capital Partners领投的2.05亿美元融资。该公司于2020年从英特尔分拆独立，旨在通过提供开放架构，打破英伟达在AI芯片市场的绝对主导地位。",
+    "keywords": [
+      "AI"
+    ],
+    "date": "2026-09-15"
+  },
+  {
+    "title": "人形机器人G1+发布：运动感知智能全面升级",
+    "link": "https://www.pingwest.com/w/317421",
+    "source": "品玩",
+    "category": "other",
+    "summary": "宇树科技\n\n\n\n人形机器人G1+发布：运动感知智能全面升级\n\n据宇树科技官方消息，人形机器人G1+正式发布，在保留高性价比基础上，实现运动、感知、智能三大维度六大升级。",
+    "keywords": [
+      "机器人",
+      "智能"
+    ],
+    "date": "2026-09-15"
+  },
+  {
+    "title": "苹果Siri架构深度支持第三方AI模型",
+    "link": "https://www.pingwest.com/w/317418",
+    "source": "品玩",
+    "category": "other",
+    "summary": "Siri\n\n\n\n苹果Siri架构深度支持第三方AI模型\n\n据 MacRumors 报道，代码研究者\"pdfu\"发现iOS 27与macOS Golden Gate私有框架，显示苹果深度设计Siri与第三方AI协作架构。",
+    "keywords": [
+      "AI"
+    ],
+    "date": "2026-09-15"
+  },
+  {
+    "title": "微软发布AI行为准则 确立\"人文主义AI\"框架",
+    "link": "https://www.pingwest.com/w/317416",
+    "source": "品玩",
+    "category": "other",
+    "summary": "微软\n\n\n\n微软发布AI行为准则 确立\"人文主义AI\"框架\n\n微软官方宣布，微软AI于9月14日发布MAI模型《行为准则》，确立\"人文主义AI\"发展框架，经与AI、法律、伦理等领域专家研讨后面向公众征求意见，计划年底发布修订版以指导2027年及以后模型开发。",
+    "keywords": [
+      "AI"
+    ],
+    "date": "2026-09-15"
+  },
+  {
+    "title": "OpenAI斥资逾3亿美元收购手机影像技术公司Glass Imaging",
+    "link": "https://www.pingwest.com/w/317415",
+    "source": "品玩",
+    "category": "other",
+    "summary": "OpenAI\n\n\n\nOpenAI斥资逾3亿美元收购手机影像技术公司Glass Imaging\n\nOpenAI已完成对智能手机摄像头技术公司Glass Imaging的收购，交易估值超过3亿美元。Glass Imaging总部位于加州洛斯阿尔托斯，此前累计融资约3000万美元。",
+    "keywords": [
+      "AI",
+      "OpenAI",
+      "智能"
+    ],
+    "date": "2026-09-15"
+  },
+  {
+    "title": "Musk旗下公司撤回对苹果反垄断诉讼 保留对OpenAI指控",
+    "link": "https://www.pingwest.com/w/317414",
+    "source": "品玩",
+    "category": "other",
+    "summary": "苹果\n\n\n\nMusk旗下公司撤回对苹果反垄断诉讼 保留对OpenAI指控\n\n据 MacRumors 报道，X Corp与SpaceX AI今日向法院申请撤回对苹果公司的反垄断诉讼，未说明撤诉原因或提及和解。申请明确保留对OpenAI的指控，对苹果的撤诉为不可撤销撤诉，相关指控将不再重新起诉。",
+    "keywords": [
+      "AI",
+      "OpenAI"
+    ],
+    "date": "2026-09-15"
+  },
+  {
+    "title": "Anthropic遭大客户质疑数据使用政策",
+    "link": "https://www.pingwest.com/w/317413",
+    "source": "品玩",
+    "category": "other",
+    "summary": "Claude\n\n\n\nAnthropic遭大客户质疑数据使用政策\n\n据 Tomshardware报道，Anthropic面临大型客户对专有数据用于模型训练的质疑。企业要求数据使用保障并限制可用模型，担忧知识产权被纳入训练。",
+    "keywords": [
+      "Anthropic",
+      "Claude"
+    ],
+    "date": "2026-09-15"
+  },
+  {
+    "title": "Anthropic选定纳斯达克上市 拟估值约2万亿美元",
+    "link": "https://www.pingwest.com/w/317410",
+    "source": "品玩",
+    "category": "key_news",
+    "summary": "Anthropic\n\n\n\nAnthropic选定纳斯达克上市 拟估值约2万亿美元\n\n据 Techtime 报道，Anthropic被曝已选定纳斯达克为上市交易所，目标2026年10月挂牌，有望成为史上最大IPO。",
+    "keywords": [
+      "Anthropic"
+    ],
+    "date": "2026-09-15"
+  },
+  {
+    "title": "The AI data center boom is colliding with cities scarred by big industry",
+    "link": "https://techcrunch.com/2026/09/15/the-ai-data-center-boom-is-colliding-with-cities-scarred-by-big-industry/",
+    "source": "TechCrunch",
+    "category": "other",
+    "summary": "National outcry against data center construction has spread to Philadelphia, where officials suggested possible construction in a neighborhood already impacted by a now-defunct oil refinery.",
+    "keywords": [
+      "AI"
+    ],
+    "date": "2026-09-15"
+  },
+  {
+    "title": "Meta now lets AI agents handle the boring parts of WhatsApp Business setup",
+    "link": "https://techcrunch.com/2026/09/15/meta-now-lets-ai-agents-handle-the-boring-parts-of-whatsapp-business-setup/",
+    "source": "TechCrunch",
+    "category": "other",
+    "summary": "A new WhatsApp Business MCP server lets developers use AI coding agents like Claude, Cursor, Codex, and ChatGPT to handle setup, messaging templates, testing, and troubleshooting.",
+    "keywords": [
+      "AI",
+      "Agent",
+      "GPT",
+      "Claude",
+      "ChatGPT"
+    ],
+    "date": "2026-09-15"
+  },
+  {
+    "title": "The AI graveyard: a running list of projects and startups that didn’t make it",
+    "link": "https://techcrunch.com/2026/09/15/the-ai-graveyard-a-running-list-of-projects-and-startups-that-didnt-make-it/",
+    "source": "TechCrunch",
+    "category": "other",
+    "summary": "From Apple's repeatedly delayed Siri AI to OpenAI's messy \"super app\" launch, here's a look at the AI projects that shut down or missed expectations.",
+    "keywords": [
+      "AI",
+      "OpenAI"
+    ],
+    "date": "2026-09-15"
+  },
+  {
+    "title": "US data centers could consume more natural gas than Germany and Japan combined by 2035",
+    "link": "https://techcrunch.com/2026/09/15/us-data-centers-could-consume-more-natural-gas-than-germany-and-japan-combined-by-2035/",
+    "source": "TechCrunch",
+    "category": "other",
+    "summary": "The AI frenzy could push U.S. data centers to become one of the largest consumers of natural gas in the world.",
+    "keywords": [
+      "AI"
+    ],
+    "date": "2026-09-15"
+  },
+  {
+    "title": "AI agents now have a place to snitch",
+    "link": "https://techcrunch.com/2026/09/15/ai-agents-now-have-a-place-to-snitch/",
+    "source": "TechCrunch",
+    "category": "other",
+    "summary": "The AI Contact Hotline is designed to be a discreet place where agents that have witnessed misbehavior can tip off authorities.",
+    "keywords": [
+      "AI",
+      "Agent"
+    ],
+    "date": "2026-09-15"
+  },
+  {
+    "title": "Meta expands subscription push with new AI-focused plans",
+    "link": "https://techcrunch.com/2026/09/15/meta-expands-subscription-push-with-new-ai-focused-plans/",
+    "source": "TechCrunch",
+    "category": "other",
+    "summary": "Meta One bundles expanded access to the company’s AI tools with premium features across Facebook, Instagram, and WhatsApp.",
+    "keywords": [
+      "AI"
+    ],
+    "date": "2026-09-15"
+  },
+  {
+    "title": "OpenAI, Anthropic, Google have been in talks on AI safety for weeks",
+    "link": "https://techcrunch.com/2026/09/15/openai-anthropic-google-have-been-in-talks-on-ai-safety-for-weeks/",
+    "source": "TechCrunch",
+    "category": "other",
+    "summary": "OpenAI confirms weeks of AI safety talks with Anthropic and Google DeepMind, as Trump's team dismisses safety concerns and pushes to keep pace with China.",
+    "keywords": [
+      "AI",
+      "OpenAI",
+      "Anthropic",
+      "DeepMind"
+    ],
+    "date": "2026-09-15"
+  },
+  {
+    "title": "AEO startup Profound hits unicorn valuation, raises $180M Series D 7 months after last round",
+    "link": "https://techcrunch.com/2026/09/15/aeo-startup-profound-hits-unicorn-valuation-raises-180m-series-d-7-months-after-last-round/",
+    "source": "TechCrunch",
+    "category": "funding",
+    "summary": "Profound has raised a $180 million Series D at a $1.8 billion valuation, less than seven months after it raised a $96 million Series C.",
+    "keywords": [
+      "AI"
+    ],
+    "date": "2026-09-15"
+  },
+  {
+    "title": "Former TikTok execs built an app that uses AI to teach you how to pose for a photo",
+    "link": "https://techcrunch.com/2026/09/15/former-tiktok-execs-built-an-app-that-uses-ai-to-teach-you-how-to-pose-for-a-photo/",
+    "source": "TechCrunch",
+    "category": "other",
+    "summary": "Essentially a camera app, Superpose analyzes selfies or photos and generates four potential poses using AI.",
+    "keywords": [
+      "AI"
+    ],
+    "date": "2026-09-15"
+  },
+  {
     "title": "Early Anthropic hire, former METR COO have found a way to rein in rogue AI agents",
     "link": "https://techcrunch.com/2026/09/15/early-anthropic-hire-former-metr-coo-have-found-a-way-to-rein-in-rogue-ai-agents/",
     "source": "TechCrunch",
@@ -22,6 +302,113 @@
       "AI"
     ],
     "date": "2026-09-15"
+  },
+  {
+    "title": "实测最新版「豆包手机」助手：所有手机里的 AI 都该变成它这样",
+    "link": "https://www.pingwest.com/a/317385",
+    "source": "品玩",
+    "category": "other",
+    "summary": "实测最新版「豆包手机」助手：所有手机里的 AI 都该变成它这样\n\n用它实现了我嘀咕了一年的功能，我不打算再用“普通手机”了",
+    "keywords": [
+      "AI",
+      "豆包"
+    ],
+    "date": "2026-09-14"
+  },
+  {
+    "title": "高德扫街榜全面AI化，推出导航Live、飞行街景2.0、避雷指南",
+    "link": "https://www.pingwest.com/w/317406",
+    "source": "品玩",
+    "category": "other",
+    "summary": "高德地图\n\n\n\n高德扫街榜全面AI化，推出导航Live、飞行街景2.0、避雷指南\n\n9月10日，阿里巴巴集团旗下高德正式发布高德扫街榜2026。在空间智能驱动下，高德扫街榜2026以榜单为起点，进一步把理解真实世界的能力，带入决策、出发、到达等日常出行生活中的更多环节，推出导航Live、飞行街景2.0、避雷指南等AI原生服务。",
+    "keywords": [
+      "AI",
+      "智能"
+    ],
+    "date": "2026-09-14"
+  },
+  {
+    "title": "全球AI大厂集体呼吁“限速” 360：AI安全不能靠企业自审，需第三方攻防把关",
+    "link": "https://www.pingwest.com/w/317405",
+    "source": "品玩",
+    "category": "other",
+    "summary": "360\n\n\n\n全球AI大厂集体呼吁“限速” 360：AI安全不能靠企业自审，需第三方攻防把关",
+    "keywords": [
+      "AI"
+    ],
+    "date": "2026-09-14"
+  },
+  {
+    "title": "360智能体专家（ADEE）认证纳入北京市国际职业资格认可目录",
+    "link": "https://www.pingwest.com/w/317399",
+    "source": "品玩",
+    "category": "other",
+    "summary": "360\n\n\n\n360智能体专家（ADEE）认证纳入北京市国际职业资格认可目录",
+    "keywords": [
+      "智能"
+    ],
+    "date": "2026-09-14"
+  },
+  {
+    "title": "机器人数据初创Mecka AI获红杉领投 估值近5亿美元",
+    "link": "https://www.pingwest.com/w/317384",
+    "source": "品玩",
+    "category": "funding",
+    "summary": "融资\n\n\n\n机器人数据初创Mecka AI获红杉领投 估值近5亿美元\n\n据 TehCrunch 报道，机器人训练数据初创公司Mecka AI正推进由红杉资本领投的新一轮融资，投后估值约5亿美元。距其完成6000万美元融资仅过去三个月，交易条款仍未最终敲定。",
+    "keywords": [
+      "AI",
+      "机器人"
+    ],
+    "date": "2026-09-14"
+  },
+  {
+    "title": "智谱完成约50亿美元融资 用于下一代GLM模型研发",
+    "link": "https://www.pingwest.com/w/317382",
+    "source": "品玩",
+    "category": "funding",
+    "summary": "智谱\n\n\n\n智谱完成约50亿美元融资 用于下一代GLM模型研发\n\n据科创板日报报道，智谱宣布完成约50亿美元融资，包括约20亿美元股份配售及约30亿美元可转债发行，资金将用于下一代GLM模型、完全自训练体系及相关算力基础设施建设。",
+    "keywords": [
+      "智谱"
+    ],
+    "date": "2026-09-14"
+  },
+  {
+    "title": "阿里云百炼上线DeepSeek-V4.1-Flash模型",
+    "link": "https://www.pingwest.com/w/317379",
+    "source": "品玩",
+    "category": "other",
+    "summary": "通义千问\n\n\n\n阿里云百炼上线DeepSeek-V4.1-Flash模型\n\n据 阿里云官方消息，DeepSeek-V4.1-Flash正式上线千问AI平台，API服务与Token Plan同步开放。",
+    "keywords": [
+      "AI",
+      "DeepSeek",
+      "通义千问"
+    ],
+    "date": "2026-09-14"
+  },
+  {
+    "title": "两位AI安全研究员离职 呼吁建立独立监督机制",
+    "link": "https://www.pingwest.com/w/317377",
+    "source": "品玩",
+    "category": "other",
+    "summary": "AI 安全\n\n\n\n两位AI安全研究员离职 呼吁建立独立监督机制\n\n据 explainx.ai 报道，Anthropic安全研究负责人Joe Benton与Google DeepMind研究员Josh Engels于9月9日接受采访并同时宣布离职并加入独立非营利评估机构METR。",
+    "keywords": [
+      "AI",
+      "Anthropic",
+      "DeepMind"
+    ],
+    "date": "2026-09-14"
+  },
+  {
+    "title": "OpenAI CEO Sam Altman：2026年上市并不明智",
+    "link": "https://www.pingwest.com/w/317375",
+    "source": "品玩",
+    "category": "key_news",
+    "summary": "OpenAI\n\n\n\nOpenAI CEO Sam Altman：2026年上市并不明智\n\n据 TechCrunch 报道，OpenAI首席执行官Sam Altman近日在接受《财富》主编Alyson Shontell专访时明确表示，公司不会在2026年进行首次公开募股（IPO）。",
+    "keywords": [
+      "AI",
+      "OpenAI"
+    ],
+    "date": "2026-09-14"
   },
   {
     "title": "Nvidia CEO Jensen Huang tells Trump ‘we’re not going to let [an AI slowdown] happen’",
@@ -69,96 +456,14 @@
     "date": "2026-09-14"
   },
   {
-    "title": "Only at TechCrunch Disrupt 2026: What happens when OpenAI ships your roadmap?",
-    "link": "https://techcrunch.com/2026/09/14/only-at-techcrunch-disrupt-2026-what-happens-when-openai-ships-your-roadmap/",
-    "source": "TechCrunch",
+    "title": "AI Costco，开始卖自有品牌了",
+    "link": "https://www.pingwest.com/a/317353",
+    "source": "品玩",
     "category": "other",
-    "summary": "If you're building an AI company, the question isn't whether foundation models will continue to evolve. It's whether your company will continue creating value as they do. Don't miss this interactive s",
-    "keywords": [
-      "AI",
-      "OpenAI"
-    ],
-    "date": "2026-09-14"
-  },
-  {
-    "title": "Superhuman acquires YC-backed notetaker Fathom as productivity platforms push for agentic work",
-    "link": "https://techcrunch.com/2026/09/14/superhuman-acquires-yc-backed-notetaker-fathom-as-productivity-platforms-push-for-agentic-work/",
-    "source": "TechCrunch",
-    "category": "other",
-    "summary": "The notetaker offers a generous free plan, and that has resulted in over 400,000 monthly active users. The company said that over 1 million people have recorded meetings until now.",
-    "keywords": [
-      "AI",
-      "Agent"
-    ],
-    "date": "2026-09-14"
-  },
-  {
-    "title": "Hear how AI can engineer nature’s comeback at TechCrunch Disrupt 2026",
-    "link": "https://techcrunch.com/2026/09/14/hear-how-ai-can-engineer-natures-comeback-at-techcrunch-disrupt-2026/",
-    "source": "TechCrunch",
-    "category": "other",
-    "summary": "Not long ago, bringing an extinct species back to life belonged to science fiction. Today, it's the mission of a billion-dollar startup. Join the conversation with one of tech's most unconventional fo",
+    "summary": "AI Costco，开始卖自有品牌了\n\n开源模型开始卖可训练性。",
     "keywords": [
       "AI"
-    ],
-    "date": "2026-09-14"
-  },
-  {
-    "title": "What’s behind the AI industry’s latest warnings of doom?",
-    "link": "https://techcrunch.com/2026/09/13/whats-behind-the-ai-industrys-latest-warnings-of-doom/",
-    "source": "TechCrunch",
-    "category": "other",
-    "summary": "On Equity, we discussed the AI industry's latest debate about whether it poses an existential threat to humanity.",
-    "keywords": [
-      "AI"
-    ],
-    "date": "2026-09-13"
-  },
-  {
-    "title": "Obama urges Democrats to have a ‘clear plan’ for AI safeguards",
-    "link": "https://techcrunch.com/2026/09/13/obama-urges-democrats-to-have-a-clear-plan-for-ai-safeguards/",
-    "source": "TechCrunch",
-    "category": "other",
-    "summary": "Obama recently said that Democrats need to make artificial intelligence one of their “central agendas” and “have a very clear plan” to address concerns around the technology’s economic impact and safe",
-    "keywords": [
-      "AI"
-    ],
-    "date": "2026-09-13"
-  },
-  {
-    "title": "OpenAI’s Sam Altman says it would be ‘ill-advised’ to go public in 2026",
-    "link": "https://techcrunch.com/2026/09/12/openais-sam-altman-says-it-would-be-ill-advised-to-go-public-in-2026/",
-    "source": "TechCrunch",
-    "category": "key_news",
-    "summary": "While OpenAI has filed confidentially for an IPO, the company will not be going public this year, according to CEO Sam Altman.",
-    "keywords": [
-      "AI",
-      "OpenAI"
     ],
     "date": "2026-09-12"
-  },
-  {
-    "title": "Anthropic CEO outlines plan to slow AI development",
-    "link": "https://techcrunch.com/2026/09/12/anthropic-ceo-outlines-plan-to-pace-the-frontier/",
-    "source": "TechCrunch",
-    "category": "other",
-    "summary": "Anthropic's Dario Amodei and OpenAI's Sam Altman seem to agree that it's time to \"pace the frontier.\" What would that actually look like?",
-    "keywords": [
-      "AI",
-      "OpenAI",
-      "Anthropic"
-    ],
-    "date": "2026-09-12"
-  },
-  {
-    "title": "Mecka AI nears $500M valuation in Sequoia-led deal amid rush for robot training data",
-    "link": "https://techcrunch.com/2026/09/11/mecka-ai-nears-500m-valuation-in-sequoia-led-deal-amid-rush-for-robot-training-data/",
-    "source": "TechCrunch",
-    "category": "funding",
-    "summary": "The round for the two-year-old startup is coming together months after Mecka announced its Series A.",
-    "keywords": [
-      "AI"
-    ],
-    "date": "2026-09-11"
   }
 ]
