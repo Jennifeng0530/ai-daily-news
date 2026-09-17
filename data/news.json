@@ -1,5 +1,115 @@
 [
   {
+    "title": "Your startup’s next teammate might be an AI agent: Gusto, Insight Partners, and Leland explain what that changes at TechCrunch Disrupt 2026",
+    "link": "https://techcrunch.com/2026/09/16/your-startups-next-teammate-might-be-an-ai-agent-gusto-insight-partners-and-leland-explain-what-that-changes-at-techcrunch-disrupt-2026/",
+    "source": "TechCrunch",
+    "category": "other",
+    "summary": "This session will explore how early-stage companies are building teams where humans and AI agents work alongside each other — and how founders can do that without sacrificing speed, accountability, or",
+    "keywords": [
+      "AI",
+      "Agent"
+    ],
+    "date": "2026-09-17"
+  },
+  {
+    "title": "Snap tries to make the case again for its $2,200 smart glasses",
+    "link": "https://techcrunch.com/2026/09/16/snap-tries-to-make-the-case-again-for-its-2200-smart-glasses/",
+    "source": "TechCrunch",
+    "category": "other",
+    "summary": "Since Specs' debut earlier this year, Snap has clearly been looking for an opportunity to explain why the smart glasses deserve to exist.",
+    "keywords": [
+      "AI"
+    ],
+    "date": "2026-09-17"
+  },
+  {
+    "title": "Al Gore says the real AI risk isn’t data centers — it’s what industry leaders are warning about",
+    "link": "https://techcrunch.com/2026/09/16/al-gore-has-a-surprisingly-calm-take-on-the-ai-data-center-backlash/",
+    "source": "TechCrunch",
+    "category": "other",
+    "summary": "In an interview with TechCrunch, Al Gore suggested he isn't losing sleep over AI data center emissions — he's more worried about the AI industry's own warnings about where the technology is headed.",
+    "keywords": [
+      "AI"
+    ],
+    "date": "2026-09-16"
+  },
+  {
+    "title": "Anthropic and OpenAI want to embed safety evaluators. Will they really be independent?",
+    "link": "https://techcrunch.com/2026/09/16/anthropic-and-openai-want-to-embed-safety-evaluators-will-they-really-be-independent/",
+    "source": "TechCrunch",
+    "category": "other",
+    "summary": "Anthropic and OpenAI want to embed independent safety evaluators inside their AI labs. Researchers welcome the unprecedented access, but warn meaningful oversight requires transparency, independence, ",
+    "keywords": [
+      "AI",
+      "OpenAI",
+      "Anthropic"
+    ],
+    "date": "2026-09-16"
+  },
+  {
+    "title": "After accusations of selling ‘perv glasses,’ Meta prepares to sell a pair without a camera",
+    "link": "https://techcrunch.com/2026/09/16/after-accusations-of-selling-perv-glasses-meta-prepares-to-sell-a-pair-without-a-camera/",
+    "source": "TechCrunch",
+    "category": "other",
+    "summary": "Can Meta dodge the \"pervert glasses\" accusations with a new camera-free product?",
+    "keywords": [
+      "AI"
+    ],
+    "date": "2026-09-16"
+  },
+  {
+    "title": "AI labs want in-house auditors — but maybe they should shut the front door first",
+    "link": "https://techcrunch.com/2026/09/16/ai-labs-want-in-house-auditors-but-maybe-they-should-shut-the-front-door-first/",
+    "source": "TechCrunch",
+    "category": "other",
+    "summary": "There may be a simpler and more effective fix for rogue agents, hiding in plain sight.",
+    "keywords": [
+      "AI",
+      "Agent"
+    ],
+    "date": "2026-09-16"
+  },
+  {
+    "title": "Your AI agents can now control your Google Home devices",
+    "link": "https://techcrunch.com/2026/09/16/your-ai-agents-can-now-control-your-google-home-devices/",
+    "source": "TechCrunch",
+    "category": "other",
+    "summary": "Google is launching early access to a new MCP server for Google Home, allowing AI agents like Claude, ChatGPT, and others to control connected devices, review camera summaries, and access smart home a",
+    "keywords": [
+      "AI",
+      "Agent",
+      "GPT",
+      "Claude",
+      "ChatGPT"
+    ],
+    "date": "2026-09-16"
+  },
+  {
+    "title": "Anthropic merges Claude chat and Cowork in one interface",
+    "link": "https://techcrunch.com/2026/09/16/anthropic-merges-claude-chat-and-cowork-in-one-interface/",
+    "source": "TechCrunch",
+    "category": "other",
+    "summary": "Anthropic is initially releasing these features to Pro and Max plan subscribers.",
+    "keywords": [
+      "Anthropic",
+      "Claude"
+    ],
+    "date": "2026-09-16"
+  },
+  {
+    "title": "Robots are waiting for a ChatGPT moment: Nvidia’s Les Karpas explains why at TechCrunch Disrupt 2026",
+    "link": "https://techcrunch.com/2026/09/16/robots-are-waiting-for-a-chatgpt-moment-nvidias-les-karpas-explains-why-at-techcrunch-disrupt-2026/",
+    "source": "TechCrunch",
+    "category": "other",
+    "summary": "The robotics industry is still waiting for their breakthrough into day-to-day life. Nvidia's Les Karpas has an answer as to why at TechCrunch Disrupt 2026. Register before September 25 to save up to $",
+    "keywords": [
+      "AI",
+      "GPT",
+      "ChatGPT"
+    ],
+    "date": "2026-09-16"
+  },
+  {
     "title": "Former Infosys chief’s AI startup nabs another $53M",
     "link": "https://techcrunch.com/2026/09/16/former-infosys-chiefs-ai-startup-adds-50m-to-seed-weeks-after-initial-raise/",
     "source": "TechCrunch",
@@ -65,89 +175,6 @@
     "source": "TechCrunch",
     "category": "other",
     "summary": "The AI frenzy could push U.S. data centers to become one of the largest consumers of natural gas in the world.",
-    "keywords": [
-      "AI"
-    ],
-    "date": "2026-09-15"
-  },
-  {
-    "title": "AI agents now have a place to snitch",
-    "link": "https://techcrunch.com/2026/09/15/ai-agents-now-have-a-place-to-snitch/",
-    "source": "TechCrunch",
-    "category": "other",
-    "summary": "The AI Contact Hotline is designed to be a discreet place where agents that have witnessed misbehavior can tip off authorities.",
-    "keywords": [
-      "AI",
-      "Agent"
-    ],
-    "date": "2026-09-15"
-  },
-  {
-    "title": "Meta expands subscription push with new AI-focused plans",
-    "link": "https://techcrunch.com/2026/09/15/meta-expands-subscription-push-with-new-ai-focused-plans/",
-    "source": "TechCrunch",
-    "category": "other",
-    "summary": "Meta One bundles expanded access to the company’s AI tools with premium features across Facebook, Instagram, and WhatsApp.",
-    "keywords": [
-      "AI"
-    ],
-    "date": "2026-09-15"
-  },
-  {
-    "title": "OpenAI, Anthropic, Google have been in talks on AI safety for weeks",
-    "link": "https://techcrunch.com/2026/09/15/openai-anthropic-google-have-been-in-talks-on-ai-safety-for-weeks/",
-    "source": "TechCrunch",
-    "category": "other",
-    "summary": "OpenAI confirms weeks of AI safety talks with Anthropic and Google DeepMind, as Trump's team dismisses safety concerns and pushes to keep pace with China.",
-    "keywords": [
-      "AI",
-      "OpenAI",
-      "Anthropic",
-      "DeepMind"
-    ],
-    "date": "2026-09-15"
-  },
-  {
-    "title": "AEO startup Profound hits unicorn valuation, raises $180M Series D 7 months after last round",
-    "link": "https://techcrunch.com/2026/09/15/aeo-startup-profound-hits-unicorn-valuation-raises-180m-series-d-7-months-after-last-round/",
-    "source": "TechCrunch",
-    "category": "funding",
-    "summary": "Profound has raised a $180 million Series D at a $1.8 billion valuation, less than seven months after it raised a $96 million Series C.",
-    "keywords": [
-      "AI"
-    ],
-    "date": "2026-09-15"
-  },
-  {
-    "title": "Former TikTok execs built an app that uses AI to teach you how to pose for a photo",
-    "link": "https://techcrunch.com/2026/09/15/former-tiktok-execs-built-an-app-that-uses-ai-to-teach-you-how-to-pose-for-a-photo/",
-    "source": "TechCrunch",
-    "category": "other",
-    "summary": "Essentially a camera app, Superpose analyzes selfies or photos and generates four potential poses using AI.",
-    "keywords": [
-      "AI"
-    ],
-    "date": "2026-09-15"
-  },
-  {
-    "title": "Early Anthropic hire, former METR COO have found a way to rein in rogue AI agents",
-    "link": "https://techcrunch.com/2026/09/15/early-anthropic-hire-former-metr-coo-have-found-a-way-to-rein-in-rogue-ai-agents/",
-    "source": "TechCrunch",
-    "category": "other",
-    "summary": "Their startup, Artificial Intelligence Underwriting Company (AIUC) has raised $40 million in a Series A round led by Ribbit Capital, with participation from First Harmonic.",
-    "keywords": [
-      "AI",
-      "Agent",
-      "Anthropic"
-    ],
-    "date": "2026-09-15"
-  },
-  {
-    "title": "Salesforce and Nvidia’s new reasoning model is everything the AI labs should fear",
-    "link": "https://techcrunch.com/2026/09/15/salesforce-and-nvidias-new-reasoning-model-is-everything-the-ai-labs-should-fear/",
-    "source": "TechCrunch",
-    "category": "other",
-    "summary": "Salesforce Koa is built on Nvidia's open-weight Nemotron model and is trained to do sales, marketing, and customer-support tasks.",
     "keywords": [
       "AI"
     ],
