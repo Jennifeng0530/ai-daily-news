@@ -1,5 +1,74 @@
 [
   {
+    "title": "达摩院发布DAMO RADAR 通用医学影像AI达专家水平",
+    "link": "https://www.pingwest.com/w/317573",
+    "source": "品玩",
+    "category": "other",
+    "summary": "阿里达摩院\n\n\n\n达摩院发布DAMO RADAR 通用医学影像AI达专家水平\n\n据阿里达摩院官方消息，达摩院推出开源通用医学影像AI模型DAMO RADAR，采用视觉-语言学习方法，在国际上首次实现\"器官级细粒度对齐\"策略，覆盖含恶性肿瘤在内的146种腹部病症、18个器官。",
+    "keywords": [
+      "AI"
+    ],
+    "date": "2026-09-18"
+  },
+  {
+    "title": "Figure AI发布Helix 2.5 人形机器人实现零样本家居操作",
+    "link": "https://www.pingwest.com/w/317566",
+    "source": "品玩",
+    "category": "other",
+    "summary": "Figure\n\n\n\nFigure AI发布Helix 2.5 人形机器人实现零样本家居操作\n\nFigure AI官方宣布，现已发布Helix 2.5 模型。该模型基于Index大规模人类行为数据集预训练，可进入从未见过的家庭直接执行整理房间、叠毛巾和铺床等全身任务，无需在目标环境中收集数据、微调或适应。",
+    "keywords": [
+      "AI",
+      "机器人"
+    ],
+    "date": "2026-09-18"
+  },
+  {
+    "title": "Waymo将进入新加坡 2028年推出自动驾驶叫车服务",
+    "link": "https://www.pingwest.com/w/317564",
+    "source": "品玩",
+    "category": "other",
+    "summary": "Waymo\n\n\n\nWaymo将进入新加坡 2028年推出自动驾驶叫车服务\n\n据 The Verge 报道，Waymo将成为新加坡最新一家自动驾驶车辆运营商，加入ComfortDelGro和Grab的行列。此次部署符合新加坡扩大自动驾驶出行服务范围、为通勤者提供更多交通选择的规划方向。",
+    "keywords": [
+      "自动驾驶"
+    ],
+    "date": "2026-09-18"
+  },
+  {
+    "title": "Ora-Orb，一个“活过来”的水晶球+占卜= 迈向个人 AI 的最完美起点",
+    "link": "https://www.pingwest.com/a/317534",
+    "source": "品玩",
+    "category": "other",
+    "summary": "Ora-Orb，一个“活过来”的水晶球+占卜= 迈向个人 AI 的最完美起点\n\n对话 Ora-Orb：为什么从占卜开始做 Personal AI",
+    "keywords": [
+      "AI"
+    ],
+    "date": "2026-09-18"
+  },
+  {
+    "title": "百度智能云首提“产业智能体操作系统”，打造AI增长飞轮",
+    "link": "https://www.pingwest.com/a/317544",
+    "source": "品玩",
+    "category": "other",
+    "summary": "百度智能云首提“产业智能体操作系统”，打造AI增长飞轮\n\n产业智能体的竞争，本质是AI云的竞争。",
+    "keywords": [
+      "AI",
+      "智能"
+    ],
+    "date": "2026-09-18"
+  },
+  {
+    "title": "对话Articuler.ai：AI社交最不该做的，是让Agent替你社交",
+    "link": "https://www.pingwest.com/a/317500",
+    "source": "品玩",
+    "category": "other",
+    "summary": "对话Articuler.ai：AI社交最不该做的，是让Agent替你社交\n\n想做 AI 版 LinkedIn，Articuler.ai 先回答「这场活动你该见谁」。",
+    "keywords": [
+      "AI",
+      "Agent"
+    ],
+    "date": "2026-09-18"
+  },
+  {
     "title": "法官驳回OpenAI披露请求 SpaceXAI与Apple达成保密和解",
     "link": "https://www.pingwest.com/w/317553",
     "source": "品玩",
@@ -433,52 +502,6 @@
     "date": "2026-09-16"
   },
   {
-    "title": "全球首款AI智能体手机正式上市！努比亚NaviX Ultra 5499元起",
-    "link": "https://www.pingwest.com/w/317494",
-    "source": "品玩",
-    "category": "key_news",
-    "summary": "努比亚\n\n\n\n全球首款AI智能体手机正式上市！努比亚NaviX Ultra 5499元起",
-    "keywords": [
-      "AI",
-      "智能"
-    ],
-    "date": "2026-09-16"
-  },
-  {
-    "title": "Nobel Heroes & AI4SCI Summit 2026 将于10月启幕新加坡，汇聚全球顶尖智识，共探下一代科学与智能未来",
-    "link": "https://www.pingwest.com/a/317324",
-    "source": "品玩",
-    "category": "other",
-    "summary": "Nobel Heroes &amp; AI4SCI Summit 2026 将于10月启幕新加坡，汇聚全球顶尖智识，共探下一代科学与智能未来",
-    "keywords": [
-      "AI",
-      "智能"
-    ],
-    "date": "2026-09-16"
-  },
-  {
-    "title": "OriginOS 7 深度体验：当系统开始真正懂你",
-    "link": "https://www.pingwest.com/a/317366",
-    "source": "品玩",
-    "category": "other",
-    "summary": "vivo\n\n\n\nOriginOS 7 深度体验：当系统开始真正懂你\n\n当系统开始理解个人习惯，智能也就不必再停留在问答界面。",
-    "keywords": [
-      "智能"
-    ],
-    "date": "2026-09-16"
-  },
-  {
-    "title": "高德地图2026正式发布，空间智能重塑出行导航体验",
-    "link": "https://www.pingwest.com/w/317481",
-    "source": "品玩",
-    "category": "other",
-    "summary": "高德\n\n\n\n高德地图2026正式发布，空间智能重塑出行导航体验",
-    "keywords": [
-      "智能"
-    ],
-    "date": "2026-09-16"
-  },
-  {
     "title": "Al Gore says the real AI risk isn’t data centers",
     "link": "https://techcrunch.com/2026/09/16/al-gore-has-a-surprisingly-calm-take-on-the-ai-data-center-backlash/",
     "source": "TechCrunch",
@@ -488,39 +511,5 @@
       "AI"
     ],
     "date": "2026-09-16"
-  },
-  {
-    "title": "荣耀CEO李健：荣耀把 AI 探索的无人区走成主干道",
-    "link": "https://www.pingwest.com/w/317453",
-    "source": "品玩",
-    "category": "other",
-    "summary": "荣耀\n\n\n\n荣耀CEO李健：荣耀把 AI 探索的无人区走成主干道",
-    "keywords": [
-      "AI"
-    ],
-    "date": "2026-09-15"
-  },
-  {
-    "title": "从 14 步到超百步，荣耀 MagicOS 11 重新定义 AI 手机的“执行力”",
-    "link": "https://www.pingwest.com/a/317452",
-    "source": "品玩",
-    "category": "other",
-    "summary": "荣耀\n\n\n\n从 14 步到超百步，荣耀 MagicOS 11 重新定义 AI 手机的“执行力”\n\n当 AI 不再只负责聊天，MagicOS 11 开始接管你的下一步。",
-    "keywords": [
-      "AI"
-    ],
-    "date": "2026-09-15"
-  },
-  {
-    "title": "先进企业，先让 Agent 上飞书",
-    "link": "https://www.pingwest.com/a/317445",
-    "source": "品玩",
-    "category": "other",
-    "summary": "先进企业，先让 Agent 上飞书\n\n当一些企业还在教员工怎样使用 AI 时，另一些企业已经开始为 Agent 安排身份、权限、工位和工作。",
-    "keywords": [
-      "AI",
-      "Agent"
-    ],
-    "date": "2026-09-15"
   }
 ]
