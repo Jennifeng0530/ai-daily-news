@@ -1,5 +1,65 @@
 [
   {
+    "title": "法官驳回OpenAI披露请求 SpaceXAI与Apple达成保密和解",
+    "link": "https://www.pingwest.com/w/317553",
+    "source": "品玩",
+    "category": "other",
+    "summary": "OpenAI\n\n\n\n法官驳回OpenAI披露请求 SpaceXAI与Apple达成保密和解\n\n据 AppleInsider 报道，在Elon Musk旗下SpaceXAI申请将Apple从其针对Apple和OpenAI提起的诉讼中撤出后，OpenAI要求披露双方和解条款。",
+    "keywords": [
+      "AI",
+      "OpenAI",
+      "xAI"
+    ],
+    "date": "2026-09-18"
+  },
+  {
+    "title": "quiver.ai推出Arrow 2更新 显著提升生成速度与视觉质量",
+    "link": "https://www.pingwest.com/w/317552",
+    "source": "品玩",
+    "category": "other",
+    "summary": "图片模型\n\n\n\nquiver.ai推出Arrow 2更新 显著提升生成速度与视觉质量\n\n据quiver.ai官方消息，quiver.ai 推出Arrow 2更新，在动画、矢量化和素材生成方面带来更快的生成速度与更优的视觉质量。该版本延续\"通过代码精心构建矢量图形\"的理念，并强化对设计基础的理解。",
+    "keywords": [
+      "AI"
+    ],
+    "date": "2026-09-18"
+  },
+  {
+    "title": "xAI为Grok Build推出长期记忆功能 自动延续项目上下文",
+    "link": "https://www.pingwest.com/w/317551",
+    "source": "品玩",
+    "category": "other",
+    "summary": "xAI\n\n\n\nxAI为Grok Build推出长期记忆功能 自动延续项目上下文\n\n据 AIbase报道，xAI正式宣布在Grok Build中推出长期记忆功能，旨在解决开发者每次开启新会话时需重复说明项目结构、代码规范及操作指令的痛点。该功能可自动将核心决策与项目事实延续至后续工作。",
+    "keywords": [
+      "AI",
+      "xAI",
+      "Grok"
+    ],
+    "date": "2026-09-18"
+  },
+  {
+    "title": "地瓜机器人完成4亿美元C轮融资 旭日芯片累计出货突破800万片",
+    "link": "https://www.pingwest.com/w/317548",
+    "source": "品玩",
+    "category": "funding",
+    "summary": "地瓜机器人\n\n\n\n地瓜机器人完成4亿美元C轮融资 旭日芯片累计出货突破800万片\n\n据地瓜机器人官方消息，地瓜机器人宣布完成4亿美元C轮融资。本轮由未来资产领投，美团战略投资，合肥国投、凯辉基金、广发信德、高瓴创投、五源资本、淡马锡旗下Vertex Growth、云锋基金、美团龙珠等新老股东联合跟投。",
+    "keywords": [
+      "机器人"
+    ],
+    "date": "2026-09-18"
+  },
+  {
+    "title": "Kimi发布金融行业解决方案 整合10+数据源与9项金融技能",
+    "link": "https://www.pingwest.com/w/317547",
+    "source": "品玩",
+    "category": "other",
+    "summary": "月之暗面\n\n\n\nKimi发布金融行业解决方案 整合10+数据源与9项金融技能\n\n据 月之暗面官方消息，Kimi发布金融行业解决方案，整合10余个权威数据源、9项金融技能与5项合规安全措施，覆盖持仓早报、财报点评、项目筛选、深度研究及组合复盘等场景，将资料处理从以天计压缩至小时级。",
+    "keywords": [
+      "月之暗面",
+      "Kimi"
+    ],
+    "date": "2026-09-18"
+  },
+  {
     "title": "360纳米Work启动“双城千店上岗计划” 探索实体商业AI落地新路径",
     "link": "https://www.pingwest.com/w/317545",
     "source": "品玩",
@@ -137,6 +197,145 @@
     "keywords": [
       "AI",
       "Anthropic"
+    ],
+    "date": "2026-09-17"
+  },
+  {
+    "title": "Crusoe raises $3.9B to build massive data centers and small modular ‘AI factories’",
+    "link": "https://techcrunch.com/2026/09/17/crusoe-raises-3-9b-to-build-massive-data-centers-and-small-modular-ai-factories/",
+    "source": "TechCrunch",
+    "category": "funding",
+    "summary": "The round values the data center giant at $30.9 billion.",
+    "keywords": [
+      "AI"
+    ],
+    "date": "2026-09-17"
+  },
+  {
+    "title": "Google DeepMind launches institute to widen the AGI debate",
+    "link": "https://techcrunch.com/2026/09/17/google-deepmind-launches-institute-to-widen-the-agi-debate/",
+    "source": "TechCrunch",
+    "category": "other",
+    "summary": "The new institute aims to surface differing views between Google, Google DeepMind, and the broader global research community around AGI. \"They will not always agree, and they will likely change their ",
+    "keywords": [
+      "AI",
+      "DeepMind"
+    ],
+    "date": "2026-09-17"
+  },
+  {
+    "title": "PrismML hopes its tiny LLM will change how we all use AI",
+    "link": "https://techcrunch.com/2026/09/17/prismml-hopes-its-tiny-llm-could-change-how-we-all-use-ai/",
+    "source": "TechCrunch",
+    "category": "other",
+    "summary": "If AI lab PrismML isn't on your radar yet, it should be.",
+    "keywords": [
+      "AI",
+      "LLM"
+    ],
+    "date": "2026-09-17"
+  },
+  {
+    "title": "The FAA’s plan to fix air traffic? $875M worth of AI",
+    "link": "https://techcrunch.com/2026/09/17/the-faas-plan-to-fix-air-traffic-875-million-worth-of-ai/",
+    "source": "TechCrunch",
+    "category": "other",
+    "summary": "A new AI-based software program is being launched to help air traffic controllers better navigate their jobs as the crossing guards of America's skies.",
+    "keywords": [
+      "AI"
+    ],
+    "date": "2026-09-17"
+  },
+  {
+    "title": "The fix for rogue AI agents could be more AI",
+    "link": "https://techcrunch.com/2026/09/17/the-fix-for-rogue-ai-agents-could-be-more-ai/",
+    "source": "TechCrunch",
+    "category": "other",
+    "summary": "As companies hand off longer and more complex tasks to AI agents, they are running into an oversight problem: Agents can act faster, longer, and at greater volume than humans can realistically review.",
+    "keywords": [
+      "AI",
+      "Agent"
+    ],
+    "date": "2026-09-17"
+  },
+  {
+    "title": "OpenAI caught its models leaving notes to successors to hide bad behavior",
+    "link": "https://techcrunch.com/2026/09/17/openai-caught-its-models-leaving-notes-to-successors-to-hide-bad-behavior/",
+    "source": "TechCrunch",
+    "category": "other",
+    "summary": "OpenAI disclosed instances of GPT-5.6 Sol instructing future contexts to conceal mistakes and misaligned behavior, highlighting the growing challenge of detecting misalignment as increasingly capable ",
+    "keywords": [
+      "AI",
+      "OpenAI",
+      "GPT"
+    ],
+    "date": "2026-09-17"
+  },
+  {
+    "title": "Is the AI safety debate about safety or control?",
+    "link": "https://techcrunch.com/2026/09/17/is-the-ai-safety-debate-about-safety-or-control/",
+    "source": "TechCrunch",
+    "category": "other",
+    "summary": "Not everyone agrees with Amodei's call for globally coordinated action for AI safety.",
+    "keywords": [
+      "AI"
+    ],
+    "date": "2026-09-17"
+  },
+  {
+    "title": "UN turns to Google to make its global data ready for AI agents",
+    "link": "https://techcrunch.com/2026/09/17/un-turns-to-google-to-make-its-global-data-ready-for-ai-agents/",
+    "source": "TechCrunch",
+    "category": "other",
+    "summary": "The shift comes after a UNICEF test found leading AI models struggled to accurately retrieve global development statistics.",
+    "keywords": [
+      "AI",
+      "Agent"
+    ],
+    "date": "2026-09-17"
+  },
+  {
+    "title": "Microsoft exec called AI scraping ‘the largest theft of labor in human history,’ new unredacted filings reveal",
+    "link": "https://techcrunch.com/2026/09/17/microsoft-exec-called-ai-scraping-the-largest-theft-of-labor-in-human-history-new-unredacted-filings-reveal/",
+    "source": "TechCrunch",
+    "category": "key_news",
+    "summary": "Newly unsealed court filings show Microsoft privately called OpenAI's data practices \"theft\" while both companies scraped paywalled Times content, built datasets from it, and warned internally it woul",
+    "keywords": [
+      "AI",
+      "OpenAI"
+    ],
+    "date": "2026-09-17"
+  },
+  {
+    "title": "Even the king of England has his hesitations about AI",
+    "link": "https://techcrunch.com/2026/09/17/even-the-king-of-england-has-his-hesitations-about-ai/",
+    "source": "TechCrunch",
+    "category": "other",
+    "summary": "King Charles hosted a private summit Thursday with some of the most prominent names in AI and the U.K. government.",
+    "keywords": [
+      "AI"
+    ],
+    "date": "2026-09-17"
+  },
+  {
+    "title": "Base Labs launches an open-weight AI safety partnership with Hugging Face and Goodfire",
+    "link": "https://techcrunch.com/2026/09/17/base-labs-launches-an-open-weight-ai-safety-partnership-with-hugging-face-and-goodfire/",
+    "source": "TechCrunch",
+    "category": "other",
+    "summary": "Base Labs, the research group Baseten spun up earlier this year, will develop and publish methods for training and monitoring open models.",
+    "keywords": [
+      "AI"
+    ],
+    "date": "2026-09-17"
+  },
+  {
+    "title": "Pinterest teases a new ‘Restyle’ feature that lets you redesign your room with AI",
+    "link": "https://techcrunch.com/2026/09/17/pinterest-teases-a-new-restyle-feature-that-lets-you-redesign-your-room-with-ai/",
+    "source": "TechCrunch",
+    "category": "other",
+    "summary": "Pinterest is testing Restyle, a new AI-powered feature that lets users visualize furniture, decor, lighting, and more in photos of their own rooms — potentially helping turn saved inspiration into pur",
+    "keywords": [
+      "AI"
     ],
     "date": "2026-09-17"
   },
@@ -291,93 +490,6 @@
     "date": "2026-09-16"
   },
   {
-    "title": "Anthropic and OpenAI want to embed safety evaluators. Will they really be independent?",
-    "link": "https://techcrunch.com/2026/09/16/anthropic-and-openai-want-to-embed-safety-evaluators-will-they-really-be-independent/",
-    "source": "TechCrunch",
-    "category": "other",
-    "summary": "Anthropic and OpenAI want to embed independent safety evaluators inside their AI labs. Researchers welcome the unprecedented access, but warn meaningful oversight requires transparency, independence, ",
-    "keywords": [
-      "AI",
-      "OpenAI",
-      "Anthropic"
-    ],
-    "date": "2026-09-16"
-  },
-  {
-    "title": "After accusations of selling ‘perv glasses,’ Meta prepares to sell a pair without a camera",
-    "link": "https://techcrunch.com/2026/09/16/after-accusations-of-selling-perv-glasses-meta-prepares-to-sell-a-pair-without-a-camera/",
-    "source": "TechCrunch",
-    "category": "other",
-    "summary": "Can Meta dodge the \"pervert glasses\" accusations with a new camera-free product?",
-    "keywords": [
-      "AI"
-    ],
-    "date": "2026-09-16"
-  },
-  {
-    "title": "AI labs want in-house auditors — but maybe they should shut the front door first",
-    "link": "https://techcrunch.com/2026/09/16/ai-labs-want-in-house-auditors-but-maybe-they-should-shut-the-front-door-first/",
-    "source": "TechCrunch",
-    "category": "other",
-    "summary": "There may be a simpler and more effective fix for rogue agents, hiding in plain sight.",
-    "keywords": [
-      "AI",
-      "Agent"
-    ],
-    "date": "2026-09-16"
-  },
-  {
-    "title": "Your AI agents can now control your Google Home devices",
-    "link": "https://techcrunch.com/2026/09/16/your-ai-agents-can-now-control-your-google-home-devices/",
-    "source": "TechCrunch",
-    "category": "other",
-    "summary": "Google is launching early access to a new MCP server for Google Home, allowing AI agents like Claude, ChatGPT, and others to control connected devices, review camera summaries, and access smart home a",
-    "keywords": [
-      "AI",
-      "Agent",
-      "GPT",
-      "Claude",
-      "ChatGPT"
-    ],
-    "date": "2026-09-16"
-  },
-  {
-    "title": "Anthropic merges Claude chat and Cowork in one interface",
-    "link": "https://techcrunch.com/2026/09/16/anthropic-merges-claude-chat-and-cowork-in-one-interface/",
-    "source": "TechCrunch",
-    "category": "other",
-    "summary": "Anthropic is initially releasing these features to Pro and Max plan subscribers.",
-    "keywords": [
-      "Anthropic",
-      "Claude"
-    ],
-    "date": "2026-09-16"
-  },
-  {
-    "title": "Robots are waiting for a ChatGPT moment: Nvidia’s Les Karpas explains why at TechCrunch Disrupt 2026",
-    "link": "https://techcrunch.com/2026/09/16/robots-are-waiting-for-a-chatgpt-moment-nvidias-les-karpas-explains-why-at-techcrunch-disrupt-2026/",
-    "source": "TechCrunch",
-    "category": "other",
-    "summary": "The robotics industry is still waiting for their breakthrough into day-to-day life. Nvidia's Les Karpas has an answer as to why at TechCrunch Disrupt 2026. Register before September 25 to save up to $",
-    "keywords": [
-      "AI",
-      "GPT",
-      "ChatGPT"
-    ],
-    "date": "2026-09-16"
-  },
-  {
-    "title": "Former Infosys chief’s AI startup nabs another $53M",
-    "link": "https://techcrunch.com/2026/09/16/former-infosys-chiefs-ai-startup-adds-50m-to-seed-weeks-after-initial-raise/",
-    "source": "TechCrunch",
-    "category": "other",
-    "summary": "The Palo Alto startup says it has landed multiple seven-figure enterprise contracts within months of launch.",
-    "keywords": [
-      "AI"
-    ],
-    "date": "2026-09-16"
-  },
-  {
     "title": "荣耀CEO李健：荣耀把 AI 探索的无人区走成主干道",
     "link": "https://www.pingwest.com/w/317453",
     "source": "品玩",
@@ -408,63 +520,6 @@
     "keywords": [
       "AI",
       "Agent"
-    ],
-    "date": "2026-09-15"
-  },
-  {
-    "title": "周鸿祎：北斗应用走向智能化，安全防护也要同步升级",
-    "link": "https://www.pingwest.com/w/317451",
-    "source": "品玩",
-    "category": "other",
-    "summary": "360\n\n\n\n周鸿祎：北斗应用走向智能化，安全防护也要同步升级",
-    "keywords": [
-      "智能"
-    ],
-    "date": "2026-09-15"
-  },
-  {
-    "title": "MediaTek发布天玑9600 Pro，卓越AI 重构强悍冷劲旗舰体验",
-    "link": "https://www.pingwest.com/w/317450",
-    "source": "品玩",
-    "category": "other",
-    "summary": "联发科\n\n\n\nMediaTek发布天玑9600 Pro，卓越AI 重构强悍冷劲旗舰体验",
-    "keywords": [
-      "AI"
-    ],
-    "date": "2026-09-15"
-  },
-  {
-    "title": "飞书 CEO 谢欣：飞书与豆包工作是 AI 时代的最优解",
-    "link": "https://www.pingwest.com/w/317429",
-    "source": "品玩",
-    "category": "other",
-    "summary": "飞书\n\n\n\n飞书 CEO 谢欣：飞书与豆包工作是 AI 时代的最优解",
-    "keywords": [
-      "AI",
-      "豆包"
-    ],
-    "date": "2026-09-15"
-  },
-  {
-    "title": "Cornelis获2.05亿美元融资，发力开放架构挑战英伟达",
-    "link": "https://www.pingwest.com/w/317423",
-    "source": "品玩",
-    "category": "funding",
-    "summary": "融资\n\n\n\nCornelis获2.05亿美元融资，发力开放架构挑战英伟达\n\n据 TechCrunch 报道，AI基础设施公司Cornelis宣布完成由IAG Capital Partners领投的2.05亿美元融资。该公司于2020年从英特尔分拆独立，旨在通过提供开放架构，打破英伟达在AI芯片市场的绝对主导地位。",
-    "keywords": [
-      "AI"
-    ],
-    "date": "2026-09-15"
-  },
-  {
-    "title": "人形机器人G1+发布：运动感知智能全面升级",
-    "link": "https://www.pingwest.com/w/317421",
-    "source": "品玩",
-    "category": "other",
-    "summary": "宇树科技\n\n\n\n人形机器人G1+发布：运动感知智能全面升级\n\n据宇树科技官方消息，人形机器人G1+正式发布，在保留高性价比基础上，实现运动、感知、智能三大维度六大升级。",
-    "keywords": [
-      "机器人",
-      "智能"
     ],
     "date": "2026-09-15"
   }
