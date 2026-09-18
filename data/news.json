@@ -129,6 +129,20 @@
     "date": "2026-09-18"
   },
   {
+    "title": "Researchers used Anthropic’s Claude to hack into OpenAI",
+    "link": "https://techcrunch.com/2026/09/18/researchers-used-anthropics-claude-to-hack-into-openai/",
+    "source": "TechCrunch",
+    "category": "other",
+    "summary": "Security researchers used Anthropic’s Claude to exploit vulnerabilities in OpenAI’s systems, taking over employee accounts and gaining access to an internal code repository before reporting the flaws.",
+    "keywords": [
+      "AI",
+      "OpenAI",
+      "Anthropic",
+      "Claude"
+    ],
+    "date": "2026-09-18"
+  },
+  {
     "title": "360纳米Work启动“双城千店上岗计划” 探索实体商业AI落地新路径",
     "link": "https://www.pingwest.com/w/317545",
     "source": "品玩",
@@ -467,17 +481,6 @@
     "date": "2026-09-17"
   },
   {
-    "title": "Snap tries to make the case again for its $2,200 smart glasses",
-    "link": "https://techcrunch.com/2026/09/16/snap-tries-to-make-the-case-again-for-its-2200-smart-glasses/",
-    "source": "TechCrunch",
-    "category": "other",
-    "summary": "Since Specs' debut earlier this year, Snap has clearly been looking for an opportunity to explain why the smart glasses deserve to exist.",
-    "keywords": [
-      "AI"
-    ],
-    "date": "2026-09-17"
-  },
-  {
     "title": "VDC 之后，我问了 vivo 十个关于 AI 操作系统的问题",
     "link": "https://www.pingwest.com/a/317498",
     "source": "品玩",
@@ -496,17 +499,6 @@
     "source": "品玩",
     "category": "other",
     "summary": "vivo\n\n\n\nvivo AI战略再进阶 原系统7与蓝河操作系统4全面升级",
-    "keywords": [
-      "AI"
-    ],
-    "date": "2026-09-16"
-  },
-  {
-    "title": "Al Gore says the real AI risk isn’t data centers",
-    "link": "https://techcrunch.com/2026/09/16/al-gore-has-a-surprisingly-calm-take-on-the-ai-data-center-backlash/",
-    "source": "TechCrunch",
-    "category": "other",
-    "summary": "In an interview with TechCrunch, Al Gore suggested he isn't losing sleep over AI data center emissions — he's more worried about the AI industry's own warnings about where the technology is headed.",
     "keywords": [
       "AI"
     ],
