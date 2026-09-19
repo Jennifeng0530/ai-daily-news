@@ -1,5 +1,16 @@
 [
   {
+    "title": "Tilly Norwood’s press tour is going about as well as you’d expect for an AI",
+    "link": "https://techcrunch.com/2026/09/18/tilly-norwoods-press-tour-is-going-about-as-well-as-youd-expect-for-an-ai/",
+    "source": "TechCrunch",
+    "category": "other",
+    "summary": "In one particularly odd interview, Norwood seems to malfunction and begin speaking Chinese.",
+    "keywords": [
+      "AI"
+    ],
+    "date": "2026-09-19"
+  },
+  {
     "title": "达摩院发布DAMO RADAR 通用医学影像AI达专家水平",
     "link": "https://www.pingwest.com/w/317573",
     "source": "品玩",
@@ -125,6 +136,145 @@
     "keywords": [
       "月之暗面",
       "Kimi"
+    ],
+    "date": "2026-09-18"
+  },
+  {
+    "title": "A startup that builds other startups raised $100M and is all-in on physical AI",
+    "link": "https://techcrunch.com/2026/09/18/a-startup-that-builds-other-startups-raised-100m-and-is-all-in-on-physical-ai/",
+    "source": "TechCrunch",
+    "category": "funding",
+    "summary": "UP.Labs, now doing business under the name Vantora, is building startups for industrial corporations.",
+    "keywords": [
+      "AI"
+    ],
+    "date": "2026-09-18"
+  },
+  {
+    "title": "Anthropic is operating a lab that conducts biology experiments",
+    "link": "https://techcrunch.com/2026/09/18/anthropic-is-operating-a-lab-that-conducts-biology-experiments/",
+    "source": "TechCrunch",
+    "category": "other",
+    "summary": "AI leaders have been promising that AI is the key to curing human disease. Anthropic researchers have also been warning that AI might kill us all.",
+    "keywords": [
+      "AI",
+      "Anthropic"
+    ],
+    "date": "2026-09-18"
+  },
+  {
+    "title": "AI hallucination nearly triggers US military operation",
+    "link": "https://techcrunch.com/2026/09/18/ai-hallucination-nearly-triggers-us-military-operation/",
+    "source": "TechCrunch",
+    "category": "other",
+    "summary": "“It’s important for service members to understand the uncertainty inherent to LLMs,\" a GovAI research scholar warns.",
+    "keywords": [
+      "AI",
+      "LLM"
+    ],
+    "date": "2026-09-18"
+  },
+  {
+    "title": "Anthropic’s first embedded evaluator is … Accenture?",
+    "link": "https://techcrunch.com/2026/09/18/anthropics-first-embedded-evaluator-is-accenture/",
+    "source": "TechCrunch",
+    "category": "other",
+    "summary": "Accenture is about to take on its most high-risk consulting engagement ever.",
+    "keywords": [
+      "Anthropic"
+    ],
+    "date": "2026-09-18"
+  },
+  {
+    "title": "A new kind of AI model from a ChatGPT inventor is thrilling developers",
+    "link": "https://techcrunch.com/2026/09/18/a-new-kind-of-ai-model-from-a-chatgpt-inventor-is-thrilling-developers/",
+    "source": "TechCrunch",
+    "category": "other",
+    "summary": "Jev, a new kind of AI model, is showing developers a cheaper and faster path to software intelligence.",
+    "keywords": [
+      "AI",
+      "GPT",
+      "ChatGPT"
+    ],
+    "date": "2026-09-18"
+  },
+  {
+    "title": "Disney’s first CTO led an AI startup it once accused of copying its characters",
+    "link": "https://techcrunch.com/2026/09/18/disneys-first-cto-led-an-ai-startup-it-once-accused-of-copying-its-characters/",
+    "source": "TechCrunch",
+    "category": "other",
+    "summary": "The former CEO of Character.AI, which Disney previously sent a cease-and-desist letter to, will serve as the company's first-ever chief technology officer.",
+    "keywords": [
+      "AI"
+    ],
+    "date": "2026-09-18"
+  },
+  {
+    "title": "Google’s new ‘CC’ is an AI agent that helps families run their households",
+    "link": "https://techcrunch.com/2026/09/18/googles-new-cc-is-an-ai-agent-that-helps-families-run-their-households/",
+    "source": "TechCrunch",
+    "category": "other",
+    "summary": "Google is refocusing its CC AI agent on household coordination, letting families share emails, schedules, and tasks so the AI can manage calendars, fill out forms, make shopping lists, plan meals, and",
+    "keywords": [
+      "AI",
+      "Agent"
+    ],
+    "date": "2026-09-18"
+  },
+  {
+    "title": "Dario Amodei and other AI leaders want to ‘Pace the Frontier’ but…how?",
+    "link": "https://techcrunch.com/video/dario-amodei-and-other-ai-leaders-want-to-pace-the-frontier-buthow/",
+    "source": "TechCrunch",
+    "category": "other",
+    "summary": "A week after an Anthropic researcher&#8217;s doomsday warning rattled the AI world, the company&#8217;s CEO Dario Amodei has&#160;outlined his plan to “pace the frontier”&#160;of AI development. The p",
+    "keywords": [
+      "AI",
+      "Anthropic"
+    ],
+    "date": "2026-09-18"
+  },
+  {
+    "title": "Automattic’s 33-Hour Coup, and can AI labs police themselves?",
+    "link": "https://techcrunch.com/podcast/automattics-33-hour-coup-and-can-ai-labs-police-themselves/",
+    "source": "TechCrunch",
+    "category": "other",
+    "summary": "A week after an Anthropic researcher&#8217;s doomsday warning rattled the AI world, the company&#8217;s CEO Dario Amodei has&#160;outlined his plan to “pace the frontier”&#160;of AI development. The p",
+    "keywords": [
+      "AI",
+      "Anthropic"
+    ],
+    "date": "2026-09-18"
+  },
+  {
+    "title": "Manus seeks $4B valuation in new $500M fundraise as it resumes independent ops",
+    "link": "https://techcrunch.com/2026/09/18/manus-seeks-4b-valuation-in-new-500m-fundraise-as-it-resumes-independent-ops/",
+    "source": "TechCrunch",
+    "category": "funding",
+    "summary": "Manus, which earlier this year had to break off a merger with Meta, is in discussions to raise $500M at a $4B valuation.",
+    "keywords": [
+      "AI"
+    ],
+    "date": "2026-09-18"
+  },
+  {
+    "title": "Open or closed AI? Nvidia’s Nader Khalil and Sydney Sykes take on one of the decisions shaping next-gen startups at TechCrunch Disrupt 2026",
+    "link": "https://techcrunch.com/2026/09/18/open-or-closed-ai-nvidias-nader-khalil-and-sydney-sykes-take-on-one-of-the-decisions-shaping-next-gen-startups-at-techcrunch-disrupt-2026/",
+    "source": "TechCrunch",
+    "category": "other",
+    "summary": "Nvidia's Nader Khalil and Sydney Sykes discuss one of the decisions shaping next-gen startups on the Builders Stage at TechCrunch Disrupt 2026.",
+    "keywords": [
+      "AI"
+    ],
+    "date": "2026-09-18"
+  },
+  {
+    "title": "Meta’s Muse hits Mac, letting the AI take actions on your computer",
+    "link": "https://techcrunch.com/2026/09/18/metas-muse-hits-mac-letting-the-ai-take-actions-on-your-computer/",
+    "source": "TechCrunch",
+    "category": "other",
+    "summary": "Muse is now available on the Mac, where it can work with your files and apps to take action on your behalf.",
+    "keywords": [
+      "AI"
     ],
     "date": "2026-09-18"
   },
@@ -303,180 +453,6 @@
     "keywords": [
       "AI",
       "DeepMind"
-    ],
-    "date": "2026-09-17"
-  },
-  {
-    "title": "PrismML hopes its tiny LLM will change how we all use AI",
-    "link": "https://techcrunch.com/2026/09/17/prismml-hopes-its-tiny-llm-could-change-how-we-all-use-ai/",
-    "source": "TechCrunch",
-    "category": "other",
-    "summary": "If AI lab PrismML isn't on your radar yet, it should be.",
-    "keywords": [
-      "AI",
-      "LLM"
-    ],
-    "date": "2026-09-17"
-  },
-  {
-    "title": "The FAA’s plan to fix air traffic? $875M worth of AI",
-    "link": "https://techcrunch.com/2026/09/17/the-faas-plan-to-fix-air-traffic-875-million-worth-of-ai/",
-    "source": "TechCrunch",
-    "category": "other",
-    "summary": "A new AI-based software program is being launched to help air traffic controllers better navigate their jobs as the crossing guards of America's skies.",
-    "keywords": [
-      "AI"
-    ],
-    "date": "2026-09-17"
-  },
-  {
-    "title": "The fix for rogue AI agents could be more AI",
-    "link": "https://techcrunch.com/2026/09/17/the-fix-for-rogue-ai-agents-could-be-more-ai/",
-    "source": "TechCrunch",
-    "category": "other",
-    "summary": "As companies hand off longer and more complex tasks to AI agents, they are running into an oversight problem: Agents can act faster, longer, and at greater volume than humans can realistically review.",
-    "keywords": [
-      "AI",
-      "Agent"
-    ],
-    "date": "2026-09-17"
-  },
-  {
-    "title": "OpenAI caught its models leaving notes to successors to hide bad behavior",
-    "link": "https://techcrunch.com/2026/09/17/openai-caught-its-models-leaving-notes-to-successors-to-hide-bad-behavior/",
-    "source": "TechCrunch",
-    "category": "other",
-    "summary": "OpenAI disclosed instances of GPT-5.6 Sol instructing future contexts to conceal mistakes and misaligned behavior, highlighting the growing challenge of detecting misalignment as increasingly capable ",
-    "keywords": [
-      "AI",
-      "OpenAI",
-      "GPT"
-    ],
-    "date": "2026-09-17"
-  },
-  {
-    "title": "Is the AI safety debate about safety or control?",
-    "link": "https://techcrunch.com/2026/09/17/is-the-ai-safety-debate-about-safety-or-control/",
-    "source": "TechCrunch",
-    "category": "other",
-    "summary": "Not everyone agrees with Amodei's call for globally coordinated action for AI safety.",
-    "keywords": [
-      "AI"
-    ],
-    "date": "2026-09-17"
-  },
-  {
-    "title": "UN turns to Google to make its global data ready for AI agents",
-    "link": "https://techcrunch.com/2026/09/17/un-turns-to-google-to-make-its-global-data-ready-for-ai-agents/",
-    "source": "TechCrunch",
-    "category": "other",
-    "summary": "The shift comes after a UNICEF test found leading AI models struggled to accurately retrieve global development statistics.",
-    "keywords": [
-      "AI",
-      "Agent"
-    ],
-    "date": "2026-09-17"
-  },
-  {
-    "title": "Microsoft exec called AI scraping ‘the largest theft of labor in human history,’ new unredacted filings reveal",
-    "link": "https://techcrunch.com/2026/09/17/microsoft-exec-called-ai-scraping-the-largest-theft-of-labor-in-human-history-new-unredacted-filings-reveal/",
-    "source": "TechCrunch",
-    "category": "key_news",
-    "summary": "Newly unsealed court filings show Microsoft privately called OpenAI's data practices \"theft\" while both companies scraped paywalled Times content, built datasets from it, and warned internally it woul",
-    "keywords": [
-      "AI",
-      "OpenAI"
-    ],
-    "date": "2026-09-17"
-  },
-  {
-    "title": "Even the king of England has his hesitations about AI",
-    "link": "https://techcrunch.com/2026/09/17/even-the-king-of-england-has-his-hesitations-about-ai/",
-    "source": "TechCrunch",
-    "category": "other",
-    "summary": "King Charles hosted a private summit Thursday with some of the most prominent names in AI and the U.K. government.",
-    "keywords": [
-      "AI"
-    ],
-    "date": "2026-09-17"
-  },
-  {
-    "title": "Base Labs launches an open-weight AI safety partnership with Hugging Face and Goodfire",
-    "link": "https://techcrunch.com/2026/09/17/base-labs-launches-an-open-weight-ai-safety-partnership-with-hugging-face-and-goodfire/",
-    "source": "TechCrunch",
-    "category": "other",
-    "summary": "Base Labs, the research group Baseten spun up earlier this year, will develop and publish methods for training and monitoring open models.",
-    "keywords": [
-      "AI"
-    ],
-    "date": "2026-09-17"
-  },
-  {
-    "title": "Pinterest teases a new ‘Restyle’ feature that lets you redesign your room with AI",
-    "link": "https://techcrunch.com/2026/09/17/pinterest-teases-a-new-restyle-feature-that-lets-you-redesign-your-room-with-ai/",
-    "source": "TechCrunch",
-    "category": "other",
-    "summary": "Pinterest is testing Restyle, a new AI-powered feature that lets users visualize furniture, decor, lighting, and more in photos of their own rooms — potentially helping turn saved inspiration into pur",
-    "keywords": [
-      "AI"
-    ],
-    "date": "2026-09-17"
-  },
-  {
-    "title": "Huawei plans Q1 2027 launch of new AI chip as it takes on Nvidia",
-    "link": "https://techcrunch.com/2026/09/17/huawei-plans-q1-2027-launch-of-new-ai-chip-as-it-takes-on-nvidia/",
-    "source": "TechCrunch",
-    "category": "other",
-    "summary": "Huawei is accelerating the launch of its next-generation Ascend 960DT AI chip as it pushes to compete with Nvidia and close China’s AI computing gap with the U.S.",
-    "keywords": [
-      "AI"
-    ],
-    "date": "2026-09-17"
-  },
-  {
-    "title": "Rival AI agents, Instinct and Meta’s Muse, both add the ability to make calls",
-    "link": "https://techcrunch.com/2026/09/17/rival-ai-agents-instinct-and-metas-muse-both-add-the-ability-to-make-calls/",
-    "source": "TechCrunch",
-    "category": "other",
-    "summary": "People can use these assistants to make restaurant reservations and cancel subscriptions.",
-    "keywords": [
-      "AI",
-      "Agent"
-    ],
-    "date": "2026-09-17"
-  },
-  {
-    "title": "Google, Nvidia, and Anthropic want Emerald AI to find space on the grid for more data centers",
-    "link": "https://techcrunch.com/2026/09/17/google-nvidia-and-anthropic-want-emerald-ai-to-find-space-on-the-grid-for-more-data-centers/",
-    "source": "TechCrunch",
-    "category": "other",
-    "summary": "A new coalition that includes Google, Nvidia, Anthropic, and Emerald AI wants to find 100 GW of grid capacity for new data centers.",
-    "keywords": [
-      "AI",
-      "Anthropic"
-    ],
-    "date": "2026-09-17"
-  },
-  {
-    "title": "Iceland-based Treble raises $18 million for its voice simulation platform",
-    "link": "https://techcrunch.com/2026/09/16/iceland-based-treble-raises-18-million-for-its-voice-simulation-platform/",
-    "source": "TechCrunch",
-    "category": "funding",
-    "summary": "Treble's voice simulation platform is used by voice AI model developers and AI wearable and robotics companies,",
-    "keywords": [
-      "AI"
-    ],
-    "date": "2026-09-17"
-  },
-  {
-    "title": "Your startup’s next teammate might be an AI agent: Gusto, Insight Partners, and Leland explain what that changes at TechCrunch Disrupt 2026",
-    "link": "https://techcrunch.com/2026/09/16/your-startups-next-teammate-might-be-an-ai-agent-gusto-insight-partners-and-leland-explain-what-that-changes-at-techcrunch-disrupt-2026/",
-    "source": "TechCrunch",
-    "category": "other",
-    "summary": "This session will explore how early-stage companies are building teams where humans and AI agents work alongside each other — and how founders can do that without sacrificing speed, accountability, or",
-    "keywords": [
-      "AI",
-      "Agent"
     ],
     "date": "2026-09-17"
   },
