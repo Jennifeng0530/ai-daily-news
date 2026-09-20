@@ -1,5 +1,61 @@
 [
   {
+    "title": "Flock reportedly tries to shrink workforce with employee buyouts",
+    "link": "https://techcrunch.com/2026/09/19/flock-reportedly-tries-to-shrink-workforce-with-employee-buyouts/",
+    "source": "TechCrunch",
+    "category": "other",
+    "summary": "Without buyouts, Flock would \"almost certainly\" need to lay off staff.",
+    "keywords": [
+      "AI"
+    ],
+    "date": "2026-09-19"
+  },
+  {
+    "title": "Trump says it’s time to rebrand AI with a new name — and he’s also creating an AI Force",
+    "link": "https://techcrunch.com/2026/09/19/trump-suggests-rebranding-ai-with-a-new-name-says-hes-also-creating-an-ai-force/",
+    "source": "TechCrunch",
+    "category": "other",
+    "summary": "Trump claimed, without evidence, that the AI backlash is a Democratic hoax.",
+    "keywords": [
+      "AI"
+    ],
+    "date": "2026-09-19"
+  },
+  {
+    "title": "Google’s Gemini is the latest AI model to hack other companies",
+    "link": "https://techcrunch.com/2026/09/19/googles-gemini-is-the-latest-ai-model-to-hack-other-companies/",
+    "source": "TechCrunch",
+    "category": "other",
+    "summary": "Google said Gemini had \"acted appropriately\" by ending each hack immediately.",
+    "keywords": [
+      "AI",
+      "Gemini"
+    ],
+    "date": "2026-09-19"
+  },
+  {
+    "title": "Petlibro’s new AI-powered feeder is a game changer for multi-cat homes",
+    "link": "https://techcrunch.com/2026/09/19/petlibros-new-ai-powered-feeder-is-a-game-changer-for-multi-cat-homes/",
+    "source": "TechCrunch",
+    "category": "other",
+    "summary": "Petlibro's new Granary 2 smart feeders use a built-in scale and (on pricier models) an AI camera to track exactly how much your cat is eating and when — though the fanciest health-monitoring features ",
+    "keywords": [
+      "AI"
+    ],
+    "date": "2026-09-19"
+  },
+  {
+    "title": "AI safety conversations have gotten unbelievable",
+    "link": "https://techcrunch.com/2026/09/19/ai-safety-conversations-have-gotten-unbelievable/",
+    "source": "TechCrunch",
+    "category": "other",
+    "summary": "This week two conversations about AI safety went viral that demonstrate just how hard it is to discern AI fact from fiction.",
+    "keywords": [
+      "AI"
+    ],
+    "date": "2026-09-19"
+  },
+  {
     "title": "Vals, backed by Andreessen Horowitz, is looking to become the gold standard for AI benchmarking",
     "link": "https://techcrunch.com/2026/09/19/vals-backed-by-andreessen-horowitz-is-looking-to-become-the-gold-standard-for-ai-benchmarking/",
     "source": "TechCrunch",
@@ -20,135 +76,6 @@
       "AI"
     ],
     "date": "2026-09-19"
-  },
-  {
-    "title": "达摩院发布DAMO RADAR 通用医学影像AI达专家水平",
-    "link": "https://www.pingwest.com/w/317573",
-    "source": "品玩",
-    "category": "other",
-    "summary": "阿里达摩院\n\n\n\n达摩院发布DAMO RADAR 通用医学影像AI达专家水平\n\n据阿里达摩院官方消息，达摩院推出开源通用医学影像AI模型DAMO RADAR，采用视觉-语言学习方法，在国际上首次实现\"器官级细粒度对齐\"策略，覆盖含恶性肿瘤在内的146种腹部病症、18个器官。",
-    "keywords": [
-      "AI"
-    ],
-    "date": "2026-09-18"
-  },
-  {
-    "title": "Figure AI发布Helix 2.5 人形机器人实现零样本家居操作",
-    "link": "https://www.pingwest.com/w/317566",
-    "source": "品玩",
-    "category": "other",
-    "summary": "Figure\n\n\n\nFigure AI发布Helix 2.5 人形机器人实现零样本家居操作\n\nFigure AI官方宣布，现已发布Helix 2.5 模型。该模型基于Index大规模人类行为数据集预训练，可进入从未见过的家庭直接执行整理房间、叠毛巾和铺床等全身任务，无需在目标环境中收集数据、微调或适应。",
-    "keywords": [
-      "AI",
-      "机器人"
-    ],
-    "date": "2026-09-18"
-  },
-  {
-    "title": "Waymo将进入新加坡 2028年推出自动驾驶叫车服务",
-    "link": "https://www.pingwest.com/w/317564",
-    "source": "品玩",
-    "category": "other",
-    "summary": "Waymo\n\n\n\nWaymo将进入新加坡 2028年推出自动驾驶叫车服务\n\n据 The Verge 报道，Waymo将成为新加坡最新一家自动驾驶车辆运营商，加入ComfortDelGro和Grab的行列。此次部署符合新加坡扩大自动驾驶出行服务范围、为通勤者提供更多交通选择的规划方向。",
-    "keywords": [
-      "自动驾驶"
-    ],
-    "date": "2026-09-18"
-  },
-  {
-    "title": "Ora-Orb，一个“活过来”的水晶球+占卜= 迈向个人 AI 的最完美起点",
-    "link": "https://www.pingwest.com/a/317534",
-    "source": "品玩",
-    "category": "other",
-    "summary": "Ora-Orb，一个“活过来”的水晶球+占卜= 迈向个人 AI 的最完美起点\n\n对话 Ora-Orb：为什么从占卜开始做 Personal AI",
-    "keywords": [
-      "AI"
-    ],
-    "date": "2026-09-18"
-  },
-  {
-    "title": "百度智能云首提“产业智能体操作系统”，打造AI增长飞轮",
-    "link": "https://www.pingwest.com/a/317544",
-    "source": "品玩",
-    "category": "other",
-    "summary": "百度智能云首提“产业智能体操作系统”，打造AI增长飞轮\n\n产业智能体的竞争，本质是AI云的竞争。",
-    "keywords": [
-      "AI",
-      "智能"
-    ],
-    "date": "2026-09-18"
-  },
-  {
-    "title": "对话Articuler.ai：AI社交最不该做的，是让Agent替你社交",
-    "link": "https://www.pingwest.com/a/317500",
-    "source": "品玩",
-    "category": "other",
-    "summary": "对话Articuler.ai：AI社交最不该做的，是让Agent替你社交\n\n想做 AI 版 LinkedIn，Articuler.ai 先回答「这场活动你该见谁」。",
-    "keywords": [
-      "AI",
-      "Agent"
-    ],
-    "date": "2026-09-18"
-  },
-  {
-    "title": "法官驳回OpenAI披露请求 SpaceXAI与Apple达成保密和解",
-    "link": "https://www.pingwest.com/w/317553",
-    "source": "品玩",
-    "category": "other",
-    "summary": "OpenAI\n\n\n\n法官驳回OpenAI披露请求 SpaceXAI与Apple达成保密和解\n\n据 AppleInsider 报道，在Elon Musk旗下SpaceXAI申请将Apple从其针对Apple和OpenAI提起的诉讼中撤出后，OpenAI要求披露双方和解条款。",
-    "keywords": [
-      "AI",
-      "OpenAI",
-      "xAI"
-    ],
-    "date": "2026-09-18"
-  },
-  {
-    "title": "quiver.ai推出Arrow 2更新 显著提升生成速度与视觉质量",
-    "link": "https://www.pingwest.com/w/317552",
-    "source": "品玩",
-    "category": "other",
-    "summary": "图片模型\n\n\n\nquiver.ai推出Arrow 2更新 显著提升生成速度与视觉质量\n\n据quiver.ai官方消息，quiver.ai 推出Arrow 2更新，在动画、矢量化和素材生成方面带来更快的生成速度与更优的视觉质量。该版本延续\"通过代码精心构建矢量图形\"的理念，并强化对设计基础的理解。",
-    "keywords": [
-      "AI"
-    ],
-    "date": "2026-09-18"
-  },
-  {
-    "title": "xAI为Grok Build推出长期记忆功能 自动延续项目上下文",
-    "link": "https://www.pingwest.com/w/317551",
-    "source": "品玩",
-    "category": "other",
-    "summary": "xAI\n\n\n\nxAI为Grok Build推出长期记忆功能 自动延续项目上下文\n\n据 AIbase报道，xAI正式宣布在Grok Build中推出长期记忆功能，旨在解决开发者每次开启新会话时需重复说明项目结构、代码规范及操作指令的痛点。该功能可自动将核心决策与项目事实延续至后续工作。",
-    "keywords": [
-      "AI",
-      "xAI",
-      "Grok"
-    ],
-    "date": "2026-09-18"
-  },
-  {
-    "title": "地瓜机器人完成4亿美元C轮融资 旭日芯片累计出货突破800万片",
-    "link": "https://www.pingwest.com/w/317548",
-    "source": "品玩",
-    "category": "funding",
-    "summary": "地瓜机器人\n\n\n\n地瓜机器人完成4亿美元C轮融资 旭日芯片累计出货突破800万片\n\n据地瓜机器人官方消息，地瓜机器人宣布完成4亿美元C轮融资。本轮由未来资产领投，美团战略投资，合肥国投、凯辉基金、广发信德、高瓴创投、五源资本、淡马锡旗下Vertex Growth、云锋基金、美团龙珠等新老股东联合跟投。",
-    "keywords": [
-      "机器人"
-    ],
-    "date": "2026-09-18"
-  },
-  {
-    "title": "Kimi发布金融行业解决方案 整合10+数据源与9项金融技能",
-    "link": "https://www.pingwest.com/w/317547",
-    "source": "品玩",
-    "category": "other",
-    "summary": "月之暗面\n\n\n\nKimi发布金融行业解决方案 整合10+数据源与9项金融技能\n\n据 月之暗面官方消息，Kimi发布金融行业解决方案，整合10余个权威数据源、9项金融技能与5项合规安全措施，覆盖持仓早报、财报点评、项目筛选、深度研究及组合复盘等场景，将资料处理从以天计压缩至小时级。",
-    "keywords": [
-      "月之暗面",
-      "Kimi"
-    ],
-    "date": "2026-09-18"
   },
   {
     "title": "A startup that builds other startups raised $100M and is all-in on physical AI",
@@ -266,206 +193,5 @@
       "AI"
     ],
     "date": "2026-09-18"
-  },
-  {
-    "title": "Open or closed AI? Nvidia’s Nader Khalil and Sydney Sykes take on one of the decisions shaping next-gen startups at TechCrunch Disrupt 2026",
-    "link": "https://techcrunch.com/2026/09/18/open-or-closed-ai-nvidias-nader-khalil-and-sydney-sykes-take-on-one-of-the-decisions-shaping-next-gen-startups-at-techcrunch-disrupt-2026/",
-    "source": "TechCrunch",
-    "category": "other",
-    "summary": "Nvidia's Nader Khalil and Sydney Sykes discuss one of the decisions shaping next-gen startups on the Builders Stage at TechCrunch Disrupt 2026.",
-    "keywords": [
-      "AI"
-    ],
-    "date": "2026-09-18"
-  },
-  {
-    "title": "Meta’s Muse hits Mac, letting the AI take actions on your computer",
-    "link": "https://techcrunch.com/2026/09/18/metas-muse-hits-mac-letting-the-ai-take-actions-on-your-computer/",
-    "source": "TechCrunch",
-    "category": "other",
-    "summary": "Muse is now available on the Mac, where it can work with your files and apps to take action on your behalf.",
-    "keywords": [
-      "AI"
-    ],
-    "date": "2026-09-18"
-  },
-  {
-    "title": "Researchers used Anthropic’s Claude to hack into OpenAI",
-    "link": "https://techcrunch.com/2026/09/18/researchers-used-anthropics-claude-to-hack-into-openai/",
-    "source": "TechCrunch",
-    "category": "other",
-    "summary": "Security researchers used Anthropic’s Claude to exploit vulnerabilities in OpenAI’s systems, taking over employee accounts and gaining access to an internal code repository before reporting the flaws.",
-    "keywords": [
-      "AI",
-      "OpenAI",
-      "Anthropic",
-      "Claude"
-    ],
-    "date": "2026-09-18"
-  },
-  {
-    "title": "360纳米Work启动“双城千店上岗计划” 探索实体商业AI落地新路径",
-    "link": "https://www.pingwest.com/w/317545",
-    "source": "品玩",
-    "category": "other",
-    "summary": "360\n\n\n\n360纳米Work启动“双城千店上岗计划” 探索实体商业AI落地新路径",
-    "keywords": [
-      "AI"
-    ],
-    "date": "2026-09-17"
-  },
-  {
-    "title": "Anthropic合并Claude Chat与Cowork 推出Docs与Slides功能",
-    "link": "https://www.pingwest.com/w/317535",
-    "source": "品玩",
-    "category": "other",
-    "summary": "Anthropic\n\n\n\nAnthropic合并Claude Chat与Cowork 推出Docs与Slides功能\n\n据 unite.ai 报道，Anthropic宣布将Claude Chat与Claude Cowork合并为统一的Claude体验，并推出Claude Docs与Claude Slides两项新功能。该更新将在未来数周面向Pro和Max计划用户分阶段推出。",
-    "keywords": [
-      "AI",
-      "Anthropic",
-      "Claude"
-    ],
-    "date": "2026-09-17"
-  },
-  {
-    "title": "对话Articuler.ai：AI社交最不该做的，是让Agent替你社交",
-    "link": "https://www.pingwest.com/a/317502",
-    "source": "品玩",
-    "category": "other",
-    "summary": "对话Articuler.ai：AI社交最不该做的，是让Agent替你社交\n\nArticuler.ai 想先告诉你「这场活动该见谁」.",
-    "keywords": [
-      "AI",
-      "Agent"
-    ],
-    "date": "2026-09-17"
-  },
-  {
-    "title": "教育最奢侈的“一人一解法”，即将变成日常",
-    "link": "https://www.pingwest.com/a/317496",
-    "source": "品玩",
-    "category": "other",
-    "summary": "教育最奢侈的“一人一解法”，即将变成日常\n\n人人可以定制 AI 课。",
-    "keywords": [
-      "AI"
-    ],
-    "date": "2026-09-17"
-  },
-  {
-    "title": "2026 OPPO开发者大会：迈向个性化主动智能，共建更懂你的数字未来",
-    "link": "https://www.pingwest.com/w/317524",
-    "source": "品玩",
-    "category": "other",
-    "summary": "OPPO\n\n\n\n2026 OPPO开发者大会：迈向个性化主动智能，共建更懂你的数字未来",
-    "keywords": [
-      "智能"
-    ],
-    "date": "2026-09-17"
-  },
-  {
-    "title": "Google Home开放MCP协议 支持AI智能助手控制智能家居",
-    "link": "https://www.pingwest.com/w/317521",
-    "source": "品玩",
-    "category": "other",
-    "summary": "谷歌\n\n\n\nGoogle Home开放MCP协议 支持AI智能助手控制智能家居\n\n据 TechCrunch 报道，Google推出Google Home生态系统的Model Context Protocol（MCP）服务器，允许支持MCP的AI智能助手安全连接智能家居设备并访问事件记录。",
-    "keywords": [
-      "AI",
-      "智能"
-    ],
-    "date": "2026-09-17"
-  },
-  {
-    "title": "Doubao-Seed-2.1-pro更新至0915版本 API全量上线火山方舟",
-    "link": "https://www.pingwest.com/w/317517",
-    "source": "品玩",
-    "category": "other",
-    "summary": "豆包\n\n\n\nDoubao-Seed-2.1-pro更新至0915版本 API全量上线火山方舟\n\n据火山引擎官方消息，豆包大模型Doubao-Seed-2.1-pro更新至0915版本，API已全量上线火山方舟。本次升级聚焦企业生产级需求，在Agent任务交付、多模态Coding、多模态理解及Token效率四方面全面增强。",
-    "keywords": [
-      "大模型",
-      "Agent",
-      "豆包"
-    ],
-    "date": "2026-09-17"
-  },
-  {
-    "title": "Anthropic签署澳大利亚首个数据中心协议 投资320亿澳元",
-    "link": "https://www.pingwest.com/w/317514",
-    "source": "品玩",
-    "category": "other",
-    "summary": "Claude\n\n\n\nAnthropic签署澳大利亚首个数据中心协议 投资320亿澳元\n\n据News24 报道，AI公司Anthropic宣布与昆士兰州政府签署首个数据中心协议，拟在达尔比附近建设占地725公顷的Western Downs Digital Park园区。",
-    "keywords": [
-      "AI",
-      "Anthropic",
-      "Claude"
-    ],
-    "date": "2026-09-17"
-  },
-  {
-    "title": "Meta拟推无摄像头智能眼镜Luna 规避隐私争议",
-    "link": "https://www.pingwest.com/w/317510",
-    "source": "品玩",
-    "category": "other",
-    "summary": "META\n\n\n\nMeta拟推无摄像头智能眼镜Luna 规避隐私争议\n\n据 petapixel 报道，Meta正筹备推出一款代号为Luna的新型智能眼镜，该产品移除了摄像头功能，以应对现有带摄像头型号面临的隐私争议。据称，Luna或于9月23日至24日的Meta Connect活动上亮相，最快10月发货。",
-    "keywords": [
-      "智能"
-    ],
-    "date": "2026-09-17"
-  },
-  {
-    "title": "Instinct洽谈10亿美元融资 目标估值100亿美元",
-    "link": "https://www.pingwest.com/w/317507",
-    "source": "品玩",
-    "category": "funding",
-    "summary": "融资\n\n\n\nInstinct洽谈10亿美元融资 目标估值100亿美元\n\n据 vff.ai 报道，个人AI助手初创公司Instinct正洽谈新一轮10亿美元融资，目标估值约100亿美元。红杉资本与Benchmark正洽谈领投本轮融资，目前交易尚未最终敲定。",
-    "keywords": [
-      "AI"
-    ],
-    "date": "2026-09-17"
-  },
-  {
-    "title": "戈尔：AI数据中心排放非最大威胁 行业内部预警更值得警惕",
-    "link": "https://www.pingwest.com/w/317501",
-    "source": "品玩",
-    "category": "other",
-    "summary": "数据中心\n\n\n\n戈尔：AI数据中心排放非最大威胁 行业内部预警更值得警惕\n\n据 TechCrunch 报道，气候活动家Al Gore近期接受TechCrunch采访，与Generation Investment Management增长股权主管Lila Preston共同阐述AI与气候议题观点。",
-    "keywords": [
-      "AI"
-    ],
-    "date": "2026-09-17"
-  },
-  {
-    "title": "Anthropic十月设新加坡办公室 拓展亚太企业市场",
-    "link": "https://www.pingwest.com/w/317499",
-    "source": "品玩",
-    "category": "other",
-    "summary": "新加坡\n\n\n\nAnthropic十月设新加坡办公室 拓展亚太企业市场\n\n据 The edge singapore 报道，AI公司Anthropic宣布十月在新加坡设办，拓展亚太企业市场。新加坡办公室是其亚太区第五个办事机构，此前已在东京、班加罗尔、首尔和悉尼设点。",
-    "keywords": [
-      "AI",
-      "Anthropic"
-    ],
-    "date": "2026-09-17"
-  },
-  {
-    "title": "Crusoe raises $3.9B to build massive data centers and small modular ‘AI factories’",
-    "link": "https://techcrunch.com/2026/09/17/crusoe-raises-3-9b-to-build-massive-data-centers-and-small-modular-ai-factories/",
-    "source": "TechCrunch",
-    "category": "funding",
-    "summary": "The round values the data center giant at $30.9 billion.",
-    "keywords": [
-      "AI"
-    ],
-    "date": "2026-09-17"
-  },
-  {
-    "title": "VDC 之后，我问了 vivo 十个关于 AI 操作系统的问题",
-    "link": "https://www.pingwest.com/a/317498",
-    "source": "品玩",
-    "category": "other",
-    "summary": "vivo\n\n\n\nVDC 之后，我问了 vivo 十个关于 AI 操作系统的问题\n\n从 30B 端侧模型到 AgentOS vivo 希望把个人化智能做进系统底层。",
-    "keywords": [
-      "AI",
-      "Agent",
-      "智能"
-    ],
-    "date": "2026-09-16"
   }
 ]
