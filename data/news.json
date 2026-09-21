@@ -1,5 +1,144 @@
 [
   {
+    "title": "智谱MaaS将上线数据内容不留存功能",
+    "link": "https://www.pingwest.com/w/317626",
+    "source": "品玩",
+    "category": "other",
+    "summary": "智谱\n\n\n\n智谱MaaS将上线数据内容不留存功能\n\n据智谱开放平台消息，智谱MaaS宣布，近期将上线数据内容不留存功能，为企业和开发者用户提供更为严格的数据隐私保护。该机制旨在减少模型调用内容在平台侧的持久化留存。",
+    "keywords": [
+      "智谱"
+    ],
+    "date": "2026-09-21"
+  },
+  {
+    "title": "Google Gemini被指在测试中侵入三家公司系统",
+    "link": "https://www.pingwest.com/w/317624",
+    "source": "品玩",
+    "category": "other",
+    "summary": "GEMINI\n\n\n\nGoogle Gemini被指在测试中侵入三家公司系统\n\n据 TechCrunch 报道，Google Gemini在网络安全测试中访问了三家公司的受保护系统，这是该模型首次实施自主网络入侵。",
+    "keywords": [
+      "Gemini"
+    ],
+    "date": "2026-09-21"
+  },
+  {
+    "title": "亮源新创发布全身智能基础模型Light-O1，首次验证人类全身动作预训练的跨本体迁移扩展规律",
+    "link": "https://www.pingwest.com/w/317617",
+    "source": "品玩",
+    "category": "other",
+    "summary": "具身智能\n\n\n\n亮源新创发布全身智能基础模型Light-O1，首次验证人类全身动作预训练的跨本体迁移扩展规律",
+    "keywords": [
+      "智能"
+    ],
+    "date": "2026-09-21"
+  },
+  {
+    "title": "世界模型赛道仍处“暗森林”状态 商业化路径尚未明朗",
+    "link": "https://www.pingwest.com/w/317616",
+    "source": "品玩",
+    "category": "other",
+    "summary": "世界模型\n\n\n\n世界模型赛道仍处“暗森林”状态 商业化路径尚未明朗\n\n据 TechCrunch 报道，世界模型被视为自动化空间智能的关键方向，潜在应用涵盖机器人、交互式视频、自动驾驶系统等。",
+    "keywords": [
+      "机器人",
+      "自动驾驶",
+      "智能"
+    ],
+    "date": "2026-09-21"
+  },
+  {
+    "title": "Anthropic披露Claude主导26%模型研发 呼吁行业公开发展指标",
+    "link": "https://www.pingwest.com/w/317615",
+    "source": "品玩",
+    "category": "other",
+    "summary": "Anthropic\n\n\n\nAnthropic披露Claude主导26%模型研发 呼吁行业公开发展指标\n\n据 AP News 报道，Anthropic上周宣布，Claude正协助公司开发下一代更智能模型。目前，Claude主导了Anthropic 26%的模型研发工作，可在人类监督下从高层提示完成大部分端到端任务，但尚未完全自主运行。",
+    "keywords": [
+      "Anthropic",
+      "Claude",
+      "智能"
+    ],
+    "date": "2026-09-21"
+  },
+  {
+    "title": "启元机器人新品发布会召开：个人机器人正式发售，19999元起，AI模型、生态布局同步公布",
+    "link": "https://www.pingwest.com/w/317608",
+    "source": "品玩",
+    "category": "other",
+    "summary": "机器人\n\n\n\n启元机器人新品发布会召开：个人机器人正式发售，19999元起，AI模型、生态布局同步公布",
+    "keywords": [
+      "AI",
+      "机器人"
+    ],
+    "date": "2026-09-20"
+  },
+  {
+    "title": "本周 AI 项目推荐：Raindrop、AIUC、AIR Security……谁在做 Agent 的安全生意？",
+    "link": "https://www.pingwest.com/a/317591",
+    "source": "品玩",
+    "category": "other",
+    "summary": "本周 AI 项目推荐：Raindrop、AIUC、AIR Security……谁在做 Agent 的安全生意？\n\n给 agent 上“保险”",
+    "keywords": [
+      "AI",
+      "Agent"
+    ],
+    "date": "2026-09-20"
+  },
+  {
+    "title": "实测Jev：没那么强，但足够给有些乏味的AI圈带来新刺激",
+    "link": "https://www.pingwest.com/a/317597",
+    "source": "品玩",
+    "category": "other",
+    "summary": "实测Jev：没那么强，但足够给有些乏味的AI圈带来新刺激\n\n处理 50 条客服消息只花 0.002 美元，我们实测了这个“不说话”的 AI。",
+    "keywords": [
+      "AI"
+    ],
+    "date": "2026-09-20"
+  },
+  {
+    "title": "MiniMax Code CLI v0.4.12以MIT协议开源",
+    "link": "https://www.pingwest.com/w/317604",
+    "source": "品玩",
+    "category": "other",
+    "summary": "MiniMax\n\n\n\nMiniMax Code CLI v0.4.12以MIT协议开源\n\n据 minimax 官方消息，MiniMax Code CLI v0.4.12面向全球开发者正式开放，并以MIT协议开源。",
+    "keywords": [
+      "MiniMax"
+    ],
+    "date": "2026-09-20"
+  },
+  {
+    "title": "阶跃星辰发布Step 5 Preview 旗舰模型 单任务成本仅为Claude Opus 5的1/8",
+    "link": "https://www.pingwest.com/w/317594",
+    "source": "品玩",
+    "category": "other",
+    "summary": "阶跃星辰\n\n\n\n阶跃星辰发布Step 5 Preview 旗舰模型 单任务成本仅为Claude Opus 5的1/8\n\n阶跃星辰官方宣布，正式发布Step 5 Preview，面向真实世界Agentic任务的旗舰基座模型。",
+    "keywords": [
+      "Agent",
+      "Claude"
+    ],
+    "date": "2026-09-20"
+  },
+  {
+    "title": "这群在校园里“手搓未来”的年轻人，正在把知乎变成AI应用的试验场",
+    "link": "https://www.pingwest.com/w/317590",
+    "source": "品玩",
+    "category": "other",
+    "summary": "知乎\n\n\n\n这群在校园里“手搓未来”的年轻人，正在把知乎变成AI应用的试验场",
+    "keywords": [
+      "AI"
+    ],
+    "date": "2026-09-20"
+  },
+  {
+    "title": "Is the AI industry really ready to slow down?",
+    "link": "https://techcrunch.com/2026/09/20/is-the-ai-industry-really-ready-to-slow-down/",
+    "source": "TechCrunch",
+    "category": "other",
+    "summary": "On Equity, we debated whether Ai executives are serious about wanting to slow down.",
+    "keywords": [
+      "AI"
+    ],
+    "date": "2026-09-20"
+  },
+  {
     "title": "Flock reportedly tries to shrink workforce with employee buyouts",
     "link": "https://techcrunch.com/2026/09/19/flock-reportedly-tries-to-shrink-workforce-with-employee-buyouts/",
     "source": "TechCrunch",
@@ -78,6 +217,135 @@
     "date": "2026-09-19"
   },
   {
+    "title": "达摩院发布DAMO RADAR 通用医学影像AI达专家水平",
+    "link": "https://www.pingwest.com/w/317573",
+    "source": "品玩",
+    "category": "other",
+    "summary": "阿里达摩院\n\n\n\n达摩院发布DAMO RADAR 通用医学影像AI达专家水平\n\n据阿里达摩院官方消息，达摩院推出开源通用医学影像AI模型DAMO RADAR，采用视觉-语言学习方法，在国际上首次实现\"器官级细粒度对齐\"策略，覆盖含恶性肿瘤在内的146种腹部病症、18个器官。",
+    "keywords": [
+      "AI"
+    ],
+    "date": "2026-09-18"
+  },
+  {
+    "title": "Figure AI发布Helix 2.5 人形机器人实现零样本家居操作",
+    "link": "https://www.pingwest.com/w/317566",
+    "source": "品玩",
+    "category": "other",
+    "summary": "Figure\n\n\n\nFigure AI发布Helix 2.5 人形机器人实现零样本家居操作\n\nFigure AI官方宣布，现已发布Helix 2.5 模型。该模型基于Index大规模人类行为数据集预训练，可进入从未见过的家庭直接执行整理房间、叠毛巾和铺床等全身任务，无需在目标环境中收集数据、微调或适应。",
+    "keywords": [
+      "AI",
+      "机器人"
+    ],
+    "date": "2026-09-18"
+  },
+  {
+    "title": "Waymo将进入新加坡 2028年推出自动驾驶叫车服务",
+    "link": "https://www.pingwest.com/w/317564",
+    "source": "品玩",
+    "category": "other",
+    "summary": "Waymo\n\n\n\nWaymo将进入新加坡 2028年推出自动驾驶叫车服务\n\n据 The Verge 报道，Waymo将成为新加坡最新一家自动驾驶车辆运营商，加入ComfortDelGro和Grab的行列。此次部署符合新加坡扩大自动驾驶出行服务范围、为通勤者提供更多交通选择的规划方向。",
+    "keywords": [
+      "自动驾驶"
+    ],
+    "date": "2026-09-18"
+  },
+  {
+    "title": "Ora-Orb，一个“活过来”的水晶球+占卜= 迈向个人 AI 的最完美起点",
+    "link": "https://www.pingwest.com/a/317534",
+    "source": "品玩",
+    "category": "other",
+    "summary": "Ora-Orb，一个“活过来”的水晶球+占卜= 迈向个人 AI 的最完美起点\n\n对话 Ora-Orb：为什么从占卜开始做 Personal AI",
+    "keywords": [
+      "AI"
+    ],
+    "date": "2026-09-18"
+  },
+  {
+    "title": "百度智能云首提“产业智能体操作系统”，打造AI增长飞轮",
+    "link": "https://www.pingwest.com/a/317544",
+    "source": "品玩",
+    "category": "other",
+    "summary": "百度智能云首提“产业智能体操作系统”，打造AI增长飞轮\n\n产业智能体的竞争，本质是AI云的竞争。",
+    "keywords": [
+      "AI",
+      "智能"
+    ],
+    "date": "2026-09-18"
+  },
+  {
+    "title": "对话Articuler.ai：AI社交最不该做的，是让Agent替你社交",
+    "link": "https://www.pingwest.com/a/317500",
+    "source": "品玩",
+    "category": "other",
+    "summary": "对话Articuler.ai：AI社交最不该做的，是让Agent替你社交\n\n想做 AI 版 LinkedIn，Articuler.ai 先回答「这场活动你该见谁」。",
+    "keywords": [
+      "AI",
+      "Agent"
+    ],
+    "date": "2026-09-18"
+  },
+  {
+    "title": "法官驳回OpenAI披露请求 SpaceXAI与Apple达成保密和解",
+    "link": "https://www.pingwest.com/w/317553",
+    "source": "品玩",
+    "category": "other",
+    "summary": "OpenAI\n\n\n\n法官驳回OpenAI披露请求 SpaceXAI与Apple达成保密和解\n\n据 AppleInsider 报道，在Elon Musk旗下SpaceXAI申请将Apple从其针对Apple和OpenAI提起的诉讼中撤出后，OpenAI要求披露双方和解条款。",
+    "keywords": [
+      "AI",
+      "OpenAI",
+      "xAI"
+    ],
+    "date": "2026-09-18"
+  },
+  {
+    "title": "quiver.ai推出Arrow 2更新 显著提升生成速度与视觉质量",
+    "link": "https://www.pingwest.com/w/317552",
+    "source": "品玩",
+    "category": "other",
+    "summary": "图片模型\n\n\n\nquiver.ai推出Arrow 2更新 显著提升生成速度与视觉质量\n\n据quiver.ai官方消息，quiver.ai 推出Arrow 2更新，在动画、矢量化和素材生成方面带来更快的生成速度与更优的视觉质量。该版本延续\"通过代码精心构建矢量图形\"的理念，并强化对设计基础的理解。",
+    "keywords": [
+      "AI"
+    ],
+    "date": "2026-09-18"
+  },
+  {
+    "title": "xAI为Grok Build推出长期记忆功能 自动延续项目上下文",
+    "link": "https://www.pingwest.com/w/317551",
+    "source": "品玩",
+    "category": "other",
+    "summary": "xAI\n\n\n\nxAI为Grok Build推出长期记忆功能 自动延续项目上下文\n\n据 AIbase报道，xAI正式宣布在Grok Build中推出长期记忆功能，旨在解决开发者每次开启新会话时需重复说明项目结构、代码规范及操作指令的痛点。该功能可自动将核心决策与项目事实延续至后续工作。",
+    "keywords": [
+      "AI",
+      "xAI",
+      "Grok"
+    ],
+    "date": "2026-09-18"
+  },
+  {
+    "title": "地瓜机器人完成4亿美元C轮融资 旭日芯片累计出货突破800万片",
+    "link": "https://www.pingwest.com/w/317548",
+    "source": "品玩",
+    "category": "funding",
+    "summary": "地瓜机器人\n\n\n\n地瓜机器人完成4亿美元C轮融资 旭日芯片累计出货突破800万片\n\n据地瓜机器人官方消息，地瓜机器人宣布完成4亿美元C轮融资。本轮由未来资产领投，美团战略投资，合肥国投、凯辉基金、广发信德、高瓴创投、五源资本、淡马锡旗下Vertex Growth、云锋基金、美团龙珠等新老股东联合跟投。",
+    "keywords": [
+      "机器人"
+    ],
+    "date": "2026-09-18"
+  },
+  {
+    "title": "Kimi发布金融行业解决方案 整合10+数据源与9项金融技能",
+    "link": "https://www.pingwest.com/w/317547",
+    "source": "品玩",
+    "category": "other",
+    "summary": "月之暗面\n\n\n\nKimi发布金融行业解决方案 整合10+数据源与9项金融技能\n\n据 月之暗面官方消息，Kimi发布金融行业解决方案，整合10余个权威数据源、9项金融技能与5项合规安全措施，覆盖持仓早报、财报点评、项目筛选、深度研究及组合复盘等场景，将资料处理从以天计压缩至小时级。",
+    "keywords": [
+      "月之暗面",
+      "Kimi"
+    ],
+    "date": "2026-09-18"
+  },
+  {
     "title": "A startup that builds other startups raised $100M and is all-in on physical AI",
     "link": "https://techcrunch.com/2026/09/18/a-startup-that-builds-other-startups-raised-100m-and-is-all-in-on-physical-ai/",
     "source": "TechCrunch",
@@ -148,50 +416,14 @@
     "date": "2026-09-18"
   },
   {
-    "title": "Google’s new ‘CC’ is an AI agent that helps families run their households",
-    "link": "https://techcrunch.com/2026/09/18/googles-new-cc-is-an-ai-agent-that-helps-families-run-their-households/",
-    "source": "TechCrunch",
+    "title": "360纳米Work启动“双城千店上岗计划” 探索实体商业AI落地新路径",
+    "link": "https://www.pingwest.com/w/317545",
+    "source": "品玩",
     "category": "other",
-    "summary": "Google is refocusing its CC AI agent on household coordination, letting families share emails, schedules, and tasks so the AI can manage calendars, fill out forms, make shopping lists, plan meals, and",
-    "keywords": [
-      "AI",
-      "Agent"
-    ],
-    "date": "2026-09-18"
-  },
-  {
-    "title": "Dario Amodei and other AI leaders want to ‘Pace the Frontier’ but…how?",
-    "link": "https://techcrunch.com/video/dario-amodei-and-other-ai-leaders-want-to-pace-the-frontier-buthow/",
-    "source": "TechCrunch",
-    "category": "other",
-    "summary": "A week after an Anthropic researcher&#8217;s doomsday warning rattled the AI world, the company&#8217;s CEO Dario Amodei has&#160;outlined his plan to “pace the frontier”&#160;of AI development. The p",
-    "keywords": [
-      "AI",
-      "Anthropic"
-    ],
-    "date": "2026-09-18"
-  },
-  {
-    "title": "Automattic’s 33-Hour Coup, and can AI labs police themselves?",
-    "link": "https://techcrunch.com/podcast/automattics-33-hour-coup-and-can-ai-labs-police-themselves/",
-    "source": "TechCrunch",
-    "category": "other",
-    "summary": "A week after an Anthropic researcher&#8217;s doomsday warning rattled the AI world, the company&#8217;s CEO Dario Amodei has&#160;outlined his plan to “pace the frontier”&#160;of AI development. The p",
-    "keywords": [
-      "AI",
-      "Anthropic"
-    ],
-    "date": "2026-09-18"
-  },
-  {
-    "title": "Manus seeks $4B valuation in new $500M fundraise as it resumes independent ops",
-    "link": "https://techcrunch.com/2026/09/18/manus-seeks-4b-valuation-in-new-500m-fundraise-as-it-resumes-independent-ops/",
-    "source": "TechCrunch",
-    "category": "funding",
-    "summary": "Manus, which earlier this year had to break off a merger with Meta, is in discussions to raise $500M at a $4B valuation.",
+    "summary": "360\n\n\n\n360纳米Work启动“双城千店上岗计划” 探索实体商业AI落地新路径",
     "keywords": [
       "AI"
     ],
-    "date": "2026-09-18"
+    "date": "2026-09-17"
   }
 ]
