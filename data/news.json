@@ -1,5 +1,81 @@
 [
   {
+    "title": "Meta AI应用Muse上线初期下载量与活跃用户数超ChatGPT同期",
+    "link": "https://www.pingwest.com/w/317693",
+    "source": "品玩",
+    "category": "other",
+    "summary": "META\n\n\n\nMeta AI应用Muse上线初期下载量与活跃用户数超ChatGPT同期\n\n据 TechCrunch 报道，市场情报机构Apptopia最新估算数据显示，Meta旗下AI应用Muse在移动设备上线前12天的下载量超过ChatGPT同期表现。",
+    "keywords": [
+      "AI",
+      "GPT",
+      "ChatGPT"
+    ],
+    "date": "2026-09-22"
+  },
+  {
+    "title": "OpenAI成立数学与人工智能咨询小组",
+    "link": "https://www.pingwest.com/w/317690",
+    "source": "品玩",
+    "category": "other",
+    "summary": "OpenAI\n\n\n\nOpenAI成立数学与人工智能咨询小组\n\n据 TechCrunch 报道，OpenAI周一宣布在新泽西州普林斯顿高等研究院设立独立咨询小组\"数学与人工智能咨询小组\"，旨在为数学界提供更多参与其数学研究的机会。该小组将作为与数学界及公众沟通的桥梁，评估新成果的重要性并协调发布。",
+    "keywords": [
+      "AI",
+      "人工智能",
+      "OpenAI",
+      "智能"
+    ],
+    "date": "2026-09-22"
+  },
+  {
+    "title": "Kimi Code Desktop正式上线 面向开发者推出桌面客户端",
+    "link": "https://www.pingwest.com/w/317686",
+    "source": "品玩",
+    "category": "other",
+    "summary": "KIMI\n\n\n\nKimi Code Desktop正式上线 面向开发者推出桌面客户端\n\n据月之暗面官方消息，Kimi Code Desktop正式推出macOS与Windows版本，将Kimi Code智能编程能力引入桌面应用。",
+    "keywords": [
+      "月之暗面",
+      "Kimi",
+      "智能"
+    ],
+    "date": "2026-09-22"
+  },
+  {
+    "title": "剪映 AI 改写创作边界：让工具更懂你，也让作品更像你自己",
+    "link": "https://www.pingwest.com/a/317663",
+    "source": "品玩",
+    "category": "other",
+    "summary": "剪映 AI 改写创作边界：让工具更懂你，也让作品更像你自己\n\n剪映把AI创作边界又拓宽了。",
+    "keywords": [
+      "AI"
+    ],
+    "date": "2026-09-22"
+  },
+  {
+    "title": "SpaceXAI发布Grok 4.7大语言模型",
+    "link": "https://www.pingwest.com/w/317671",
+    "source": "品玩",
+    "category": "other",
+    "summary": "grok\n\n\n\nSpaceXAI发布Grok 4.7大语言模型\n\n据siliconangle 报道，SpaceXAI现已发布Grok 4.7，称其为迄今最强大语言模型。",
+    "keywords": [
+      "AI",
+      "xAI",
+      "Grok"
+    ],
+    "date": "2026-09-22"
+  },
+  {
+    "title": "阶跃发布 Step 5 Preview，大模型开始寻找新的平衡点",
+    "link": "https://www.pingwest.com/a/317609",
+    "source": "品玩",
+    "category": "other",
+    "summary": "阶跃发布 Step 5 Preview，大模型开始寻找新的平衡点\n\n把计算变成有效智能，阶跃 Step 5 Preview 的技术选择",
+    "keywords": [
+      "大模型",
+      "智能"
+    ],
+    "date": "2026-09-22"
+  },
+  {
     "title": "智谱MaaS将上线数据内容不留存功能",
     "link": "https://www.pingwest.com/w/317626",
     "source": "品玩",
@@ -59,11 +135,71 @@
     "date": "2026-09-21"
   },
   {
+    "title": "The man who built Apple’s stores doesn’t buy Silicon Valley’s bet on AI shopping",
+    "link": "https://techcrunch.com/2026/09/21/the-man-who-built-apples-stores-doesnt-buy-silicon-valleys-bet-on-ai-shopping/",
+    "source": "TechCrunch",
+    "category": "other",
+    "summary": "Apple Store architect Ron Johnson says Apple's secret sauce has always been its people.",
+    "keywords": [
+      "AI"
+    ],
+    "date": "2026-09-21"
+  },
+  {
+    "title": "OpenAI forms math advisory group as its AI resolves more than 100 open problems",
+    "link": "https://techcrunch.com/2026/09/21/openai-forms-math-advisory-group-as-its-ai-resolves-more-than-100-open-problems/",
+    "source": "TechCrunch",
+    "category": "other",
+    "summary": "The group won't be given leeway to slow down or redirect OpenAI's ongoing mathematical research.",
+    "keywords": [
+      "AI",
+      "OpenAI"
+    ],
+    "date": "2026-09-21"
+  },
+  {
+    "title": "Meta’s Muse is outpacing ChatGPT’s early mobile launch",
+    "link": "https://techcrunch.com/2026/09/21/metas-muse-is-outpacing-chatgpts-early-mobile-launch/",
+    "source": "TechCrunch",
+    "category": "other",
+    "summary": "Meta’s new AI agent Muse has racked up more downloads and daily active users in the U.S. and Canada than ChatGPT did over the same period after its mobile debut, according to new estimates from Appfig",
+    "keywords": [
+      "AI",
+      "Agent",
+      "GPT",
+      "ChatGPT"
+    ],
+    "date": "2026-09-21"
+  },
+  {
+    "title": "Meta’s AI agent has been blocked from using Amazon.com",
+    "link": "https://techcrunch.com/2026/09/21/metas-ai-agent-has-been-blocked-from-using-amazon-com/",
+    "source": "TechCrunch",
+    "category": "other",
+    "summary": "Amazon has its own cohort of foundation models, along with one of the most popular inference platforms on the internet. As long as they're under no legal obligation to open the doors to Muse, why woul",
+    "keywords": [
+      "AI",
+      "Agent"
+    ],
+    "date": "2026-09-21"
+  },
+  {
+    "title": "With Tabby, a former accountant is using AI to make accountants obsolete",
+    "link": "https://techcrunch.com/2026/09/21/with-tabby-a-former-accountant-is-using-ai-to-make-accountants-obsolete/",
+    "source": "TechCrunch",
+    "category": "other",
+    "summary": "Tabby is designed to be a real-time bookkeeping interface, handling clients’ paperwork as it gives them up-to-the-minute data on their business’s profit and loss.",
+    "keywords": [
+      "AI"
+    ],
+    "date": "2026-09-21"
+  },
+  {
     "title": "Where will the next breakout startup come from? Benchmark’s full partnership weighs in at TechCrunch Disrupt 2026",
     "link": "https://techcrunch.com/2026/09/21/where-will-the-next-breakout-startup-come-from-benchmarks-full-partnership-weighs-in-at-techcrunch-disrupt-2026/",
     "source": "TechCrunch",
     "category": "other",
-    "summary": "Where will the next breakout startup come from? Benchmark’s full partnership weighs in on the main stage at TechCrunch Disrupt 2026. Save up to $200 before September 25, 11:59 p.m. PT. Register now.",
+    "summary": "Where will the next breakout startup come from? Benchmark’s full partnership weighs in on the main stage at TechCrunch Disrupt 2026. Save up to $200 before September 25 at 11:59 p.m. PT. Register now.",
     "keywords": [
       "AI"
     ],
@@ -74,7 +210,7 @@
     "link": "https://techcrunch.com/2026/09/21/googles-899-googlebook-is-a-bet-that-youll-buy-a-new-laptop-for-gemini/",
     "source": "TechCrunch",
     "category": "other",
-    "summary": "Google’s AI-native Googlebook ties Gemini to the cursor, dictation, widgets and other parts of the desktop experience.",
+    "summary": "Google’s AI-native Googlebook ties Gemini to the cursor, dictation, widgets, and other parts of the desktop experience.",
     "keywords": [
       "AI",
       "Gemini"
@@ -86,7 +222,7 @@
     "link": "https://techcrunch.com/2026/09/21/meet-the-next-wave-of-vcs-judging-startup-battlefield-200-at-techcrunch-disrupt-2026/",
     "source": "TechCrunch",
     "category": "other",
-    "summary": "Meet the next wave of VCs judging the Startup Battlefield 200 contenders on the main stage at TechCrunch Disrupt 2026. Register by Sept 25, 11:59 p.m. PT, to save up to $200 and to get a front-row sea",
+    "summary": "Meet the next wave of VCs judging the Startup Battlefield 200 contenders on the main stage at TechCrunch Disrupt 2026. Register by September 25 at 11:59 p.m. PT, to save up to $200 and to get a front-",
     "keywords": [
       "AI"
     ],
@@ -207,17 +343,6 @@
     "date": "2026-09-19"
   },
   {
-    "title": "AI safety conversations have gotten unbelievable",
-    "link": "https://techcrunch.com/2026/09/19/ai-safety-conversations-have-gotten-unbelievable/",
-    "source": "TechCrunch",
-    "category": "other",
-    "summary": "This week two conversations about AI safety went viral that demonstrate just how hard it is to discern AI fact from fiction.",
-    "keywords": [
-      "AI"
-    ],
-    "date": "2026-09-19"
-  },
-  {
     "title": "Petlibro’s new AI-powered feeder is a game changer for multi-cat homes",
     "link": "https://techcrunch.com/2026/09/19/petlibros-new-ai-powered-feeder-is-a-game-changer-for-multi-cat-homes/",
     "source": "TechCrunch",
@@ -229,22 +354,11 @@
     "date": "2026-09-19"
   },
   {
-    "title": "Vals, backed by Andreessen Horowitz, is looking to become the gold standard for AI benchmarking",
-    "link": "https://techcrunch.com/2026/09/19/vals-backed-by-andreessen-horowitz-is-looking-to-become-the-gold-standard-for-ai-benchmarking/",
+    "title": "AI safety conversations have gotten unbelievable",
+    "link": "https://techcrunch.com/2026/09/19/ai-safety-conversations-have-gotten-unbelievable/",
     "source": "TechCrunch",
     "category": "other",
-    "summary": "Vals AI is hoping to make AI benchmarking a more neutral and trustworthy resource in a world increasingly inundated by AI models.",
-    "keywords": [
-      "AI"
-    ],
-    "date": "2026-09-19"
-  },
-  {
-    "title": "Tilly Norwood’s press tour is going about as well as you’d expect for an AI",
-    "link": "https://techcrunch.com/2026/09/18/tilly-norwoods-press-tour-is-going-about-as-well-as-youd-expect-for-an-ai/",
-    "source": "TechCrunch",
-    "category": "other",
-    "summary": "In one particularly odd interview, Norwood seems to malfunction and begin speaking Chinese.",
+    "summary": "This week two conversations about AI safety went viral that demonstrate just how hard it is to discern AI fact from fiction.",
     "keywords": [
       "AI"
     ],
@@ -258,87 +372,6 @@
     "summary": "阿里达摩院\n\n\n\n达摩院发布DAMO RADAR 通用医学影像AI达专家水平\n\n据阿里达摩院官方消息，达摩院推出开源通用医学影像AI模型DAMO RADAR，采用视觉-语言学习方法，在国际上首次实现\"器官级细粒度对齐\"策略，覆盖含恶性肿瘤在内的146种腹部病症、18个器官。",
     "keywords": [
       "AI"
-    ],
-    "date": "2026-09-18"
-  },
-  {
-    "title": "Figure AI发布Helix 2.5 人形机器人实现零样本家居操作",
-    "link": "https://www.pingwest.com/w/317566",
-    "source": "品玩",
-    "category": "other",
-    "summary": "Figure\n\n\n\nFigure AI发布Helix 2.5 人形机器人实现零样本家居操作\n\nFigure AI官方宣布，现已发布Helix 2.5 模型。该模型基于Index大规模人类行为数据集预训练，可进入从未见过的家庭直接执行整理房间、叠毛巾和铺床等全身任务，无需在目标环境中收集数据、微调或适应。",
-    "keywords": [
-      "AI",
-      "机器人"
-    ],
-    "date": "2026-09-18"
-  },
-  {
-    "title": "Waymo将进入新加坡 2028年推出自动驾驶叫车服务",
-    "link": "https://www.pingwest.com/w/317564",
-    "source": "品玩",
-    "category": "other",
-    "summary": "Waymo\n\n\n\nWaymo将进入新加坡 2028年推出自动驾驶叫车服务\n\n据 The Verge 报道，Waymo将成为新加坡最新一家自动驾驶车辆运营商，加入ComfortDelGro和Grab的行列。此次部署符合新加坡扩大自动驾驶出行服务范围、为通勤者提供更多交通选择的规划方向。",
-    "keywords": [
-      "自动驾驶"
-    ],
-    "date": "2026-09-18"
-  },
-  {
-    "title": "Ora-Orb，一个“活过来”的水晶球+占卜= 迈向个人 AI 的最完美起点",
-    "link": "https://www.pingwest.com/a/317534",
-    "source": "品玩",
-    "category": "other",
-    "summary": "Ora-Orb，一个“活过来”的水晶球+占卜= 迈向个人 AI 的最完美起点\n\n对话 Ora-Orb：为什么从占卜开始做 Personal AI",
-    "keywords": [
-      "AI"
-    ],
-    "date": "2026-09-18"
-  },
-  {
-    "title": "百度智能云首提“产业智能体操作系统”，打造AI增长飞轮",
-    "link": "https://www.pingwest.com/a/317544",
-    "source": "品玩",
-    "category": "other",
-    "summary": "百度智能云首提“产业智能体操作系统”，打造AI增长飞轮\n\n产业智能体的竞争，本质是AI云的竞争。",
-    "keywords": [
-      "AI",
-      "智能"
-    ],
-    "date": "2026-09-18"
-  },
-  {
-    "title": "对话Articuler.ai：AI社交最不该做的，是让Agent替你社交",
-    "link": "https://www.pingwest.com/a/317500",
-    "source": "品玩",
-    "category": "other",
-    "summary": "对话Articuler.ai：AI社交最不该做的，是让Agent替你社交\n\n想做 AI 版 LinkedIn，Articuler.ai 先回答「这场活动你该见谁」。",
-    "keywords": [
-      "AI",
-      "Agent"
-    ],
-    "date": "2026-09-18"
-  },
-  {
-    "title": "A startup that builds other startups raised $100M and is all-in on physical AI",
-    "link": "https://techcrunch.com/2026/09/18/a-startup-that-builds-other-startups-raised-100m-and-is-all-in-on-physical-ai/",
-    "source": "TechCrunch",
-    "category": "funding",
-    "summary": "UP.Labs, now doing business under the name Vantora, is building startups for industrial corporations.",
-    "keywords": [
-      "AI"
-    ],
-    "date": "2026-09-18"
-  },
-  {
-    "title": "Anthropic is operating a lab that conducts biology experiments",
-    "link": "https://techcrunch.com/2026/09/18/anthropic-is-operating-a-lab-that-conducts-biology-experiments/",
-    "source": "TechCrunch",
-    "category": "other",
-    "summary": "AI leaders have been promising that AI is the key to curing human disease. Anthropic researchers have also been warning that AI might kill us all.",
-    "keywords": [
-      "AI",
-      "Anthropic"
     ],
     "date": "2026-09-18"
   }
