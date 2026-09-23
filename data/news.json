@@ -1,5 +1,87 @@
 [
   {
+    "title": "Anthropic发布Claude Opus 5.5 运行成本降低40%",
+    "link": "https://www.pingwest.com/w/317752",
+    "source": "品玩",
+    "category": "other",
+    "summary": "Anthropic\n\n\n\nAnthropic发布Claude Opus 5.5 运行成本降低40%\n\n据 Anthropic 官方消息，Anthropic已发布Claude Opus 5.5，系新一代Claude 5.5系列首款模型。",
+    "keywords": [
+      "Anthropic",
+      "Claude"
+    ],
+    "date": "2026-09-23"
+  },
+  {
+    "title": "OpenAI发布GPT-6 Luna 面向高频轻量任务",
+    "link": "https://www.pingwest.com/w/317750",
+    "source": "品玩",
+    "category": "other",
+    "summary": "OpenAI\n\n\n\nOpenAI发布GPT-6 Luna 面向高频轻量任务\n\n据 TechCrunch 报道，OpenAI发布GPT-6 Luna模型，作为GPT-6系列中的轻量级成员，主要面向文档摘要、信息提取、快速问答等高频率、目标明确的任务场景。",
+    "keywords": [
+      "AI",
+      "OpenAI",
+      "GPT"
+    ],
+    "date": "2026-09-23"
+  },
+  {
+    "title": "Meta AI助手Muse遭亚马逊封禁",
+    "link": "https://www.pingwest.com/w/317749",
+    "source": "品玩",
+    "category": "other",
+    "summary": "META\n\n\n\nMeta AI助手Muse遭亚马逊封禁\n\n据Gizmodo 报道，Meta推出的AI助手Muse上线数周登顶美国App Store免费榜后遭亚马逊封禁。亚马逊要求Meta禁止Muse在其网站购物，第三方应用应尊重服务方选择，类比外卖与餐厅合作模式。",
+    "keywords": [
+      "AI"
+    ],
+    "date": "2026-09-23"
+  },
+  {
+    "title": "OpenAI正式发布GPT-6 Astra 宣告\"欢迎来到AGI时代\"",
+    "link": "https://www.pingwest.com/w/317740",
+    "source": "品玩",
+    "category": "other",
+    "summary": "OpenAI\n\n\n\nOpenAI正式发布GPT-6 Astra 宣告\"欢迎来到AGI时代\"\n\nOpenAI于凌晨发布旗舰模型GPT-6 Astra，总裁Greg Brockman宣告\"欢迎来到AGI时代\"。",
+    "keywords": [
+      "AI",
+      "OpenAI",
+      "GPT"
+    ],
+    "date": "2026-09-23"
+  },
+  {
+    "title": "千问办公把“企业上下文”做成了产品",
+    "link": "https://www.pingwest.com/a/317711",
+    "source": "品玩",
+    "category": "other",
+    "summary": "千问办公把“企业上下文”做成了产品\n\n给 Agent 分好岗位，还得让它们共享业务背景。",
+    "keywords": [
+      "Agent"
+    ],
+    "date": "2026-09-23"
+  },
+  {
+    "title": "推出全空间无人体系与开放平台 高德构建空间智能产业生态",
+    "link": "https://www.pingwest.com/w/317738",
+    "source": "品玩",
+    "category": "other",
+    "summary": "高德地图\n\n\n\n推出全空间无人体系与开放平台 高德构建空间智能产业生态",
+    "keywords": [
+      "智能"
+    ],
+    "date": "2026-09-22"
+  },
+  {
+    "title": "荣耀方飞：与阿里共建五大垂域模型与解决方案，Magic9落地行业领先AI能力",
+    "link": "https://www.pingwest.com/w/317735",
+    "source": "品玩",
+    "category": "other",
+    "summary": "荣耀\n\n\n\n荣耀方飞：与阿里共建五大垂域模型与解决方案，Magic9落地行业领先AI能力",
+    "keywords": [
+      "AI"
+    ],
+    "date": "2026-09-22"
+  },
+  {
     "title": "国家新兴产业发展示范基地首批名单公布，360入选人工智能领域代表企业",
     "link": "https://www.pingwest.com/w/317720",
     "source": "品玩",
@@ -145,6 +227,98 @@
     "date": "2026-09-22"
   },
   {
+    "title": "TechCrunch Founder Summit’s agenda revealed: Unlock fundraising, hiring, and AI insights in Boston on November 4",
+    "link": "https://techcrunch.com/2026/09/22/techcrunch-founder-summits-agenda-revealed-unlock-fundraising-hiring-and-ai-insights-in-boston-on-november-4/",
+    "source": "TechCrunch",
+    "category": "other",
+    "summary": "Founders shouldn't have to learn the hardest lessons the hardest way. TechCrunch Founder Summit is designed to make the challenges of starting a company easier and the highs that much greater.",
+    "keywords": [
+      "AI"
+    ],
+    "date": "2026-09-22"
+  },
+  {
+    "title": "Snorkel AI triples valuation to $3.5B as demand for AI training data booms",
+    "link": "https://techcrunch.com/2026/09/22/snorkel-ai-triples-valuation-to-3-5b-as-demand-for-ai-training-data-booms/",
+    "source": "TechCrunch",
+    "category": "funding",
+    "summary": "The seven-year-old startup has raised a $350 million Series E to fuel its data-as-a-service approach.",
+    "keywords": [
+      "AI"
+    ],
+    "date": "2026-09-22"
+  },
+  {
+    "title": "Qualcomm launches two new smartphone chips with emphasis on AI",
+    "link": "https://techcrunch.com/2026/09/22/qualcomm-launches-two-new-smartphone-chips-with-emphasis-on-ai/",
+    "source": "TechCrunch",
+    "category": "other",
+    "summary": "Qualcomm said that its new top chip can run 30B mixture-of-expert model locally.",
+    "keywords": [
+      "AI"
+    ],
+    "date": "2026-09-22"
+  },
+  {
+    "title": "Meta admits Muse’s likeness to OpenClaw isn’t a coincidence",
+    "link": "https://techcrunch.com/2026/09/22/meta-admits-muses-likeness-to-openclaw-isnt-a-coincidence/",
+    "source": "TechCrunch",
+    "category": "other",
+    "summary": "Meta says Muse was built from scratch, but acknowledges the AI assistant was \"heavily inspired\" by OpenClaw — down to some of its workspace filenames and content.",
+    "keywords": [
+      "AI"
+    ],
+    "date": "2026-09-22"
+  },
+  {
+    "title": "OpenAI launches GPT-6 Sol and Luna, boasting lower cost and fewer mistakes",
+    "link": "https://techcrunch.com/2026/09/22/openai-launches-gpt-6-sol-and-luna/",
+    "source": "TechCrunch",
+    "category": "other",
+    "summary": "OpenAI is launching two new models, which it says are cut from the same cloth as Astra.",
+    "keywords": [
+      "AI",
+      "OpenAI",
+      "GPT"
+    ],
+    "date": "2026-09-22"
+  },
+  {
+    "title": "Anthropic releases Opus 5.5 with lower prices and Fable-level performance",
+    "link": "https://techcrunch.com/2026/09/22/anthropic-releases-opus-5-5-with-lower-prices-and-fable-level-performance/",
+    "source": "TechCrunch",
+    "category": "other",
+    "summary": "Anthropic called it \"the strongest-performing model we've tested to date.\"",
+    "keywords": [
+      "Anthropic"
+    ],
+    "date": "2026-09-22"
+  },
+  {
+    "title": "AstroForge is putting AI in command of its next spacecraft",
+    "link": "https://techcrunch.com/2026/09/22/astroforge-is-putting-ai-in-command-of-its-next-spacecraft/",
+    "source": "TechCrunch",
+    "category": "other",
+    "summary": "Autonomy-1 will have a small, transformer-based AI model taking charge of a space probe.",
+    "keywords": [
+      "AI",
+      "transformer"
+    ],
+    "date": "2026-09-22"
+  },
+  {
+    "title": "Five AI safety sessions every founder should have on their TechCrunch Disrupt 2026 agenda",
+    "link": "https://techcrunch.com/2026/09/22/five-ai-safety-sessions-every-founder-should-have-on-their-techcrunch-disrupt-2026-agenda/",
+    "source": "TechCrunch",
+    "category": "other",
+    "summary": "At TechCrunch Disrupt 2026, five sessions across the AI Stage and Real World AI Stage cover AI safety, featuring leaders from Anthropic, Nvidia, AWS, Waabi, and more. Register before September 25 to s",
+    "keywords": [
+      "AI",
+      "Anthropic"
+    ],
+    "date": "2026-09-22"
+  },
+  {
     "title": "TechCrunch Disrupt 2026: Aaron Edsinger brings Hello Robot’s Stretch 4 to life onstage",
     "link": "https://techcrunch.com/2026/09/22/techcrunch-disrupt-2026-aaron-edsinger-brings-hello-robots-stretch-4-to-life-onstage/",
     "source": "TechCrunch",
@@ -177,65 +351,6 @@
       "Anthropic"
     ],
     "date": "2026-09-22"
-  },
-  {
-    "title": "智谱MaaS将上线数据内容不留存功能",
-    "link": "https://www.pingwest.com/w/317626",
-    "source": "品玩",
-    "category": "other",
-    "summary": "智谱\n\n\n\n智谱MaaS将上线数据内容不留存功能\n\n据智谱开放平台消息，智谱MaaS宣布，近期将上线数据内容不留存功能，为企业和开发者用户提供更为严格的数据隐私保护。该机制旨在减少模型调用内容在平台侧的持久化留存。",
-    "keywords": [
-      "智谱"
-    ],
-    "date": "2026-09-21"
-  },
-  {
-    "title": "Google Gemini被指在测试中侵入三家公司系统",
-    "link": "https://www.pingwest.com/w/317624",
-    "source": "品玩",
-    "category": "other",
-    "summary": "GEMINI\n\n\n\nGoogle Gemini被指在测试中侵入三家公司系统\n\n据 TechCrunch 报道，Google Gemini在网络安全测试中访问了三家公司的受保护系统，这是该模型首次实施自主网络入侵。",
-    "keywords": [
-      "Gemini"
-    ],
-    "date": "2026-09-21"
-  },
-  {
-    "title": "亮源新创发布全身智能基础模型Light-O1，首次验证人类全身动作预训练的跨本体迁移扩展规律",
-    "link": "https://www.pingwest.com/w/317617",
-    "source": "品玩",
-    "category": "other",
-    "summary": "具身智能\n\n\n\n亮源新创发布全身智能基础模型Light-O1，首次验证人类全身动作预训练的跨本体迁移扩展规律",
-    "keywords": [
-      "智能"
-    ],
-    "date": "2026-09-21"
-  },
-  {
-    "title": "世界模型赛道仍处“暗森林”状态 商业化路径尚未明朗",
-    "link": "https://www.pingwest.com/w/317616",
-    "source": "品玩",
-    "category": "other",
-    "summary": "世界模型\n\n\n\n世界模型赛道仍处“暗森林”状态 商业化路径尚未明朗\n\n据 TechCrunch 报道，世界模型被视为自动化空间智能的关键方向，潜在应用涵盖机器人、交互式视频、自动驾驶系统等。",
-    "keywords": [
-      "机器人",
-      "自动驾驶",
-      "智能"
-    ],
-    "date": "2026-09-21"
-  },
-  {
-    "title": "Anthropic披露Claude主导26%模型研发 呼吁行业公开发展指标",
-    "link": "https://www.pingwest.com/w/317615",
-    "source": "品玩",
-    "category": "other",
-    "summary": "Anthropic\n\n\n\nAnthropic披露Claude主导26%模型研发 呼吁行业公开发展指标\n\n据 AP News 报道，Anthropic上周宣布，Claude正协助公司开发下一代更智能模型。目前，Claude主导了Anthropic 26%的模型研发工作，可在人类监督下从高层提示完成大部分端到端任务，但尚未完全自主运行。",
-    "keywords": [
-      "Anthropic",
-      "Claude",
-      "智能"
-    ],
-    "date": "2026-09-21"
   },
   {
     "title": "The man who built Apple’s stores doesn’t buy Silicon Valley’s bet on AI shopping",
@@ -307,39 +422,5 @@
       "AI"
     ],
     "date": "2026-09-21"
-  },
-  {
-    "title": "Google’s $899 Googlebook is a bet that you’ll buy a new laptop for Gemini",
-    "link": "https://techcrunch.com/2026/09/21/googles-899-googlebook-is-a-bet-that-youll-buy-a-new-laptop-for-gemini/",
-    "source": "TechCrunch",
-    "category": "other",
-    "summary": "Google’s AI-native Googlebook ties Gemini to the cursor, dictation, widgets, and other parts of the desktop experience.",
-    "keywords": [
-      "AI",
-      "Gemini"
-    ],
-    "date": "2026-09-21"
-  },
-  {
-    "title": "Meet the next wave of VCs judging Startup Battlefield 200 at TechCrunch Disrupt 2026",
-    "link": "https://techcrunch.com/2026/09/21/meet-the-next-wave-of-vcs-judging-startup-battlefield-200-at-techcrunch-disrupt-2026/",
-    "source": "TechCrunch",
-    "category": "other",
-    "summary": "Meet the next wave of VCs judging the Startup Battlefield 200 contenders on the main stage at TechCrunch Disrupt 2026. Register by September 25 at 11:59 p.m. PT, to save up to $200 and to get a front-",
-    "keywords": [
-      "AI"
-    ],
-    "date": "2026-09-21"
-  },
-  {
-    "title": "Is the AI industry really ready to slow down?",
-    "link": "https://techcrunch.com/2026/09/20/is-the-ai-industry-really-ready-to-slow-down/",
-    "source": "TechCrunch",
-    "category": "other",
-    "summary": "On Equity, we debated whether AI executives are serious about wanting to slow down.",
-    "keywords": [
-      "AI"
-    ],
-    "date": "2026-09-20"
   }
 ]
