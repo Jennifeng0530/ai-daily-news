@@ -1,117 +1,47 @@
 [
   {
-    "title": "风投机构Bessemer募集57.5亿美元加码AI",
-    "link": "https://www.pingwest.com/w/317863",
-    "source": "品玩",
+    "title": "Lovable’s annualized revenue crosses $600M as vibe coding takes off",
+    "link": "https://techcrunch.com/2026/09/24/lovables-annualized-revenue-crosses-600m-as-vibe-coding-takes-off/",
+    "source": "TechCrunch",
     "category": "other",
-    "summary": "融资\n\n\n\n风投机构Bessemer募集57.5亿美元加码AI\n\nBessemer Venture Partners周三宣布，已募集57.5亿美元设立两支新基金，加速布局AI全产业链。",
+    "summary": "Lovable co-foudner Fabian Hedin said that apps created on the platform are getting nearly a billion monthly views each month.",
     "keywords": [
       "AI"
     ],
     "date": "2026-09-24"
   },
   {
-    "title": "OpenAI发布MentalHealthBench心理健康评测基准",
-    "link": "https://www.pingwest.com/w/317860",
-    "source": "品玩",
+    "title": "Ando wants to take on Slack with a team messaging app that lets humans and agents work together",
+    "link": "https://techcrunch.com/2026/09/24/ando-eyes-slack-as-it-builds-team-messaging-platform-for-humans-and-agents-to-work-together/",
+    "source": "TechCrunch",
     "category": "other",
-    "summary": "OpenAI\n\n\n\nOpenAI发布MentalHealthBench心理健康评测基准\n\n据AIweekly 报道，OpenAI近日发布MentalHealthBench，这是一个面向心理健康领域的公开评测基准。",
+    "summary": "Ando has raised $20 million in pre-seed and seed funding from investors including Accel, Index Ventures and Emergence.",
+    "keywords": [
+      "AI",
+      "Agent"
+    ],
+    "date": "2026-09-24"
+  },
+  {
+    "title": "TechCrunch Disrupt 2026: Cal AI’s Zach Yadegari on how to create viral growth and capitalize on it",
+    "link": "https://techcrunch.com/2026/09/24/techcrunch-disrupt-2026-cal-ais-zach-yadegari-on-how-to-create-viral-growth-and-capitalize-on-it/",
+    "source": "TechCrunch",
+    "category": "other",
+    "summary": "Zach Yadegari joins the Builders Stage at TechCrunch Disrupt 2026 to share how he capitalized on viral growth. Save up to $200 before September 25. Save 50% on a second pass.",
+    "keywords": [
+      "AI"
+    ],
+    "date": "2026-09-24"
+  },
+  {
+    "title": "Australia to investigate if OpenAI hack of government health website broke the law",
+    "link": "https://techcrunch.com/2026/09/24/australia-to-investigate-if-openai-hack-of-government-health-website-broke-the-law/",
+    "source": "TechCrunch",
+    "category": "other",
+    "summary": "The incident is the first known breach to affect a government agency, and Australia's prime minister has vowed to hold OpenAI accountable.",
     "keywords": [
       "AI",
       "OpenAI"
-    ],
-    "date": "2026-09-24"
-  },
-  {
-    "title": "2026骁龙峰会：从听音乐到调用服务，耳机迈入个人AI智能体时代",
-    "link": "https://www.pingwest.com/v/317856",
-    "source": "品玩",
-    "category": "other",
-    "summary": "高通\n\n\n\n2026骁龙峰会：从听音乐到调用服务，耳机迈入个人AI智能体时代",
-    "keywords": [
-      "AI",
-      "智能"
-    ],
-    "date": "2026-09-24"
-  },
-  {
-    "title": "Comma.ai遭联邦调查 辅助驾驶系统涉致命车祸",
-    "link": "https://www.pingwest.com/w/317852",
-    "source": "品玩",
-    "category": "other",
-    "summary": "辅助驾驶系统\n\n\n\nComma.ai遭联邦调查 辅助驾驶系统涉致命车祸\n\n据 TechCrunch 报道，车载辅助驾驶设备openpilot的制造商Comma.ai近日面临美国联邦调查。",
-    "keywords": [
-      "AI"
-    ],
-    "date": "2026-09-24"
-  },
-  {
-    "title": "WPP在伦敦启用AI制作中心 推动业务转型",
-    "link": "https://www.pingwest.com/w/317851",
-    "source": "品玩",
-    "category": "other",
-    "summary": "WPP\n\n\n\nWPP在伦敦启用AI制作中心 推动业务转型\n\n据 Ainvest 报道，WPP在伦敦Southwark Bridge启用新办公园区及全球旗舰制作中心，聚焦生成式AI、智能体AI与沉浸式工具，整合媒体品牌与WPP Open技术团队。",
-    "keywords": [
-      "AI",
-      "生成式",
-      "智能"
-    ],
-    "date": "2026-09-24"
-  },
-  {
-    "title": "DeepSeek公开DSec沙箱基础设施 梁文锋列名作者",
-    "link": "https://www.pingwest.com/w/317850",
-    "source": "品玩",
-    "category": "other",
-    "summary": "DEEPseek\n\n\n\nDeepSeek公开DSec沙箱基础设施 梁文锋列名作者\n\n据 insideai 报道，DeepSeek近日公开内部AI智能体训练与评测使用的沙箱基础设施DSec，相关论文于9月19日提交至arXiv，创始人梁文锋列在作者名单中。",
-    "keywords": [
-      "AI",
-      "DeepSeek",
-      "智能"
-    ],
-    "date": "2026-09-24"
-  },
-  {
-    "title": "Meta发布AI眼镜新品 集成Muse助手并推出音频眼镜",
-    "link": "https://www.pingwest.com/w/317846",
-    "source": "品玩",
-    "category": "other",
-    "summary": "META\n\n\n\nMeta发布AI眼镜新品 集成Muse助手并推出音频眼镜\n\nMeta高压棒在Connect大会上发布多款AI眼镜新品，将个人AI助手Muse接入AI眼镜，实现免提处理任务、管理日程等功能。",
-    "keywords": [
-      "AI"
-    ],
-    "date": "2026-09-24"
-  },
-  {
-    "title": "零售、两轮车、智能穿戴……高德空间智能怎么就成行业标配了？",
-    "link": "https://www.pingwest.com/a/317825",
-    "source": "品玩",
-    "category": "other",
-    "summary": "零售、两轮车、智能穿戴……高德空间智能怎么就成行业标配了？\n\n空间智能的规模化时刻来了？",
-    "keywords": [
-      "智能"
-    ],
-    "date": "2026-09-24"
-  },
-  {
-    "title": "腾讯Marvis定位升级“AI管家”，从修电脑到管理个人数字资产",
-    "link": "https://www.pingwest.com/w/317824",
-    "source": "品玩",
-    "category": "other",
-    "summary": "腾讯\n\n\n\n腾讯Marvis定位升级“AI管家”，从修电脑到管理个人数字资产",
-    "keywords": [
-      "AI"
-    ],
-    "date": "2026-09-24"
-  },
-  {
-    "title": "Google推出Gemini 3.8 Flash TTS语音模型",
-    "link": "https://www.pingwest.com/w/317794",
-    "source": "品玩",
-    "category": "other",
-    "summary": "谷歌\n\n\n\nGoogle推出Gemini 3.8 Flash TTS语音模型\n\n据谷歌官方消息，Google发布Gemini 3.8 Flash TTS与Gemini 3.8 Flash-Lite TTS两款语音合成模型，将语音生成从静态预设升级为动态创作工具。",
-    "keywords": [
-      "Gemini"
     ],
     "date": "2026-09-24"
   },
@@ -140,125 +70,11 @@
     "date": "2026-09-24"
   },
   {
-    "title": "小米数字系列迎来史上最大升级，卢伟冰：AI全面改造智能手机的开始",
-    "link": "https://www.pingwest.com/w/317793",
-    "source": "品玩",
-    "category": "other",
-    "summary": "小米\n\n\n\n小米数字系列迎来史上最大升级，卢伟冰：AI全面改造智能手机的开始",
-    "keywords": [
-      "AI",
-      "智能"
-    ],
-    "date": "2026-09-23"
-  },
-  {
-    "title": "首批京麦AI专家团发布，京东持续招募商家三方好工具",
-    "link": "https://www.pingwest.com/w/317782",
-    "source": "品玩",
-    "category": "other",
-    "summary": "京麦\n\n\n\n首批京麦AI专家团发布，京东持续招募商家三方好工具",
-    "keywords": [
-      "AI"
-    ],
-    "date": "2026-09-23"
-  },
-  {
-    "title": "千人千面的下一站，是千问的 Personal Agent",
-    "link": "https://www.pingwest.com/a/317760",
-    "source": "品玩",
-    "category": "other",
-    "summary": "千人千面的下一站，是千问的 Personal Agent\n\n千问想让 Personal Agent 真正属于每一个人。",
-    "keywords": [
-      "Agent"
-    ],
-    "date": "2026-09-23"
-  },
-  {
-    "title": "千问发布Qwen-Audio-3.1系列语音大模型 全线降价",
-    "link": "https://www.pingwest.com/w/317772",
-    "source": "品玩",
-    "category": "other",
-    "summary": "千问大模型\n\n\n\n千问发布Qwen-Audio-3.1系列语音大模型 全线降价\n\n千问大模型官方今天宣布，千问正式发布Qwen-Audio-3.1系列语音大模型，对ASR、TTS和Realtime三大核心模型进行全面升级，同时推出音频创作模型Qwen-Audio-3.1-TTS-Next和音频理解模型Qwen-Audio-3.1-ASR-Next，五款模型形成覆盖\"理解-生成-交互-创作\"的完整音",
-    "keywords": [
-      "大模型"
-    ],
-    "date": "2026-09-23"
-  },
-  {
-    "title": "Snorkel AI完成3.5亿美元E轮融资 估值达35亿美元",
-    "link": "https://www.pingwest.com/w/317765",
-    "source": "品玩",
-    "category": "funding",
-    "summary": "融资\n\n\n\nSnorkel AI完成3.5亿美元E轮融资 估值达35亿美元\n\n据 TechCrunch 报道，AI数据公司Snorkel AI完成3.5亿美元E轮融资，由Insight Partners和S32领投，Addition、Lightspeed、Greylock、GV及Wells Fargo等现有投资者跟投。本轮估值达35亿美元，约为17个月前D轮融资13亿美元估值的近三倍。",
-    "keywords": [
-      "AI"
-    ],
-    "date": "2026-09-23"
-  },
-  {
-    "title": "Stripe Tour 中国首秀：构建 AI 经济基础设施，多项新功能推动全球商业化",
-    "link": "https://www.pingwest.com/w/317763",
-    "source": "品玩",
-    "category": "other",
-    "summary": "STRIEP\n\n\n\nStripe Tour 中国首秀：构建 AI 经济基础设施，多项新功能推动全球商业化",
-    "keywords": [
-      "AI"
-    ],
-    "date": "2026-09-23"
-  },
-  {
-    "title": "纳米Work主理人沙龙落地北京798，AI上岗助力实体门店经营",
-    "link": "https://www.pingwest.com/w/317761",
-    "source": "品玩",
-    "category": "other",
-    "summary": "360\n\n\n\n纳米Work主理人沙龙落地北京798，AI上岗助力实体门店经营",
-    "keywords": [
-      "AI"
-    ],
-    "date": "2026-09-23"
-  },
-  {
-    "title": "Anthropic发布Claude Opus 5.5 运行成本降低40%",
-    "link": "https://www.pingwest.com/w/317752",
-    "source": "品玩",
-    "category": "other",
-    "summary": "Anthropic\n\n\n\nAnthropic发布Claude Opus 5.5 运行成本降低40%\n\n据 Anthropic 官方消息，Anthropic已发布Claude Opus 5.5，系新一代Claude 5.5系列首款模型。",
-    "keywords": [
-      "Anthropic",
-      "Claude"
-    ],
-    "date": "2026-09-23"
-  },
-  {
-    "title": "OpenAI发布GPT-6 Luna 面向高频轻量任务",
-    "link": "https://www.pingwest.com/w/317750",
-    "source": "品玩",
-    "category": "other",
-    "summary": "OpenAI\n\n\n\nOpenAI发布GPT-6 Luna 面向高频轻量任务\n\n据 TechCrunch 报道，OpenAI发布GPT-6 Luna模型，作为GPT-6系列中的轻量级成员，主要面向文档摘要、信息提取、快速问答等高频率、目标明确的任务场景。",
-    "keywords": [
-      "AI",
-      "OpenAI",
-      "GPT"
-    ],
-    "date": "2026-09-23"
-  },
-  {
-    "title": "Meta AI助手Muse遭亚马逊封禁",
-    "link": "https://www.pingwest.com/w/317749",
-    "source": "品玩",
-    "category": "other",
-    "summary": "META\n\n\n\nMeta AI助手Muse遭亚马逊封禁\n\n据Gizmodo 报道，Meta推出的AI助手Muse上线数周登顶美国App Store免费榜后遭亚马逊封禁。亚马逊要求Meta禁止Muse在其网站购物，第三方应用应尊重服务方选择，类比外卖与餐厅合作模式。",
-    "keywords": [
-      "AI"
-    ],
-    "date": "2026-09-23"
-  },
-  {
     "title": "Meta introduces camera-free AI glasses",
     "link": "https://techcrunch.com/2026/09/23/meta-introduces-camera-free-ai-glasses/",
     "source": "TechCrunch",
     "category": "other",
-    "summary": "Meta says the camera-free glasses will be lighter and have up to 12 hours battery life.",
+    "summary": "Meta says the camera-free glasses will be lighter and have up to 12 hours of battery life.",
     "keywords": [
       "AI"
     ],
@@ -377,62 +193,5 @@
       "AI"
     ],
     "date": "2026-09-23"
-  },
-  {
-    "title": "TechCrunch Founder Summit’s agenda revealed: Unlock fundraising, hiring, and AI insights in Boston on November 4",
-    "link": "https://techcrunch.com/2026/09/22/techcrunch-founder-summits-agenda-revealed-unlock-fundraising-hiring-and-ai-insights-in-boston-on-november-4/",
-    "source": "TechCrunch",
-    "category": "other",
-    "summary": "Founders shouldn't have to learn the hardest lessons the hardest way. TechCrunch Founder Summit is designed to make the challenges of starting a company easier and the highs that much greater.",
-    "keywords": [
-      "AI"
-    ],
-    "date": "2026-09-22"
-  },
-  {
-    "title": "Snorkel AI triples valuation to $3.5B as demand for AI training data booms",
-    "link": "https://techcrunch.com/2026/09/22/snorkel-ai-triples-valuation-to-3-5b-as-demand-for-ai-training-data-booms/",
-    "source": "TechCrunch",
-    "category": "funding",
-    "summary": "The seven-year-old startup has raised a $350 million Series E to fuel its data-as-a-service approach.",
-    "keywords": [
-      "AI"
-    ],
-    "date": "2026-09-22"
-  },
-  {
-    "title": "Qualcomm launches two new smartphone chips with emphasis on AI",
-    "link": "https://techcrunch.com/2026/09/22/qualcomm-launches-two-new-smartphone-chips-with-emphasis-on-ai/",
-    "source": "TechCrunch",
-    "category": "other",
-    "summary": "Qualcomm said that its new top chip can run 30B mixture-of-expert model locally.",
-    "keywords": [
-      "AI"
-    ],
-    "date": "2026-09-22"
-  },
-  {
-    "title": "Meta admits Muse’s likeness to OpenClaw isn’t a coincidence",
-    "link": "https://techcrunch.com/2026/09/22/meta-admits-muses-likeness-to-openclaw-isnt-a-coincidence/",
-    "source": "TechCrunch",
-    "category": "other",
-    "summary": "Meta says Muse was built from scratch, but acknowledges the AI assistant was \"heavily inspired\" by OpenClaw — down to some of its workspace filenames and content.",
-    "keywords": [
-      "AI"
-    ],
-    "date": "2026-09-22"
-  },
-  {
-    "title": "OpenAI launches GPT-6 Sol and Luna, boasting lower cost and fewer mistakes",
-    "link": "https://techcrunch.com/2026/09/22/openai-launches-gpt-6-sol-and-luna/",
-    "source": "TechCrunch",
-    "category": "other",
-    "summary": "OpenAI is launching two new models, which it says are cut from the same cloth as Astra.",
-    "keywords": [
-      "AI",
-      "OpenAI",
-      "GPT"
-    ],
-    "date": "2026-09-22"
   }
 ]
