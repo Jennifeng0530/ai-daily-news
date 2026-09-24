@@ -1,5 +1,99 @@
 [
   {
+    "title": "风投机构Bessemer募集57.5亿美元加码AI",
+    "link": "https://www.pingwest.com/w/317863",
+    "source": "品玩",
+    "category": "other",
+    "summary": "融资\n\n\n\n风投机构Bessemer募集57.5亿美元加码AI\n\nBessemer Venture Partners周三宣布，已募集57.5亿美元设立两支新基金，加速布局AI全产业链。",
+    "keywords": [
+      "AI"
+    ],
+    "date": "2026-09-24"
+  },
+  {
+    "title": "OpenAI发布MentalHealthBench心理健康评测基准",
+    "link": "https://www.pingwest.com/w/317860",
+    "source": "品玩",
+    "category": "other",
+    "summary": "OpenAI\n\n\n\nOpenAI发布MentalHealthBench心理健康评测基准\n\n据AIweekly 报道，OpenAI近日发布MentalHealthBench，这是一个面向心理健康领域的公开评测基准。",
+    "keywords": [
+      "AI",
+      "OpenAI"
+    ],
+    "date": "2026-09-24"
+  },
+  {
+    "title": "2026骁龙峰会：从听音乐到调用服务，耳机迈入个人AI智能体时代",
+    "link": "https://www.pingwest.com/v/317856",
+    "source": "品玩",
+    "category": "other",
+    "summary": "高通\n\n\n\n2026骁龙峰会：从听音乐到调用服务，耳机迈入个人AI智能体时代",
+    "keywords": [
+      "AI",
+      "智能"
+    ],
+    "date": "2026-09-24"
+  },
+  {
+    "title": "Comma.ai遭联邦调查 辅助驾驶系统涉致命车祸",
+    "link": "https://www.pingwest.com/w/317852",
+    "source": "品玩",
+    "category": "other",
+    "summary": "辅助驾驶系统\n\n\n\nComma.ai遭联邦调查 辅助驾驶系统涉致命车祸\n\n据 TechCrunch 报道，车载辅助驾驶设备openpilot的制造商Comma.ai近日面临美国联邦调查。",
+    "keywords": [
+      "AI"
+    ],
+    "date": "2026-09-24"
+  },
+  {
+    "title": "WPP在伦敦启用AI制作中心 推动业务转型",
+    "link": "https://www.pingwest.com/w/317851",
+    "source": "品玩",
+    "category": "other",
+    "summary": "WPP\n\n\n\nWPP在伦敦启用AI制作中心 推动业务转型\n\n据 Ainvest 报道，WPP在伦敦Southwark Bridge启用新办公园区及全球旗舰制作中心，聚焦生成式AI、智能体AI与沉浸式工具，整合媒体品牌与WPP Open技术团队。",
+    "keywords": [
+      "AI",
+      "生成式",
+      "智能"
+    ],
+    "date": "2026-09-24"
+  },
+  {
+    "title": "DeepSeek公开DSec沙箱基础设施 梁文锋列名作者",
+    "link": "https://www.pingwest.com/w/317850",
+    "source": "品玩",
+    "category": "other",
+    "summary": "DEEPseek\n\n\n\nDeepSeek公开DSec沙箱基础设施 梁文锋列名作者\n\n据 insideai 报道，DeepSeek近日公开内部AI智能体训练与评测使用的沙箱基础设施DSec，相关论文于9月19日提交至arXiv，创始人梁文锋列在作者名单中。",
+    "keywords": [
+      "AI",
+      "DeepSeek",
+      "智能"
+    ],
+    "date": "2026-09-24"
+  },
+  {
+    "title": "Meta发布AI眼镜新品 集成Muse助手并推出音频眼镜",
+    "link": "https://www.pingwest.com/w/317846",
+    "source": "品玩",
+    "category": "other",
+    "summary": "META\n\n\n\nMeta发布AI眼镜新品 集成Muse助手并推出音频眼镜\n\nMeta高压棒在Connect大会上发布多款AI眼镜新品，将个人AI助手Muse接入AI眼镜，实现免提处理任务、管理日程等功能。",
+    "keywords": [
+      "AI"
+    ],
+    "date": "2026-09-24"
+  },
+  {
+    "title": "零售、两轮车、智能穿戴……高德空间智能怎么就成行业标配了？",
+    "link": "https://www.pingwest.com/a/317825",
+    "source": "品玩",
+    "category": "other",
+    "summary": "零售、两轮车、智能穿戴……高德空间智能怎么就成行业标配了？\n\n空间智能的规模化时刻来了？",
+    "keywords": [
+      "智能"
+    ],
+    "date": "2026-09-24"
+  },
+  {
     "title": "腾讯Marvis定位升级“AI管家”，从修电脑到管理个人数字资产",
     "link": "https://www.pingwest.com/w/317824",
     "source": "品玩",
@@ -160,30 +254,6 @@
     "date": "2026-09-23"
   },
   {
-    "title": "OpenAI正式发布GPT-6 Astra 宣告\"欢迎来到AGI时代\"",
-    "link": "https://www.pingwest.com/w/317740",
-    "source": "品玩",
-    "category": "other",
-    "summary": "OpenAI\n\n\n\nOpenAI正式发布GPT-6 Astra 宣告\"欢迎来到AGI时代\"\n\nOpenAI于凌晨发布旗舰模型GPT-6 Astra，总裁Greg Brockman宣告\"欢迎来到AGI时代\"。",
-    "keywords": [
-      "AI",
-      "OpenAI",
-      "GPT"
-    ],
-    "date": "2026-09-23"
-  },
-  {
-    "title": "千问办公把“企业上下文”做成了产品",
-    "link": "https://www.pingwest.com/a/317711",
-    "source": "品玩",
-    "category": "other",
-    "summary": "千问办公把“企业上下文”做成了产品\n\n给 Agent 分好岗位，还得让它们共享业务背景。",
-    "keywords": [
-      "Agent"
-    ],
-    "date": "2026-09-23"
-  },
-  {
     "title": "Meta introduces camera-free AI glasses",
     "link": "https://techcrunch.com/2026/09/23/meta-introduces-camera-free-ai-glasses/",
     "source": "TechCrunch",
@@ -307,63 +377,6 @@
       "AI"
     ],
     "date": "2026-09-23"
-  },
-  {
-    "title": "推出全空间无人体系与开放平台 高德构建空间智能产业生态",
-    "link": "https://www.pingwest.com/w/317738",
-    "source": "品玩",
-    "category": "other",
-    "summary": "高德地图\n\n\n\n推出全空间无人体系与开放平台 高德构建空间智能产业生态",
-    "keywords": [
-      "智能"
-    ],
-    "date": "2026-09-22"
-  },
-  {
-    "title": "荣耀方飞：与阿里共建五大垂域模型与解决方案，Magic9落地行业领先AI能力",
-    "link": "https://www.pingwest.com/w/317735",
-    "source": "品玩",
-    "category": "other",
-    "summary": "荣耀\n\n\n\n荣耀方飞：与阿里共建五大垂域模型与解决方案，Magic9落地行业领先AI能力",
-    "keywords": [
-      "AI"
-    ],
-    "date": "2026-09-22"
-  },
-  {
-    "title": "国家新兴产业发展示范基地首批名单公布，360入选人工智能领域代表企业",
-    "link": "https://www.pingwest.com/w/317720",
-    "source": "品玩",
-    "category": "other",
-    "summary": "360\n\n\n\n国家新兴产业发展示范基地首批名单公布，360入选人工智能领域代表企业",
-    "keywords": [
-      "人工智能",
-      "智能"
-    ],
-    "date": "2026-09-22"
-  },
-  {
-    "title": "从通用智能到专属智能，千问加速布局Personal Agent",
-    "link": "https://www.pingwest.com/w/317716",
-    "source": "品玩",
-    "category": "other",
-    "summary": "千问\n\n\n\n从通用智能到专属智能，千问加速布局Personal Agent",
-    "keywords": [
-      "Agent",
-      "智能"
-    ],
-    "date": "2026-09-22"
-  },
-  {
-    "title": "千问新一代AI硬件云栖大会首次集中亮相，10月13日现货发售",
-    "link": "https://www.pingwest.com/w/317714",
-    "source": "品玩",
-    "category": "other",
-    "summary": "千问\n\n\n\n千问新一代AI硬件云栖大会首次集中亮相，10月13日现货发售",
-    "keywords": [
-      "AI"
-    ],
-    "date": "2026-09-22"
   },
   {
     "title": "TechCrunch Founder Summit’s agenda revealed: Unlock fundraising, hiring, and AI insights in Boston on November 4",
