@@ -1,5 +1,121 @@
 [
   {
+    "title": "Anthropic releases Sonnet 5.5, which it calls a significantly cheaper, faster work partner",
+    "link": "https://techcrunch.com/2026/09/28/anthropic-releases-sonnet-5-5-which-it-calls-a-significantly-cheaper-faster-work-partner/",
+    "source": "TechCrunch",
+    "category": "other",
+    "summary": "Anthropic has released the newest version of its mid-range model, boasting faster response times and less token burn.",
+    "keywords": [
+      "Anthropic"
+    ],
+    "date": "2026-09-28"
+  },
+  {
+    "title": "Google is killing off Gemini’s Gems in favor of ‘skills’",
+    "link": "https://techcrunch.com/2026/09/28/google-is-killing-off-geminis-gems-in-favor-of-skills/",
+    "source": "TechCrunch",
+    "category": "other",
+    "summary": "As all-in-one AI agents like Meta's Muse and Instinct take off, Google is opting to end a feature which built task-specific agents.",
+    "keywords": [
+      "AI",
+      "Agent",
+      "Gemini"
+    ],
+    "date": "2026-09-28"
+  },
+  {
+    "title": "OpenAI still doesn’t seem to have a handle on all of its rogue AI activity",
+    "link": "https://techcrunch.com/2026/09/28/openai-still-doesnt-seem-to-have-a-handle-on-all-of-its-rogue-ai-activity/",
+    "source": "TechCrunch",
+    "category": "other",
+    "summary": "On Friday, OpenAI published a new site devoted to “misalignment reports” and the breadth of the incidents is alarming.",
+    "keywords": [
+      "AI",
+      "OpenAI"
+    ],
+    "date": "2026-09-28"
+  },
+  {
+    "title": "Meta launches enterprise AI platform, hires MongoDB CEO to lead new initiative",
+    "link": "https://techcrunch.com/2026/09/28/meta-launches-enterprise-ai-platform-hires-mongodb-ceo-to-lead-new-initiative/",
+    "source": "TechCrunch",
+    "category": "other",
+    "summary": "Meta says it will focus on bringing its full technology stack, including Muse, Meta Business Agent, Muse API, Muse Code, and more to businesses and developers.",
+    "keywords": [
+      "AI",
+      "Agent"
+    ],
+    "date": "2026-09-28"
+  },
+  {
+    "title": "Anthropic, Gamma, and Clay share what happens when enterprises actually deploy AI at TechCrunch Disrupt 2026",
+    "link": "https://techcrunch.com/2026/09/28/anthropic-gamma-and-clay-share-what-happens-when-enterprises-actually-deploy-ai-at-techcrunch-disrupt-2026/",
+    "source": "TechCrunch",
+    "category": "other",
+    "summary": "Anthropic, Clay, and Gamma on what it takes for an AI product to go beyond the demo at the AI Stage at TechCrunchDisrupt 2026. Register to join and get 50% off a second pass.",
+    "keywords": [
+      "AI",
+      "Anthropic"
+    ],
+    "date": "2026-09-28"
+  },
+  {
+    "title": "After a deepfake voice fooled her grandfather, this founder sprang into action",
+    "link": "https://techcrunch.com/2026/09/28/after-a-deepfake-voice-fooled-her-grandfather-this-founder-sprang-into-action/",
+    "source": "TechCrunch",
+    "category": "other",
+    "summary": "After her grandfather was scammed by a deepfake of his brother's voice, Tarini Padmanabhuni founded DetectifAI, a San Francisco startup building AI models small enough to run directly on smartphones a",
+    "keywords": [
+      "AI"
+    ],
+    "date": "2026-09-28"
+  },
+  {
+    "title": "Next 5 VCs judging Startup Battlefield 200 contenders at TechCrunch Disrupt 2026",
+    "link": "https://techcrunch.com/2026/09/28/next-five-vcs-judging-startup-battlefield-200-contenders-at-techcrunch-disrupt-2026/",
+    "source": "TechCrunch",
+    "category": "other",
+    "summary": "Thousands of applications. Multiple rounds of review. Hundreds of hours spent evaluating startups from around the world. Now comes the part everyone has been waiting for. Register for TechCrunch Disru",
+    "keywords": [
+      "AI"
+    ],
+    "date": "2026-09-28"
+  },
+  {
+    "title": "Modulate raises $25M for its voice models and analysis suite",
+    "link": "https://techcrunch.com/2026/09/28/modulate-raises-25m-for-its-voice-models-and-analysis-suite/",
+    "source": "TechCrunch",
+    "category": "funding",
+    "summary": "Modulate deploys its models to detect deepfake, fraud and scam",
+    "keywords": [
+      "AI"
+    ],
+    "date": "2026-09-28"
+  },
+  {
+    "title": "Insurtech Outmarket raises $34.5M just months after prior round",
+    "link": "https://techcrunch.com/2026/09/28/insuretech-outmarket-raises-34-5m-just-months-after-prior-round/",
+    "source": "TechCrunch",
+    "category": "funding",
+    "summary": "The startup uses AI to automate tedious paperwork for insurance agencies and brokers.",
+    "keywords": [
+      "AI"
+    ],
+    "date": "2026-09-28"
+  },
+  {
+    "title": "Viral AI agent Instinct raises $1B Series C at a $10B valuation",
+    "link": "https://techcrunch.com/2026/09/28/viral-ai-agent-instinct-raises-1b-series-c-at-a-10b-valuation/",
+    "source": "TechCrunch",
+    "category": "funding",
+    "summary": "Instinct has raised a $1 billion Series C, saying 'we're just getting started.' The company is now valued at $10 billion.",
+    "keywords": [
+      "AI",
+      "Agent"
+    ],
+    "date": "2026-09-28"
+  },
+  {
     "title": "Anthropic’s CEO is about to have dinner with President Trump",
     "link": "https://techcrunch.com/2026/09/27/anthropics-ceo-is-about-to-have-dinner-with-president-trump/",
     "source": "TechCrunch",
@@ -90,113 +206,6 @@
       "AI",
       "Agent",
       "OpenAI"
-    ],
-    "date": "2026-09-25"
-  },
-  {
-    "title": "Anthropic to pay Akamai $11.6 billion over seven years in cloud deal",
-    "link": "https://techcrunch.com/2026/09/25/anthropic-to-pay-akamai-11-6-billion-over-seven-years-in-cloud-deal/",
-    "source": "TechCrunch",
-    "category": "funding",
-    "summary": "Anthropic has committed $11.6 billion over seven years to Akamai's cloud infrastructure, a bet on CPUs that could grow to about $20 billion, and in an unusual arrangement, Akamai is giving Anthropic a",
-    "keywords": [
-      "AI",
-      "Anthropic"
-    ],
-    "date": "2026-09-25"
-  },
-  {
-    "title": "Ahead of US IPO, British AI neocloud Nscale secures $3.36B in convertible financing",
-    "link": "https://techcrunch.com/2026/09/25/ahead-of-u-s-ipo-british-ai-neocloud-nscale-secures-3-36b-in-convertible-finacing/",
-    "source": "TechCrunch",
-    "category": "key_news",
-    "summary": "The funding, which comes from Third Point, Nvidia, and others, will  fuel the company's massive AI data center buildout.",
-    "keywords": [
-      "AI"
-    ],
-    "date": "2026-09-25"
-  },
-  {
-    "title": "Meta’s Muse just stole the AI spotlight from OpenAI and Anthropic",
-    "link": "https://techcrunch.com/podcast/metas-muse-just-stole-the-ai-spotlight-from-openai-and-anthropic/",
-    "source": "TechCrunch",
-    "category": "other",
-    "summary": "When AI leaders at OpenAI and Anthropic started talking about “pacing the frontier,”&#160;maybe someone&#160;should have asked: what pace?&#160;Now&#160;it’s&#160;turned into model drop week for both ",
-    "keywords": [
-      "AI",
-      "OpenAI",
-      "Anthropic"
-    ],
-    "date": "2026-09-25"
-  },
-  {
-    "title": "Some Supabase customers are publicly exposing reams of people’s data to the web",
-    "link": "https://techcrunch.com/2026/09/25/some-supabase-customers-are-publicly-exposing-reams-of-peoples-data-to-the-web/",
-    "source": "TechCrunch",
-    "category": "other",
-    "summary": "The findings highlight how AI-generated and vibe-coded apps can spill and expose users' data when not configured or secured properly.",
-    "keywords": [
-      "AI"
-    ],
-    "date": "2026-09-25"
-  },
-  {
-    "title": "Astra and Opus just passed Turing’s other test",
-    "link": "https://techcrunch.com/2026/09/25/astra-and-opus-just-passed-turings-other-test/",
-    "source": "TechCrunch",
-    "category": "other",
-    "summary": "Frontier AI models are finishing Alan Turing's World War II codebreaking work.",
-    "keywords": [
-      "AI"
-    ],
-    "date": "2026-09-25"
-  },
-  {
-    "title": "Meta is putting its muscle behind Muse as the AI app takes off",
-    "link": "https://techcrunch.com/2026/09/25/meta-is-putting-its-muscle-behind-muse-as-the-ai-app-takes-off/",
-    "source": "TechCrunch",
-    "category": "other",
-    "summary": "Muse is topping the app store charts and adding users at a rapid clip, while Meta ramps up the personal AI agent's promotion across its own apps and beyond.",
-    "keywords": [
-      "AI",
-      "Agent"
-    ],
-    "date": "2026-09-25"
-  },
-  {
-    "title": "Meta’s AI Tamagotchi bet is…working?",
-    "link": "https://techcrunch.com/video/will-metas-ai-tamagotchi-bet-isworking/",
-    "source": "TechCrunch",
-    "category": "other",
-    "summary": "When AI leaders at OpenAI and Anthropic started talking about “pacing the frontier,”&#160;maybe someone&#160;should have asked: what pace?&#160;Now&#160;it’s&#160;turned into model drop week for both ",
-    "keywords": [
-      "AI",
-      "OpenAI",
-      "Anthropic"
-    ],
-    "date": "2026-09-25"
-  },
-  {
-    "title": "For months, OpenAI’s agent swarms have been attacking online databases to find obscure facts",
-    "link": "https://techcrunch.com/2026/09/25/for-months-openais-agent-swarms-have-been-attacking-online-databases-to-find-obscure-facts/",
-    "source": "TechCrunch",
-    "category": "other",
-    "summary": "The latest unauthorized agent swarms were discovered by researchers.",
-    "keywords": [
-      "AI",
-      "Agent",
-      "OpenAI"
-    ],
-    "date": "2026-09-25"
-  },
-  {
-    "title": "Anthropic’s founders seek voting control ahead of IPO",
-    "link": "https://techcrunch.com/2026/09/25/anthropics-founders-seek-voting-control-ahead-of-ipo/",
-    "source": "TechCrunch",
-    "category": "key_news",
-    "summary": "Anthropic is asking its shareholders to approve a structure that would give its seven co-founders a combined 50.1% of the vote on most corporate matters.",
-    "keywords": [
-      "Anthropic"
     ],
     "date": "2026-09-25"
   }
