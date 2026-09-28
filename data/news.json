@@ -1,5 +1,41 @@
 [
   {
+    "title": "Anthropic’s CEO is about to have dinner with President Trump",
+    "link": "https://techcrunch.com/2026/09/27/anthropics-ceo-is-about-to-have-dinner-with-president-trump/",
+    "source": "TechCrunch",
+    "category": "other",
+    "summary": "This will be the first one-on-one meeting between Dario Amodei and Donald Trump",
+    "keywords": [
+      "Anthropic"
+    ],
+    "date": "2026-09-27"
+  },
+  {
+    "title": "Can Muse overcome Meta’s trust issues?",
+    "link": "https://techcrunch.com/2026/09/27/can-muse-overcome-metas-trust-issues/",
+    "source": "TechCrunch",
+    "category": "other",
+    "summary": "On Equity, we discussed how Meta's AI announcement managed to steal the spotlight from OpenAI and Anthropic.",
+    "keywords": [
+      "AI",
+      "OpenAI",
+      "Anthropic"
+    ],
+    "date": "2026-09-27"
+  },
+  {
+    "title": "Anthropic’s Dario Amodei gets the SNL treatment",
+    "link": "https://techcrunch.com/2026/09/27/anthropics-dario-amodei-gets-the-snl-treatment/",
+    "source": "TechCrunch",
+    "category": "other",
+    "summary": "\"AI is the devil and I its maker.\"",
+    "keywords": [
+      "AI",
+      "Anthropic"
+    ],
+    "date": "2026-09-27"
+  },
+  {
     "title": "Google tests buying from Walmart-owned Flipkart through Gemini and AI Mode in India",
     "link": "https://techcrunch.com/2026/09/26/google-tests-buying-from-walmart-owned-flipkart-through-gemini-and-ai-mode-in-india/",
     "source": "TechCrunch",
@@ -161,17 +197,6 @@
     "summary": "Anthropic is asking its shareholders to approve a structure that would give its seven co-founders a combined 50.1% of the vote on most corporate matters.",
     "keywords": [
       "Anthropic"
-    ],
-    "date": "2026-09-25"
-  },
-  {
-    "title": "TechCrunch Disrupt 2026: Ricursive Intelligence’s Anna Goldie and Azalia Mirhoseini on when AI starts designing its own hardware",
-    "link": "https://techcrunch.com/2026/09/25/techcrunch-disrupt-2026-ricursive-intelligences-anna-goldie-and-azalia-mirhoseini-on-when-ai-starts-designing-its-own-hardware/",
-    "source": "TechCrunch",
-    "category": "other",
-    "summary": "At TechCrunch Disrupt 2026, Ricursive Intelligence co-founders Anna Goldie and Azalia Mirhoseini will take the Disrupt Stage to discuss closing the loop between AI and chip development. Save up to $20",
-    "keywords": [
-      "AI"
     ],
     "date": "2026-09-25"
   }
