@@ -1,5 +1,149 @@
 [
   {
+    "title": "The internet is convinced Elon Musk’s xAI trolled OpenAI’s ‘Dots’ launch",
+    "link": "https://techcrunch.com/2026/09/29/the-internet-is-convinced-elon-musks-xai-trolled-openais-dots-launch/",
+    "source": "TechCrunch",
+    "category": "other",
+    "summary": "Before OpenAI launched its new AI agent, Dots, on Tuesday, Elon Musk's xAI had already acquired the domain name \"dot.com,\" which now redirects to the Grok chatbot download page.",
+    "keywords": [
+      "AI",
+      "Agent",
+      "OpenAI",
+      "xAI",
+      "Grok"
+    ],
+    "date": "2026-09-29"
+  },
+  {
+    "title": "OpenAI’s latest features take direct aim at the app store model",
+    "link": "https://techcrunch.com/2026/09/29/openais-latest-features-take-direct-aim-at-the-app-store-model/",
+    "source": "TechCrunch",
+    "category": "other",
+    "summary": "OpenAI is building out the pieces of an alternative to the traditional app store model, turning ChatGPT into a place where software can be discovered and used by people and AI agents alike.",
+    "keywords": [
+      "AI",
+      "Agent",
+      "OpenAI",
+      "GPT",
+      "ChatGPT"
+    ],
+    "date": "2026-09-29"
+  },
+  {
+    "title": "OpenAI reportedly in talks to raise $30B round at $1.4T valuation",
+    "link": "https://techcrunch.com/2026/09/29/openai-reportedly-in-talks-to-raise-30b-round-at-1-4t-valuation/",
+    "source": "TechCrunch",
+    "category": "funding",
+    "summary": "The new round is anticipated to be the company's last before its delayed 2027 public debut.",
+    "keywords": [
+      "AI",
+      "OpenAI"
+    ],
+    "date": "2026-09-29"
+  },
+  {
+    "title": "Here’s why OpenAI is absent from Nvidia’s industry-wide effort to end rogue AI agents",
+    "link": "https://techcrunch.com/2026/09/29/heres-why-openai-is-absent-from-nvidias-industry-wide-effort-to-end-rogue-ai-agents/",
+    "source": "TechCrunch",
+    "category": "other",
+    "summary": "OpenAI isn't a public supporter of Nvidia's Open Agent Safety Platform, but it is privately working with Nvidia, TechCrunch has learned.",
+    "keywords": [
+      "AI",
+      "Agent",
+      "OpenAI"
+    ],
+    "date": "2026-09-29"
+  },
+  {
+    "title": "OpenAI takes on Microsoft with the launch of what feels a whole lot like ChatGPT’s own office suite",
+    "link": "https://techcrunch.com/2026/09/29/openai-takes-on-microsoft-with-the-launch-of-what-feels-a-whole-lot-like-chatgpts-own-office-suite/",
+    "source": "TechCrunch",
+    "category": "other",
+    "summary": "OpenAI's newly announced suite of office features puts it into more direct competition with more traditional software companies.",
+    "keywords": [
+      "AI",
+      "OpenAI",
+      "GPT",
+      "ChatGPT"
+    ],
+    "date": "2026-09-29"
+  },
+  {
+    "title": "AI-powered app maker Wabi pivots to a messaging experience",
+    "link": "https://techcrunch.com/2026/09/29/ai-powered-app-maker-wabi-pivots-to-a-messaging-experience/",
+    "source": "TechCrunch",
+    "category": "other",
+    "summary": "Wabi is repositioning its prompt-based app builder as a personal AI agent that can create interfaces on demand, combining chat, apps, and ongoing tasks.",
+    "keywords": [
+      "AI",
+      "Agent"
+    ],
+    "date": "2026-09-29"
+  },
+  {
+    "title": "OpenAI launches Dots, its bubbly agentic avatar",
+    "link": "https://techcrunch.com/2026/09/29/openai-launches-dots-its-bubbly-agentic-avatar/",
+    "source": "TechCrunch",
+    "category": "other",
+    "summary": "Dots are meant to operate independent of any specific hardware or interface, pursuing user-defined goals continuously in the background with minimal oversight.",
+    "keywords": [
+      "AI",
+      "Agent",
+      "OpenAI"
+    ],
+    "date": "2026-09-29"
+  },
+  {
+    "title": "OpenAI gives Codex reusable cloud environments that work across devices",
+    "link": "https://techcrunch.com/2026/09/29/openai-gives-codex-reusable-cloud-environments-that-work-across-devices/",
+    "source": "TechCrunch",
+    "category": "other",
+    "summary": "OpenAI is expanding Codex with reusable cloud development environments, a revamped CLI with voice controls, new code review tools, and a security-focused product for scanning repositories and preparin",
+    "keywords": [
+      "AI",
+      "OpenAI"
+    ],
+    "date": "2026-09-29"
+  },
+  {
+    "title": "OpenAI expands ChatGPT’s plug-ins with app-like interfaces and automations",
+    "link": "https://techcrunch.com/2026/09/29/openai-expands-chatgpts-plugins-with-app-like-interfaces-and-automations/",
+    "source": "TechCrunch",
+    "category": "other",
+    "summary": "OpenAI is expanding ChatGPT plug-ins with dedicated sidebar homes, interactive panels, file viewers, improved discovery, and support for automations.",
+    "keywords": [
+      "AI",
+      "OpenAI",
+      "GPT",
+      "ChatGPT"
+    ],
+    "date": "2026-09-29"
+  },
+  {
+    "title": "OpenAI launches GPT-6.1 Sol, says it nearly matches GPT-6 Astra and costs less",
+    "link": "https://techcrunch.com/2026/09/29/openai-launches-gpt-6-1-sol-says-it-nearly-matches-gpt-6-astra-and-costs-less/",
+    "source": "TechCrunch",
+    "category": "other",
+    "summary": "OpenAI says GPT-6.1 Sol delivers significant improvements over GPT-6 Sol across complex professional tasks, including code writing and debugging, document understanding, and executing multistep busine",
+    "keywords": [
+      "AI",
+      "OpenAI",
+      "GPT"
+    ],
+    "date": "2026-09-29"
+  },
+  {
+    "title": "Can a chatbot fix the government maze? The White House is about to find out",
+    "link": "https://techcrunch.com/2026/09/29/can-a-chatbot-fix-the-government-maze-the-white-house-is-about-to-find-out/",
+    "source": "TechCrunch",
+    "category": "other",
+    "summary": "America.gov is intended to simplify the process of navigating government bureaucracy, but large language models are imperfect and remain prone to hallucinations, which could cause new issues.",
+    "keywords": [
+      "AI"
+    ],
+    "date": "2026-09-29"
+  },
+  {
     "title": "Instinct founder said more than 50% of transactions on the platform are travel-related",
     "link": "https://techcrunch.com/2026/09/29/instinct-founder-said-more-than-50-of-transactions-on-the-platform-are-travel-related/",
     "source": "TechCrunch",
@@ -15,7 +159,7 @@
     "link": "https://techcrunch.com/2026/09/29/with-dazzle-marissa-mayer-bets-your-camera-roll-has-more-info-on-your-life-than-your-inbox/",
     "source": "TechCrunch",
     "category": "other",
-    "summary": "The former Yahoo CEO is introducing a new AI personal assistant based entirely on your photos.",
+    "summary": "Mayer argues that if a photo is worth a thousand words, your camera roll is worth millions. By analyzing all the photos stored on your phone, Dazzle claims to understand your hobbies, interests, food,",
     "keywords": [
       "AI"
     ],
@@ -79,134 +223,6 @@
     "keywords": [
       "AI",
       "OpenAI"
-    ],
-    "date": "2026-09-28"
-  },
-  {
-    "title": "Source: Inference provider Modal Labs closing in on $750M round at $15.75B valuation",
-    "link": "https://techcrunch.com/2026/09/28/source-inference-provider-modal-labs-closing-in-on-750m-round-at-15-75b-valuation/",
-    "source": "TechCrunch",
-    "category": "funding",
-    "summary": "The new financing is expected to more than triples the AI infrastructure startup's valuation from just four months ago.",
-    "keywords": [
-      "AI"
-    ],
-    "date": "2026-09-28"
-  },
-  {
-    "title": "Shopify opens checkout to browser-based AI agents",
-    "link": "https://techcrunch.com/2026/09/28/shopify-opens-checkout-to-browser-based-ai-agents/",
-    "source": "TechCrunch",
-    "category": "other",
-    "summary": "Shopify is expanding WebMCP support to checkout, allowing browser-based AI agents to update order details and complete purchases with a buyer’s authorization.",
-    "keywords": [
-      "AI",
-      "Agent"
-    ],
-    "date": "2026-09-28"
-  },
-  {
-    "title": "The AI boom took over Climate Week and not everyone is happy about it",
-    "link": "https://techcrunch.com/2026/09/28/the-ai-boom-took-over-climate-week-and-not-everyone-is-happy-about-it/",
-    "source": "TechCrunch",
-    "category": "other",
-    "summary": "Just like the rest of the U.S., data centers and AI are dividing climate tech founders and investors.",
-    "keywords": [
-      "AI"
-    ],
-    "date": "2026-09-28"
-  },
-  {
-    "title": "Nvidia launches new platform for reining in rogue AI agents",
-    "link": "https://techcrunch.com/2026/09/28/nvidia-launches-new-platform-for-reining-in-rogue-ai-agents/",
-    "source": "TechCrunch",
-    "category": "other",
-    "summary": "Nvidia CEO Jensen Huang on Monday introduced a toolkit of software and hardware products that add independent security layers around AI agents to ensure they stay within their test environments even i",
-    "keywords": [
-      "AI",
-      "Agent"
-    ],
-    "date": "2026-09-28"
-  },
-  {
-    "title": "Anthropic releases Sonnet 5.5, which it calls a significantly cheaper, faster work partner",
-    "link": "https://techcrunch.com/2026/09/28/anthropic-releases-sonnet-5-5-which-it-calls-a-significantly-cheaper-faster-work-partner/",
-    "source": "TechCrunch",
-    "category": "other",
-    "summary": "Anthropic has released the newest version of its mid-range model, boasting faster response times and less token burn.",
-    "keywords": [
-      "Anthropic"
-    ],
-    "date": "2026-09-28"
-  },
-  {
-    "title": "Google is killing off Gemini’s Gems in favor of ‘skills’",
-    "link": "https://techcrunch.com/2026/09/28/google-is-killing-off-geminis-gems-in-favor-of-skills/",
-    "source": "TechCrunch",
-    "category": "other",
-    "summary": "As all-in-one AI agents like Meta's Muse and Instinct take off, Google is opting to end a feature that built task-specific agents.",
-    "keywords": [
-      "AI",
-      "Agent",
-      "Gemini"
-    ],
-    "date": "2026-09-28"
-  },
-  {
-    "title": "OpenAI still doesn’t seem to have a handle on all of its rogue AI activity",
-    "link": "https://techcrunch.com/2026/09/28/openai-still-doesnt-seem-to-have-a-handle-on-all-of-its-rogue-ai-activity/",
-    "source": "TechCrunch",
-    "category": "other",
-    "summary": "On Friday, OpenAI published a new site devoted to “misalignment reports” and the breadth of the incidents is alarming.",
-    "keywords": [
-      "AI",
-      "OpenAI"
-    ],
-    "date": "2026-09-28"
-  },
-  {
-    "title": "Meta launches enterprise AI platform, hires MongoDB CEO to lead new initiative",
-    "link": "https://techcrunch.com/2026/09/28/meta-launches-enterprise-ai-platform-hires-mongodb-ceo-to-lead-new-initiative/",
-    "source": "TechCrunch",
-    "category": "other",
-    "summary": "Meta says it will focus on bringing its full technology stack, including Muse, Meta Business Agent, Muse API, Muse Code, and more to businesses and developers.",
-    "keywords": [
-      "AI",
-      "Agent"
-    ],
-    "date": "2026-09-28"
-  },
-  {
-    "title": "Anthropic, Gamma, and Clay share what happens when enterprises actually deploy AI at TechCrunch Disrupt 2026",
-    "link": "https://techcrunch.com/2026/09/28/anthropic-gamma-and-clay-share-what-happens-when-enterprises-actually-deploy-ai-at-techcrunch-disrupt-2026/",
-    "source": "TechCrunch",
-    "category": "other",
-    "summary": "Anthropic, Clay, and Gamma on what it takes for an AI product to go beyond the demo at the AI Stage at TechCrunchDisrupt 2026. Register to join and get 50% off a second pass.",
-    "keywords": [
-      "AI",
-      "Anthropic"
-    ],
-    "date": "2026-09-28"
-  },
-  {
-    "title": "After a deepfake voice fooled her grandfather, this founder sprang into action",
-    "link": "https://techcrunch.com/2026/09/28/after-a-deepfake-voice-fooled-her-grandfather-this-founder-sprang-into-action/",
-    "source": "TechCrunch",
-    "category": "other",
-    "summary": "After her grandfather was scammed by a deepfake of his brother's voice, Tarini Padmanabhuni founded DetectifAI, a San Francisco startup building AI models small enough to run directly on smartphones a",
-    "keywords": [
-      "AI"
-    ],
-    "date": "2026-09-28"
-  },
-  {
-    "title": "Next 5 VCs judging Startup Battlefield 200 contenders at TechCrunch Disrupt 2026",
-    "link": "https://techcrunch.com/2026/09/28/next-five-vcs-judging-startup-battlefield-200-contenders-at-techcrunch-disrupt-2026/",
-    "source": "TechCrunch",
-    "category": "other",
-    "summary": "Thousands of applications. Multiple rounds of review. Hundreds of hours spent evaluating startups from around the world. Now comes the part everyone has been waiting for. Register for TechCrunch Disru",
-    "keywords": [
-      "AI"
     ],
     "date": "2026-09-28"
   }
