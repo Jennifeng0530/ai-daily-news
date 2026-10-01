@@ -22,6 +22,64 @@
     "date": "2026-10-01"
   },
   {
+    "title": "Shopify debuts Canvas, a way to build online stores by chatting with AI",
+    "link": "https://techcrunch.com/2026/10/01/shopify-debuts-canvas-a-way-to-build-online-stores-by-chatting-with-ai/",
+    "source": "TechCrunch",
+    "category": "other",
+    "summary": "Shopify’s new Canvas site builder lets merchants create and customize their online stores by chatting with its AI agent Sidekick, while watching the changes happen in real time.",
+    "keywords": [
+      "AI",
+      "Agent"
+    ],
+    "date": "2026-10-01"
+  },
+  {
+    "title": "Brian Chesky interview: AI agents need their own operating system",
+    "link": "https://techcrunch.com/2026/10/01/brian-chesky-interview-ai-agents-need-their-own-operating-system/",
+    "source": "TechCrunch",
+    "category": "other",
+    "summary": "Brian Chesky on making Airbnb agent-friendly, the state of consumer AI, and why the world needs an AI-native operating system.",
+    "keywords": [
+      "AI",
+      "Agent"
+    ],
+    "date": "2026-10-01"
+  },
+  {
+    "title": "Photon held a funeral for mobile apps. Now it has $4.5M to help replace them with agents.",
+    "link": "https://techcrunch.com/2026/10/01/photon-held-a-funeral-for-mobile-apps-now-it-has-4-5m-to-help-replace-them-with-agents/",
+    "source": "TechCrunch",
+    "category": "other",
+    "summary": "The startup helps developers build AI agents that work over iMessage, SMS/RCS, email, and other messaging platforms. It's a bet that consumers will increasingly use agents instead of downloading apps.",
+    "keywords": [
+      "AI",
+      "Agent"
+    ],
+    "date": "2026-10-01"
+  },
+  {
+    "title": "Hearing tech startup Legato launches its AI hearing glasses",
+    "link": "https://techcrunch.com/2026/10/01/hearing-tech-startup-legato-launches-its-ai-hearing-glasses/",
+    "source": "TechCrunch",
+    "category": "other",
+    "summary": "The glasses stem from the startup’s goal of making hearing care more accessible by addressing the cost, comfort, and stigma associated with traditional hearing aids.",
+    "keywords": [
+      "AI"
+    ],
+    "date": "2026-10-01"
+  },
+  {
+    "title": "Satlyt, founded by a former Google and SpaceX product manager, raises $8M to run AI on satellites",
+    "link": "https://techcrunch.com/2026/10/01/satlyt-founded-by-a-former-google-and-spacex-product-manager-raises-8m-to-run-ai-on-satellites/",
+    "source": "TechCrunch",
+    "category": "funding",
+    "summary": "Satlyt wants to be the Android of orbital computing, offering open software that works on many companies' satellites, versus SpaceX's closed, all-in-one iPhone-style approach.",
+    "keywords": [
+      "AI"
+    ],
+    "date": "2026-10-01"
+  },
+  {
     "title": "中国品牌不需要总强调“便宜”，连 Pattern 创始人都这么说",
     "link": "https://www.pingwest.com/a/318047",
     "source": "品玩",
@@ -286,17 +344,6 @@
     "date": "2026-09-30"
   },
   {
-    "title": "Airbnb adds AI search, more social features",
-    "link": "https://techcrunch.com/2026/09/30/airbnb-adds-ai-search-more-social-features/",
-    "source": "TechCrunch",
-    "category": "other",
-    "summary": "Airbnb is also launching new services such as meal delivery and laundry in select locations.",
-    "keywords": [
-      "AI"
-    ],
-    "date": "2026-09-30"
-  },
-  {
     "title": "如何帮酒店拿到经营结果？美团既白给企业级 AI 打了样",
     "link": "https://www.pingwest.com/a/317985",
     "source": "品玩",
@@ -339,73 +386,6 @@
     "summary": "华为\n\n\n\n华为WATCH D3正式开售，让用户把“腕上智能血压专家”戴上手腕",
     "keywords": [
       "智能"
-    ],
-    "date": "2026-09-29"
-  },
-  {
-    "title": "Shopify开放AI智能体结账功能 支持WebMCP协议",
-    "link": "https://www.pingwest.com/w/317976",
-    "source": "品玩",
-    "category": "other",
-    "summary": "Shopify\n\n\n\nShopify开放AI智能体结账功能 支持WebMCP协议\n\n据 TechCrunch 报道，Shopify宣布支持浏览器端AI智能体在其商户网站完成结账，与Amazon、Adidas限制AI购物的做法相反。",
-    "keywords": [
-      "AI",
-      "智能"
-    ],
-    "date": "2026-09-29"
-  },
-  {
-    "title": "The internet is convinced Elon Musk’s xAI trolled OpenAI’s ‘Dots’ launch",
-    "link": "https://techcrunch.com/2026/09/29/the-internet-is-convinced-elon-musks-xai-trolled-openais-dots-launch/",
-    "source": "TechCrunch",
-    "category": "other",
-    "summary": "Before OpenAI launched its new AI agent, Dots, on Tuesday, Elon Musk's xAI had already acquired the domain name \"dot.com,\" which now redirects to the Grok chatbot download page.",
-    "keywords": [
-      "AI",
-      "Agent",
-      "OpenAI",
-      "xAI",
-      "Grok"
-    ],
-    "date": "2026-09-29"
-  },
-  {
-    "title": "OpenAI’s latest features take direct aim at the app store model",
-    "link": "https://techcrunch.com/2026/09/29/openais-latest-features-take-direct-aim-at-the-app-store-model/",
-    "source": "TechCrunch",
-    "category": "other",
-    "summary": "OpenAI is building out the pieces of an alternative to the traditional app store model, turning ChatGPT into a place where software can be discovered and used by people and AI agents alike.",
-    "keywords": [
-      "AI",
-      "Agent",
-      "OpenAI",
-      "GPT",
-      "ChatGPT"
-    ],
-    "date": "2026-09-29"
-  },
-  {
-    "title": "OpenAI reportedly in talks to raise $30B round at $1.4T valuation",
-    "link": "https://techcrunch.com/2026/09/29/openai-reportedly-in-talks-to-raise-30b-round-at-1-4t-valuation/",
-    "source": "TechCrunch",
-    "category": "funding",
-    "summary": "The new round is anticipated to be the company's last before its delayed 2027 public debut.",
-    "keywords": [
-      "AI",
-      "OpenAI"
-    ],
-    "date": "2026-09-29"
-  },
-  {
-    "title": "Here’s why OpenAI is absent from Nvidia’s industry-wide effort to end rogue AI agents",
-    "link": "https://techcrunch.com/2026/09/29/heres-why-openai-is-absent-from-nvidias-industry-wide-effort-to-end-rogue-ai-agents/",
-    "source": "TechCrunch",
-    "category": "other",
-    "summary": "OpenAI isn't a public supporter of Nvidia's Open Agent Safety Platform, but it is privately working with Nvidia, TechCrunch has learned.",
-    "keywords": [
-      "AI",
-      "Agent",
-      "OpenAI"
     ],
     "date": "2026-09-29"
   }
