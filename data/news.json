@@ -1,21 +1,48 @@
 [
   {
-    "title": "华为Mate 90系列鸿蒙高清直播新体验：从高清画质到智能对焦，让表达更从容",
-    "link": "https://www.pingwest.com/w/318066",
-    "source": "品玩",
+    "title": "Musk’s AI chatbot Grok reportedly encouraged Trump to capture  Venezuela’s president",
+    "link": "https://techcrunch.com/2026/10/01/musks-ai-chatbot-grok-reportedly-encouraged-trump-to-capture-venezuelas-president/",
+    "source": "TechCrunch",
     "category": "other",
-    "summary": "华为\n\n\n\n华为Mate 90系列鸿蒙高清直播新体验：从高清画质到智能对焦，让表达更从容",
+    "summary": "President Trump reportedly asked for Grok's opinion before invading Venezuela and capturing Nicolás Maduro.",
     "keywords": [
-      "智能"
+      "AI",
+      "Grok"
     ],
     "date": "2026-10-01"
   },
   {
-    "title": "Airbnb爱彼迎发布2026年秋季产品更新",
-    "link": "https://www.pingwest.com/w/318062",
-    "source": "品玩",
+    "title": "ChatGPT can now virtually try on clothes for you",
+    "link": "https://techcrunch.com/2026/10/01/chatgpt-can-now-virtually-try-on-clothes-for-you/",
+    "source": "TechCrunch",
     "category": "other",
-    "summary": "爱彼迎\n\n\n\nAirbnb爱彼迎发布2026年秋季产品更新",
+    "summary": "OpenAI is rolling out new shopping features for ChatGPT that let users virtually try on clothing and accessories using their own photos and save products they like to a Favorites library.",
+    "keywords": [
+      "AI",
+      "OpenAI",
+      "GPT",
+      "ChatGPT"
+    ],
+    "date": "2026-10-01"
+  },
+  {
+    "title": "OpenAI cuts ties with 3 safety researchers, WSJ reports",
+    "link": "https://techcrunch.com/2026/10/01/openai-cuts-ties-with-three-safety-researchers-wsj-reports/",
+    "source": "TechCrunch",
+    "category": "other",
+    "summary": "OpenAI has parted ways with three safety researchers after an internal investigation found they mishandled sensitive company information, report says.",
+    "keywords": [
+      "AI",
+      "OpenAI"
+    ],
+    "date": "2026-10-01"
+  },
+  {
+    "title": "Opus 5.5 loves to tell you ‘this matters’ (and other AI writing tells)",
+    "link": "https://techcrunch.com/2026/10/01/opus-5-5-loves-to-tell-you-this-matters-and-other-ai-writing-tells/",
+    "source": "TechCrunch",
+    "category": "other",
+    "summary": "Opus 5.5’s biggest tell is the word “dependable,” which pops up 23 times more often than in human samples.",
     "keywords": [
       "AI"
     ],
@@ -78,143 +105,6 @@
       "AI"
     ],
     "date": "2026-10-01"
-  },
-  {
-    "title": "中国品牌不需要总强调“便宜”，连 Pattern 创始人都这么说",
-    "link": "https://www.pingwest.com/a/318047",
-    "source": "品玩",
-    "category": "other",
-    "summary": "中国品牌不需要总强调“便宜”，连 Pattern 创始人都这么说\n\n对话pattern 创始人：大模型普及后，中国品牌会有巨大优势",
-    "keywords": [
-      "大模型"
-    ],
-    "date": "2026-09-30"
-  },
-  {
-    "title": "MiniMax 杀进 Flash 混战，我拿五个项目试了试",
-    "link": "https://www.pingwest.com/a/318014",
-    "source": "品玩",
-    "category": "other",
-    "summary": "MiniMax 杀进 Flash 混战，我拿五个项目试了试\n\nFlash 模型又多了一个玩家。",
-    "keywords": [
-      "MiniMax"
-    ],
-    "date": "2026-09-30"
-  },
-  {
-    "title": "蚂蚁灵波与阿拉伯数字经济联盟签署备忘录，加速具身智能本土落地",
-    "link": "https://www.pingwest.com/w/318050",
-    "source": "品玩",
-    "category": "other",
-    "summary": "蚂蚁灵波\n\n\n\n蚂蚁灵波与阿拉伯数字经济联盟签署备忘录，加速具身智能本土落地\n\n近日，第五届全球数字贸易博览会的重要配套活动之一“中阿数字经济产业对接会”上，阿拉伯数字经济联盟（AFDE）与蚂蚁集团旗下具身智能公司蚂蚁灵波科技正式签署框架合作备忘录。",
-    "keywords": [
-      "智能"
-    ],
-    "date": "2026-09-30"
-  },
-  {
-    "title": "DeepSeek Harness v0.2 预览版发布 新增插件管理页面与多项体验优化",
-    "link": "https://www.pingwest.com/w/318049",
-    "source": "品玩",
-    "category": "other",
-    "summary": "DEEPseek\n\n\n\nDeepSeek Harness v0.2 预览版发布 新增插件管理页面与多项体验优化\n\nDeepSeek宣布，现已正式发布Harness v0.2预览版，同步推出macOS与Windows桌面端安装包。",
-    "keywords": [
-      "DeepSeek"
-    ],
-    "date": "2026-09-30"
-  },
-  {
-    "title": "OpenAI推出ChatGPT Space 构建人与智能体共享工作空间",
-    "link": "https://www.pingwest.com/w/318036",
-    "source": "品玩",
-    "category": "other",
-    "summary": "OpenAI\n\n\n\nOpenAI推出ChatGPT Space 构建人与智能体共享工作空间\n\n据OpenAI在DevDay上发布ChatGPT Space，这是一个将人员、文件与AI助手纳入同一项目的共享工作空间。与以往以个人对话窗口为主的模式不同，团队可在此沉淀共同信息，使AI基于共享上下文工作，而无需每位成员在各自对话中重复重建背景。",
-    "keywords": [
-      "AI",
-      "OpenAI",
-      "GPT",
-      "ChatGPT",
-      "智能"
-    ],
-    "date": "2026-09-30"
-  },
-  {
-    "title": "OpenAI为Codex引入可复用云端开发环境 同步升级安全与API能力",
-    "link": "https://www.pingwest.com/w/318035",
-    "source": "品玩",
-    "category": "other",
-    "summary": "codex\n\n\n\nOpenAI为Codex引入可复用云端开发环境 同步升级安全与API能力\n\n据 TechCrunch 报道，OpenAI在DevDay上为软件工程智能体Codex引入可复用的云端开发环境，同一环境可从任意设备接入，使Codex的使用不再局限于开发者本地。",
-    "keywords": [
-      "AI",
-      "OpenAI",
-      "智能"
-    ],
-    "date": "2026-09-30"
-  },
-  {
-    "title": "OpenAI推出Ultra Fast服务 称速度为标准处理八倍",
-    "link": "https://www.pingwest.com/w/318033",
-    "source": "品玩",
-    "category": "other",
-    "summary": "OpenAI\n\n\n\nOpenAI推出Ultra Fast服务 称速度为标准处理八倍\n\nOpenAI在9月29日DevDay演讲中宣布推出Ultra Fast服务，覆盖API、ChatGPT和Codex。",
-    "keywords": [
-      "AI",
-      "OpenAI",
-      "GPT",
-      "ChatGPT"
-    ],
-    "date": "2026-09-30"
-  },
-  {
-    "title": "OpenAI发布MentalHealthBench基准 评估AI心理健康对话能力",
-    "link": "https://www.pingwest.com/w/318032",
-    "source": "品玩",
-    "category": "other",
-    "summary": "OpenAI\n\n\n\nOpenAI发布MentalHealthBench基准 评估AI心理健康对话能力\n\nOpenAI正式发布MentalHealthBench，一项由来自22个国家/地区的80余名持证心理健康专家共同制定的开放基准，用于评估AI在真实心理健康对话中能否提供实用且安全的回应。",
-    "keywords": [
-      "AI",
-      "OpenAI"
-    ],
-    "date": "2026-09-30"
-  },
-  {
-    "title": "OpenAI推出GPT-6.1 Sol 以五分之一价格提供接近Astra的智能水平",
-    "link": "https://www.pingwest.com/w/318028",
-    "source": "品玩",
-    "category": "other",
-    "summary": "OpenAI\n\n\n\nOpenAI推出GPT-6.1 Sol 以五分之一价格提供接近Astra的智能水平\n\nOpenAI正式发布GPT-6.1 Sol，为GPT-6 Sol升级版，在编程、计算机使用和专业工作方面表现突出。",
-    "keywords": [
-      "AI",
-      "OpenAI",
-      "GPT",
-      "智能"
-    ],
-    "date": "2026-09-30"
-  },
-  {
-    "title": "OpenAI发布常驻AI智能体dots",
-    "link": "https://www.pingwest.com/w/318027",
-    "source": "品玩",
-    "category": "other",
-    "summary": "OpenAI\n\n\n\nOpenAI发布常驻AI智能体dots\n\nOpenAI官方周二在DevDay开发者大会上正式发布常驻AI智能体dots，该智能体由GPT-6 Astra模型驱动，可自主完成调研、数据分析、文档准备与软件开发等任务。",
-    "keywords": [
-      "AI",
-      "OpenAI",
-      "GPT",
-      "智能"
-    ],
-    "date": "2026-09-30"
-  },
-  {
-    "title": "Manus携2.0和「Cue」加入战斗！个人Agent混战彻底热闹咯｜附实测",
-    "link": "https://www.pingwest.com/a/317961",
-    "source": "品玩",
-    "category": "other",
-    "summary": "Manus携2.0和「Cue」加入战斗！个人Agent混战彻底热闹咯｜附实测\n\n每个二维码都是一个Agent，绝了",
-    "keywords": [
-      "Agent"
-    ],
-    "date": "2026-09-30"
   },
   {
     "title": "Google releases Gemini 4 Argon, called its most powerful model yet",
@@ -308,85 +198,5 @@
       "Agent"
     ],
     "date": "2026-09-30"
-  },
-  {
-    "title": "Destro AI’s secret sauce is getting robots and humans on the same page",
-    "link": "https://techcrunch.com/2026/09/30/destro-ais-secret-sauce-is-getting-robots-and-humans-on-the-same-page/",
-    "source": "TechCrunch",
-    "category": "other",
-    "summary": "\"One of the biggest reasons we are winning against robotics companies is because we are not a robotics company.\"",
-    "keywords": [
-      "AI"
-    ],
-    "date": "2026-09-30"
-  },
-  {
-    "title": "Cerebras Systems’ Andrew Feldman on whether AI can keep scaling at TechCrunch Disrupt 2026",
-    "link": "https://techcrunch.com/2026/09/30/cerebras-systems-andrew-feldman-on-whether-ai-can-keep-scaling-at-techcrunch-disrupt-2026/",
-    "source": "TechCrunch",
-    "category": "other",
-    "summary": "At TechCrunch Disrupt 2026, Cerebras Systems CEO and co-founder Andrew Feldman will explore the growing demand for compute, energy, and infrastructure, how Cerebras is approaching those constraints di",
-    "keywords": [
-      "AI"
-    ],
-    "date": "2026-09-30"
-  },
-  {
-    "title": "Restate lands $20M as the need for durable infrastructure increases with AI agents",
-    "link": "https://techcrunch.com/2026/09/30/restate-lands-20m-as-the-need-for-durable-infrastructure-increases-with-ai-agents/",
-    "source": "TechCrunch",
-    "category": "other",
-    "summary": "Instead of building its durable execution engine on top of an external database, the company developed its own storage, replication, and redundancy layers. This architecture allows Restate to be excep",
-    "keywords": [
-      "AI",
-      "Agent"
-    ],
-    "date": "2026-09-30"
-  },
-  {
-    "title": "如何帮酒店拿到经营结果？美团既白给企业级 AI 打了样",
-    "link": "https://www.pingwest.com/a/317985",
-    "source": "品玩",
-    "category": "other",
-    "summary": "如何帮酒店拿到经营结果？美团既白给企业级 AI 打了样\n\n要闯过三道关卡",
-    "keywords": [
-      "AI"
-    ],
-    "date": "2026-09-29"
-  },
-  {
-    "title": "ElevenLabs发布Eleven v4及低延迟变体Eleven v4 Turbo",
-    "link": "https://www.pingwest.com/w/317999",
-    "source": "品玩",
-    "category": "other",
-    "summary": "ElevenLabs\n\n\n\nElevenLabs发布Eleven v4及低延迟变体Eleven v4 Turbo\n\n据unite.ai 报道，ElevenLabs推出文本转语音模型Eleven v4，称其为该公司迄今最具表现力的模型，同时发布面向实时场景的低延迟变体Eleven v4 Turbo。两款模型已即时上线ElevenAgents、ElevenCreative及ElevenAPI，免费账户",
-    "keywords": [
-      "AI",
-      "Agent"
-    ],
-    "date": "2026-09-29"
-  },
-  {
-    "title": "字节跳动豆包加速推进personal agent能力对外发布",
-    "link": "https://www.pingwest.com/w/317991",
-    "source": "品玩",
-    "category": "other",
-    "summary": "豆包\n\n\n\n字节跳动豆包加速推进personal agent能力对外发布\n\n据科创板日报报道，知情人士透露，字节跳动豆包自今年4月起已在内部内测个人助理方向的探索性产品。",
-    "keywords": [
-      "Agent",
-      "豆包"
-    ],
-    "date": "2026-09-29"
-  },
-  {
-    "title": "华为WATCH D3正式开售，让用户把“腕上智能血压专家”戴上手腕",
-    "link": "https://www.pingwest.com/w/317982",
-    "source": "品玩",
-    "category": "other",
-    "summary": "华为\n\n\n\n华为WATCH D3正式开售，让用户把“腕上智能血压专家”戴上手腕",
-    "keywords": [
-      "智能"
-    ],
-    "date": "2026-09-29"
   }
 ]
