@@ -1,5 +1,38 @@
 [
   {
+    "title": "Pope Leo XIV is not a fan of AI-generated art",
+    "link": "https://techcrunch.com/2026/10/02/pope-leo-xiv-is-not-a-fan-of-ai-generated-art/",
+    "source": "TechCrunch",
+    "category": "other",
+    "summary": "\"There is an ontological difference, even before an aesthetic one, between art and what a machine can generate through statistical calculation based on millions of images created by others,\" the pope ",
+    "keywords": [
+      "AI"
+    ],
+    "date": "2026-10-02"
+  },
+  {
+    "title": "TechCrunch Disrupt 2026: Blackstone’s Jas Khaira on building the next generation of AI giants",
+    "link": "https://techcrunch.com/2026/10/02/techcrunch-disrupt-2026-blackstones-jas-khaira-on-building-the-next-generation-of-ai-giants/",
+    "source": "TechCrunch",
+    "category": "other",
+    "summary": "Blackstone's Jas Khaira will take the Builders Stage at TechCrunch Disrupt 2026 on building next-gen AI. Register for your pass and get 50% off a second.",
+    "keywords": [
+      "AI"
+    ],
+    "date": "2026-10-02"
+  },
+  {
+    "title": "TechCrunch Disrupt 2026: Clay’s Kareem Amin on the rise of the GTM engineer",
+    "link": "https://techcrunch.com/2026/10/02/techcrunch-disrupt-2026-clays-kareem-amin-on-the-rise-of-the-gtm-engineer/",
+    "source": "TechCrunch",
+    "category": "other",
+    "summary": "Clay Co-founder and CEO Kareem Amin joins the AI Stage to discuss the rise of GTM engineer at TechCrunch Disrupt 2026. Register for your ticket and get a second pass at 50% off.",
+    "keywords": [
+      "AI"
+    ],
+    "date": "2026-10-02"
+  },
+  {
     "title": "Musk’s AI chatbot Grok reportedly encouraged Trump to capture  Venezuela’s president",
     "link": "https://techcrunch.com/2026/10/01/musks-ai-chatbot-grok-reportedly-encouraged-trump-to-capture-venezuelas-president/",
     "source": "TechCrunch",
@@ -150,52 +183,6 @@
     "summary": "The $300 million employee tender was co-led by Wellington and T. Rowe Price.",
     "keywords": [
       "AI"
-    ],
-    "date": "2026-09-30"
-  },
-  {
-    "title": "Reddit is killing RSS feeds and ending public API access because of AI bots",
-    "link": "https://techcrunch.com/2026/09/30/reddit-is-killing-rss-feeds-ending-public-api-access-because-of-ai-bots/",
-    "source": "TechCrunch",
-    "category": "other",
-    "summary": "Reddit is ending support for RSS feeds, as the company continues tightening access to its trove of user-generated content.",
-    "keywords": [
-      "AI"
-    ],
-    "date": "2026-09-30"
-  },
-  {
-    "title": "The ugly economics of consumer AI",
-    "link": "https://techcrunch.com/2026/09/30/the-ugly-economics-of-consumer-ai/",
-    "source": "TechCrunch",
-    "category": "other",
-    "summary": "There’s a reason frontier labs have gotten gun-shy about consumer AI — and it’s not because the tech isn’t good enough.",
-    "keywords": [
-      "AI"
-    ],
-    "date": "2026-09-30"
-  },
-  {
-    "title": "Meta disputes claim that Muse read a user’s private messages without permission",
-    "link": "https://techcrunch.com/2026/09/30/meta-disputes-claim-that-muse-read-a-users-private-messages-without-permission/",
-    "source": "TechCrunch",
-    "category": "other",
-    "summary": "Meta says its Muse AI agent cannot access a user’s Messages without explicit permission, disputing a journalist’s account that the agent read his private messages while the required Mac setting was tu",
-    "keywords": [
-      "AI",
-      "Agent"
-    ],
-    "date": "2026-09-30"
-  },
-  {
-    "title": "DoorDash launches an AI agent you can text to order food",
-    "link": "https://techcrunch.com/2026/09/30/doordash-launches-an-ai-agent-you-can-text-to-order-food/",
-    "source": "TechCrunch",
-    "category": "other",
-    "summary": "By launching an AI agent for food ordering, DoorDash is looking to gain an edge over rivals Uber Eats and Grubhub.",
-    "keywords": [
-      "AI",
-      "Agent"
     ],
     "date": "2026-09-30"
   }
