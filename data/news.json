@@ -1,5 +1,98 @@
 [
   {
+    "title": "Instinct brings its AI agent to group chats, even for friends without an account",
+    "link": "https://techcrunch.com/2026/10/05/instinct-brings-its-ai-agent-to-group-chats-even-for-friends-without-an-account/",
+    "source": "TechCrunch",
+    "category": "other",
+    "summary": "Instinct is launching group chats that let friends use its AI agent together for tasks like planning trips, organizing carpools, and coordinating events. The company says personal accounts remain sepa",
+    "keywords": [
+      "AI",
+      "Agent"
+    ],
+    "date": "2026-10-05"
+  },
+  {
+    "title": "TikTok rolls out an AI shopping assistant and one-click checkout",
+    "link": "https://techcrunch.com/2026/10/05/tiktok-rolls-out-an-ai-shopping-assistant-and-one-click-checkout/",
+    "source": "TechCrunch",
+    "category": "other",
+    "summary": "TikTok describes its new Shopping Assistant as a conversational AI agent designed to help users discover and purchase products.",
+    "keywords": [
+      "AI",
+      "Agent"
+    ],
+    "date": "2026-10-05"
+  },
+  {
+    "title": "Hot Girl Hotline is like ‘Dear Abby’ for the AI era",
+    "link": "https://techcrunch.com/2026/10/05/hot-girl-hotline-is-like-dear-abby-for-the-ai-era/",
+    "source": "TechCrunch",
+    "category": "other",
+    "summary": "Founded by two sisters, Hot Girl Hotline uses AI to give young women personalized dating and relationship advice, with an emphasis on safety and avoiding emotional dependency.",
+    "keywords": [
+      "AI"
+    ],
+    "date": "2026-10-05"
+  },
+  {
+    "title": "HackerRank’s AI interviewer offers a glimpse into what job interviews could become",
+    "link": "https://techcrunch.com/2026/10/05/hackerranks-ai-interviewer-offers-a-glimpse-into-what-job-interviews-could-become/",
+    "source": "TechCrunch",
+    "category": "other",
+    "summary": "HackerRank’s AI interviewer has already conducted more than 500,000 interviews, with Snowflake, Snorkel, and Capgemini among its early testers.",
+    "keywords": [
+      "AI",
+      "Gemini"
+    ],
+    "date": "2026-10-05"
+  },
+  {
+    "title": "OpenAI launches visual ads that appear alongside image generation results",
+    "link": "https://techcrunch.com/2026/10/05/openai-launches-visual-ads-that-appear-alongside-image-generation-results/",
+    "source": "TechCrunch",
+    "category": "other",
+    "summary": "OpenAI said the new visual ads will show up after your image generation results appear in the U.S. only for now.",
+    "keywords": [
+      "AI",
+      "OpenAI"
+    ],
+    "date": "2026-10-05"
+  },
+  {
+    "title": "Open or closed AI? How founders are choosing what to build on at TechCrunch Disrupt 2026",
+    "link": "https://techcrunch.com/2026/10/05/open-or-closed-ai-how-founders-are-choosing-what-to-build-on-at-techcrunch-disrupt-2026/",
+    "source": "TechCrunch",
+    "category": "other",
+    "summary": "Learn how founders are choosing between building on open or closed AI at TechCrunch Disrupt 2026. Register now to save up to $100 and get a second pass at 50% off.",
+    "keywords": [
+      "AI"
+    ],
+    "date": "2026-10-05"
+  },
+  {
+    "title": "Researchers are tracking a Chinese AI ‘agent fleet’",
+    "link": "https://techcrunch.com/2026/10/05/researchers-are-tracking-a-chinese-ai-agent-fleet/",
+    "source": "TechCrunch",
+    "category": "other",
+    "summary": "Independent researchers discovered an agent swarm that seems to be running on Tencent's infrastructure and targeting Alibaba's map service, Amap.",
+    "keywords": [
+      "AI",
+      "Agent"
+    ],
+    "date": "2026-10-05"
+  },
+  {
+    "title": "Can Safeworld convince people that GenAI robots won’t hurt them?",
+    "link": "https://techcrunch.com/2026/10/05/can-safeworld-convince-people-that-gen-ai-robots-wont-hurt-them/",
+    "source": "TechCrunch",
+    "category": "other",
+    "summary": "Safeworld is building digital humans to make sure robots don't hurt the real ones.",
+    "keywords": [
+      "AI"
+    ],
+    "date": "2026-10-05"
+  },
+  {
     "title": "Google froze its open source bug bounty program due to a ‘significant rise’ in AI submissions",
     "link": "https://techcrunch.com/2026/10/04/google-froze-its-open-source-bug-bounty-program-due-to-a-significant-rise-in-ai-submissions/",
     "source": "TechCrunch",
@@ -102,74 +195,6 @@
     "date": "2026-10-02"
   },
   {
-    "title": "Call it AI, call it Super Intelligence, only 2% of consumers are buying it",
-    "link": "https://techcrunch.com/podcast/call-it-ai-call-it-super-intelligence-only-2-of-consumers-are-buying-it/",
-    "source": "TechCrunch",
-    "category": "other",
-    "summary": "This week, the White House got&#160;nearly every&#160;major tech CEO in one room — Zuckerberg, Bezos, Musk, and Anthropic’s Dario Amodei among them —&#160;to sign an AI safety pledge&#160;that Preside",
-    "keywords": [
-      "AI",
-      "Anthropic"
-    ],
-    "date": "2026-10-02"
-  },
-  {
-    "title": "It’s not AI anymore, it’s ‘super intelligence’ (according to the White House)",
-    "link": "https://techcrunch.com/video/its-not-ai-anymore-its-super-intelligence-according-to-the-white-house/",
-    "source": "TechCrunch",
-    "category": "other",
-    "summary": "This week, the White House got&#160;nearly every&#160;major tech CEO in one room — Zuckerberg, Bezos, Musk, and Anthropic’s Dario Amodei among them —&#160;to sign an AI safety pledge&#160;that Preside",
-    "keywords": [
-      "AI",
-      "Anthropic"
-    ],
-    "date": "2026-10-02"
-  },
-  {
-    "title": "TechCrunch Disrupt 2026: Blackstone’s Jas Khaira on building the next generation of AI giants",
-    "link": "https://techcrunch.com/2026/10/02/techcrunch-disrupt-2026-blackstones-jas-khaira-on-building-the-next-generation-of-ai-giants/",
-    "source": "TechCrunch",
-    "category": "other",
-    "summary": "Blackstone's Jas Khaira will take the Builders Stage at TechCrunch Disrupt 2026 on building next-gen AI. Register for your pass and get 50% off a second.",
-    "keywords": [
-      "AI"
-    ],
-    "date": "2026-10-02"
-  },
-  {
-    "title": "Circuit Breaker Labs hopes to make AI safer for your kids (and you)",
-    "link": "https://techcrunch.com/2026/10/02/circuit-breaker-labs-hopes-to-make-ai-safer-for-your-kids-and-you/",
-    "source": "TechCrunch",
-    "category": "other",
-    "summary": "With all the talk about how AI might one day kill us all, it's easy to forget that AI has already harmed some people psychologically. Circuit Breaker Labs has created \"crash-test  dummies\" to solve th",
-    "keywords": [
-      "AI"
-    ],
-    "date": "2026-10-02"
-  },
-  {
-    "title": "Pope Leo XIV is not a fan of AI-generated art",
-    "link": "https://techcrunch.com/2026/10/02/pope-leo-xiv-is-not-a-fan-of-ai-generated-art/",
-    "source": "TechCrunch",
-    "category": "other",
-    "summary": "\"There is an ontological difference, even before an aesthetic one, between art and what a machine can generate through statistical calculation based on millions of images created by others,\" the pope ",
-    "keywords": [
-      "AI"
-    ],
-    "date": "2026-10-02"
-  },
-  {
-    "title": "TechCrunch Disrupt 2026: Clay’s Kareem Amin on the rise of the GTM engineer",
-    "link": "https://techcrunch.com/2026/10/02/techcrunch-disrupt-2026-clays-kareem-amin-on-the-rise-of-the-gtm-engineer/",
-    "source": "TechCrunch",
-    "category": "other",
-    "summary": "Clay Co-founder and CEO Kareem Amin joins the AI Stage to discuss the rise of GTM engineer at TechCrunch Disrupt 2026. Register for your ticket and get a second pass at 50% off.",
-    "keywords": [
-      "AI"
-    ],
-    "date": "2026-10-02"
-  },
-  {
     "title": "华为Mate 90系列鸿蒙高清直播新体验：从高清画质到智能对焦，让表达更从容",
     "link": "https://www.pingwest.com/w/318066",
     "source": "品玩",
@@ -188,32 +213,6 @@
     "summary": "爱彼迎\n\n\n\nAirbnb爱彼迎发布2026年秋季产品更新",
     "keywords": [
       "AI"
-    ],
-    "date": "2026-10-01"
-  },
-  {
-    "title": "Musk’s AI chatbot Grok reportedly encouraged Trump to capture  Venezuela’s president",
-    "link": "https://techcrunch.com/2026/10/01/musks-ai-chatbot-grok-reportedly-encouraged-trump-to-capture-venezuelas-president/",
-    "source": "TechCrunch",
-    "category": "other",
-    "summary": "President Trump reportedly asked for Grok's opinion before invading Venezuela and capturing Nicolás Maduro.",
-    "keywords": [
-      "AI",
-      "Grok"
-    ],
-    "date": "2026-10-01"
-  },
-  {
-    "title": "ChatGPT can now virtually try on clothes for you",
-    "link": "https://techcrunch.com/2026/10/01/chatgpt-can-now-virtually-try-on-clothes-for-you/",
-    "source": "TechCrunch",
-    "category": "other",
-    "summary": "OpenAI is rolling out new shopping features for ChatGPT that let users virtually try on clothing and accessories using their own photos and save products they like to a Favorites library.",
-    "keywords": [
-      "AI",
-      "OpenAI",
-      "GPT",
-      "ChatGPT"
     ],
     "date": "2026-10-01"
   },
