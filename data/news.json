@@ -1,5 +1,38 @@
 [
   {
+    "title": "Google froze its open source bug bounty program due to a ‘significant rise’ in AI submissions",
+    "link": "https://techcrunch.com/2026/10/04/google-froze-its-open-source-bug-bounty-program-due-to-a-significant-rise-in-ai-submissions/",
+    "source": "TechCrunch",
+    "category": "other",
+    "summary": "AI slop seems to be overwhelming bug bounty programs.",
+    "keywords": [
+      "AI"
+    ],
+    "date": "2026-10-04"
+  },
+  {
+    "title": "Can ‘super intelligence’ and a non-binding safety pact solve AI’s image problem?",
+    "link": "https://techcrunch.com/2026/10/04/can-super-intelligence-and-a-non-binding-safety-pact-solve-ais-image-problem/",
+    "source": "TechCrunch",
+    "category": "other",
+    "summary": "On Equity, we discussed the Trump administration's attempts to rebrand AI.",
+    "keywords": [
+      "AI"
+    ],
+    "date": "2026-10-04"
+  },
+  {
+    "title": "Trump unveils his new Super Intelligence Force",
+    "link": "https://techcrunch.com/2026/10/04/trump-unveils-his-new-super-intelligence-force/",
+    "source": "TechCrunch",
+    "category": "other",
+    "summary": "This new task force is Trump's latest response to the debate over AI safety.",
+    "keywords": [
+      "AI"
+    ],
+    "date": "2026-10-04"
+  },
+  {
     "title": "推荐一个全新的Benchmark：看过高斯的AI，会梦到爱因斯坦么",
     "link": "https://www.pingwest.com/a/318070",
     "source": "品玩",
@@ -181,29 +214,6 @@
       "OpenAI",
       "GPT",
       "ChatGPT"
-    ],
-    "date": "2026-10-01"
-  },
-  {
-    "title": "OpenAI cuts ties with 3 safety researchers, WSJ reports",
-    "link": "https://techcrunch.com/2026/10/01/openai-cuts-ties-with-three-safety-researchers-wsj-reports/",
-    "source": "TechCrunch",
-    "category": "other",
-    "summary": "OpenAI has parted ways with three safety researchers after an internal investigation found they mishandled sensitive company information, report says.",
-    "keywords": [
-      "AI",
-      "OpenAI"
-    ],
-    "date": "2026-10-01"
-  },
-  {
-    "title": "Opus 5.5 loves to tell you ‘this matters’ (and other AI writing tells)",
-    "link": "https://techcrunch.com/2026/10/01/opus-5-5-loves-to-tell-you-this-matters-and-other-ai-writing-tells/",
-    "source": "TechCrunch",
-    "category": "other",
-    "summary": "Opus 5.5’s biggest tell is the word “dependable,” which pops up 23 times more often than in human samples.",
-    "keywords": [
-      "AI"
     ],
     "date": "2026-10-01"
   },
