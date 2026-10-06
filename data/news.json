@@ -1,13 +1,59 @@
 [
   {
-    "title": "OpenAI负责人Tibo Sottiaux承诺28天每日推送改进或全量重置",
-    "link": "https://www.pingwest.com/w/318089",
-    "source": "品玩",
+    "title": "Mirror Particle is building a ‘world model’ of human behavior",
+    "link": "https://techcrunch.com/2026/10/06/mirror-particle-is-building-a-world-model-of-human-behavior/",
+    "source": "TechCrunch",
     "category": "other",
-    "summary": "OpenAI\n\n\n\nOpenAI负责人Tibo Sottiaux承诺28天每日推送改进或全量重置",
+    "summary": "Mirror Particle will launch at TechCrunch Disrupt Startup Battlefield with a world model built from scratch to predict human behavior, arguing LLM roleplay falls short for market research and brand st",
+    "keywords": [
+      "LLM"
+    ],
+    "date": "2026-10-06"
+  },
+  {
+    "title": "Anthropic is giving startups a free year of Claude Team and $1,000 in credits",
+    "link": "https://techcrunch.com/2026/10/06/anthropic-gives-startups-a-free-year-of-enterprise-service-and-1000-in-token-credits/",
+    "source": "TechCrunch",
+    "category": "other",
+    "summary": "\"We created this program because we believe the benefits of AI will reach most people through the companies that build on top of models, rather than through the models alone.\"",
     "keywords": [
       "AI",
-      "OpenAI"
+      "Anthropic",
+      "Claude"
+    ],
+    "date": "2026-10-06"
+  },
+  {
+    "title": "LibreOffice says ‘no AI’ is now a software feature",
+    "link": "https://techcrunch.com/2026/10/06/libreoffice-says-no-ai-is-now-a-software-feature/",
+    "source": "TechCrunch",
+    "category": "other",
+    "summary": "The maker of the open source document editor says it has no plans to add AI to its software's default configuration, citing user privacy.",
+    "keywords": [
+      "AI"
+    ],
+    "date": "2026-10-06"
+  },
+  {
+    "title": "Mistral’s new 1T model aims to leapfrog closed and open rivals",
+    "link": "https://techcrunch.com/2026/10/06/mistrals-new-1t-model-aims-to-leapfrog-closed-and-open-rivals/",
+    "source": "TechCrunch",
+    "category": "other",
+    "summary": "French AI lab Mistral AI has released Mistral Large 4, a new large multimodal model aiming to leapfrog both American and Chinese rivals.",
+    "keywords": [
+      "AI",
+      "Mistral"
+    ],
+    "date": "2026-10-06"
+  },
+  {
+    "title": "Pinterest’s AI now turns beauty Pins into action plans",
+    "link": "https://techcrunch.com/2026/10/06/pinterests-ai-now-turns-beauty-pins-into-action-plans/",
+    "source": "TechCrunch",
+    "category": "other",
+    "summary": "Pinterest’s new AI-powered Beauty Guides translate hair and nail Pins into salon terminology, with estimated costs, appointment times, and maintenance needs.",
+    "keywords": [
+      "AI"
     ],
     "date": "2026-10-06"
   },
@@ -128,265 +174,5 @@
       "AI"
     ],
     "date": "2026-10-05"
-  },
-  {
-    "title": "Google froze its open source bug bounty program due to a ‘significant rise’ in AI submissions",
-    "link": "https://techcrunch.com/2026/10/04/google-froze-its-open-source-bug-bounty-program-due-to-a-significant-rise-in-ai-submissions/",
-    "source": "TechCrunch",
-    "category": "other",
-    "summary": "AI slop seems to be overwhelming bug bounty programs.",
-    "keywords": [
-      "AI"
-    ],
-    "date": "2026-10-04"
-  },
-  {
-    "title": "Can ‘super intelligence’ and a non-binding safety pact solve AI’s image problem?",
-    "link": "https://techcrunch.com/2026/10/04/can-super-intelligence-and-a-non-binding-safety-pact-solve-ais-image-problem/",
-    "source": "TechCrunch",
-    "category": "other",
-    "summary": "On Equity, we discussed the Trump administration's attempts to rebrand AI.",
-    "keywords": [
-      "AI"
-    ],
-    "date": "2026-10-04"
-  },
-  {
-    "title": "Trump unveils his new Super Intelligence Force",
-    "link": "https://techcrunch.com/2026/10/04/trump-unveils-his-new-super-intelligence-force/",
-    "source": "TechCrunch",
-    "category": "other",
-    "summary": "This new task force is Trump's latest response to the debate over AI safety.",
-    "keywords": [
-      "AI"
-    ],
-    "date": "2026-10-04"
-  },
-  {
-    "title": "推荐一个全新的Benchmark：看过高斯的AI，会梦到爱因斯坦么",
-    "link": "https://www.pingwest.com/a/318070",
-    "source": "品玩",
-    "category": "other",
-    "summary": "推荐一个全新的Benchmark：看过高斯的AI，会梦到爱因斯坦么\n\n可以从数学中理解“哲学”的模型才是好AI",
-    "keywords": [
-      "AI"
-    ],
-    "date": "2026-10-03"
-  },
-  {
-    "title": "Amazon responds to data center backlash, says it no longer uses NDAs",
-    "link": "https://techcrunch.com/2026/10/03/amazon-responds-to-data-center-backlash-says-it-no-longer-uses-ndas/",
-    "source": "TechCrunch",
-    "category": "other",
-    "summary": "The CEO of Amazon Web Services tried to push back against widespread suspicion of data centers.",
-    "keywords": [
-      "AI"
-    ],
-    "date": "2026-10-03"
-  },
-  {
-    "title": "OpenAI safety employee resigns, claiming the company’s ‘culture is broken’",
-    "link": "https://techcrunch.com/2026/10/03/openai-safety-employee-resigns-claiming-the-companys-culture-is-broken/",
-    "source": "TechCrunch",
-    "category": "other",
-    "summary": "By his own admission, David Robinson is “something of a cliché”: an employee at a leading AI company who issues a dire warning while resigning from their job.",
-    "keywords": [
-      "AI",
-      "OpenAI"
-    ],
-    "date": "2026-10-03"
-  },
-  {
-    "title": "All the AI agents that can live in your text messages",
-    "link": "https://techcrunch.com/2026/10/03/all-the-ai-agents-that-can-live-in-your-text-messages/",
-    "source": "TechCrunch",
-    "category": "other",
-    "summary": "We created a list of the most notable AI agents that can live in your text messages, from general assistants to agents designed for families, travel, and work.",
-    "keywords": [
-      "AI",
-      "Agent"
-    ],
-    "date": "2026-10-03"
-  },
-  {
-    "title": "Sean Parker is rebuilding Stability AI around music",
-    "link": "https://techcrunch.com/2026/10/02/sean-parker-is-rebuilding-stability-ai-around-music/",
-    "source": "TechCrunch",
-    "category": "other",
-    "summary": "Sean Parker, who once taught the music industry what asking for forgiveness looks like, is now back with the labels' blessing and money.",
-    "keywords": [
-      "AI"
-    ],
-    "date": "2026-10-02"
-  },
-  {
-    "title": "华为Mate 90系列鸿蒙高清直播新体验：从高清画质到智能对焦，让表达更从容",
-    "link": "https://www.pingwest.com/w/318066",
-    "source": "品玩",
-    "category": "other",
-    "summary": "华为\n\n\n\n华为Mate 90系列鸿蒙高清直播新体验：从高清画质到智能对焦，让表达更从容",
-    "keywords": [
-      "智能"
-    ],
-    "date": "2026-10-01"
-  },
-  {
-    "title": "Airbnb爱彼迎发布2026年秋季产品更新",
-    "link": "https://www.pingwest.com/w/318062",
-    "source": "品玩",
-    "category": "other",
-    "summary": "爱彼迎\n\n\n\nAirbnb爱彼迎发布2026年秋季产品更新",
-    "keywords": [
-      "AI"
-    ],
-    "date": "2026-10-01"
-  },
-  {
-    "title": "中国品牌不需要总强调“便宜”，连 Pattern 创始人都这么说",
-    "link": "https://www.pingwest.com/a/318047",
-    "source": "品玩",
-    "category": "other",
-    "summary": "中国品牌不需要总强调“便宜”，连 Pattern 创始人都这么说\n\n对话pattern 创始人：大模型普及后，中国品牌会有巨大优势",
-    "keywords": [
-      "大模型"
-    ],
-    "date": "2026-09-30"
-  },
-  {
-    "title": "MiniMax 杀进 Flash 混战，我拿五个项目试了试",
-    "link": "https://www.pingwest.com/a/318014",
-    "source": "品玩",
-    "category": "other",
-    "summary": "MiniMax 杀进 Flash 混战，我拿五个项目试了试\n\nFlash 模型又多了一个玩家。",
-    "keywords": [
-      "MiniMax"
-    ],
-    "date": "2026-09-30"
-  },
-  {
-    "title": "蚂蚁灵波与阿拉伯数字经济联盟签署备忘录，加速具身智能本土落地",
-    "link": "https://www.pingwest.com/w/318050",
-    "source": "品玩",
-    "category": "other",
-    "summary": "蚂蚁灵波\n\n\n\n蚂蚁灵波与阿拉伯数字经济联盟签署备忘录，加速具身智能本土落地\n\n近日，第五届全球数字贸易博览会的重要配套活动之一“中阿数字经济产业对接会”上，阿拉伯数字经济联盟（AFDE）与蚂蚁集团旗下具身智能公司蚂蚁灵波科技正式签署框架合作备忘录。",
-    "keywords": [
-      "智能"
-    ],
-    "date": "2026-09-30"
-  },
-  {
-    "title": "DeepSeek Harness v0.2 预览版发布 新增插件管理页面与多项体验优化",
-    "link": "https://www.pingwest.com/w/318049",
-    "source": "品玩",
-    "category": "other",
-    "summary": "DEEPseek\n\n\n\nDeepSeek Harness v0.2 预览版发布 新增插件管理页面与多项体验优化\n\nDeepSeek宣布，现已正式发布Harness v0.2预览版，同步推出macOS与Windows桌面端安装包。",
-    "keywords": [
-      "DeepSeek"
-    ],
-    "date": "2026-09-30"
-  },
-  {
-    "title": "OpenAI推出ChatGPT Space 构建人与智能体共享工作空间",
-    "link": "https://www.pingwest.com/w/318036",
-    "source": "品玩",
-    "category": "other",
-    "summary": "OpenAI\n\n\n\nOpenAI推出ChatGPT Space 构建人与智能体共享工作空间\n\n据OpenAI在DevDay上发布ChatGPT Space，这是一个将人员、文件与AI助手纳入同一项目的共享工作空间。与以往以个人对话窗口为主的模式不同，团队可在此沉淀共同信息，使AI基于共享上下文工作，而无需每位成员在各自对话中重复重建背景。",
-    "keywords": [
-      "AI",
-      "OpenAI",
-      "GPT",
-      "ChatGPT",
-      "智能"
-    ],
-    "date": "2026-09-30"
-  },
-  {
-    "title": "OpenAI为Codex引入可复用云端开发环境 同步升级安全与API能力",
-    "link": "https://www.pingwest.com/w/318035",
-    "source": "品玩",
-    "category": "other",
-    "summary": "codex\n\n\n\nOpenAI为Codex引入可复用云端开发环境 同步升级安全与API能力\n\n据 TechCrunch 报道，OpenAI在DevDay上为软件工程智能体Codex引入可复用的云端开发环境，同一环境可从任意设备接入，使Codex的使用不再局限于开发者本地。",
-    "keywords": [
-      "AI",
-      "OpenAI",
-      "智能"
-    ],
-    "date": "2026-09-30"
-  },
-  {
-    "title": "OpenAI推出Ultra Fast服务 称速度为标准处理八倍",
-    "link": "https://www.pingwest.com/w/318033",
-    "source": "品玩",
-    "category": "other",
-    "summary": "OpenAI\n\n\n\nOpenAI推出Ultra Fast服务 称速度为标准处理八倍\n\nOpenAI在9月29日DevDay演讲中宣布推出Ultra Fast服务，覆盖API、ChatGPT和Codex。",
-    "keywords": [
-      "AI",
-      "OpenAI",
-      "GPT",
-      "ChatGPT"
-    ],
-    "date": "2026-09-30"
-  },
-  {
-    "title": "OpenAI发布MentalHealthBench基准 评估AI心理健康对话能力",
-    "link": "https://www.pingwest.com/w/318032",
-    "source": "品玩",
-    "category": "other",
-    "summary": "OpenAI\n\n\n\nOpenAI发布MentalHealthBench基准 评估AI心理健康对话能力\n\nOpenAI正式发布MentalHealthBench，一项由来自22个国家/地区的80余名持证心理健康专家共同制定的开放基准，用于评估AI在真实心理健康对话中能否提供实用且安全的回应。",
-    "keywords": [
-      "AI",
-      "OpenAI"
-    ],
-    "date": "2026-09-30"
-  },
-  {
-    "title": "OpenAI推出GPT-6.1 Sol 以五分之一价格提供接近Astra的智能水平",
-    "link": "https://www.pingwest.com/w/318028",
-    "source": "品玩",
-    "category": "other",
-    "summary": "OpenAI\n\n\n\nOpenAI推出GPT-6.1 Sol 以五分之一价格提供接近Astra的智能水平\n\nOpenAI正式发布GPT-6.1 Sol，为GPT-6 Sol升级版，在编程、计算机使用和专业工作方面表现突出。",
-    "keywords": [
-      "AI",
-      "OpenAI",
-      "GPT",
-      "智能"
-    ],
-    "date": "2026-09-30"
-  },
-  {
-    "title": "OpenAI发布常驻AI智能体dots",
-    "link": "https://www.pingwest.com/w/318027",
-    "source": "品玩",
-    "category": "other",
-    "summary": "OpenAI\n\n\n\nOpenAI发布常驻AI智能体dots\n\nOpenAI官方周二在DevDay开发者大会上正式发布常驻AI智能体dots，该智能体由GPT-6 Astra模型驱动，可自主完成调研、数据分析、文档准备与软件开发等任务。",
-    "keywords": [
-      "AI",
-      "OpenAI",
-      "GPT",
-      "智能"
-    ],
-    "date": "2026-09-30"
-  },
-  {
-    "title": "Manus携2.0和「Cue」加入战斗！个人Agent混战彻底热闹咯｜附实测",
-    "link": "https://www.pingwest.com/a/317961",
-    "source": "品玩",
-    "category": "other",
-    "summary": "Manus携2.0和「Cue」加入战斗！个人Agent混战彻底热闹咯｜附实测\n\n每个二维码都是一个Agent，绝了",
-    "keywords": [
-      "Agent"
-    ],
-    "date": "2026-09-30"
-  },
-  {
-    "title": "如何帮酒店拿到经营结果？美团既白给企业级 AI 打了样",
-    "link": "https://www.pingwest.com/a/317985",
-    "source": "品玩",
-    "category": "other",
-    "summary": "如何帮酒店拿到经营结果？美团既白给企业级 AI 打了样\n\n要闯过三道关卡",
-    "keywords": [
-      "AI"
-    ],
-    "date": "2026-09-29"
   }
 ]
