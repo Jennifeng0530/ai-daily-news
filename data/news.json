@@ -1,5 +1,42 @@
 [
   {
+    "title": "OpenAI负责人Tibo Sottiaux承诺28天每日推送改进或全量重置",
+    "link": "https://www.pingwest.com/w/318089",
+    "source": "品玩",
+    "category": "other",
+    "summary": "OpenAI\n\n\n\nOpenAI负责人Tibo Sottiaux承诺28天每日推送改进或全量重置",
+    "keywords": [
+      "AI",
+      "OpenAI"
+    ],
+    "date": "2026-10-06"
+  },
+  {
+    "title": "OpenAI will start watermarking ChatGPT’s text in the EU",
+    "link": "https://techcrunch.com/2026/10/05/openai-will-start-watermarking-chatgpts-text-in-the-eu/",
+    "source": "TechCrunch",
+    "category": "other",
+    "summary": "OpenAI will watermark ChatGPT and Codex text in the EU to comply with the AI Act. Editing can make the invisible marks harder to detect, it says.",
+    "keywords": [
+      "AI",
+      "OpenAI",
+      "GPT",
+      "ChatGPT"
+    ],
+    "date": "2026-10-05"
+  },
+  {
+    "title": "Reflection debuts Beam, an open-weight AI model to rival Chinese models at lower compute cost",
+    "link": "https://techcrunch.com/2026/10/05/reflection-debuts-beam-a-open-weight-ai-model-to-rival-chinese-models-at-lower-compute-cost/",
+    "source": "TechCrunch",
+    "category": "other",
+    "summary": "Reflection is aiming Beam and future models at enterprises and sovereign nations. The pitch is to build “AI factories,” a product that would let institutions build their own customized, local AI syste",
+    "keywords": [
+      "AI"
+    ],
+    "date": "2026-10-05"
+  },
+  {
     "title": "Instinct brings its AI agent to group chats, even for friends without an account",
     "link": "https://techcrunch.com/2026/10/05/instinct-brings-its-ai-agent-to-group-chats-even-for-friends-without-an-account/",
     "source": "TechCrunch",
@@ -51,7 +88,7 @@
     "link": "https://techcrunch.com/2026/10/05/openai-launches-visual-ads-that-appear-alongside-image-generation-results/",
     "source": "TechCrunch",
     "category": "other",
-    "summary": "OpenAI said the new visual ads will show up after your image generation results appear in the U.S. only for now.",
+    "summary": "The new ads will begin to appear later this month in the U.S. only for now, and will feature products and services from an initial test group of advertisers.",
     "keywords": [
       "AI",
       "OpenAI"
@@ -179,18 +216,6 @@
     "summary": "Sean Parker, who once taught the music industry what asking for forgiveness looks like, is now back with the labels' blessing and money.",
     "keywords": [
       "AI"
-    ],
-    "date": "2026-10-02"
-  },
-  {
-    "title": "Apple says it’s tightening macOS ‘Full Disk Access’ controls due to new risks from AI agents",
-    "link": "https://techcrunch.com/2026/10/02/apple-says-its-tightening-macos-full-disk-access-controls-due-to-new-risks-from-ai-agents/",
-    "source": "TechCrunch",
-    "category": "other",
-    "summary": "Apple says it will add new controls around macOS’s Full Disk Access permission, warning that increasingly capable AI agents make broad access to users’ files, messages, mail, and browsing history risk",
-    "keywords": [
-      "AI",
-      "Agent"
     ],
     "date": "2026-10-02"
   },
@@ -361,18 +386,6 @@
     "summary": "如何帮酒店拿到经营结果？美团既白给企业级 AI 打了样\n\n要闯过三道关卡",
     "keywords": [
       "AI"
-    ],
-    "date": "2026-09-29"
-  },
-  {
-    "title": "ElevenLabs发布Eleven v4及低延迟变体Eleven v4 Turbo",
-    "link": "https://www.pingwest.com/w/317999",
-    "source": "品玩",
-    "category": "other",
-    "summary": "ElevenLabs\n\n\n\nElevenLabs发布Eleven v4及低延迟变体Eleven v4 Turbo\n\n据unite.ai 报道，ElevenLabs推出文本转语音模型Eleven v4，称其为该公司迄今最具表现力的模型，同时发布面向实时场景的低延迟变体Eleven v4 Turbo。两款模型已即时上线ElevenAgents、ElevenCreative及ElevenAPI，免费账户",
-    "keywords": [
-      "AI",
-      "Agent"
     ],
     "date": "2026-09-29"
   }
