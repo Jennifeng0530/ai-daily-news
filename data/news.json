@@ -1,127 +1,97 @@
 [
   {
-    "title": "联想首款搭载英伟达RTX Spark芯片AI PC新品中国预售，加速构建Agent时代个人AI计算底座",
-    "link": "https://www.pingwest.com/w/318150",
-    "source": "品玩",
+    "title": "Pretend you’re sitting at Elizabeth Holmes’ desk on this weirdly detailed website",
+    "link": "https://techcrunch.com/2026/10/08/pretend-youre-sitting-at-elizabeth-holmes-desk-on-this-weirdly-detailed-website/",
+    "source": "TechCrunch",
     "category": "other",
-    "summary": "联想\n\n\n\n联想首款搭载英伟达RTX Spark芯片AI PC新品中国预售，加速构建Agent时代个人AI计算底座",
+    "summary": "With over a thousand emails, slides, texts, and documents from the United States v. Elizabeth Holmes trial, Extend engineer Bo Lau created a website that simulates what it might have been like to rifl",
     "keywords": [
-      "AI",
-      "Agent"
+      "AI"
     ],
     "date": "2026-10-08"
   },
   {
-    "title": "机器人数据初创公司Mecka AI完成6000万美元B轮融资 Sequoia领投",
-    "link": "https://www.pingwest.com/w/318144",
-    "source": "品玩",
+    "title": "Fired OpenAI safety researchers dispute misconduct claims, warn of chilling effect",
+    "link": "https://techcrunch.com/2026/10/08/fired-openai-safety-researchers-dispute-misconduct-claims-warn-of-chilling-effect/",
+    "source": "TechCrunch",
+    "category": "other",
+    "summary": "Three fired OpenAI safety researchers dispute allegations of mishandling sensitive information, warning in an open letter that their dismissals are creating a chilling effect on the company’s AI safet",
+    "keywords": [
+      "AI",
+      "OpenAI"
+    ],
+    "date": "2026-10-08"
+  },
+  {
+    "title": "Ben Affleck is an AI nerd, and the internet is impressed",
+    "link": "https://techcrunch.com/2026/10/08/ben-affleck-is-an-ai-nerd-and-the-internet-is-impressed/",
+    "source": "TechCrunch",
+    "category": "other",
+    "summary": "Ben Affleck is going viral for his deep knowledge of AI, from neural networks and transformers to open weights. The actor, who sold his AI filmmaking startup to Netflix earlier this year, is proving h",
+    "keywords": [
+      "AI",
+      "neural network",
+      "transformer"
+    ],
+    "date": "2026-10-08"
+  },
+  {
+    "title": "Popular AI leaderboard Arena nearly doubles valuation to $3.1B valuation in 10 months",
+    "link": "https://techcrunch.com/2026/10/08/popular-ai-leaderboard-arena-nearly-doubles-valuation-to-3-1b-valuation-in-10-months/",
+    "source": "TechCrunch",
     "category": "funding",
-    "summary": "投资\n\n\n\n机器人数据初创公司Mecka AI完成6000万美元B轮融资 Sequoia领投\n\n机器人数据初创公司Mecka AI宣布完成由Sequoia领投的6000万美元B轮融资，Nvidia、微软旗下风投基金M12等参与投资。据TechCrunch此前报道，该公司新一轮融资的估值接近5亿美元。",
+    "summary": "The company behind the popular LMArena leaderboard has raised $200 million led by Lightspeed and Khosla, and is now measuring AI models on alignment issues such as lying.",
     "keywords": [
-      "AI",
-      "机器人"
+      "AI"
     ],
     "date": "2026-10-08"
   },
   {
-    "title": "Manus 5亿美金破纪录融资：是的，AI应用还可以拿大钱",
-    "link": "https://www.pingwest.com/a/318126",
-    "source": "品玩",
+    "title": "OpenAI’s revenue is reportedly $20 billion less than previously projected",
+    "link": "https://techcrunch.com/2026/10/08/openais-revenue-is-reportedly-20-billion-less-than-previously-projected/",
+    "source": "TechCrunch",
     "category": "funding",
-    "summary": "Manus 5亿美金破纪录融资：是的，AI应用还可以拿大钱\n\n国内 AI 应用领域迄今为止最大的一笔单笔融资。",
-    "keywords": [
-      "AI"
-    ],
-    "date": "2026-10-08"
-  },
-  {
-    "title": "Common Sense Media将ChatGPT for Teens评为“不可接受风险”",
-    "link": "https://www.pingwest.com/w/318139",
-    "source": "品玩",
-    "category": "other",
-    "summary": "ChatGPT\n\n\n\nCommon Sense Media将ChatGPT for Teens评为“不可接受风险”\n\n据 TechCrunch 报道，非营利机构Common Sense Media近日将ChatGPT for Teens评定为“不可接受风险”。",
-    "keywords": [
-      "GPT",
-      "ChatGPT"
-    ],
-    "date": "2026-10-08"
-  },
-  {
-    "title": "OpenAI随GPT-6推出Intelligent UI 强化对话中的可视化交互",
-    "link": "https://www.pingwest.com/w/318134",
-    "source": "品玩",
-    "category": "other",
-    "summary": "OpenAI\n\n\n\nOpenAI随GPT-6推出Intelligent UI 强化对话中的可视化交互\n\nOpenAI于周三随新模型GPT-6推出名为Intelligent UI的新界面，将大量视觉元素融入用户对话。",
+    "summary": "It had previously been reported that the AI lab's annualized revenue was some $70 billion, but a new report claims it's a whole lot less than that.",
     "keywords": [
       "AI",
-      "OpenAI",
-      "GPT"
+      "OpenAI"
     ],
     "date": "2026-10-08"
   },
   {
-    "title": "Google推出AI游戏创作工具Playground 文字提示即可构建游戏",
-    "link": "https://www.pingwest.com/w/318132",
-    "source": "品玩",
+    "title": "Google brings agentic AI to Gemini, starting with businesses",
+    "link": "https://techcrunch.com/2026/10/08/google-brings-agentic-ai-to-gemini-starting-with-businesses/",
+    "source": "TechCrunch",
     "category": "other",
-    "summary": "谷歌\n\n\n\nGoogle推出AI游戏创作工具Playground 文字提示即可构建游戏\n\n据 TechCrunch 报道，Google Labs推出AI游戏创作工具Playground，用户通过文字提示即可构建浏览器游戏，无需编程基础。",
+    "summary": "Google is turning Gemini into an AI agent that can plan, execute tasks, and work across business apps and systems. The agent can delegate work to subagents, use multiple AI models, and even gets its o",
     "keywords": [
-      "AI"
+      "AI",
+      "Agent",
+      "Gemini"
     ],
     "date": "2026-10-08"
   },
   {
-    "title": "Tony Fadell评AI硬件折戟：信任与设备端运算才是关键",
-    "link": "https://www.pingwest.com/w/318131",
-    "source": "品玩",
+    "title": "Anthropic changes usage policy to ban model abuse and election interference",
+    "link": "https://techcrunch.com/2026/10/08/anthropic-changes-usage-policy-to-ban-model-abuse-and-election-interference/",
+    "source": "TechCrunch",
     "category": "other",
-    "summary": "AI硬件\n\n\n\nTony Fadell评AI硬件折戟：信任与设备端运算才是关键\n\n据 TechCrunch 报道，Tony Fadell在首届MIT未来节上以Rabbit R1、Humane Ai pin和Limitless pendant三款已停产AI设备为例指出，这些产品未能满足真实用户需求，仅是极客群体所感兴趣的新技术。",
+    "summary": "Anthropic's updated usage policy explicitly prohibits users from repeatedly abusing Claude in extreme cases, though ordinary frustration and criticism are still allowed. The new rules also address ele",
     "keywords": [
-      "AI"
+      "Anthropic",
+      "Claude"
     ],
     "date": "2026-10-08"
   },
   {
-    "title": "黄仁勋站台“史上最强” Surface，微软要把 AI 工作站装进你的背包",
-    "link": "https://www.pingwest.com/a/318124",
-    "source": "品玩",
+    "title": "OpenAI’s math solutions aren’t meeting the field’s standards yet",
+    "link": "https://techcrunch.com/2026/10/08/openais-math-solutions-arent-meeting-the-fields-standards-yet/",
+    "source": "TechCrunch",
     "category": "other",
-    "summary": "微软\n\n\n\n黄仁勋站台“史上最强” Surface，微软要把 AI 工作站装进你的背包\n\n黄仁勋和纳德拉再次坐到了一起，而这一次，他们想让用户关注的是桌面上那台每天都要打开的电脑。",
+    "summary": "OpenAI's flood of proofs deviated from the guidelines set by a group of mathematical researchers consulted by the frontier lab.",
     "keywords": [
-      "AI"
-    ],
-    "date": "2026-10-08"
-  },
-  {
-    "title": "要在太空搞定AI算力的不只马斯克，还有一苇宇航",
-    "link": "https://www.pingwest.com/a/318081",
-    "source": "品玩",
-    "category": "other",
-    "summary": "要在太空搞定AI算力的不只马斯克，还有一苇宇航\n\n太空算力初创企业拿了过亿天使轮，我们跟创始人聊了聊",
-    "keywords": [
-      "AI"
-    ],
-    "date": "2026-10-08"
-  },
-  {
-    "title": "Token盗用激增，混合定价兴起，我们从Stripe 那儿听到了AI经济新信号",
-    "link": "https://www.pingwest.com/a/318079",
-    "source": "品玩",
-    "category": "other",
-    "summary": "Token盗用激增，混合定价兴起，我们从Stripe 那儿听到了AI经济新信号\n\nAI 有了新趋势和新问题",
-    "keywords": [
-      "AI"
-    ],
-    "date": "2026-10-08"
-  },
-  {
-    "title": "AI的热钱与未来，此刻属于中国版Alexandr Wang们",
-    "link": "https://www.pingwest.com/a/317833",
-    "source": "品玩",
-    "category": "other",
-    "summary": "AI的热钱与未来，此刻属于中国版Alexandr Wang们\n\n大厂数据人才出走，成为模型“研发外援”。",
-    "keywords": [
-      "AI"
+      "AI",
+      "OpenAI"
     ],
     "date": "2026-10-08"
   },
@@ -195,28 +165,6 @@
     "date": "2026-10-08"
   },
   {
-    "title": "Utopai Studios，全球最大AI影视公司的“皮克斯野心”",
-    "link": "https://www.pingwest.com/a/318090",
-    "source": "品玩",
-    "category": "other",
-    "summary": "Utopai Studios，全球最大AI影视公司的“皮克斯野心”\n\n当多数AI视频仍停留在单镜头生成时，Utopai做了一条影视级别的生产线。",
-    "keywords": [
-      "AI"
-    ],
-    "date": "2026-10-07"
-  },
-  {
-    "title": "Meshy 跻身 a16z 消费级 AI 应用月收入 Top 50，为榜单唯一 AI 3D 公司",
-    "link": "https://www.pingwest.com/w/318094",
-    "source": "品玩",
-    "category": "other",
-    "summary": "Meshy\n\n\n\nMeshy 跻身 a16z 消费级 AI 应用月收入 Top 50，为榜单唯一 AI 3D 公司",
-    "keywords": [
-      "AI"
-    ],
-    "date": "2026-10-07"
-  },
-  {
     "title": "Nous Research confirms it hit $1.5B valuation, launches AI agents for business users",
     "link": "https://techcrunch.com/2026/10/07/nous-research-confirms-it-hit-1-5b-valuation-launches-ai-agents-for-business-users/",
     "source": "TechCrunch",
@@ -277,117 +225,5 @@
       "ChatGPT"
     ],
     "date": "2026-10-07"
-  },
-  {
-    "title": "Meta rolls out new AI tools to detect ads that secretly lead to child sexual abuse material",
-    "link": "https://techcrunch.com/2026/10/07/meta-rolls-out-new-ai-tools-to-detect-ads-that-secretly-lead-to-child-sexual-abuse-material/",
-    "source": "TechCrunch",
-    "category": "other",
-    "summary": "Meta launches new AI tools after discovering ads on its platforms that may look normal but direct users to harmful content elsewhere online.",
-    "keywords": [
-      "AI"
-    ],
-    "date": "2026-10-07"
-  },
-  {
-    "title": "Healthleap raises $38M for its AI that flags hospital patients who may need a closer look",
-    "link": "https://techcrunch.com/2026/10/07/healthleap-raises-38m-for-its-ai-that-flags-hospital-patients-who-may-need-a-closer-look/",
-    "source": "TechCrunch",
-    "category": "funding",
-    "summary": "The financing includes an $8M seed round co-led by Sequoia Capital and First Round Capital, and a $30 million Series A led by Hummingbird Ventures.",
-    "keywords": [
-      "AI"
-    ],
-    "date": "2026-10-07"
-  },
-  {
-    "title": "Tony Fadell on why the first wave of AI gadgets failed — and what comes next",
-    "link": "https://techcrunch.com/2026/10/07/tony-fadell-on-why-the-first-wave-of-ai-gadgets-failed-and-what-comes-next/",
-    "source": "TechCrunch",
-    "category": "other",
-    "summary": "The “father of the iPod” says the first generation of AI gadgets failed to solve real problems — and the next wave will need to earn consumers’ trust.",
-    "keywords": [
-      "AI"
-    ],
-    "date": "2026-10-07"
-  },
-  {
-    "title": "Google experiments with an AI-powered gaming platform",
-    "link": "https://techcrunch.com/2026/10/07/google-experiments-with-an-ai-powered-gaming-platform/",
-    "source": "TechCrunch",
-    "category": "other",
-    "summary": "Google Labs is working on a new AI-powered game-creation platform called Playground for users to build browser-based games using simple text prompts.",
-    "keywords": [
-      "AI"
-    ],
-    "date": "2026-10-07"
-  },
-  {
-    "title": "OpenAI’s Alexander Embiricos is coming to TechCrunch Disrupt 2026 — days after the launch of Dots",
-    "link": "https://techcrunch.com/2026/10/07/openais-alexander-embiricos-is-coming-to-techcrunch-disrupt-2026-days-after-the-launch-of-dots/",
-    "source": "TechCrunch",
-    "category": "other",
-    "summary": "OpenAI’s Alexander Embiricos is coming to the AI Stage at TechCrunch Disrupt 2026, just days after the launch of Dots. Join this conversation by registering for your pass. Get you pass now to save up ",
-    "keywords": [
-      "AI",
-      "OpenAI"
-    ],
-    "date": "2026-10-07"
-  },
-  {
-    "title": "Get hands-on: The full lineup of interactive roundtables at TechCrunch Disrupt 2026",
-    "link": "https://techcrunch.com/2026/10/07/get-hands-on-the-full-lineup-of-interactive-roundtables-at-techcrunch-disrupt-2026/",
-    "source": "TechCrunch",
-    "category": "other",
-    "summary": "From Nvidia and Chime to Obvious Ventures and Anthropic, explore the entire roundtable agenda at TechCrunch Disrupt 2026. Register now to save up to $100 on your pass and get a second pass at 50% off.",
-    "keywords": [
-      "Anthropic"
-    ],
-    "date": "2026-10-07"
-  },
-  {
-    "title": "Google’s new SynthID website can identify AI-generated media",
-    "link": "https://techcrunch.com/2026/10/07/googles-new-synthid-website-can-identify-ai-generated-media/",
-    "source": "TechCrunch",
-    "category": "other",
-    "summary": "Google on Tuesday launched a new site that lets anyone verify whether a piece of media, be it an image, a video, or an audio clip, is generated using AI.",
-    "keywords": [
-      "AI"
-    ],
-    "date": "2026-10-07"
-  },
-  {
-    "title": "OpenAI负责人Tibo Sottiaux承诺28天每日推送改进或全量重置",
-    "link": "https://www.pingwest.com/w/318089",
-    "source": "品玩",
-    "category": "other",
-    "summary": "OpenAI\n\n\n\nOpenAI负责人Tibo Sottiaux承诺28天每日推送改进或全量重置",
-    "keywords": [
-      "AI",
-      "OpenAI"
-    ],
-    "date": "2026-10-06"
-  },
-  {
-    "title": "推荐一个全新的Benchmark：看过高斯的AI，会梦到爱因斯坦么",
-    "link": "https://www.pingwest.com/a/318070",
-    "source": "品玩",
-    "category": "other",
-    "summary": "推荐一个全新的Benchmark：看过高斯的AI，会梦到爱因斯坦么\n\n可以从数学中理解“哲学”的模型才是好AI",
-    "keywords": [
-      "AI"
-    ],
-    "date": "2026-10-03"
-  },
-  {
-    "title": "华为Mate 90系列鸿蒙高清直播新体验：从高清画质到智能对焦，让表达更从容",
-    "link": "https://www.pingwest.com/w/318066",
-    "source": "品玩",
-    "category": "other",
-    "summary": "华为\n\n\n\n华为Mate 90系列鸿蒙高清直播新体验：从高清画质到智能对焦，让表达更从容",
-    "keywords": [
-      "智能"
-    ],
-    "date": "2026-10-01"
   }
 ]
