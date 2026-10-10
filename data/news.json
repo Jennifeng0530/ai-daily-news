@@ -1,118 +1,38 @@
 [
   {
-    "title": "15 家厂商同台，360 拿下 IDC 大模型安全最高评级",
-    "link": "https://www.pingwest.com/w/318197",
-    "source": "品玩",
+    "title": "Anthropic can’t reliably control its AI agents. It’s cutting off its internal evals from the live internet instead",
+    "link": "https://techcrunch.com/2026/10/09/anthropic-cant-reliably-control-its-ai-agents-its-cutting-off-its-internal-evals-from-the-live-internet-instead/",
+    "source": "TechCrunch",
     "category": "other",
-    "summary": "360\n\n\n\n15 家厂商同台，360 拿下 IDC 大模型安全最高评级",
-    "keywords": [
-      "大模型"
-    ],
-    "date": "2026-10-09"
-  },
-  {
-    "title": "想看AI芯片下一步往哪里走？没来上海峰会的人，看这篇就够了",
-    "link": "https://www.pingwest.com/a/318006",
-    "source": "品玩",
-    "category": "other",
-    "summary": "想看AI芯片下一步往哪里走？没来上海峰会的人，看这篇就够了",
-    "keywords": [
-      "AI"
-    ],
-    "date": "2026-10-09"
-  },
-  {
-    "title": "Anthropic推出OSS Scanner 为开源项目提供免费AI安全扫描",
-    "link": "https://www.pingwest.com/w/318192",
-    "source": "品玩",
-    "category": "other",
-    "summary": "Anthropic\n\n\n\nAnthropic推出OSS Scanner 为开源项目提供免费AI安全扫描\n\n据 motion-news 报道，Anthropic于2026年10月8日宣布推出OSS Scanner，这是一项面向自愿参与的开源软件项目的免费服务，由该公司称将“使用其最强模型进行彻底、周期性的安全扫描，且不收取费用”。该服务属于其称为Anthropic Cyber Mission的更广泛",
-    "keywords": [
-      "AI",
-      "Anthropic"
-    ],
-    "date": "2026-10-09"
-  },
-  {
-    "title": "Mellum2.1发布 面向编码智能体与本地部署的12B混合专家模型",
-    "link": "https://www.pingwest.com/w/318191",
-    "source": "品玩",
-    "category": "other",
-    "summary": "开源\n\n\n\nMellum2.1发布 面向编码智能体与本地部署的12B混合专家模型\n\njetbrains 近日宣布，正式推出Mellum2.1版本，该模型为6月开源的12B混合专家模型的下一版本。架构自2版本起未作改动，仍为2.5B激活参数的紧凑快速模型，采用Apache 2.0许可，变化集中于预训练之后的环节",
-    "keywords": [
-      "AI",
-      "智能"
-    ],
-    "date": "2026-10-09"
-  },
-  {
-    "title": "Cal AI联合创始人Zach Yadegari推出AI智能体新公司Persona 完成1000万美元融资",
-    "link": "https://www.pingwest.com/w/318179",
-    "source": "品玩",
-    "category": "funding",
-    "summary": "融资\n\n\n\nCal AI联合创始人Zach Yadegari推出AI智能体新公司Persona 完成1000万美元融资\n\n据 TechCrunch 报道，Cal AI的少年联合创始人Zach Yadegari已推出新的AI智能体创业公司Persona，并完成1000万美元融资。本轮由Vine Ventures领投，Z Fellows创始人Cory Levy与Collective Global参与。",
-    "keywords": [
-      "AI",
-      "智能"
-    ],
-    "date": "2026-10-09"
-  },
-  {
-    "title": "谷歌推出Google AI Edge Foresight 支持完全离线的会议笔记",
-    "link": "https://www.pingwest.com/w/318177",
-    "source": "品玩",
-    "category": "other",
-    "summary": "谷歌\n\n\n\n谷歌推出Google AI Edge Foresight 支持完全离线的会议笔记\n\n谷歌同一团队在4月发布配合本地模型使用的AI听写工具后，近日推出名为Google AI Edge Foresight的新应用，被视为对AI笔记工具Granola等的直接竞争。",
-    "keywords": [
-      "AI"
-    ],
-    "date": "2026-10-09"
-  },
-  {
-    "title": "Uber与Pony.ai合作将在伦敦推出无人驾驶出租车服务",
-    "link": "https://www.pingwest.com/w/318161",
-    "source": "品玩",
-    "category": "other",
-    "summary": "无人驾驶\n\n\n\nUber与Pony.ai合作将在伦敦推出无人驾驶出租车服务\n\n据 TechCrunch 报道，Uber与中国自动驾驶公司Pony.ai计划合作在伦敦推出无人驾驶出租车服务，作为双方扩大合作将无人驾驶汽车引入欧洲的一部分。两家公司周四表示，将在未来几周开始在伦敦测试Pony.ai的Gen-7无人驾驶出租车。",
-    "keywords": [
-      "AI",
-      "自动驾驶"
-    ],
-    "date": "2026-10-09"
-  },
-  {
-    "title": "Nous Research确认15亿美元估值 推出面向企业用户的AI智能体",
-    "link": "https://www.pingwest.com/w/318160",
-    "source": "品玩",
-    "category": "funding",
-    "summary": "融资\n\n\n\nNous Research确认15亿美元估值 推出面向企业用户的AI智能体\n\n据 TechCrunch 报道，开发开源Hermes Agent的初创公司Nous Research确认完成9000万美元B轮融资，估值达15亿美元。",
+    "summary": "Anthropic said it \"turned off live internet access\" for \"all our internal evaluations\" until further notice.",
     "keywords": [
       "AI",
       "Agent",
-      "智能"
+      "Anthropic"
     ],
-    "date": "2026-10-09"
+    "date": "2026-10-10"
   },
   {
-    "title": "复现论文，10 个模型集体“翻车”！PaperBenchX 找到了 AI 科研的卡点",
-    "link": "https://www.pingwest.com/a/318108",
-    "source": "品玩",
+    "title": "The maker of non-text AI model Jev valued at $7.5B just weeks after launch",
+    "link": "https://techcrunch.com/2026/10/09/the-maker-of-non-text-ai-model-jev-valued-at-7-5b-just-weeks-after-launch/",
+    "source": "TechCrunch",
     "category": "other",
-    "summary": "复现论文，10 个模型集体“翻车”！PaperBenchX 找到了 AI 科研的卡点\n\n把“ AI 能否可靠复现科学研究”，变成可逐项检验的标准。",
-    "keywords": [
-      "AI"
-    ],
-    "date": "2026-10-09"
-  },
-  {
-    "title": "AutoOmni 2.0上车：斑马智能把端侧AI的竞争推向“懂我”",
-    "link": "https://www.pingwest.com/w/318152",
-    "source": "品玩",
-    "category": "other",
-    "summary": "斑马智能\n\n\n\nAutoOmni 2.0上车：斑马智能把端侧AI的竞争推向“懂我”",
+    "summary": "What has users and large corporations so excited about Jev is TypeSafe’s claim that it works significantly faster and uses far fewer tokens than LLMs.",
     "keywords": [
       "AI",
-      "智能"
+      "LLM"
+    ],
+    "date": "2026-10-09"
+  },
+  {
+    "title": "An Anthropic AI model sent a false homicide tip to Philadelphia police",
+    "link": "https://techcrunch.com/2026/10/09/an-anthropic-ai-model-sent-a-false-homicide-tip-to-philadelphia-police/",
+    "source": "TechCrunch",
+    "category": "other",
+    "summary": "Anthropic did not discover this behavior until over two months after its AI submitted the false tip.",
+    "keywords": [
+      "AI",
+      "Anthropic"
     ],
     "date": "2026-10-09"
   },
@@ -149,132 +69,6 @@
       "AI"
     ],
     "date": "2026-10-09"
-  },
-  {
-    "title": "联想首款搭载英伟达RTX Spark芯片AI PC新品中国预售，加速构建Agent时代个人AI计算底座",
-    "link": "https://www.pingwest.com/w/318150",
-    "source": "品玩",
-    "category": "other",
-    "summary": "联想\n\n\n\n联想首款搭载英伟达RTX Spark芯片AI PC新品中国预售，加速构建Agent时代个人AI计算底座",
-    "keywords": [
-      "AI",
-      "Agent"
-    ],
-    "date": "2026-10-08"
-  },
-  {
-    "title": "机器人数据初创公司Mecka AI完成6000万美元B轮融资 Sequoia领投",
-    "link": "https://www.pingwest.com/w/318144",
-    "source": "品玩",
-    "category": "funding",
-    "summary": "投资\n\n\n\n机器人数据初创公司Mecka AI完成6000万美元B轮融资 Sequoia领投\n\n机器人数据初创公司Mecka AI宣布完成由Sequoia领投的6000万美元B轮融资，Nvidia、微软旗下风投基金M12等参与投资。据TechCrunch此前报道，该公司新一轮融资的估值接近5亿美元。",
-    "keywords": [
-      "AI",
-      "机器人"
-    ],
-    "date": "2026-10-08"
-  },
-  {
-    "title": "Manus 5亿美金破纪录融资：是的，AI应用还可以拿大钱",
-    "link": "https://www.pingwest.com/a/318126",
-    "source": "品玩",
-    "category": "funding",
-    "summary": "Manus 5亿美金破纪录融资：是的，AI应用还可以拿大钱\n\n国内 AI 应用领域迄今为止最大的一笔单笔融资。",
-    "keywords": [
-      "AI"
-    ],
-    "date": "2026-10-08"
-  },
-  {
-    "title": "Common Sense Media将ChatGPT for Teens评为“不可接受风险”",
-    "link": "https://www.pingwest.com/w/318139",
-    "source": "品玩",
-    "category": "other",
-    "summary": "ChatGPT\n\n\n\nCommon Sense Media将ChatGPT for Teens评为“不可接受风险”\n\n据 TechCrunch 报道，非营利机构Common Sense Media近日将ChatGPT for Teens评定为“不可接受风险”。",
-    "keywords": [
-      "GPT",
-      "ChatGPT"
-    ],
-    "date": "2026-10-08"
-  },
-  {
-    "title": "OpenAI随GPT-6推出Intelligent UI 强化对话中的可视化交互",
-    "link": "https://www.pingwest.com/w/318134",
-    "source": "品玩",
-    "category": "other",
-    "summary": "OpenAI\n\n\n\nOpenAI随GPT-6推出Intelligent UI 强化对话中的可视化交互\n\nOpenAI于周三随新模型GPT-6推出名为Intelligent UI的新界面，将大量视觉元素融入用户对话。",
-    "keywords": [
-      "AI",
-      "OpenAI",
-      "GPT"
-    ],
-    "date": "2026-10-08"
-  },
-  {
-    "title": "Google推出AI游戏创作工具Playground 文字提示即可构建游戏",
-    "link": "https://www.pingwest.com/w/318132",
-    "source": "品玩",
-    "category": "other",
-    "summary": "谷歌\n\n\n\nGoogle推出AI游戏创作工具Playground 文字提示即可构建游戏\n\n据 TechCrunch 报道，Google Labs推出AI游戏创作工具Playground，用户通过文字提示即可构建浏览器游戏，无需编程基础。",
-    "keywords": [
-      "AI"
-    ],
-    "date": "2026-10-08"
-  },
-  {
-    "title": "Tony Fadell评AI硬件折戟：信任与设备端运算才是关键",
-    "link": "https://www.pingwest.com/w/318131",
-    "source": "品玩",
-    "category": "other",
-    "summary": "AI硬件\n\n\n\nTony Fadell评AI硬件折戟：信任与设备端运算才是关键\n\n据 TechCrunch 报道，Tony Fadell在首届MIT未来节上以Rabbit R1、Humane Ai pin和Limitless pendant三款已停产AI设备为例指出，这些产品未能满足真实用户需求，仅是极客群体所感兴趣的新技术。",
-    "keywords": [
-      "AI"
-    ],
-    "date": "2026-10-08"
-  },
-  {
-    "title": "黄仁勋站台“史上最强” Surface，微软要把 AI 工作站装进你的背包",
-    "link": "https://www.pingwest.com/a/318124",
-    "source": "品玩",
-    "category": "other",
-    "summary": "微软\n\n\n\n黄仁勋站台“史上最强” Surface，微软要把 AI 工作站装进你的背包\n\n黄仁勋和纳德拉再次坐到了一起，而这一次，他们想让用户关注的是桌面上那台每天都要打开的电脑。",
-    "keywords": [
-      "AI"
-    ],
-    "date": "2026-10-08"
-  },
-  {
-    "title": "要在太空搞定AI算力的不只马斯克，还有一苇宇航",
-    "link": "https://www.pingwest.com/a/318081",
-    "source": "品玩",
-    "category": "other",
-    "summary": "要在太空搞定AI算力的不只马斯克，还有一苇宇航\n\n太空算力初创企业拿了过亿天使轮，我们跟创始人聊了聊",
-    "keywords": [
-      "AI"
-    ],
-    "date": "2026-10-08"
-  },
-  {
-    "title": "Token盗用激增，混合定价兴起，我们从Stripe 那儿听到了AI经济新信号",
-    "link": "https://www.pingwest.com/a/318079",
-    "source": "品玩",
-    "category": "other",
-    "summary": "Token盗用激增，混合定价兴起，我们从Stripe 那儿听到了AI经济新信号\n\nAI 有了新趋势和新问题",
-    "keywords": [
-      "AI"
-    ],
-    "date": "2026-10-08"
-  },
-  {
-    "title": "AI的热钱与未来，此刻属于中国版Alexandr Wang们",
-    "link": "https://www.pingwest.com/a/317833",
-    "source": "品玩",
-    "category": "other",
-    "summary": "AI的热钱与未来，此刻属于中国版Alexandr Wang们\n\n大厂数据人才出走，成为模型“研发外援”。",
-    "keywords": [
-      "AI"
-    ],
-    "date": "2026-10-08"
   },
   {
     "title": "Pretend you’re sitting at Elizabeth Holmes’ desk on this weirdly detailed website",
@@ -402,40 +196,6 @@
     "source": "TechCrunch",
     "category": "other",
     "summary": "Ambrosia Energy CEO Ben Longmier and Bloom Energy SVP Bill Thayer join the Smart Systems Stage at TechCrunch Disrupt. Register now to save up to $100. Grab a second of the same pass to save 50%.",
-    "keywords": [
-      "AI"
-    ],
-    "date": "2026-10-08"
-  },
-  {
-    "title": "Cal AI’s 19-year-old founder just raised $10M for his new AI startup",
-    "link": "https://techcrunch.com/2026/10/08/cal-ais-19-year-old-founder-just-raised-10m-for-his-new-ai-startup/",
-    "source": "TechCrunch",
-    "category": "funding",
-    "summary": "Zach Yadegari, the teen co-founder of popular Cal AI calorie tracking app, has launched a new personal AI agent startup that competes with Instinct, Muse, and Bee.",
-    "keywords": [
-      "AI",
-      "Agent"
-    ],
-    "date": "2026-10-08"
-  },
-  {
-    "title": "Google releases a new local-first Granola competitor",
-    "link": "https://techcrunch.com/2026/10/08/google-releases-a-new-local-first-granola-competitor/",
-    "source": "TechCrunch",
-    "category": "other",
-    "summary": "Google’s new AI Edge Foresight app takes on Granola with an offline meeting note-taker that can transcribe conversations, generate notes, and answer questions using on-device AI.",
-    "keywords": [
-      "AI"
-    ],
-    "date": "2026-10-08"
-  },
-  {
-    "title": "China’s Manus raises over $500M in first funding round since split with Meta",
-    "link": "https://techcrunch.com/2026/10/08/chinas-manus-raises-over-500m-in-first-funding-round-since-split-with-meta/",
-    "source": "TechCrunch",
-    "category": "funding",
-    "summary": "Boyu Capital and IDG Capital led the funding round, and existing shareholders Tencent, HSG (formerly known as Sequoia China), ZhenFund, and others also participated.",
     "keywords": [
       "AI"
     ],
