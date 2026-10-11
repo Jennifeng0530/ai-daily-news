@@ -1,5 +1,18 @@
 [
   {
+    "title": "These execs think voice AI hasn’t reached its ChatGPT moment yet",
+    "link": "https://techcrunch.com/2026/10/11/these-execs-think-voice-ai-hasnt-reached-its-chatgpt-moment-yet/",
+    "source": "TechCrunch",
+    "category": "other",
+    "summary": "Voice AI's often misses important points for its context layer, and causes the whole pipeline to break",
+    "keywords": [
+      "AI",
+      "GPT",
+      "ChatGPT"
+    ],
+    "date": "2026-10-11"
+  },
+  {
     "title": "Cloudflare发布多模态决策模型Clef-omni 同步下调Clef-flash价格",
     "link": "https://www.pingwest.com/w/318241",
     "source": "品玩",
@@ -442,18 +455,6 @@
       "AI",
       "Agent",
       "Gemini"
-    ],
-    "date": "2026-10-08"
-  },
-  {
-    "title": "Anthropic changes usage policy to ban model abuse and election interference",
-    "link": "https://techcrunch.com/2026/10/08/anthropic-changes-usage-policy-to-ban-model-abuse-and-election-interference/",
-    "source": "TechCrunch",
-    "category": "other",
-    "summary": "Anthropic's updated usage policy explicitly prohibits users from repeatedly abusing Claude in extreme cases, though ordinary frustration and criticism are still allowed. The new rules also address ele",
-    "keywords": [
-      "Anthropic",
-      "Claude"
     ],
     "date": "2026-10-08"
   }
