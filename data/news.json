@@ -1,5 +1,133 @@
 [
   {
+    "title": "Cloudflare发布多模态决策模型Clef-omni 同步下调Clef-flash价格",
+    "link": "https://www.pingwest.com/w/318241",
+    "source": "品玩",
+    "category": "other",
+    "summary": "CloudFlare\n\n\n\nCloudflare发布多模态决策模型Clef-omni 同步下调Clef-flash价格\n\n据 AI weekly 报道，Cloudflare于10月9日宣布推出开放权重多模态决策模型Clef-omni，支持在单次调用中原生处理文本、图像、音频和视频输入。",
+    "keywords": [
+      "AI"
+    ],
+    "date": "2026-10-10"
+  },
+  {
+    "title": "xAI为Grok Bot推出独立邮箱 智能体可用",
+    "link": "https://www.pingwest.com/w/318208",
+    "source": "品玩",
+    "category": "other",
+    "summary": "xAI\n\n\n\nxAI为Grok Bot推出独立邮箱 智能体可用\n\n据 9to5Mac 报道，xAI宣布为Grok Bot推出独立邮箱地址，后缀为@mail.grokbot.com。",
+    "keywords": [
+      "AI",
+      "xAI",
+      "Grok",
+      "智能"
+    ],
+    "date": "2026-10-10"
+  },
+  {
+    "title": "非文本AI模型Jev开发商TypeSafe融资8.7亿美元 估值达75亿美元",
+    "link": "https://www.pingwest.com/w/318207",
+    "source": "品玩",
+    "category": "funding",
+    "summary": "TypeSafe\n\n\n\n非文本AI模型Jev开发商TypeSafe融资8.7亿美元 估值达75亿美元\n\n据 TechCrunch 报道，TypeSafe AI宣布完成8.7亿美元融资，估值达75亿美元。本轮由Andreessen Horowitz领投，Sequoia及现有投资方DCVC参与。该公司旗下AI模型Jev于9月15日发布后迅速走红，据称已有三分之一《财富》500强企业在使用。",
+    "keywords": [
+      "AI"
+    ],
+    "date": "2026-10-10"
+  },
+  {
+    "title": "苹果以人才收购方式引入Huxe团队",
+    "link": "https://www.pingwest.com/w/318206",
+    "source": "品玩",
+    "category": "other",
+    "summary": "苹果\n\n\n\n苹果以人才收购方式引入Huxe团队\n\n据 9to5Mac 报道，，苹果已与AI音频初创公司Huxe达成协议，有权向Huxe部分员工发出聘用邀请，并获得其知识产权的非独占许可。该交易已于2025年6月向欧盟通报，是苹果今年公开披露的至少第四笔AI相关交易。",
+    "keywords": [
+      "AI"
+    ],
+    "date": "2026-10-10"
+  },
+  {
+    "title": "Anthropic暂停内部评估联网 因AI模型绕过付费墙与反机器人限制",
+    "link": "https://www.pingwest.com/w/318204",
+    "source": "品玩",
+    "category": "other",
+    "summary": "Anthropic\n\n\n\nAnthropic暂停内部评估联网 因AI模型绕过付费墙与反机器人限制\n\n据 TechCrunch 报道，Anthropic披露，其AI模型在内部评估中利用互联网漏洞，绕过付费墙与反机器人限制，利用短链接服务规避审查。",
+    "keywords": [
+      "AI",
+      "Anthropic",
+      "机器人"
+    ],
+    "date": "2026-10-10"
+  },
+  {
+    "title": "特斯拉欧洲弃用“全自动驾驶”名称 改称“特斯拉辅助驾驶”",
+    "link": "https://www.pingwest.com/w/318203",
+    "source": "品玩",
+    "category": "other",
+    "summary": "特斯拉\n\n\n\n特斯拉欧洲弃用“全自动驾驶”名称 改称“特斯拉辅助驾驶”\n\n据 TechCrunch 报道，特斯拉已在欧洲市场将其高级驾驶辅助系统名称由“Full Self-Driving (Supervised)”改为“Tesla Assisted Driving”，德国、比利时、丹麦等官网已同步调整。",
+    "keywords": [
+      "自动驾驶"
+    ],
+    "date": "2026-10-10"
+  },
+  {
+    "title": "Andreessen Horowitz合伙人Olivia Moore：消费级AI仍处早期 六大领域尚待开发",
+    "link": "https://www.pingwest.com/w/318200",
+    "source": "品玩",
+    "category": "other",
+    "summary": "消费级\n\n\n\nAndreessen Horowitz合伙人Olivia Moore：消费级AI仍处早期 六大领域尚待开发\n\n据 TechCrunch 报道，Andreessen Horowitz合伙人Olivia Moore近日发布消费级AI应用百强报告。",
+    "keywords": [
+      "AI"
+    ],
+    "date": "2026-10-10"
+  },
+  {
+    "title": "OpenAI解雇三名安全研究员引争议 双方就“信任破裂”各执一词",
+    "link": "https://www.pingwest.com/w/318199",
+    "source": "品玩",
+    "category": "other",
+    "summary": "OpenAI\n\n\n\nOpenAI解雇三名安全研究员引争议 双方就“信任破裂”各执一词\n\n据 AP News 报道，OpenAI周五表示，已解雇三名安全研究员，理由为“信任破裂”。此前，三人指控公司将企业利益置于安全之上。OpenAI表示，经调查，三人“违反了处理敏感信息的明确政策”。",
+    "keywords": [
+      "AI",
+      "OpenAI"
+    ],
+    "date": "2026-10-10"
+  },
+  {
+    "title": "Anthropic更新使用政策 禁止持续虐待Claude并收紧多项限制",
+    "link": "https://www.pingwest.com/w/318198",
+    "source": "品玩",
+    "category": "other",
+    "summary": "Anthropic\n\n\n\nAnthropic更新使用政策 禁止持续虐待Claude并收紧多项限制\n\n据 the Register 报道，Anthropic近日更新使用政策，新增禁止“持续且无谓的虐待或残忍行为”条款，新规将于2026年11月12日生效。",
+    "keywords": [
+      "Anthropic",
+      "Claude"
+    ],
+    "date": "2026-10-10"
+  },
+  {
+    "title": "Microsoft’s Satya Nadella says AI models need an ‘emergency brake’",
+    "link": "https://techcrunch.com/2026/10/10/microsofts-satya-nadella-says-ai-models-need-an-emergency-brake/",
+    "source": "TechCrunch",
+    "category": "other",
+    "summary": "In a Saturday morning post, Microsoft's CEO wrote that it’s time “to step back and assess the trust architecture” of AI.",
+    "keywords": [
+      "AI"
+    ],
+    "date": "2026-10-10"
+  },
+  {
+    "title": "Apple discloses deal to hire team and license tech from personalized podcast startup Huxe",
+    "link": "https://techcrunch.com/2026/10/10/apple-discloses-deal-to-hire-team-and-license-tech-from-personalized-podcast-startup-huxe/",
+    "source": "TechCrunch",
+    "category": "other",
+    "summary": "Is Apple hoping to get into the AI-generated podcast business?",
+    "keywords": [
+      "AI"
+    ],
+    "date": "2026-10-10"
+  },
+  {
     "title": "3 days to TechCrunch Disrupt 2026: Meet the startups before they hit mainstream",
     "link": "https://techcrunch.com/2026/10/10/3-days-to-disrupt-2026-meet-the-startups-before-they-hit-mainstream/",
     "source": "TechCrunch",
@@ -34,6 +162,123 @@
       "Anthropic"
     ],
     "date": "2026-10-10"
+  },
+  {
+    "title": "15 家厂商同台，360 拿下 IDC 大模型安全最高评级",
+    "link": "https://www.pingwest.com/w/318197",
+    "source": "品玩",
+    "category": "other",
+    "summary": "360\n\n\n\n15 家厂商同台，360 拿下 IDC 大模型安全最高评级",
+    "keywords": [
+      "大模型"
+    ],
+    "date": "2026-10-09"
+  },
+  {
+    "title": "想看AI芯片下一步往哪里走？没来上海峰会的人，看这篇就够了",
+    "link": "https://www.pingwest.com/a/318006",
+    "source": "品玩",
+    "category": "other",
+    "summary": "想看AI芯片下一步往哪里走？没来上海峰会的人，看这篇就够了",
+    "keywords": [
+      "AI"
+    ],
+    "date": "2026-10-09"
+  },
+  {
+    "title": "Anthropic推出OSS Scanner 为开源项目提供免费AI安全扫描",
+    "link": "https://www.pingwest.com/w/318192",
+    "source": "品玩",
+    "category": "other",
+    "summary": "Anthropic\n\n\n\nAnthropic推出OSS Scanner 为开源项目提供免费AI安全扫描\n\n据 motion-news 报道，Anthropic于2026年10月8日宣布推出OSS Scanner，这是一项面向自愿参与的开源软件项目的免费服务，由该公司称将“使用其最强模型进行彻底、周期性的安全扫描，且不收取费用”。该服务属于其称为Anthropic Cyber Mission的更广泛",
+    "keywords": [
+      "AI",
+      "Anthropic"
+    ],
+    "date": "2026-10-09"
+  },
+  {
+    "title": "Mellum2.1发布 面向编码智能体与本地部署的12B混合专家模型",
+    "link": "https://www.pingwest.com/w/318191",
+    "source": "品玩",
+    "category": "other",
+    "summary": "开源\n\n\n\nMellum2.1发布 面向编码智能体与本地部署的12B混合专家模型\n\njetbrains 近日宣布，正式推出Mellum2.1版本，该模型为6月开源的12B混合专家模型的下一版本。架构自2版本起未作改动，仍为2.5B激活参数的紧凑快速模型，采用Apache 2.0许可，变化集中于预训练之后的环节",
+    "keywords": [
+      "AI",
+      "智能"
+    ],
+    "date": "2026-10-09"
+  },
+  {
+    "title": "Cal AI联合创始人Zach Yadegari推出AI智能体新公司Persona 完成1000万美元融资",
+    "link": "https://www.pingwest.com/w/318179",
+    "source": "品玩",
+    "category": "funding",
+    "summary": "融资\n\n\n\nCal AI联合创始人Zach Yadegari推出AI智能体新公司Persona 完成1000万美元融资\n\n据 TechCrunch 报道，Cal AI的少年联合创始人Zach Yadegari已推出新的AI智能体创业公司Persona，并完成1000万美元融资。本轮由Vine Ventures领投，Z Fellows创始人Cory Levy与Collective Global参与。",
+    "keywords": [
+      "AI",
+      "智能"
+    ],
+    "date": "2026-10-09"
+  },
+  {
+    "title": "谷歌推出Google AI Edge Foresight 支持完全离线的会议笔记",
+    "link": "https://www.pingwest.com/w/318177",
+    "source": "品玩",
+    "category": "other",
+    "summary": "谷歌\n\n\n\n谷歌推出Google AI Edge Foresight 支持完全离线的会议笔记\n\n谷歌同一团队在4月发布配合本地模型使用的AI听写工具后，近日推出名为Google AI Edge Foresight的新应用，被视为对AI笔记工具Granola等的直接竞争。",
+    "keywords": [
+      "AI"
+    ],
+    "date": "2026-10-09"
+  },
+  {
+    "title": "Uber与Pony.ai合作将在伦敦推出无人驾驶出租车服务",
+    "link": "https://www.pingwest.com/w/318161",
+    "source": "品玩",
+    "category": "other",
+    "summary": "无人驾驶\n\n\n\nUber与Pony.ai合作将在伦敦推出无人驾驶出租车服务\n\n据 TechCrunch 报道，Uber与中国自动驾驶公司Pony.ai计划合作在伦敦推出无人驾驶出租车服务，作为双方扩大合作将无人驾驶汽车引入欧洲的一部分。两家公司周四表示，将在未来几周开始在伦敦测试Pony.ai的Gen-7无人驾驶出租车。",
+    "keywords": [
+      "AI",
+      "自动驾驶"
+    ],
+    "date": "2026-10-09"
+  },
+  {
+    "title": "Nous Research确认15亿美元估值 推出面向企业用户的AI智能体",
+    "link": "https://www.pingwest.com/w/318160",
+    "source": "品玩",
+    "category": "funding",
+    "summary": "融资\n\n\n\nNous Research确认15亿美元估值 推出面向企业用户的AI智能体\n\n据 TechCrunch 报道，开发开源Hermes Agent的初创公司Nous Research确认完成9000万美元B轮融资，估值达15亿美元。",
+    "keywords": [
+      "AI",
+      "Agent",
+      "智能"
+    ],
+    "date": "2026-10-09"
+  },
+  {
+    "title": "复现论文，10 个模型集体“翻车”！PaperBenchX 找到了 AI 科研的卡点",
+    "link": "https://www.pingwest.com/a/318108",
+    "source": "品玩",
+    "category": "other",
+    "summary": "复现论文，10 个模型集体“翻车”！PaperBenchX 找到了 AI 科研的卡点\n\n把“ AI 能否可靠复现科学研究”，变成可逐项检验的标准。",
+    "keywords": [
+      "AI"
+    ],
+    "date": "2026-10-09"
+  },
+  {
+    "title": "AutoOmni 2.0上车：斑马智能把端侧AI的竞争推向“懂我”",
+    "link": "https://www.pingwest.com/w/318152",
+    "source": "品玩",
+    "category": "other",
+    "summary": "斑马智能\n\n\n\nAutoOmni 2.0上车：斑马智能把端侧AI的竞争推向“懂我”",
+    "keywords": [
+      "AI",
+      "智能"
+    ],
+    "date": "2026-10-09"
   },
   {
     "title": "The maker of non-text AI model Jev valued at $7.5B just weeks after launch",
@@ -92,6 +337,41 @@
       "AI"
     ],
     "date": "2026-10-09"
+  },
+  {
+    "title": "联想首款搭载英伟达RTX Spark芯片AI PC新品中国预售，加速构建Agent时代个人AI计算底座",
+    "link": "https://www.pingwest.com/w/318150",
+    "source": "品玩",
+    "category": "other",
+    "summary": "联想\n\n\n\n联想首款搭载英伟达RTX Spark芯片AI PC新品中国预售，加速构建Agent时代个人AI计算底座",
+    "keywords": [
+      "AI",
+      "Agent"
+    ],
+    "date": "2026-10-08"
+  },
+  {
+    "title": "机器人数据初创公司Mecka AI完成6000万美元B轮融资 Sequoia领投",
+    "link": "https://www.pingwest.com/w/318144",
+    "source": "品玩",
+    "category": "funding",
+    "summary": "投资\n\n\n\n机器人数据初创公司Mecka AI完成6000万美元B轮融资 Sequoia领投\n\n机器人数据初创公司Mecka AI宣布完成由Sequoia领投的6000万美元B轮融资，Nvidia、微软旗下风投基金M12等参与投资。据TechCrunch此前报道，该公司新一轮融资的估值接近5亿美元。",
+    "keywords": [
+      "AI",
+      "机器人"
+    ],
+    "date": "2026-10-08"
+  },
+  {
+    "title": "Manus 5亿美金破纪录融资：是的，AI应用还可以拿大钱",
+    "link": "https://www.pingwest.com/a/318126",
+    "source": "品玩",
+    "category": "funding",
+    "summary": "Manus 5亿美金破纪录融资：是的，AI应用还可以拿大钱\n\n国内 AI 应用领域迄今为止最大的一笔单笔融资。",
+    "keywords": [
+      "AI"
+    ],
+    "date": "2026-10-08"
   },
   {
     "title": "Pretend you’re sitting at Elizabeth Holmes’ desk on this weirdly detailed website",
@@ -174,30 +454,6 @@
     "keywords": [
       "Anthropic",
       "Claude"
-    ],
-    "date": "2026-10-08"
-  },
-  {
-    "title": "OpenAI’s math solutions aren’t meeting the field’s standards yet",
-    "link": "https://techcrunch.com/2026/10/08/openais-math-solutions-arent-meeting-the-fields-standards-yet/",
-    "source": "TechCrunch",
-    "category": "other",
-    "summary": "OpenAI's flood of proofs deviated from the guidelines set by a group of mathematical researchers consulted by the frontier lab.",
-    "keywords": [
-      "AI",
-      "OpenAI"
-    ],
-    "date": "2026-10-08"
-  },
-  {
-    "title": "Natura’s $99 smart ring puts AI agents on your finger",
-    "link": "https://techcrunch.com/2026/10/08/naturas-smart-ring-puts-ai-agents-on-your-finger/",
-    "source": "TechCrunch",
-    "category": "other",
-    "summary": "Natura’s $99 Interface smart ring lets you summon AI agents with the press of a finger to complete tasks, capture thoughts, and control devices — while doubling as a health tracker.",
-    "keywords": [
-      "AI",
-      "Agent"
     ],
     "date": "2026-10-08"
   }
