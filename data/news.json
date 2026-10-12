@@ -1,5 +1,31 @@
 [
   {
+    "title": "腾讯云开源TeamAI 支持跨Agent共享团队AI技能",
+    "link": "https://www.pingwest.com/w/318269",
+    "source": "品玩",
+    "category": "other",
+    "summary": "腾讯云\n\n\n\n腾讯云开源TeamAI 支持跨Agent共享团队AI技能\n\n腾讯云近日宣布开源团队AI协作工具TeamAI。该项目原为腾讯云内部自用工具，开源后登上GitHub Trending。",
+    "keywords": [
+      "AI",
+      "Agent"
+    ],
+    "date": "2026-10-12"
+  },
+  {
+    "title": "OpenAI提升GPT-6.1 Sol默认上下文长度并取消长文本附加费",
+    "link": "https://www.pingwest.com/w/318268",
+    "source": "品玩",
+    "category": "other",
+    "summary": "OpenAI\n\n\n\nOpenAI提升GPT-6.1 Sol默认上下文长度并取消长文本附加费\n\n据 cryptobriefing 报道，OpenAI近日宣布，将GPT-6.1 Sol模型的默认上下文长度从272,000个token提升至500,000个token，适用于Codex和ChatGPT Work。该调整于2026年10月11日生效，距该模型发布不足两周。",
+    "keywords": [
+      "AI",
+      "OpenAI",
+      "GPT",
+      "ChatGPT"
+    ],
+    "date": "2026-10-12"
+  },
+  {
     "title": "三星Galaxy Tab S12系列媒体品鉴会：见证AI大屏革新生产力",
     "link": "https://www.pingwest.com/w/318264",
     "source": "品玩",
@@ -78,6 +104,72 @@
     "date": "2026-10-12"
   },
   {
+    "title": "Meta releases its first frontier model, Muse Wonder",
+    "link": "https://techcrunch.com/2026/10/12/meta-releases-its-first-frontier-model-muse-wonder/",
+    "source": "TechCrunch",
+    "category": "other",
+    "summary": "Where Muse Spark aimed to be a lightweight model that could perform at low latency, the Wonder models are larger and said to be more capable, with higher benchmark scores and better results on complex",
+    "keywords": [
+      "AI"
+    ],
+    "date": "2026-10-12"
+  },
+  {
+    "title": "WindBorne wins a hefty US Air Force contract for its balloon data",
+    "link": "https://techcrunch.com/2026/10/12/windborne-wins-a-hefty-us-air-force-contract-for-its-balloon-data/",
+    "source": "TechCrunch",
+    "category": "other",
+    "summary": "A Silicon Valley startup that uses weather balloons and AI to predict the weather won a U.S. military contract worth almost $50 million.",
+    "keywords": [
+      "AI"
+    ],
+    "date": "2026-10-12"
+  },
+  {
+    "title": "Honeyjar offers AI tools to improve PR and comms at every company",
+    "link": "https://techcrunch.com/2026/10/12/honeyjar-offers-ai-tools-to-improve-pr-and-comms-at-every-company/",
+    "source": "TechCrunch",
+    "category": "other",
+    "summary": "Journalists, entrepreneurs, and even some public relations professionals will tell you that the PR process is broken. But could AI actually make things better?",
+    "keywords": [
+      "AI"
+    ],
+    "date": "2026-10-12"
+  },
+  {
+    "title": "Microsoft president says UK is best placed to drive AI regulation",
+    "link": "https://techcrunch.com/2026/10/12/microsoft-president-says-uk-is-best-placed-to-drive-ai-regulation/",
+    "source": "TechCrunch",
+    "category": "other",
+    "summary": "Microsoft president Brad Smith calls for urgent AI regulation, saying milk and washing machines have more oversight than AI companies.",
+    "keywords": [
+      "AI"
+    ],
+    "date": "2026-10-12"
+  },
+  {
+    "title": "This AI startup says it can generate permit-ready blueprints in minutes",
+    "link": "https://techcrunch.com/2026/10/12/this-ai-startup-says-it-can-generate-permit-ready-blueprints-in-minutes/",
+    "source": "TechCrunch",
+    "category": "other",
+    "summary": "Blueprints AI, a bootstrapped startup based in Santa Monica, developed software that produces code-compliant construction blueprints from a photo, PDF, or sketch.",
+    "keywords": [
+      "AI"
+    ],
+    "date": "2026-10-12"
+  },
+  {
+    "title": "Former Plaud exec raises $26M for AI app that listens to you in the background",
+    "link": "https://techcrunch.com/2026/10/12/former-plaud-exec-raises-26m-for-ai-app-that-listens-to-you-in-the-background/",
+    "source": "TechCrunch",
+    "category": "funding",
+    "summary": "One of the core promises of AI is that the more it knows about a person, the better it will be able to assist them with tasks and make appropriate suggestions, which, if you'll believe the tech compan",
+    "keywords": [
+      "AI"
+    ],
+    "date": "2026-10-12"
+  },
+  {
     "title": "Can the AI industry persuade data center opponents by getting rid of NDAs?",
     "link": "https://techcrunch.com/2026/10/11/can-the-ai-industry-persuade-data-center-opponents-by-getting-rid-of-ndas/",
     "source": "TechCrunch",
@@ -93,7 +185,7 @@
     "link": "https://techcrunch.com/2026/10/11/these-execs-think-voice-ai-hasnt-reached-its-chatgpt-moment-yet/",
     "source": "TechCrunch",
     "category": "other",
-    "summary": "Voice AI's often misses important points for its context layer, and causes the whole pipeline to break",
+    "summary": "Voice AI often misses important points for its context layer, and causes the whole pipeline to break.",
     "keywords": [
       "AI",
       "GPT",
@@ -253,11 +345,11 @@
     "date": "2026-10-10"
   },
   {
-    "title": "Anthropic can’t reliably control its AI agents. It’s cutting off its internal evals from the live internet instead",
+    "title": "Anthropic can’t reliably control its AI agents — it’s cutting off its internal evals from the live internet instead",
     "link": "https://techcrunch.com/2026/10/09/anthropic-cant-reliably-control-its-ai-agents-its-cutting-off-its-internal-evals-from-the-live-internet-instead/",
     "source": "TechCrunch",
     "category": "other",
-    "summary": "Anthropic said it \"turned off live internet access\" for \"all our internal evaluations\" until further notice.",
+    "summary": "The incidents involved AI agents tasked to solve problems seeking resources on the internet. In the process, they exploited software flaws, accessed databases without paying fees, used URL-shortening ",
     "keywords": [
       "AI",
       "Agent",
@@ -335,42 +427,6 @@
     "date": "2026-10-09"
   },
   {
-    "title": "Uber与Pony.ai合作将在伦敦推出无人驾驶出租车服务",
-    "link": "https://www.pingwest.com/w/318161",
-    "source": "品玩",
-    "category": "other",
-    "summary": "无人驾驶\n\n\n\nUber与Pony.ai合作将在伦敦推出无人驾驶出租车服务\n\n据 TechCrunch 报道，Uber与中国自动驾驶公司Pony.ai计划合作在伦敦推出无人驾驶出租车服务，作为双方扩大合作将无人驾驶汽车引入欧洲的一部分。两家公司周四表示，将在未来几周开始在伦敦测试Pony.ai的Gen-7无人驾驶出租车。",
-    "keywords": [
-      "AI",
-      "自动驾驶"
-    ],
-    "date": "2026-10-09"
-  },
-  {
-    "title": "Nous Research确认15亿美元估值 推出面向企业用户的AI智能体",
-    "link": "https://www.pingwest.com/w/318160",
-    "source": "品玩",
-    "category": "funding",
-    "summary": "融资\n\n\n\nNous Research确认15亿美元估值 推出面向企业用户的AI智能体\n\n据 TechCrunch 报道，开发开源Hermes Agent的初创公司Nous Research确认完成9000万美元B轮融资，估值达15亿美元。",
-    "keywords": [
-      "AI",
-      "Agent",
-      "智能"
-    ],
-    "date": "2026-10-09"
-  },
-  {
-    "title": "复现论文，10 个模型集体“翻车”！PaperBenchX 找到了 AI 科研的卡点",
-    "link": "https://www.pingwest.com/a/318108",
-    "source": "品玩",
-    "category": "other",
-    "summary": "复现论文，10 个模型集体“翻车”！PaperBenchX 找到了 AI 科研的卡点\n\n把“ AI 能否可靠复现科学研究”，变成可逐项检验的标准。",
-    "keywords": [
-      "AI"
-    ],
-    "date": "2026-10-09"
-  },
-  {
     "title": "The maker of non-text AI model Jev valued at $7.5B just weeks after launch",
     "link": "https://techcrunch.com/2026/10/09/the-maker-of-non-text-ai-model-jev-valued-at-7-5b-just-weeks-after-launch/",
     "source": "TechCrunch",
@@ -405,63 +461,5 @@
       "Agent"
     ],
     "date": "2026-10-09"
-  },
-  {
-    "title": "We can’t help treating AI like it’s human. But should we?",
-    "link": "https://techcrunch.com/2026/10/09/we-cant-help-treating-ai-like-its-human-but-should-we/",
-    "source": "TechCrunch",
-    "category": "other",
-    "summary": "\"When we are drawn into even the most primitive exchanges with a relational artifact, we believe it cares for us,\" Dr. Sherry Turkle writes. \"And we are wired to care for it in return.\"",
-    "keywords": [
-      "AI"
-    ],
-    "date": "2026-10-09"
-  },
-  {
-    "title": "a16z’s Olivia Moore on the state of consumer AI",
-    "link": "https://techcrunch.com/2026/10/09/a16zs-olivia-moore-on-the-state-of-consumer-ai/",
-    "source": "TechCrunch",
-    "category": "other",
-    "summary": "Moore sees a huge opportunity in consumer AI, particularly if the industry can tap into revenue streams beyond just subscriptions and API charges.",
-    "keywords": [
-      "AI"
-    ],
-    "date": "2026-10-09"
-  },
-  {
-    "title": "Pretend you’re sitting at Elizabeth Holmes’ desk on this weirdly detailed website",
-    "link": "https://techcrunch.com/2026/10/08/pretend-youre-sitting-at-elizabeth-holmes-desk-on-this-weirdly-detailed-website/",
-    "source": "TechCrunch",
-    "category": "other",
-    "summary": "With over a thousand emails, slides, texts, and documents from the United States v. Elizabeth Holmes trial, Extend engineer Bo Lau created a website that simulates what it might have been like to rifl",
-    "keywords": [
-      "AI"
-    ],
-    "date": "2026-10-08"
-  },
-  {
-    "title": "Fired OpenAI safety researchers dispute misconduct claims, warn of chilling effect",
-    "link": "https://techcrunch.com/2026/10/08/fired-openai-safety-researchers-dispute-misconduct-claims-warn-of-chilling-effect/",
-    "source": "TechCrunch",
-    "category": "other",
-    "summary": "Three fired OpenAI safety researchers dispute allegations of mishandling sensitive information, warning in an open letter that their dismissals are creating a chilling effect on the company’s AI safet",
-    "keywords": [
-      "AI",
-      "OpenAI"
-    ],
-    "date": "2026-10-08"
-  },
-  {
-    "title": "Ben Affleck is an AI nerd, and the internet is impressed",
-    "link": "https://techcrunch.com/2026/10/08/ben-affleck-is-an-ai-nerd-and-the-internet-is-impressed/",
-    "source": "TechCrunch",
-    "category": "other",
-    "summary": "Ben Affleck is going viral for his deep knowledge of AI, from neural networks and transformers to open weights. The actor, who sold his AI filmmaking startup to Netflix earlier this year, is proving h",
-    "keywords": [
-      "AI",
-      "neural network",
-      "transformer"
-    ],
-    "date": "2026-10-08"
   }
 ]
