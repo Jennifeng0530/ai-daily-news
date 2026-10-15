@@ -1,5 +1,16 @@
 [
   {
+    "title": "Figma announces new features to define how agents work on its platform",
+    "link": "https://techcrunch.com/2026/10/14/figma-announces-new-features-to-define-how-agents-work-on-its-platform/",
+    "source": "TechCrunch",
+    "category": "other",
+    "summary": "Figma is also releasing its code layers feature in open beta.",
+    "keywords": [
+      "Agent"
+    ],
+    "date": "2026-10-15"
+  },
+  {
     "title": "Ricursive Intelligence is betting on AI-designed chips to help solve the compute crisis",
     "link": "https://techcrunch.com/2026/10/14/ricursive-intelligence-is-betting-on-ai-designed-chips-to-help-solve-the-compute-crisis/",
     "source": "TechCrunch",
@@ -176,17 +187,6 @@
     "keywords": [
       "AI",
       "Agent"
-    ],
-    "date": "2026-10-13"
-  },
-  {
-    "title": "Pluto Security raises $42M as AI gives enterprise security teams a new headache",
-    "link": "https://techcrunch.com/2026/10/13/pluto-security-raises-42m-as-ai-gives-enterprise-security-teams-a-new-headache/",
-    "source": "TechCrunch",
-    "category": "funding",
-    "summary": "The problem with giving everyone in a company access to AI tools is that people will use them in unexpected ways. And that fact is steadily seeding fears that companies now have new, gaping security h",
-    "keywords": [
-      "AI"
     ],
     "date": "2026-10-13"
   }
