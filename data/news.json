@@ -1,136 +1,66 @@
 [
   {
-    "title": "库克：苹果智能接入阿里千问大模型，10月底在中国发布测试版本",
-    "link": "https://www.pingwest.com/w/318419",
-    "source": "品玩",
+    "title": "When it came to Cal AI’s viral success, a small army of influencers paid off",
+    "link": "https://techcrunch.com/2026/10/15/when-it-came-to-cal-ais-viral-success-a-small-army-of-influencers-paid-off/",
+    "source": "TechCrunch",
     "category": "other",
-    "summary": "苹果\n\n\n\n库克：苹果智能接入阿里千问大模型，10月底在中国发布测试版本",
+    "summary": "The company generated over $30 million in revenue in two years and was acquired by MyFitnessPal for an undisclosed amount of money in March.",
     "keywords": [
-      "大模型",
-      "智能"
+      "AI"
     ],
     "date": "2026-10-15"
   },
   {
-    "title": "库克：Apple Intelligence 10月底在华推测试版，Siri AI 暂不上线",
-    "link": "https://www.pingwest.com/w/318417",
-    "source": "品玩",
+    "title": "Meta launches an open-weight AI model that runs on Macs",
+    "link": "https://techcrunch.com/2026/10/15/meta-launches-an-open-weight-model-that-runs-on-macs/",
+    "source": "TechCrunch",
     "category": "other",
-    "summary": "苹果\n\n\n\n库克：Apple Intelligence 10月底在华推测试版，Siri AI 暂不上线\n\n据界面新闻报道，苹果董事会执行主席蒂姆·库克在上海走访期间接受媒体采访，确认 Apple Intelligence 及相关阿里千问大模型已获批准，将于10月晚些时候面向中国用户发布测试版本。",
+    "summary": "Meta and Apple have teamed up for the launch of the social media giant's newest model, Muse Spark Open, which will run locally on Apple silicon.",
+    "keywords": [
+      "AI"
+    ],
+    "date": "2026-10-15"
+  },
+  {
+    "title": "Amazon devices chief Panos Panay sees a future where AI devices replace the need to use apps",
+    "link": "https://techcrunch.com/2026/10/15/amazon-devices-chief-panos-panay-sees-a-future-where-ai-devices-replace-the-need-to-use-apps/",
+    "source": "TechCrunch",
+    "category": "other",
+    "summary": "Speaking at TechCrunch Disrupt, Amazon devices chief Panos Panay described a future where ambient AI devices work in the background, anticipating users' needs instead of waiting for commands.",
+    "keywords": [
+      "AI"
+    ],
+    "date": "2026-10-15"
+  },
+  {
+    "title": "Anthropic is letting METR researchers look under the hood with employee-level access",
+    "link": "https://techcrunch.com/2026/10/15/anthropic-is-letting-metr-researchers-look-under-the-hood-with-employee-level-access/",
+    "source": "TechCrunch",
+    "category": "other",
+    "summary": "METR will publish its own assessments of Anthropic’s risks, incidents, and practices, and the frontier AI model maker has given up the right to block them.",
     "keywords": [
       "AI",
-      "大模型"
+      "Anthropic"
     ],
     "date": "2026-10-15"
   },
   {
-    "title": "腾讯AI管家Marvis上架鸿蒙应用市场：手机在手，多台电脑远程帮你干活",
-    "link": "https://www.pingwest.com/w/318400",
-    "source": "品玩",
+    "title": "Bluesky expands its AI-powered Attie app to let anyone build websites, games, and more",
+    "link": "https://techcrunch.com/2026/10/15/bluesky-expands-its-ai-powered-attie-app-to-let-anyone-build-websites-games-and-more/",
+    "source": "TechCrunch",
     "category": "other",
-    "summary": "腾讯云\n\n\n\n腾讯AI管家Marvis上架鸿蒙应用市场：手机在手，多台电脑远程帮你干活\n\n腾讯",
+    "summary": "Bluesky is bringing “social vibe coding” to its experimental Attie platform, allowing users to create interactive experiences like games, quizzes, and websites that can tap into the social network's a",
     "keywords": [
       "AI"
     ],
     "date": "2026-10-15"
   },
   {
-    "title": "给物理AI建 “数据底座”：禾赛Kosmo三维世界数据引擎正式发布",
-    "link": "https://www.pingwest.com/w/318395",
-    "source": "品玩",
+    "title": "AI agents are coming to Rivian’s cars",
+    "link": "https://techcrunch.com/2026/10/15/ai-agents-are-coming-to-rivians-cars/",
+    "source": "TechCrunch",
     "category": "other",
-    "summary": "禾赛科技\n\n\n\n给物理AI建 “数据底座”：禾赛Kosmo三维世界数据引擎正式发布",
-    "keywords": [
-      "AI"
-    ],
-    "date": "2026-10-15"
-  },
-  {
-    "title": "Booking Holdings推出AI旅行助手Vayo 计划投资1亿美元",
-    "link": "https://www.pingwest.com/w/318394",
-    "source": "品玩",
-    "category": "other",
-    "summary": "booking\n\n\n\nBooking Holdings推出AI旅行助手Vayo 计划投资1亿美元\n\n据 travelweekly 报道，在线旅游集团Booking Holdings近日宣布成立新公司Vayo，并计划向其投资1亿美元。",
-    "keywords": [
-      "AI"
-    ],
-    "date": "2026-10-15"
-  },
-  {
-    "title": "自然意志发布500亿参数物理通用基础模型Natura-1",
-    "link": "https://www.pingwest.com/w/318393",
-    "source": "品玩",
-    "category": "other",
-    "summary": "灵巧手\n\n\n\n自然意志发布500亿参数物理通用基础模型Natura-1\n\n据 PR News 报道，专注于物理通用智能的实验室Nature Will近日发布Natura-1，这是一款面向灵巧手控制与零样本指令遵循的500亿参数混合专家模型。",
-    "keywords": [
-      "智能"
-    ],
-    "date": "2026-10-15"
-  },
-  {
-    "title": "AI基础设施商Modal完成7.5亿美元D轮融资 估值达157.5亿美元",
-    "link": "https://www.pingwest.com/w/318391",
-    "source": "品玩",
-    "category": "funding",
-    "summary": "融资\n\n\n\nAI基础设施商Modal完成7.5亿美元D轮融资 估值达157.5亿美元\n\n据 modal 报道， AI基础设施公司Modal近日完成7.5亿美元D轮融资，投后估值达157.5亿美元。本轮由Accel领投，Kleiner Perkins跟投，Menlo Ventures、General Catalyst等现有投资者继续参与。",
-    "keywords": [
-      "AI"
-    ],
-    "date": "2026-10-15"
-  },
-  {
-    "title": "YouTube Music上线AI音乐标签 提升生成式内容透明度",
-    "link": "https://www.pingwest.com/w/318389",
-    "source": "品玩",
-    "category": "other",
-    "summary": "YouTube\n\n\n\nYouTube Music上线AI音乐标签 提升生成式内容透明度\n\n据 digitalmusicnews 报道，YouTube Music近日宣布推出AI音乐标注功能，用于识别“主要使用生成式AI创作”的曲目，包括由AI生成曲调、编曲或人声的作品。标签将显示在播放器页面，用户点击可查看AI参与创作的具体信息。",
-    "keywords": [
-      "AI",
-      "生成式"
-    ],
-    "date": "2026-10-15"
-  },
-  {
-    "title": "Nothing计划推出两款AI智能眼镜 预计2027年发布",
-    "link": "https://www.pingwest.com/w/318388",
-    "source": "品玩",
-    "category": "other",
-    "summary": "nothing\n\n\n\nNothing计划推出两款AI智能眼镜 预计2027年发布\n\n据 9to5Google 报道，科技品牌Nothing正筹备推出两款定位差异明显的智能眼镜，预计于2027年发布，相关消息由知名爆料人Roland Quandt披露。",
-    "keywords": [
-      "AI",
-      "智能"
-    ],
-    "date": "2026-10-15"
-  },
-  {
-    "title": "WorkBuddy 打通企业微信，腾讯把 AI 办公的竞争带进了自己的主场",
-    "link": "https://www.pingwest.com/a/318373",
-    "source": "品玩",
-    "category": "other",
-    "summary": "WorkBuddy 打通企业微信，腾讯把 AI 办公的竞争带进了自己的主场\n\nAI 办公不用改变原有架构。",
-    "keywords": [
-      "AI"
-    ],
-    "date": "2026-10-15"
-  },
-  {
-    "title": "OpenAI任命Uday Ruddarraju领导基础设施与算力业务",
-    "link": "https://www.pingwest.com/w/318385",
-    "source": "品玩",
-    "category": "other",
-    "summary": "opeani\n\n\n\nOpenAI任命Uday Ruddarraju领导基础设施与算力业务\n\n据 datacenterdynamics 报道，OpenAI已任命Uday Ruddarraju负责基础设施与算力业务，统筹Stargate及其他数据中心建设。Ruddarraju于2025年7月加入OpenAI，今年7月获任计算首席技术官，此次晋升由Bloomberg率先报道。",
-    "keywords": [
-      "AI",
-      "OpenAI"
-    ],
-    "date": "2026-10-15"
-  },
-  {
-    "title": "摩根大通禁止外部AI Agent操作客户账户",
-    "link": "https://www.pingwest.com/w/318384",
-    "source": "品玩",
-    "category": "other",
-    "summary": "摩根大通\n\n\n\n摩根大通禁止外部AI Agent操作客户账户\n\n据 aistockwire 报道，摩根大通CEO Jamie Dimon在10月13日第三季度财报电话会上表示，该行不会允许外部AI代理进入客户账户进行操作，称这对客户和银行而言风险过高。",
+    "summary": "We'll likely learn more about how this will work at the company's upcoming \"AI &#038; Autonomy Day\" event in December.",
     "keywords": [
       "AI",
       "Agent"
@@ -194,132 +124,6 @@
     "date": "2026-10-15"
   },
   {
-    "title": "Apple发布AI智能显示屏HomeView 售价299美元",
-    "link": "https://www.pingwest.com/w/318362",
-    "source": "品玩",
-    "category": "other",
-    "summary": "苹果\n\n\n\nApple发布AI智能显示屏HomeView 售价299美元\n\nApple近日宣布，推出全新AI智能显示屏Apple HomeView，售价299美元，预计11月13日发售。",
-    "keywords": [
-      "AI",
-      "智能"
-    ],
-    "date": "2026-10-14"
-  },
-  {
-    "title": "千问办公电商版开启邀测，帮助商家用AI管理跨、多店铺、全流程生意",
-    "link": "https://www.pingwest.com/w/318361",
-    "source": "品玩",
-    "category": "other",
-    "summary": "千问\n\n\n\n千问办公电商版开启邀测，帮助商家用AI管理跨、多店铺、全流程生意",
-    "keywords": [
-      "AI"
-    ],
-    "date": "2026-10-14"
-  },
-  {
-    "title": "加冕2026欧洲产品设计奖！追觅割草机器人引领户外庭院生活体验",
-    "link": "https://www.pingwest.com/w/318360",
-    "source": "品玩",
-    "category": "other",
-    "summary": "追觅科技\n\n\n\n加冕2026欧洲产品设计奖！追觅割草机器人引领户外庭院生活体验",
-    "keywords": [
-      "机器人"
-    ],
-    "date": "2026-10-14"
-  },
-  {
-    "title": "“模态进化”：第八届亿邦产业互联网年会暨首届产业智能体大会双会合体定档",
-    "link": "https://www.pingwest.com/a/318317",
-    "source": "品玩",
-    "category": "other",
-    "summary": "“模态进化”：第八届亿邦产业互联网年会暨首届产业智能体大会双会合体定档",
-    "keywords": [
-      "智能"
-    ],
-    "date": "2026-10-14"
-  },
-  {
-    "title": "自动驾驶软件商Applied Intuition估值或达300亿美元",
-    "link": "https://www.pingwest.com/w/318353",
-    "source": "品玩",
-    "category": "funding",
-    "summary": "自动驾驶\n\n\n\n自动驾驶软件商Applied Intuition估值或达300亿美元\n\n据 The Information 报道，自动驾驶车辆训练软件开发商Applied Intuition近日收到多方报价，公司估值至少达到300亿美元。据The Information报道，知情人士透露，这一估值水平可能促使该公司在未来数月内完成至少10亿美元的融资。",
-    "keywords": [
-      "自动驾驶"
-    ],
-    "date": "2026-10-14"
-  },
-  {
-    "title": "Character.AI申请破产保护 迪士尼出价2000万美元竞购部分知识产权",
-    "link": "https://www.pingwest.com/w/318352",
-    "source": "品玩",
-    "category": "other",
-    "summary": "Character.AI\n\n\n\nCharacter.AI申请破产保护 迪士尼出价2000万美元竞购部分知识产权\n\n据 lawcommentary 报道， Character.AI于10月12日向美国特拉华州破产法院提交Chapter 11破产申请，面临重大法律、监管及运营压力，资产与负债估算均在5000万至1亿美元。",
-    "keywords": [
-      "AI"
-    ],
-    "date": "2026-10-14"
-  },
-  {
-    "title": "硅谷一线投资人对谈：OpenAI和Anthropic怎么还没杀死创业公司们？｜Assembling 2026",
-    "link": "https://www.pingwest.com/a/318302",
-    "source": "品玩",
-    "category": "other",
-    "summary": "硅谷一线投资人对谈：OpenAI和Anthropic怎么还没杀死创业公司们？｜Assembling 2026\n\nAI行业的机会和巨大风险在哪里",
-    "keywords": [
-      "AI",
-      "OpenAI",
-      "Anthropic"
-    ],
-    "date": "2026-10-14"
-  },
-  {
-    "title": "尼古拉斯·凯奇：拒绝AI授权，寻求与Z世代导演合作",
-    "link": "https://www.pingwest.com/w/318351",
-    "source": "品玩",
-    "category": "other",
-    "summary": "电影\n\n\n\n尼古拉斯·凯奇：拒绝AI授权，寻求与Z世代导演合作\n\n据 hollywoodreporte 报道，Nicolas Cage近日在纽约漫展表示，希望与更多Z世代导演合作，以应对好莱坞制片厂加速推进AI技术的行业变局。",
-    "keywords": [
-      "AI"
-    ],
-    "date": "2026-10-14"
-  },
-  {
-    "title": "字节跳动Seed成立模型安全与对齐部门",
-    "link": "https://www.pingwest.com/w/318347",
-    "source": "品玩",
-    "category": "other",
-    "summary": "字节跳动\n\n\n\n字节跳动Seed成立模型安全与对齐部门\n\n据科创板日报报道，字节跳动Seed近日发出内部邮件，宣布成立“Seed Model-Alignment&amp;Preparedness”部门，由严林负责，汇报给Seed负责人吴永辉。原Responsible AI团队及部分Chat团队成员将转入新部门。",
-    "keywords": [
-      "AI"
-    ],
-    "date": "2026-10-14"
-  },
-  {
-    "title": "Google 发布旗舰模型 Gemini 4 Argon 面向复杂多步任务",
-    "link": "https://www.pingwest.com/w/318341",
-    "source": "品玩",
-    "category": "other",
-    "summary": "谷歌\n\n\n\nGoogle 发布旗舰模型 Gemini 4 Argon 面向复杂多步任务\n\nGoogle 今日正式发布新旗舰模型 Gemini 4 Argon，向开发者、企业及订阅用户开放。该模型重点面向编码、金融、法律、网络安全和科学研究中的复杂多步任务。",
-    "keywords": [
-      "Gemini"
-    ],
-    "date": "2026-10-14"
-  },
-  {
-    "title": "响应速度比Claude Code快3倍，实现真正无限上下文！APUS AI开源Reflex Agent",
-    "link": "https://www.pingwest.com/w/318340",
-    "source": "品玩",
-    "category": "other",
-    "summary": "APUS\n\n\n\n响应速度比Claude Code快3倍，实现真正无限上下文！APUS AI开源Reflex Agent",
-    "keywords": [
-      "AI",
-      "Agent",
-      "Claude"
-    ],
-    "date": "2026-10-14"
-  },
-  {
     "title": "YouTube Music launches new labels as AI-generated music floods streaming platforms",
     "link": "https://techcrunch.com/2026/10/14/youtube-music-launches-new-labels-as-ai-generated-music-floods-streaming-platforms/",
     "source": "TechCrunch",
@@ -375,106 +179,5 @@
       "Agent"
     ],
     "date": "2026-10-14"
-  },
-  {
-    "title": "TechCrunch Disrupt 2026: Day 2",
-    "link": "https://techcrunch.com/2026/10/14/techcrunch-disrupt-2026-day-2/",
-    "source": "TechCrunch",
-    "category": "other",
-    "summary": "Day 2 at TechCrunch Disrupt 2026, full of all themes across AI, as well as an investor-only session, more roundtables, Side Events, and more. Register to save 50% on your pass.",
-    "keywords": [
-      "AI"
-    ],
-    "date": "2026-10-14"
-  },
-  {
-    "title": "Scimplify raises $25M to challenge China’s grip on critical materials with AI",
-    "link": "https://techcrunch.com/2026/10/14/scimplify-raises-25m-to-challenge-chinas-grip-on-critical-materials-with-ai/",
-    "source": "TechCrunch",
-    "category": "funding",
-    "summary": "Scimplify's annualized revenue run rate has tripled to $200 million as it eyes U.S. expansion.",
-    "keywords": [
-      "AI"
-    ],
-    "date": "2026-10-14"
-  },
-  {
-    "title": "HomeView 正式亮相，苹果智能家居迎来集中更新",
-    "link": "https://www.pingwest.com/a/318337",
-    "source": "品玩",
-    "category": "other",
-    "summary": "苹果\n\n\n\nHomeView 正式亮相，苹果智能家居迎来集中更新\n\n这一次，苹果把新品发布的聚光灯转向了家庭。",
-    "keywords": [
-      "智能"
-    ],
-    "date": "2026-10-13"
-  },
-  {
-    "title": "面壁智能发布新一代 MiniCPM-V 4.7：35B 开源大模型首次无损流畅跑上手机",
-    "link": "https://www.pingwest.com/w/318323",
-    "source": "品玩",
-    "category": "other",
-    "summary": "面壁智能\n\n\n\n面壁智能发布新一代 MiniCPM-V 4.7：35B 开源大模型首次无损流畅跑上手机",
-    "keywords": [
-      "大模型",
-      "智能"
-    ],
-    "date": "2026-10-13"
-  },
-  {
-    "title": "全国首个省级党媒可信GEO“智眸可信GEO”发布，360集团以主权AI赋能湖南日报数智化转型",
-    "link": "https://www.pingwest.com/w/318321",
-    "source": "品玩",
-    "category": "other",
-    "summary": "360\n\n\n\n全国首个省级党媒可信GEO“智眸可信GEO”发布，360集团以主权AI赋能湖南日报数智化转型",
-    "keywords": [
-      "AI"
-    ],
-    "date": "2026-10-13"
-  },
-  {
-    "title": "Science Corporation implants its vision-restoring chip in its first Stargardt disease patient",
-    "link": "https://techcrunch.com/2026/10/13/science-corporation-implants-its-vision-restoring-chip-in-its-first-stargardt-disease-patient/",
-    "source": "TechCrunch",
-    "category": "other",
-    "summary": "Max Hodak, the former president and co-founder of Neuralink, detailed onstage at TechCrunch Disrupt how his company's work with PRIMA is part of its path toward a novel brain-computer interface (BCI).",
-    "keywords": [
-      "AI"
-    ],
-    "date": "2026-10-13"
-  },
-  {
-    "title": "Cerebras CEO says we’re nearing a future where everyone has a personal AI assistant at home",
-    "link": "https://techcrunch.com/2026/10/13/cerebras-ceo-says-were-nearing-a-future-where-everyone-has-a-personal-ai-assistant-at-home/",
-    "source": "TechCrunch",
-    "category": "other",
-    "summary": "Cerebras CEO Andrew Feldman predicts a future where personal AI assistants become as commonplace as household appliances, running partly on local devices and partly in the cloud.",
-    "keywords": [
-      "AI"
-    ],
-    "date": "2026-10-13"
-  },
-  {
-    "title": "Cerebras CEO pushes back on AI doomsday warnings",
-    "link": "https://techcrunch.com/2026/10/13/cerebras-ceo-pushes-back-on-ai-doomsday-warnings/",
-    "source": "TechCrunch",
-    "category": "other",
-    "summary": "Cerebras CEO Andrew Feldman has a message for AI leaders spreading doomsday warnings: Maybe stop talking? At TechCrunch Disrupt, he argued that the industry's focus on AI's risks is drowning out its p",
-    "keywords": [
-      "AI"
-    ],
-    "date": "2026-10-13"
-  },
-  {
-    "title": "Judge orders OpenAI to turn over hiring records in Apple trade secrets case",
-    "link": "https://techcrunch.com/2026/10/13/judge-orders-openai-to-turn-over-hiring-records-in-apple-trade-secrets-case/",
-    "source": "TechCrunch",
-    "category": "other",
-    "summary": "A federal judge ruled that Apple can access OpenAI's interview materials involving former Apple employees, as well as private messages and testimony from key figures in the case.",
-    "keywords": [
-      "AI",
-      "OpenAI"
-    ],
-    "date": "2026-10-13"
   }
 ]
