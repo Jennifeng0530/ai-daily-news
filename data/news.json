@@ -1,93 +1,83 @@
 [
   {
-    "title": "WPS移动版完成iPhone Duo适配：全形态自适应、分屏双开与伴随式AI侧栏上线",
-    "link": "https://www.pingwest.com/w/318474",
-    "source": "品玩",
+    "title": "Replit is no longer working with Anthropic, CEO says",
+    "link": "https://techcrunch.com/2026/10/16/replit-is-no-longer-working-with-anthropic-ceo-says/",
+    "source": "TechCrunch",
     "category": "other",
-    "summary": "WPS\n\n\n\nWPS移动版完成iPhone Duo适配：全形态自适应、分屏双开与伴随式AI侧栏上线",
+    "summary": "Masad said the decision was made for a number of different reasons, including cost. Replit announced a partnership with OpenAI in August, but there was never any indication that it was no longer with ",
     "keywords": [
-      "AI"
-    ],
-    "date": "2026-10-16"
-  },
-  {
-    "title": "2026 AI Cloud 100 China榜单发布：一目科技代表Physical AI赛道入选",
-    "link": "https://www.pingwest.com/w/318471",
-    "source": "品玩",
-    "category": "other",
-    "summary": "一目科技\n\n\n\n2026 AI Cloud 100 China榜单发布：一目科技代表Physical AI赛道入选",
-    "keywords": [
-      "AI"
-    ],
-    "date": "2026-10-16"
-  },
-  {
-    "title": "PrismML发布Ternary Bonsai 2系列端侧模型",
-    "link": "https://www.pingwest.com/w/318451",
-    "source": "品玩",
-    "category": "other",
-    "summary": "PrismML\n\n\n\nPrismML发布Ternary Bonsai 2系列端侧模型\n\nAI公司PrismML官方近日宣布扩展Bonsai 2系列，推出基于Qwen3.5的三款三元权重模型：Ternary Bonsai 2 2B、4B和9B，与已发布的27B版本共同覆盖从轻量到复杂任务的端侧部署需求。",
-    "keywords": [
-      "AI"
-    ],
-    "date": "2026-10-16"
-  },
-  {
-    "title": "Anthropic向METR开放员工级访问权限 引入独立安全评估",
-    "link": "https://www.pingwest.com/w/318447",
-    "source": "品玩",
-    "category": "other",
-    "summary": "Anthropic\n\n\n\nAnthropic向METR开放员工级访问权限 引入独立安全评估\n\n据 TechCrunch 报道，Anthropic于10月15日宣布，已向非营利机构METR的6名研究人员提供员工级访问权限，以独立评估其模型、安全实践及风险管理。METR研究人员将获得公司笔记本电脑、办公空间及与内部风险评估团队大致同级的内部工具访问权限。",
-    "keywords": [
+      "AI",
+      "OpenAI",
       "Anthropic"
     ],
     "date": "2026-10-16"
   },
   {
-    "title": "英伟达发布Nemotron 3.5 Super VL及两款端侧模型",
-    "link": "https://www.pingwest.com/w/318438",
-    "source": "品玩",
+    "title": "India becomes the latest country to report rogue AI agent activity",
+    "link": "https://techcrunch.com/2026/10/16/india-becomes-the-latest-country-to-report-rogue-ai-agent-activity/",
+    "source": "TechCrunch",
     "category": "other",
-    "summary": "英伟达\n\n\n\n英伟达发布Nemotron 3.5 Super VL及两款端侧模型\n\n英伟达近日发布开放多模态模型Nemotron 3.5 Super VL，总参数1200亿、激活参数120亿，面向需持续运行的AI智能体。该模型将推理、工具调用与文本、图像、文档、视频理解整合为一体，英伟达称其吞吐量最高可达同类开放模型的5倍。",
+    "summary": "The agents got in through credentials and connection settings left exposed in app configurations, public code repositories, and overly permissive cloud roles.",
     "keywords": [
       "AI",
-      "智能"
+      "Agent"
     ],
     "date": "2026-10-16"
   },
   {
-    "title": "小鹏新爆款预定，MONA L05开启预售，锚定年轻人第一台智能时尚大五座SUV",
-    "link": "https://www.pingwest.com/w/318435",
-    "source": "品玩",
+    "title": "An Nvidia insider-turned-VC on why robotics hasn’t hit its ChatGPT moment, yet",
+    "link": "https://techcrunch.com/video/a-nvidia-insider-turned-vc-on-why-robotics-hasnt-hit-its-chatgpt-moment-yet/",
+    "source": "TechCrunch",
     "category": "other",
-    "summary": "小鹏\n\n\n\n小鹏新爆款预定，MONA L05开启预售，锚定年轻人第一台智能时尚大五座SUV",
+    "summary": "Amulya Vishwanath, who spent seven years leading product marketing for NVIDIA’s robotics platforms, says robotics is currently in its “Lego era,” with the basic building blocks like actuators, robotic",
     "keywords": [
-      "智能"
+      "GPT",
+      "ChatGPT"
     ],
     "date": "2026-10-16"
   },
   {
-    "title": "亚马逊发布Bee AI穿戴设备 Frontier与Eclipse",
-    "link": "https://www.pingwest.com/w/318431",
-    "source": "品玩",
+    "title": "Physical AI is more than robots, says the Nvidia veteran now investing in it",
+    "link": "https://techcrunch.com/podcast/physical-ai-is-more-than-robots-says-the-nvidia-veteran-now-investing-in-it/",
+    "source": "TechCrunch",
     "category": "other",
-    "summary": "亚马逊\n\n\n\n亚马逊发布Bee AI穿戴设备 Frontier与Eclipse\n\n据 tech-insider 报道，亚马逊发布两款AI穿戴设备Bee Frontier和Bee Eclipse，售价分别为74.99美元和99.99美元。两款设备均可实时录音、转写并分析日常对话，自动生成摘要、待办事项与提醒。",
+    "summary": "Amulya Vishwanath, who spent seven years leading product marketing for NVIDIA’s robotics platforms, says robotics is currently in its “Lego era,” with the basic building blocks like actuators, robotic",
     "keywords": [
       "AI"
     ],
     "date": "2026-10-16"
   },
   {
-    "title": "xAI发布Grok Voice 3.0语音模型 已用于特斯拉与星链",
-    "link": "https://www.pingwest.com/w/318430",
-    "source": "品玩",
+    "title": "Elorian’s first AI model wants to reason with images, not just about them",
+    "link": "https://techcrunch.com/2026/10/16/elorians-first-ai-model-wants-to-reason-with-images-not-just-about-them/",
+    "source": "TechCrunch",
     "category": "other",
-    "summary": "xAI\n\n\n\nxAI发布Grok Voice 3.0语音模型 已用于特斯拉与星链\n\n据 unite.ai 报道，xAI于10月14日发布Grok Voice 3.0语音转语音模型，称其为“全球最智能的语音模型”，延迟低于1秒，运行成本低于其他前沿模型。",
+    "summary": "According to Elorian's evaluations, Glimpse outperforms even GPT-6 Astra on scientific chart reasoning and short-form video captioning, with competitive results on other visual reasoning tasks.",
     "keywords": [
       "AI",
-      "xAI",
-      "Grok",
-      "智能"
+      "GPT"
+    ],
+    "date": "2026-10-16"
+  },
+  {
+    "title": "Jev is Vercel’s fastest-adopted AI model ever",
+    "link": "https://techcrunch.com/2026/10/16/jev-is-vercels-fastest-adopted-ai-model-ever/",
+    "source": "TechCrunch",
+    "category": "other",
+    "summary": "The data comes from Vercel's AI gateway, a unified API service similar to OpenRouter.",
+    "keywords": [
+      "AI"
+    ],
+    "date": "2026-10-16"
+  },
+  {
+    "title": "Mark Wahlberg on using AI in film ‘the right way’ and being open to an AI clone carrying on his legacy",
+    "link": "https://techcrunch.com/2026/10/16/mark-wahlberg-on-using-ai-in-film-the-right-way-and-being-open-to-an-ai-clone-carrying-on-his-legacy/",
+    "source": "TechCrunch",
+    "category": "other",
+    "summary": "Actor and angel investor Mark Wahlberg says he's OK with using AI in filmmaking, provided it's used \"to enhance what you're doing.\"",
+    "keywords": [
+      "AI"
     ],
     "date": "2026-10-16"
   },
@@ -102,144 +92,6 @@
       "Agent"
     ],
     "date": "2026-10-16"
-  },
-  {
-    "title": "库克：苹果智能接入阿里千问大模型，10月底在中国发布测试版本",
-    "link": "https://www.pingwest.com/w/318419",
-    "source": "品玩",
-    "category": "other",
-    "summary": "苹果\n\n\n\n库克：苹果智能接入阿里千问大模型，10月底在中国发布测试版本",
-    "keywords": [
-      "大模型",
-      "智能"
-    ],
-    "date": "2026-10-15"
-  },
-  {
-    "title": "库克：Apple Intelligence 10月底在华推测试版，Siri AI 暂不上线",
-    "link": "https://www.pingwest.com/w/318417",
-    "source": "品玩",
-    "category": "other",
-    "summary": "苹果\n\n\n\n库克：Apple Intelligence 10月底在华推测试版，Siri AI 暂不上线\n\n据界面新闻报道，苹果董事会执行主席蒂姆·库克在上海走访期间接受媒体采访，确认 Apple Intelligence 及相关阿里千问大模型已获批准，将于10月晚些时候面向中国用户发布测试版本。",
-    "keywords": [
-      "AI",
-      "大模型"
-    ],
-    "date": "2026-10-15"
-  },
-  {
-    "title": "腾讯AI管家Marvis上架鸿蒙应用市场：手机在手，多台电脑远程帮你干活",
-    "link": "https://www.pingwest.com/w/318400",
-    "source": "品玩",
-    "category": "other",
-    "summary": "腾讯云\n\n\n\n腾讯AI管家Marvis上架鸿蒙应用市场：手机在手，多台电脑远程帮你干活\n\n腾讯",
-    "keywords": [
-      "AI"
-    ],
-    "date": "2026-10-15"
-  },
-  {
-    "title": "给物理AI建 “数据底座”：禾赛Kosmo三维世界数据引擎正式发布",
-    "link": "https://www.pingwest.com/w/318395",
-    "source": "品玩",
-    "category": "other",
-    "summary": "禾赛科技\n\n\n\n给物理AI建 “数据底座”：禾赛Kosmo三维世界数据引擎正式发布",
-    "keywords": [
-      "AI"
-    ],
-    "date": "2026-10-15"
-  },
-  {
-    "title": "Booking Holdings推出AI旅行助手Vayo 计划投资1亿美元",
-    "link": "https://www.pingwest.com/w/318394",
-    "source": "品玩",
-    "category": "other",
-    "summary": "booking\n\n\n\nBooking Holdings推出AI旅行助手Vayo 计划投资1亿美元\n\n据 travelweekly 报道，在线旅游集团Booking Holdings近日宣布成立新公司Vayo，并计划向其投资1亿美元。",
-    "keywords": [
-      "AI"
-    ],
-    "date": "2026-10-15"
-  },
-  {
-    "title": "自然意志发布500亿参数物理通用基础模型Natura-1",
-    "link": "https://www.pingwest.com/w/318393",
-    "source": "品玩",
-    "category": "other",
-    "summary": "灵巧手\n\n\n\n自然意志发布500亿参数物理通用基础模型Natura-1\n\n据 PR News 报道，专注于物理通用智能的实验室Nature Will近日发布Natura-1，这是一款面向灵巧手控制与零样本指令遵循的500亿参数混合专家模型。",
-    "keywords": [
-      "智能"
-    ],
-    "date": "2026-10-15"
-  },
-  {
-    "title": "AI基础设施商Modal完成7.5亿美元D轮融资 估值达157.5亿美元",
-    "link": "https://www.pingwest.com/w/318391",
-    "source": "品玩",
-    "category": "funding",
-    "summary": "融资\n\n\n\nAI基础设施商Modal完成7.5亿美元D轮融资 估值达157.5亿美元\n\n据 modal 报道， AI基础设施公司Modal近日完成7.5亿美元D轮融资，投后估值达157.5亿美元。本轮由Accel领投，Kleiner Perkins跟投，Menlo Ventures、General Catalyst等现有投资者继续参与。",
-    "keywords": [
-      "AI"
-    ],
-    "date": "2026-10-15"
-  },
-  {
-    "title": "YouTube Music上线AI音乐标签 提升生成式内容透明度",
-    "link": "https://www.pingwest.com/w/318389",
-    "source": "品玩",
-    "category": "other",
-    "summary": "YouTube\n\n\n\nYouTube Music上线AI音乐标签 提升生成式内容透明度\n\n据 digitalmusicnews 报道，YouTube Music近日宣布推出AI音乐标注功能，用于识别“主要使用生成式AI创作”的曲目，包括由AI生成曲调、编曲或人声的作品。标签将显示在播放器页面，用户点击可查看AI参与创作的具体信息。",
-    "keywords": [
-      "AI",
-      "生成式"
-    ],
-    "date": "2026-10-15"
-  },
-  {
-    "title": "Nothing计划推出两款AI智能眼镜 预计2027年发布",
-    "link": "https://www.pingwest.com/w/318388",
-    "source": "品玩",
-    "category": "other",
-    "summary": "nothing\n\n\n\nNothing计划推出两款AI智能眼镜 预计2027年发布\n\n据 9to5Google 报道，科技品牌Nothing正筹备推出两款定位差异明显的智能眼镜，预计于2027年发布，相关消息由知名爆料人Roland Quandt披露。",
-    "keywords": [
-      "AI",
-      "智能"
-    ],
-    "date": "2026-10-15"
-  },
-  {
-    "title": "WorkBuddy 打通企业微信，腾讯把 AI 办公的竞争带进了自己的主场",
-    "link": "https://www.pingwest.com/a/318373",
-    "source": "品玩",
-    "category": "other",
-    "summary": "WorkBuddy 打通企业微信，腾讯把 AI 办公的竞争带进了自己的主场\n\nAI 办公不用改变原有架构。",
-    "keywords": [
-      "AI"
-    ],
-    "date": "2026-10-15"
-  },
-  {
-    "title": "OpenAI任命Uday Ruddarraju领导基础设施与算力业务",
-    "link": "https://www.pingwest.com/w/318385",
-    "source": "品玩",
-    "category": "other",
-    "summary": "opeani\n\n\n\nOpenAI任命Uday Ruddarraju领导基础设施与算力业务\n\n据 datacenterdynamics 报道，OpenAI已任命Uday Ruddarraju负责基础设施与算力业务，统筹Stargate及其他数据中心建设。Ruddarraju于2025年7月加入OpenAI，今年7月获任计算首席技术官，此次晋升由Bloomberg率先报道。",
-    "keywords": [
-      "AI",
-      "OpenAI"
-    ],
-    "date": "2026-10-15"
-  },
-  {
-    "title": "摩根大通禁止外部AI Agent操作客户账户",
-    "link": "https://www.pingwest.com/w/318384",
-    "source": "品玩",
-    "category": "other",
-    "summary": "摩根大通\n\n\n\n摩根大通禁止外部AI Agent操作客户账户\n\n据 aistockwire 报道，摩根大通CEO Jamie Dimon在10月13日第三季度财报电话会上表示，该行不会允许外部AI代理进入客户账户进行操作，称这对客户和银行而言风险过高。",
-    "keywords": [
-      "AI",
-      "Agent"
-    ],
-    "date": "2026-10-15"
   },
   {
     "title": "When it came to Cal AI’s viral success, a small army of influencers paid off",
@@ -342,84 +194,5 @@
       "Agent"
     ],
     "date": "2026-10-15"
-  },
-  {
-    "title": "Ricursive Intelligence is betting on AI-designed chips to help solve the compute crisis",
-    "link": "https://techcrunch.com/2026/10/14/ricursive-intelligence-is-betting-on-ai-designed-chips-to-help-solve-the-compute-crisis/",
-    "source": "TechCrunch",
-    "category": "other",
-    "summary": "The founders detailed how their startup is developing AI that can design chips, learn from each iteration, and improve subsequent designs, all with the goal of automating and accelerating the chip des",
-    "keywords": [
-      "AI"
-    ],
-    "date": "2026-10-15"
-  },
-  {
-    "title": "Gudea leverages AI to help organizations prevent social media crises before they erupt",
-    "link": "https://techcrunch.com/2026/10/14/gudea-leverages-ai-to-help-organizations-prevent-social-media-crises-before-they-erupt/",
-    "source": "TechCrunch",
-    "category": "other",
-    "summary": "Gudea, a company that tracks how stories and rumors spread online that describes itself as the “storm tracker for the internet,” is using AI to help organizations spot trouble brewing online before it",
-    "keywords": [
-      "AI"
-    ],
-    "date": "2026-10-15"
-  },
-  {
-    "title": "Apple发布AI智能显示屏HomeView 售价299美元",
-    "link": "https://www.pingwest.com/w/318362",
-    "source": "品玩",
-    "category": "other",
-    "summary": "苹果\n\n\n\nApple发布AI智能显示屏HomeView 售价299美元\n\nApple近日宣布，推出全新AI智能显示屏Apple HomeView，售价299美元，预计11月13日发售。",
-    "keywords": [
-      "AI",
-      "智能"
-    ],
-    "date": "2026-10-14"
-  },
-  {
-    "title": "千问办公电商版开启邀测，帮助商家用AI管理跨、多店铺、全流程生意",
-    "link": "https://www.pingwest.com/w/318361",
-    "source": "品玩",
-    "category": "other",
-    "summary": "千问\n\n\n\n千问办公电商版开启邀测，帮助商家用AI管理跨、多店铺、全流程生意",
-    "keywords": [
-      "AI"
-    ],
-    "date": "2026-10-14"
-  },
-  {
-    "title": "YouTube Music launches new labels as AI-generated music floods streaming platforms",
-    "link": "https://techcrunch.com/2026/10/14/youtube-music-launches-new-labels-as-ai-generated-music-floods-streaming-platforms/",
-    "source": "TechCrunch",
-    "category": "other",
-    "summary": "The label will appear on the player page and include songs entirely generated by AI or partially, such as AI involved in composition and vocals.",
-    "keywords": [
-      "AI"
-    ],
-    "date": "2026-10-14"
-  },
-  {
-    "title": "Apate sends AI agents undercover to get scammed so they can gather fraud intelligence",
-    "link": "https://techcrunch.com/2026/10/14/apate-sends-ai-agents-undercover-to-get-scammed-so-they-can-gather-fraud-intelligence/",
-    "source": "TechCrunch",
-    "category": "other",
-    "summary": "Most companies use AI agents to ship products faster or speed up workflows. Apate.ai sends them undercover to get scammed.",
-    "keywords": [
-      "AI",
-      "Agent"
-    ],
-    "date": "2026-10-14"
-  },
-  {
-    "title": "Deezer will soon let you filter out AI-generated music",
-    "link": "https://techcrunch.com/2026/10/14/deezer-will-soon-let-you-filter-out-ai-generated-music/",
-    "source": "TechCrunch",
-    "category": "other",
-    "summary": "Deezer said that the new toggle will be rolled out by the end of the year.",
-    "keywords": [
-      "AI"
-    ],
-    "date": "2026-10-14"
   }
 ]
