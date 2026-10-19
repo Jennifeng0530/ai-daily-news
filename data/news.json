@@ -1,5 +1,88 @@
 [
   {
+    "title": "六项评测超越GPT-6 Astra！大晓ACE-Brain-0.6以数据Scaling推动具身空间智能跃迁",
+    "link": "https://www.pingwest.com/w/318504",
+    "source": "品玩",
+    "category": "other",
+    "summary": "机器人\n\n\n\n六项评测超越GPT-6 Astra！大晓ACE-Brain-0.6以数据Scaling推动具身空间智能跃迁",
+    "keywords": [
+      "AI",
+      "GPT",
+      "机器人",
+      "智能"
+    ],
+    "date": "2026-10-19"
+  },
+  {
+    "title": "阿里速卖通：对优秀AI硬件品牌进行天使轮投资",
+    "link": "https://www.pingwest.com/w/318503",
+    "source": "品玩",
+    "category": "funding",
+    "summary": "速卖通\n\n\n\n阿里速卖通：对优秀AI硬件品牌进行天使轮投资",
+    "keywords": [
+      "AI"
+    ],
+    "date": "2026-10-19"
+  },
+  {
+    "title": "Anthropic拟以超10%收益率向黑石融资购买谷歌TPU芯片",
+    "link": "https://www.pingwest.com/w/318502",
+    "source": "品玩",
+    "category": "funding",
+    "summary": "aNTH\n\n\n\nAnthropic拟以超10%收益率向黑石融资购买谷歌TPU芯片\n\n据TipRanks报道，人工智能公司Anthropic正推进总额600亿美元的债务融资，用于采购谷歌的张量处理单元（TPU）芯片。",
+    "keywords": [
+      "人工智能",
+      "Anthropic",
+      "智能"
+    ],
+    "date": "2026-10-19"
+  },
+  {
+    "title": "微软退出Nscale英国数据中心项目 IPO前景受关注",
+    "link": "https://www.pingwest.com/w/318499",
+    "source": "品玩",
+    "category": "key_news",
+    "summary": "微软\n\n\n\n微软退出Nscale英国数据中心项目 IPO前景受关注\n\n据investing报道，微软已退出与英国AI基础设施服务商Nscale的一项数据中心合作，终止了位于埃塞克斯郡劳顿的数据中心协议。微软是Nscale两大核心客户之一，此次退出引发市场对其IPO计划的关注。",
+    "keywords": [
+      "AI"
+    ],
+    "date": "2026-10-19"
+  },
+  {
+    "title": "Meta删除商业条款中涉AI训练争议表述",
+    "link": "https://www.pingwest.com/w/318498",
+    "source": "品玩",
+    "category": "other",
+    "summary": "META\n\n\n\nMeta删除商业条款中涉AI训练争议表述\n\n据PCMAG报道，Meta近日更新商业服务条款引发行业争议，相关表述已被删除。修订后的条款明确，网络抓取仅适用于广告和商业产品，不改变现有网络爬虫使用方式，内容所有者仍可通过robots.txt表达偏好。",
+    "keywords": [
+      "AI"
+    ],
+    "date": "2026-10-19"
+  },
+  {
+    "title": "Anthropic says it’s committing 5% of its shares to a ‘public benefit fund’",
+    "link": "https://techcrunch.com/2026/10/18/anthropic-says-its-committing-5-of-its-shares-to-a-public-benefit-fund/",
+    "source": "TechCrunch",
+    "category": "other",
+    "summary": "Anthropic said that it will commit 5% of its shares to the fund.",
+    "keywords": [
+      "AI",
+      "Anthropic"
+    ],
+    "date": "2026-10-18"
+  },
+  {
+    "title": "Disney agrees to hire the majority of Character.AI’s workforce",
+    "link": "https://techcrunch.com/2026/10/18/disney-agrees-to-hire-the-majority-of-character-ais-workforce/",
+    "source": "TechCrunch",
+    "category": "other",
+    "summary": "The filing also says that the “vast majority” of Character.AI employees who were offered jobs at Disney accepted them. However, this is a stalking horse bid, so another company could come forward with",
+    "keywords": [
+      "AI"
+    ],
+    "date": "2026-10-18"
+  },
+  {
     "title": "Meta removes language that raised scraping and AI training concerns",
     "link": "https://techcrunch.com/2026/10/17/meta-removes-language-that-raised-scraping-and-ai-training-concerns/",
     "source": "TechCrunch",
@@ -300,53 +383,6 @@
     "date": "2026-10-15"
   },
   {
-    "title": "Nothing计划推出两款AI智能眼镜 预计2027年发布",
-    "link": "https://www.pingwest.com/w/318388",
-    "source": "品玩",
-    "category": "other",
-    "summary": "nothing\n\n\n\nNothing计划推出两款AI智能眼镜 预计2027年发布\n\n据 9to5Google 报道，科技品牌Nothing正筹备推出两款定位差异明显的智能眼镜，预计于2027年发布，相关消息由知名爆料人Roland Quandt披露。",
-    "keywords": [
-      "AI",
-      "智能"
-    ],
-    "date": "2026-10-15"
-  },
-  {
-    "title": "WorkBuddy 打通企业微信，腾讯把 AI 办公的竞争带进了自己的主场",
-    "link": "https://www.pingwest.com/a/318373",
-    "source": "品玩",
-    "category": "other",
-    "summary": "WorkBuddy 打通企业微信，腾讯把 AI 办公的竞争带进了自己的主场\n\nAI 办公不用改变原有架构。",
-    "keywords": [
-      "AI"
-    ],
-    "date": "2026-10-15"
-  },
-  {
-    "title": "OpenAI任命Uday Ruddarraju领导基础设施与算力业务",
-    "link": "https://www.pingwest.com/w/318385",
-    "source": "品玩",
-    "category": "other",
-    "summary": "opeani\n\n\n\nOpenAI任命Uday Ruddarraju领导基础设施与算力业务\n\n据 datacenterdynamics 报道，OpenAI已任命Uday Ruddarraju负责基础设施与算力业务，统筹Stargate及其他数据中心建设。Ruddarraju于2025年7月加入OpenAI，今年7月获任计算首席技术官，此次晋升由Bloomberg率先报道。",
-    "keywords": [
-      "AI",
-      "OpenAI"
-    ],
-    "date": "2026-10-15"
-  },
-  {
-    "title": "摩根大通禁止外部AI Agent操作客户账户",
-    "link": "https://www.pingwest.com/w/318384",
-    "source": "品玩",
-    "category": "other",
-    "summary": "摩根大通\n\n\n\n摩根大通禁止外部AI Agent操作客户账户\n\n据 aistockwire 报道，摩根大通CEO Jamie Dimon在10月13日第三季度财报电话会上表示，该行不会允许外部AI代理进入客户账户进行操作，称这对客户和银行而言风险过高。",
-    "keywords": [
-      "AI",
-      "Agent"
-    ],
-    "date": "2026-10-15"
-  },
-  {
     "title": "When it came to Cal AI’s viral success, a small army of influencers paid off",
     "link": "https://techcrunch.com/2026/10/15/when-it-came-to-cal-ais-viral-success-a-small-army-of-influencers-paid-off/",
     "source": "TechCrunch",
@@ -413,29 +449,5 @@
       "Agent"
     ],
     "date": "2026-10-15"
-  },
-  {
-    "title": "Google’s Universal Cart shopping tool launches in the US",
-    "link": "https://techcrunch.com/2026/10/15/googles-universal-cart-shopping-tool-launches-in-the-us/",
-    "source": "TechCrunch",
-    "category": "other",
-    "summary": "The new shopping tool is available in the U.S. across Google Search and the Gemini app.",
-    "keywords": [
-      "AI",
-      "Gemini"
-    ],
-    "date": "2026-10-15"
-  },
-  {
-    "title": "Apple发布AI智能显示屏HomeView 售价299美元",
-    "link": "https://www.pingwest.com/w/318362",
-    "source": "品玩",
-    "category": "other",
-    "summary": "苹果\n\n\n\nApple发布AI智能显示屏HomeView 售价299美元\n\nApple近日宣布，推出全新AI智能显示屏Apple HomeView，售价299美元，预计11月13日发售。",
-    "keywords": [
-      "AI",
-      "智能"
-    ],
-    "date": "2026-10-14"
   }
 ]
