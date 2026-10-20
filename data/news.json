@@ -1,5 +1,112 @@
 [
   {
+    "title": "OpenCode Console遭入侵致部分API密钥泄露 团队防御中遇模型拒答",
+    "link": "https://www.pingwest.com/w/318552",
+    "source": "品玩",
+    "category": "other",
+    "summary": "AI编程\n\n\n\nOpenCode Console遭入侵致部分API密钥泄露 团队防御中遇模型拒答\n\n据 TechCrunch 报道，开源AI编程工具OpenCode披露，攻击者未经授权访问其一套旧系统，导致OpenCode Console约1.4%用户受影响，部分工作区中保存的第三方API密钥可能泄露。",
+    "keywords": [
+      "AI"
+    ],
+    "date": "2026-10-20"
+  },
+  {
+    "title": "Replika创始人Eugenia Kuyda推出多用户个人AI助手Wabi 2.0",
+    "link": "https://www.pingwest.com/w/318549",
+    "source": "品玩",
+    "category": "other",
+    "summary": "agent\n\n\n\nReplika创始人Eugenia Kuyda推出多用户个人AI助手Wabi 2.0\n\n据 TechCrunch 报道，Eugenia Kuyda正式向所有用户推出个人AI助手Wabi 2.0。该产品以消息应用形态呈现，支持多智能体线程，用户可在不同线程中构建定制应用，如健康追踪器、家庭活动日历等。",
+    "keywords": [
+      "AI",
+      "Agent",
+      "智能"
+    ],
+    "date": "2026-10-20"
+  },
+  {
+    "title": "Meshy推出Meshy Edit：基于全新自研AI模型，一句指令实现3D模型局部编辑",
+    "link": "https://www.pingwest.com/w/318547",
+    "source": "品玩",
+    "category": "other",
+    "summary": "Meshy\n\n\n\nMeshy推出Meshy Edit：基于全新自研AI模型，一句指令实现3D模型局部编辑\n\n圈选修改区域，一句话描述改动，约一分钟生成新模型，未选中区域保持原样",
+    "keywords": [
+      "AI"
+    ],
+    "date": "2026-10-20"
+  },
+  {
+    "title": "AI编程工具掀起智能电视“去臃肿”风潮",
+    "link": "https://www.pingwest.com/w/318546",
+    "source": "品玩",
+    "category": "other",
+    "summary": "AI编程\n\n\n\nAI编程工具掀起智能电视“去臃肿”风潮\n\n据 TechCrunch 报道，近期，多名开发者利用Claude Code等AI编程工具，通过局域网调试通道对智能电视进行“瘦身”，移除预装应用、广告和追踪功能，并替换启动器。",
+    "keywords": [
+      "AI",
+      "Claude",
+      "智能"
+    ],
+    "date": "2026-10-20"
+  },
+  {
+    "title": "英伟达发布Nemotron 3.5 Super VL与Bolt系列开源模型",
+    "link": "https://www.pingwest.com/w/318545",
+    "source": "品玩",
+    "category": "other",
+    "summary": "英伟达\n\n\n\n英伟达发布Nemotron 3.5 Super VL与Bolt系列开源模型\n\n据 TechCrunch 报道，英伟达近日发布三款新的开源权重模型，面向常驻运行的企业级智能体与边缘计算场景。",
+    "keywords": [
+      "智能"
+    ],
+    "date": "2026-10-20"
+  },
+  {
+    "title": "OpenAI加速300亿美元融资 力争抢在Anthropic IPO前锁定资金",
+    "link": "https://www.pingwest.com/w/318542",
+    "source": "品玩",
+    "category": "key_news",
+    "summary": "OpenAI\n\n\n\nOpenAI加速300亿美元融资 力争抢在Anthropic IPO前锁定资金\n\n据AI Weekly报道，OpenAI正加速推进一轮约300亿美元融资，估值或超1.4万亿美元，力争在竞争对手Anthropic预计11月中旬IPO前锁定投资者承诺。",
+    "keywords": [
+      "AI",
+      "OpenAI",
+      "Anthropic"
+    ],
+    "date": "2026-10-20"
+  },
+  {
+    "title": "MiniMax发布M3.1 Flash模型 Agent性能与成本再突破",
+    "link": "https://www.pingwest.com/w/318541",
+    "source": "品玩",
+    "category": "other",
+    "summary": "MiniMax\n\n\n\nMiniMax发布M3.1 Flash模型 Agent性能与成本再突破\n\nMiniMax官方宣布，现已发布M3.1 Flash模型，此前以匿名身份处理超200T Token。",
+    "keywords": [
+      "Agent",
+      "MiniMax"
+    ],
+    "date": "2026-10-20"
+  },
+  {
+    "title": "Anthropic分享Claude Code代码审查流程：90%代码由Claude自身生成",
+    "link": "https://www.pingwest.com/w/318539",
+    "source": "品玩",
+    "category": "other",
+    "summary": "Anthropic\n\n\n\nAnthropic分享Claude Code代码审查流程：90%代码由Claude自身生成\n\nAnthropic官方近日发布博文，详细介绍Claude Code的代码审查流程。",
+    "keywords": [
+      "Anthropic",
+      "Claude"
+    ],
+    "date": "2026-10-20"
+  },
+  {
+    "title": "Mamdani says feds have abdicated on AI, urges New Yorkers to push back",
+    "link": "https://techcrunch.com/2026/10/19/mamdani-says-feds-have-abdicated-on-ai-urges-new-yorkers-to-push-back/",
+    "source": "TechCrunch",
+    "category": "other",
+    "summary": "Mayor Zohran Mamdani said Monday night that New Yorkers must resist the narrative that an AI takeover is inevitable and demand regulations that protect the public and put power back in their hands.",
+    "keywords": [
+      "AI"
+    ],
+    "date": "2026-10-20"
+  },
+  {
     "title": "中国办公Agent用户行为报告：近七成用户偏爱单模型，重度用户人均使用2.4个",
     "link": "https://www.pingwest.com/w/318535",
     "source": "品玩",
@@ -106,11 +213,104 @@
     "date": "2026-10-19"
   },
   {
+    "title": "Nscale and Anthropic are reportedly in talks for yet another $45B compute deal",
+    "link": "https://techcrunch.com/2026/10/19/nscale-and-anthropic-are-reportedly-in-talks-for-yet-another-45-billion-compute-deal/",
+    "source": "TechCrunch",
+    "category": "other",
+    "summary": "If the deal goes through, it would be the latest in a long string of giant compute deals Anthropic has struck over the past year.",
+    "keywords": [
+      "Anthropic"
+    ],
+    "date": "2026-10-19"
+  },
+  {
+    "title": "Embedded AI evaluators won’t be an easy solution, Hugging Face’s policy chief says",
+    "link": "https://techcrunch.com/2026/10/19/embedded-ai-evaluators-wont-be-an-easy-solution-hugging-faces-policy-chief-says/",
+    "source": "TechCrunch",
+    "category": "other",
+    "summary": "The idea of embedded evaluators — in which supposedly \"neutral\" third-party observers are placed inside AI organizations — has been popularized over the last several months, as AI labs grapple with a ",
+    "keywords": [
+      "AI"
+    ],
+    "date": "2026-10-19"
+  },
+  {
+    "title": "Microsoft says AI agents are like insider threats as ‘frontier models can’t be trusted’",
+    "link": "https://techcrunch.com/2026/10/19/microsoft-says-ai-agents-are-like-insider-threats-as-frontier-models-cant-be-trusted/",
+    "source": "TechCrunch",
+    "category": "other",
+    "summary": "Microsoft wants enterprises to closely watch the agents that employees use with systems not controlled by AI labs like OpenAI and Anthropic.",
+    "keywords": [
+      "AI",
+      "Agent",
+      "OpenAI",
+      "Anthropic"
+    ],
+    "date": "2026-10-19"
+  },
+  {
+    "title": "Amazon is taking its biggest shot at Nvidia yet with new TorchNeuron dev tool",
+    "link": "https://techcrunch.com/2026/10/19/amazon-is-taking-its-biggest-shot-at-nvidia-yet-with-new-torchneuron-dev-tool/",
+    "source": "TechCrunch",
+    "category": "other",
+    "summary": "Amazon wants to break Nvidia’s hold on PyTorch, the free toolkit used to build most AI apps, so that more developers run their apps on alternative chips like its own.",
+    "keywords": [
+      "AI"
+    ],
+    "date": "2026-10-19"
+  },
+  {
+    "title": "Hackers hit AI coding tool OpenCode, running up charges on users’ AI accounts",
+    "link": "https://techcrunch.com/2026/10/19/hackers-hit-ai-coding-tool-opencode-running-up-charges-on-users-ai-accounts/",
+    "source": "TechCrunch",
+    "category": "other",
+    "summary": "OpenCode is an open source AI coding agent that's become a popular alternative to Claude Code and Cursor. But hackers got into part of its online platform and stole some users’ API keys, and the AI to",
+    "keywords": [
+      "AI",
+      "Agent",
+      "Claude"
+    ],
+    "date": "2026-10-19"
+  },
+  {
+    "title": "Tolan snags $30M for its AI companion that helps users navigate life",
+    "link": "https://techcrunch.com/2026/10/19/tolan-snags-30m-for-its-ai-companion-that-helps-users-navigate-life/",
+    "source": "TechCrunch",
+    "category": "other",
+    "summary": "AI companion app Tolan has raised another $30 million after attracting more than 250,000 active users.",
+    "keywords": [
+      "AI"
+    ],
+    "date": "2026-10-19"
+  },
+  {
+    "title": "Replika’s founder built the AI assistant she pitched at Disrupt 12 years ago",
+    "link": "https://techcrunch.com/2026/10/19/replikas-founder-built-the-ai-assistant-she-pitched-at-disrupt-12-years-ago/",
+    "source": "TechCrunch",
+    "category": "other",
+    "summary": "Eugenia Kuyda's newest startup Wabi is positioned to take advantage of an idea she had more than a decade ago. Wabi offers a personal AI assistant with a twist, free and downloadable to anyone today.",
+    "keywords": [
+      "AI"
+    ],
+    "date": "2026-10-19"
+  },
+  {
+    "title": "Tenstorrent hits $6.2B valuation to scale open-weight AI chips",
+    "link": "https://techcrunch.com/2026/10/19/tenstorrent-hits-6-2b-valuation-to-scale-open-weight-ai-chips/",
+    "source": "TechCrunch",
+    "category": "funding",
+    "summary": "After drawing acquisition interest earlier this year, the Nvidia challenger raised $1.5 billion to remain independent.",
+    "keywords": [
+      "AI"
+    ],
+    "date": "2026-10-19"
+  },
+  {
     "title": "People are using AI to make their smart TVs dumb again",
     "link": "https://techcrunch.com/2026/10/19/people-are-using-ai-to-make-their-smart-tvs-dumb-again/",
     "source": "TechCrunch",
     "category": "other",
-    "summary": "Fed up with ads, tracking and sluggish interfaces, some smart TV owners are turning to AI agents to strip away bloatware and take back control of their TVs.",
+    "summary": "Fed up with ads, tracking, and sluggish interfaces, some smart TV owners are turning to AI agents to strip away bloatware and take back control of their TVs.",
     "keywords": [
       "AI",
       "Agent"
@@ -130,19 +330,30 @@
     "date": "2026-10-19"
   },
   {
+    "title": "Laplace Intelligence red-teams robots and self-driving cars before they hit the real world",
+    "link": "https://techcrunch.com/2026/10/19/laplace-intelligence-red-teams-robots-and-self-driving-cars-before-they-hit-the-real-world/",
+    "source": "TechCrunch",
+    "category": "other",
+    "summary": "University of Michigan spinout Laplace Intelligence uses AI agents and interactive simulation to stress-test robots and self-driving vehicles before deployment. The profitable startup is competing in ",
+    "keywords": [
+      "AI",
+      "Agent"
+    ],
+    "date": "2026-10-19"
+  },
+  {
     "title": "Anthropic says it’s committing 5% of its shares to a ‘public benefit fund’",
     "link": "https://techcrunch.com/2026/10/18/anthropic-says-its-committing-5-of-its-shares-to-a-public-benefit-fund/",
     "source": "TechCrunch",
     "category": "other",
-    "summary": "Anthropic said that it will commit 5% of its shares to the fund.",
+    "summary": "The company offered some broad-strokes ideas for how this money might actually be used, such as “large donations to traditional nonprofits or direct distributions to specific populations.”",
     "keywords": [
-      "AI",
       "Anthropic"
     ],
     "date": "2026-10-18"
   },
   {
-    "title": "Disney agrees to hire the majority of Character.AI’s workforce",
+    "title": "Disney agrees to hire the majority of Character AI’s workforce",
     "link": "https://techcrunch.com/2026/10/18/disney-agrees-to-hire-the-majority-of-character-ais-workforce/",
     "source": "TechCrunch",
     "category": "other",
@@ -179,12 +390,11 @@
     "link": "https://techcrunch.com/2026/10/17/replit-is-no-longer-working-with-anthropic-ceo-says/",
     "source": "TechCrunch",
     "category": "other",
-    "summary": "Over the weekend, Masad clarified that OpenAI would replace Anthropic as its default model provider. Claude will still be available to customers on the platform.",
+    "summary": "Masad said the decision was made for a number of different reasons, including cost. Replit announced a partnership with OpenAI in August, but there was never any indication that it was no longer partn",
     "keywords": [
       "AI",
       "OpenAI",
-      "Anthropic",
-      "Claude"
+      "Anthropic"
     ],
     "date": "2026-10-17"
   },
@@ -256,31 +466,6 @@
     "date": "2026-10-16"
   },
   {
-    "title": "亚马逊发布Bee AI穿戴设备 Frontier与Eclipse",
-    "link": "https://www.pingwest.com/w/318431",
-    "source": "品玩",
-    "category": "other",
-    "summary": "亚马逊\n\n\n\n亚马逊发布Bee AI穿戴设备 Frontier与Eclipse\n\n据 tech-insider 报道，亚马逊发布两款AI穿戴设备Bee Frontier和Bee Eclipse，售价分别为74.99美元和99.99美元。两款设备均可实时录音、转写并分析日常对话，自动生成摘要、待办事项与提醒。",
-    "keywords": [
-      "AI"
-    ],
-    "date": "2026-10-16"
-  },
-  {
-    "title": "xAI发布Grok Voice 3.0语音模型 已用于特斯拉与星链",
-    "link": "https://www.pingwest.com/w/318430",
-    "source": "品玩",
-    "category": "other",
-    "summary": "xAI\n\n\n\nxAI发布Grok Voice 3.0语音模型 已用于特斯拉与星链\n\n据 unite.ai 报道，xAI于10月14日发布Grok Voice 3.0语音转语音模型，称其为“全球最智能的语音模型”，延迟低于1秒，运行成本低于其他前沿模型。",
-    "keywords": [
-      "AI",
-      "xAI",
-      "Grok",
-      "智能"
-    ],
-    "date": "2026-10-16"
-  },
-  {
     "title": "India becomes the latest country to report rogue AI agent activity",
     "link": "https://techcrunch.com/2026/10/16/india-becomes-the-latest-country-to-report-rogue-ai-agent-activity/",
     "source": "TechCrunch",
@@ -314,153 +499,5 @@
       "AI"
     ],
     "date": "2026-10-16"
-  },
-  {
-    "title": "Elorian’s first AI model wants to reason with images, not just about them",
-    "link": "https://techcrunch.com/2026/10/16/elorians-first-ai-model-wants-to-reason-with-images-not-just-about-them/",
-    "source": "TechCrunch",
-    "category": "other",
-    "summary": "According to Elorian's evaluations, Glimpse outperforms even GPT-6 Astra on scientific chart reasoning and short-form video captioning, with competitive results on other visual reasoning tasks.",
-    "keywords": [
-      "AI",
-      "GPT"
-    ],
-    "date": "2026-10-16"
-  },
-  {
-    "title": "Jev is Vercel’s fastest-adopted AI model ever",
-    "link": "https://techcrunch.com/2026/10/16/jev-is-vercels-fastest-adopted-ai-model-ever/",
-    "source": "TechCrunch",
-    "category": "other",
-    "summary": "The data comes from Vercel's AI gateway, a unified API service similar to OpenRouter.",
-    "keywords": [
-      "AI"
-    ],
-    "date": "2026-10-16"
-  },
-  {
-    "title": "Mark Wahlberg on using AI in film ‘the right way’ and being open to an AI clone carrying on his legacy",
-    "link": "https://techcrunch.com/2026/10/16/mark-wahlberg-on-using-ai-in-film-the-right-way-and-being-open-to-an-ai-clone-carrying-on-his-legacy/",
-    "source": "TechCrunch",
-    "category": "other",
-    "summary": "Actor and angel investor Mark Wahlberg says he's OK with using AI in filmmaking, provided it's used \"to enhance what you're doing.\"",
-    "keywords": [
-      "AI"
-    ],
-    "date": "2026-10-16"
-  },
-  {
-    "title": "Replit’s CEO says the future of work is the ‘self-driving company’",
-    "link": "https://techcrunch.com/2026/10/16/replits-ceo-says-the-future-of-work-is-the-self-driving-company/",
-    "source": "TechCrunch",
-    "category": "other",
-    "summary": "Replit CEO Amjad Masad envisions a future of “self-driving companies,” where AI agents handle day-to-day tasks and people focus on higher-level decisions.",
-    "keywords": [
-      "AI",
-      "Agent"
-    ],
-    "date": "2026-10-16"
-  },
-  {
-    "title": "库克：苹果智能接入阿里千问大模型，10月底在中国发布测试版本",
-    "link": "https://www.pingwest.com/w/318419",
-    "source": "品玩",
-    "category": "other",
-    "summary": "苹果\n\n\n\n库克：苹果智能接入阿里千问大模型，10月底在中国发布测试版本",
-    "keywords": [
-      "大模型",
-      "智能"
-    ],
-    "date": "2026-10-15"
-  },
-  {
-    "title": "库克：Apple Intelligence 10月底在华推测试版，Siri AI 暂不上线",
-    "link": "https://www.pingwest.com/w/318417",
-    "source": "品玩",
-    "category": "other",
-    "summary": "苹果\n\n\n\n库克：Apple Intelligence 10月底在华推测试版，Siri AI 暂不上线\n\n据界面新闻报道，苹果董事会执行主席蒂姆·库克在上海走访期间接受媒体采访，确认 Apple Intelligence 及相关阿里千问大模型已获批准，将于10月晚些时候面向中国用户发布测试版本。",
-    "keywords": [
-      "AI",
-      "大模型"
-    ],
-    "date": "2026-10-15"
-  },
-  {
-    "title": "腾讯AI管家Marvis上架鸿蒙应用市场：手机在手，多台电脑远程帮你干活",
-    "link": "https://www.pingwest.com/w/318400",
-    "source": "品玩",
-    "category": "other",
-    "summary": "腾讯云\n\n\n\n腾讯AI管家Marvis上架鸿蒙应用市场：手机在手，多台电脑远程帮你干活\n\n腾讯",
-    "keywords": [
-      "AI"
-    ],
-    "date": "2026-10-15"
-  },
-  {
-    "title": "给物理AI建 “数据底座”：禾赛Kosmo三维世界数据引擎正式发布",
-    "link": "https://www.pingwest.com/w/318395",
-    "source": "品玩",
-    "category": "other",
-    "summary": "禾赛科技\n\n\n\n给物理AI建 “数据底座”：禾赛Kosmo三维世界数据引擎正式发布",
-    "keywords": [
-      "AI"
-    ],
-    "date": "2026-10-15"
-  },
-  {
-    "title": "When it came to Cal AI’s viral success, a small army of influencers paid off",
-    "link": "https://techcrunch.com/2026/10/15/when-it-came-to-cal-ais-viral-success-a-small-army-of-influencers-paid-off/",
-    "source": "TechCrunch",
-    "category": "other",
-    "summary": "The company generated over $30 million in revenue in two years and was acquired by MyFitnessPal for an undisclosed amount of money in March.",
-    "keywords": [
-      "AI"
-    ],
-    "date": "2026-10-15"
-  },
-  {
-    "title": "Meta launches an open-weight AI model that runs on Macs",
-    "link": "https://techcrunch.com/2026/10/15/meta-launches-an-open-weight-model-that-runs-on-macs/",
-    "source": "TechCrunch",
-    "category": "other",
-    "summary": "Meta and Apple have teamed up for the launch of the social media giant's newest model, Muse Spark Open, which will run locally on Apple silicon.",
-    "keywords": [
-      "AI"
-    ],
-    "date": "2026-10-15"
-  },
-  {
-    "title": "Amazon devices chief Panos Panay sees a future where AI devices replace the need to use apps",
-    "link": "https://techcrunch.com/2026/10/15/amazon-devices-chief-panos-panay-sees-a-future-where-ai-devices-replace-the-need-to-use-apps/",
-    "source": "TechCrunch",
-    "category": "other",
-    "summary": "Speaking at TechCrunch Disrupt, Amazon devices chief Panos Panay described a future where ambient AI devices work in the background, anticipating users' needs instead of waiting for commands.",
-    "keywords": [
-      "AI"
-    ],
-    "date": "2026-10-15"
-  },
-  {
-    "title": "Anthropic is letting METR researchers look under the hood with employee-level access",
-    "link": "https://techcrunch.com/2026/10/15/anthropic-is-letting-metr-researchers-look-under-the-hood-with-employee-level-access/",
-    "source": "TechCrunch",
-    "category": "other",
-    "summary": "METR will publish its own assessments of Anthropic’s risks, incidents, and practices, and the frontier AI model maker has given up the right to block them.",
-    "keywords": [
-      "AI",
-      "Anthropic"
-    ],
-    "date": "2026-10-15"
-  },
-  {
-    "title": "Bluesky expands its AI-powered Attie app to let anyone build websites, games, and more",
-    "link": "https://techcrunch.com/2026/10/15/bluesky-expands-its-ai-powered-attie-app-to-let-anyone-build-websites-games-and-more/",
-    "source": "TechCrunch",
-    "category": "other",
-    "summary": "Bluesky is bringing “social vibe coding” to its experimental Attie platform, allowing users to create interactive experiences like games, quizzes, and websites that can tap into the social network's a",
-    "keywords": [
-      "AI"
-    ],
-    "date": "2026-10-15"
   }
 ]
