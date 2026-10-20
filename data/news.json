@@ -96,6 +96,62 @@
     "date": "2026-10-20"
   },
   {
+    "title": "Figma co-founder Dylan Field thinks MCP is not a perfect protocol",
+    "link": "https://techcrunch.com/2026/10/20/figma-co-founder-dylan-field-thinks-mcp-is-not-a-perfect-protocol/",
+    "source": "TechCrunch",
+    "category": "other",
+    "summary": "Figma said it plans to support as many standards as possible without exposing all of its data",
+    "keywords": [
+      "AI"
+    ],
+    "date": "2026-10-20"
+  },
+  {
+    "title": "US orders federal agencies to remove China’s DeepSeek AI from their systems",
+    "link": "https://techcrunch.com/2026/10/20/us-orders-federal-agencies-to-remove-chinas-deepseek-ai-from-their-systems/",
+    "source": "TechCrunch",
+    "category": "other",
+    "summary": "The US has ordered federal civilian agencies to remove DeepSeek products and third-party services built using its technology, citing national security concerns.",
+    "keywords": [
+      "AI",
+      "DeepSeek"
+    ],
+    "date": "2026-10-20"
+  },
+  {
+    "title": "Eka is worth $1.45B thanks to a physical AI model that has experts raving",
+    "link": "https://techcrunch.com/2026/10/20/eka-is-worth-1-45-billion-thanks-to-a-physical-ai-model-that-has-experts-raving/",
+    "source": "TechCrunch",
+    "category": "other",
+    "summary": "Eka Robotics may be the first robotic arm that is actually good at picking a wide range of objects up, and it is so smooth and human-like, it is wowing the industry.",
+    "keywords": [
+      "AI"
+    ],
+    "date": "2026-10-20"
+  },
+  {
+    "title": "Otter.ai raises $320 million from General Catalyst’s growth fund for its meeting tool",
+    "link": "https://techcrunch.com/2026/10/20/otter-ai-raises-320-million-from-general-catalysts-growth-fund-for-its-meeting-tool/",
+    "source": "TechCrunch",
+    "category": "funding",
+    "summary": "Meeting note-taking tool Otter.ai announced on Tuesday that it has raised $320 million from General Catalyst&#8217;s Customer Value Fund (CVF), which provides capital to startups without diluting equi",
+    "keywords": [
+      "AI"
+    ],
+    "date": "2026-10-20"
+  },
+  {
+    "title": "Yelp can now call on your behalf to check wait times at a restaurant",
+    "link": "https://techcrunch.com/2026/10/20/yelp-can-now-call-on-your-behalf-to-check-wait-times-at-a-restaurant/",
+    "source": "TechCrunch",
+    "category": "other",
+    "summary": "Yelp is embedding numerous new AI features into its app that can do everything from call to check on restaurant wait times to create personalized recommendations that remember your preferences.",
+    "keywords": [
+      "AI"
+    ],
+    "date": "2026-10-20"
+  },
+  {
     "title": "Mamdani says feds have abdicated on AI, urges New Yorkers to push back",
     "link": "https://techcrunch.com/2026/10/19/mamdani-says-feds-have-abdicated-on-ai-urges-new-yorkers-to-push-back/",
     "source": "TechCrunch",
@@ -375,30 +431,6 @@
     "date": "2026-10-17"
   },
   {
-    "title": "Anthropic says its workforce has become less junior and is spending more time in meetings",
-    "link": "https://techcrunch.com/2026/10/17/anthropic-says-its-workforce-has-become-less-junior-and-is-spending-more-time-in-meetings/",
-    "source": "TechCrunch",
-    "category": "other",
-    "summary": "The composition of Anthropic’s workforce and the type of work getting done have changed significantly in the past year.",
-    "keywords": [
-      "Anthropic"
-    ],
-    "date": "2026-10-17"
-  },
-  {
-    "title": "Replit makes OpenAI its default over Anthropic, CEO says",
-    "link": "https://techcrunch.com/2026/10/17/replit-is-no-longer-working-with-anthropic-ceo-says/",
-    "source": "TechCrunch",
-    "category": "other",
-    "summary": "Masad said the decision was made for a number of different reasons, including cost. Replit announced a partnership with OpenAI in August, but there was never any indication that it was no longer partn",
-    "keywords": [
-      "AI",
-      "OpenAI",
-      "Anthropic"
-    ],
-    "date": "2026-10-17"
-  },
-  {
     "title": "WPS移动版完成iPhone Duo适配：全形态自适应、分屏双开与伴随式AI侧栏上线",
     "link": "https://www.pingwest.com/w/318474",
     "source": "品玩",
@@ -439,64 +471,6 @@
     "summary": "Anthropic\n\n\n\nAnthropic向METR开放员工级访问权限 引入独立安全评估\n\n据 TechCrunch 报道，Anthropic于10月15日宣布，已向非营利机构METR的6名研究人员提供员工级访问权限，以独立评估其模型、安全实践及风险管理。METR研究人员将获得公司笔记本电脑、办公空间及与内部风险评估团队大致同级的内部工具访问权限。",
     "keywords": [
       "Anthropic"
-    ],
-    "date": "2026-10-16"
-  },
-  {
-    "title": "英伟达发布Nemotron 3.5 Super VL及两款端侧模型",
-    "link": "https://www.pingwest.com/w/318438",
-    "source": "品玩",
-    "category": "other",
-    "summary": "英伟达\n\n\n\n英伟达发布Nemotron 3.5 Super VL及两款端侧模型\n\n英伟达近日发布开放多模态模型Nemotron 3.5 Super VL，总参数1200亿、激活参数120亿，面向需持续运行的AI智能体。该模型将推理、工具调用与文本、图像、文档、视频理解整合为一体，英伟达称其吞吐量最高可达同类开放模型的5倍。",
-    "keywords": [
-      "AI",
-      "智能"
-    ],
-    "date": "2026-10-16"
-  },
-  {
-    "title": "小鹏新爆款预定，MONA L05开启预售，锚定年轻人第一台智能时尚大五座SUV",
-    "link": "https://www.pingwest.com/w/318435",
-    "source": "品玩",
-    "category": "other",
-    "summary": "小鹏\n\n\n\n小鹏新爆款预定，MONA L05开启预售，锚定年轻人第一台智能时尚大五座SUV",
-    "keywords": [
-      "智能"
-    ],
-    "date": "2026-10-16"
-  },
-  {
-    "title": "India becomes the latest country to report rogue AI agent activity",
-    "link": "https://techcrunch.com/2026/10/16/india-becomes-the-latest-country-to-report-rogue-ai-agent-activity/",
-    "source": "TechCrunch",
-    "category": "other",
-    "summary": "The agents got in through credentials and connection settings left exposed in app configurations, public code repositories, and overly permissive cloud roles.",
-    "keywords": [
-      "AI",
-      "Agent"
-    ],
-    "date": "2026-10-16"
-  },
-  {
-    "title": "An Nvidia insider-turned-VC on why robotics hasn’t hit its ChatGPT moment, yet",
-    "link": "https://techcrunch.com/video/a-nvidia-insider-turned-vc-on-why-robotics-hasnt-hit-its-chatgpt-moment-yet/",
-    "source": "TechCrunch",
-    "category": "other",
-    "summary": "Amulya Vishwanath, who spent seven years leading product marketing for NVIDIA’s robotics platforms, says robotics is currently in its “Lego era,” with the basic building blocks like actuators, robotic",
-    "keywords": [
-      "GPT",
-      "ChatGPT"
-    ],
-    "date": "2026-10-16"
-  },
-  {
-    "title": "Physical AI is more than robots, says the Nvidia veteran now investing in it",
-    "link": "https://techcrunch.com/podcast/physical-ai-is-more-than-robots-says-the-nvidia-veteran-now-investing-in-it/",
-    "source": "TechCrunch",
-    "category": "other",
-    "summary": "Amulya Vishwanath, who spent seven years leading product marketing for NVIDIA’s robotics platforms, says robotics is currently in its “Lego era,” with the basic building blocks like actuators, robotic",
-    "keywords": [
-      "AI"
     ],
     "date": "2026-10-16"
   }
