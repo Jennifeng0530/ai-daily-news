@@ -1,106 +1,10 @@
 [
   {
-    "title": "OpenCode Console遭入侵致部分API密钥泄露 团队防御中遇模型拒答",
-    "link": "https://www.pingwest.com/w/318552",
-    "source": "品玩",
-    "category": "other",
-    "summary": "AI编程\n\n\n\nOpenCode Console遭入侵致部分API密钥泄露 团队防御中遇模型拒答\n\n据 TechCrunch 报道，开源AI编程工具OpenCode披露，攻击者未经授权访问其一套旧系统，导致OpenCode Console约1.4%用户受影响，部分工作区中保存的第三方API密钥可能泄露。",
-    "keywords": [
-      "AI"
-    ],
-    "date": "2026-10-20"
-  },
-  {
-    "title": "Replika创始人Eugenia Kuyda推出多用户个人AI助手Wabi 2.0",
-    "link": "https://www.pingwest.com/w/318549",
-    "source": "品玩",
-    "category": "other",
-    "summary": "agent\n\n\n\nReplika创始人Eugenia Kuyda推出多用户个人AI助手Wabi 2.0\n\n据 TechCrunch 报道，Eugenia Kuyda正式向所有用户推出个人AI助手Wabi 2.0。该产品以消息应用形态呈现，支持多智能体线程，用户可在不同线程中构建定制应用，如健康追踪器、家庭活动日历等。",
-    "keywords": [
-      "AI",
-      "Agent",
-      "智能"
-    ],
-    "date": "2026-10-20"
-  },
-  {
-    "title": "Meshy推出Meshy Edit：基于全新自研AI模型，一句指令实现3D模型局部编辑",
-    "link": "https://www.pingwest.com/w/318547",
-    "source": "品玩",
-    "category": "other",
-    "summary": "Meshy\n\n\n\nMeshy推出Meshy Edit：基于全新自研AI模型，一句指令实现3D模型局部编辑\n\n圈选修改区域，一句话描述改动，约一分钟生成新模型，未选中区域保持原样",
-    "keywords": [
-      "AI"
-    ],
-    "date": "2026-10-20"
-  },
-  {
-    "title": "AI编程工具掀起智能电视“去臃肿”风潮",
-    "link": "https://www.pingwest.com/w/318546",
-    "source": "品玩",
-    "category": "other",
-    "summary": "AI编程\n\n\n\nAI编程工具掀起智能电视“去臃肿”风潮\n\n据 TechCrunch 报道，近期，多名开发者利用Claude Code等AI编程工具，通过局域网调试通道对智能电视进行“瘦身”，移除预装应用、广告和追踪功能，并替换启动器。",
-    "keywords": [
-      "AI",
-      "Claude",
-      "智能"
-    ],
-    "date": "2026-10-20"
-  },
-  {
-    "title": "英伟达发布Nemotron 3.5 Super VL与Bolt系列开源模型",
-    "link": "https://www.pingwest.com/w/318545",
-    "source": "品玩",
-    "category": "other",
-    "summary": "英伟达\n\n\n\n英伟达发布Nemotron 3.5 Super VL与Bolt系列开源模型\n\n据 TechCrunch 报道，英伟达近日发布三款新的开源权重模型，面向常驻运行的企业级智能体与边缘计算场景。",
-    "keywords": [
-      "智能"
-    ],
-    "date": "2026-10-20"
-  },
-  {
-    "title": "OpenAI加速300亿美元融资 力争抢在Anthropic IPO前锁定资金",
-    "link": "https://www.pingwest.com/w/318542",
-    "source": "品玩",
-    "category": "key_news",
-    "summary": "OpenAI\n\n\n\nOpenAI加速300亿美元融资 力争抢在Anthropic IPO前锁定资金\n\n据AI Weekly报道，OpenAI正加速推进一轮约300亿美元融资，估值或超1.4万亿美元，力争在竞争对手Anthropic预计11月中旬IPO前锁定投资者承诺。",
-    "keywords": [
-      "AI",
-      "OpenAI",
-      "Anthropic"
-    ],
-    "date": "2026-10-20"
-  },
-  {
-    "title": "MiniMax发布M3.1 Flash模型 Agent性能与成本再突破",
-    "link": "https://www.pingwest.com/w/318541",
-    "source": "品玩",
-    "category": "other",
-    "summary": "MiniMax\n\n\n\nMiniMax发布M3.1 Flash模型 Agent性能与成本再突破\n\nMiniMax官方宣布，现已发布M3.1 Flash模型，此前以匿名身份处理超200T Token。",
-    "keywords": [
-      "Agent",
-      "MiniMax"
-    ],
-    "date": "2026-10-20"
-  },
-  {
-    "title": "Anthropic分享Claude Code代码审查流程：90%代码由Claude自身生成",
-    "link": "https://www.pingwest.com/w/318539",
-    "source": "品玩",
-    "category": "other",
-    "summary": "Anthropic\n\n\n\nAnthropic分享Claude Code代码审查流程：90%代码由Claude自身生成\n\nAnthropic官方近日发布博文，详细介绍Claude Code的代码审查流程。",
-    "keywords": [
-      "Anthropic",
-      "Claude"
-    ],
-    "date": "2026-10-20"
-  },
-  {
     "title": "Anthropic pitches AI safety bill that may block a model if 50+ people could be killed",
     "link": "https://techcrunch.com/2026/10/20/anthropic-pitches-ai-safety-bill-that-may-block-a-model-if-50-people-could-be-killed/",
     "source": "TechCrunch",
     "category": "other",
-    "summary": "The proposed policy seems to offer protections against AI run amok but actually forbids federal agencies from blocking a model's release without the permission of a judge.",
+    "summary": "The proposed policy seems to offer protections against AI running amok but actually forbids federal agencies from blocking a model's release without the permission of a judge.",
     "keywords": [
       "AI",
       "Anthropic"
@@ -112,7 +16,7 @@
     "link": "https://techcrunch.com/2026/10/20/hugging-face-ceo-warns-that-netflixs-openai-hack-documentary-isnt-accurate/",
     "source": "TechCrunch",
     "category": "other",
-    "summary": "Before you share the Netflix documentary \"AI Gone Rogue\" take note. Clem Delangue, Hugging Face's co-founder who is featured in the film, says it went \"full doomer mode\" and isn't accurate.",
+    "summary": "Before you share the Netflix documentary \"AI Gone Rogue,\" take note. Clem Delangue, Hugging Face's co-founder who is featured in the film, says it went \"full doomer mode\" and isn't accurate.",
     "keywords": [
       "AI",
       "OpenAI"
@@ -135,7 +39,7 @@
     "link": "https://techcrunch.com/2026/10/20/spacexs-ai-business-is-beating-expectations/",
     "source": "TechCrunch",
     "category": "other",
-    "summary": "SpaceX hit profitably in the third-quarter, with net income of $4.4 billion. AI was the engine.",
+    "summary": "SpaceX hit profitability in the third quarter, with net income of $4.4 billion. AI was the engine.",
     "keywords": [
       "AI"
     ],
@@ -290,112 +194,6 @@
     "date": "2026-10-20"
   },
   {
-    "title": "中国办公Agent用户行为报告：近七成用户偏爱单模型，重度用户人均使用2.4个",
-    "link": "https://www.pingwest.com/w/318535",
-    "source": "品玩",
-    "category": "other",
-    "summary": "网易\n\n\n\n中国办公Agent用户行为报告：近七成用户偏爱单模型，重度用户人均使用2.4个",
-    "keywords": [
-      "Agent"
-    ],
-    "date": "2026-10-19"
-  },
-  {
-    "title": "Anthropic发布工作报告：AI重塑用工结构 初级技术岗缩减",
-    "link": "https://www.pingwest.com/w/318510",
-    "source": "品玩",
-    "category": "other",
-    "summary": "Anthropic\n\n\n\nAnthropic发布工作报告：AI重塑用工结构 初级技术岗缩减\n\n据 TechCrunch 报道，Anthropic发布工作报告，披露过去一年公司用工结构和业务模式的显著变化。",
-    "keywords": [
-      "AI",
-      "Anthropic"
-    ],
-    "date": "2026-10-19"
-  },
-  {
-    "title": "OpenAI API现三个神秘Aurora模型标识 官方未予确认",
-    "link": "https://www.pingwest.com/w/318507",
-    "source": "品玩",
-    "category": "other",
-    "summary": "OpenAI\n\n\n\nOpenAI API现三个神秘Aurora模型标识 官方未予确认\n\n据orcaroute 报道，三个名为aurora-blue-alpha、aurora-green-alpha和aurora-red-alpha的模型标识出现在OpenAI API模型列表中，创建时间集中在97秒内，所有者字段为system且无关闭日期。该发现由CellCog通过认证密钥查询模型列表端点确认，三标",
-    "keywords": [
-      "AI",
-      "OpenAI"
-    ],
-    "date": "2026-10-19"
-  },
-  {
-    "title": "阿里速卖通：对优秀AI硬件品牌进行天使轮投资",
-    "link": "https://www.pingwest.com/w/318506",
-    "source": "品玩",
-    "category": "funding",
-    "summary": "速卖通\n\n\n\n阿里速卖通：对优秀AI硬件品牌进行天使轮投资",
-    "keywords": [
-      "AI"
-    ],
-    "date": "2026-10-19"
-  },
-  {
-    "title": "六项评测超越GPT-6 Astra！大晓ACE-Brain-0.6以数据Scaling推动具身空间智能跃迁",
-    "link": "https://www.pingwest.com/w/318504",
-    "source": "品玩",
-    "category": "other",
-    "summary": "机器人\n\n\n\n六项评测超越GPT-6 Astra！大晓ACE-Brain-0.6以数据Scaling推动具身空间智能跃迁",
-    "keywords": [
-      "AI",
-      "GPT",
-      "机器人",
-      "智能"
-    ],
-    "date": "2026-10-19"
-  },
-  {
-    "title": "阿里速卖通：对优秀AI硬件品牌进行天使轮投资",
-    "link": "https://www.pingwest.com/w/318503",
-    "source": "品玩",
-    "category": "funding",
-    "summary": "速卖通\n\n\n\n阿里速卖通：对优秀AI硬件品牌进行天使轮投资",
-    "keywords": [
-      "AI"
-    ],
-    "date": "2026-10-19"
-  },
-  {
-    "title": "Anthropic拟以超10%收益率向黑石融资购买谷歌TPU芯片",
-    "link": "https://www.pingwest.com/w/318502",
-    "source": "品玩",
-    "category": "funding",
-    "summary": "aNTH\n\n\n\nAnthropic拟以超10%收益率向黑石融资购买谷歌TPU芯片\n\n据TipRanks报道，人工智能公司Anthropic正推进总额600亿美元的债务融资，用于采购谷歌的张量处理单元（TPU）芯片。",
-    "keywords": [
-      "人工智能",
-      "Anthropic",
-      "智能"
-    ],
-    "date": "2026-10-19"
-  },
-  {
-    "title": "微软退出Nscale英国数据中心项目 IPO前景受关注",
-    "link": "https://www.pingwest.com/w/318499",
-    "source": "品玩",
-    "category": "key_news",
-    "summary": "微软\n\n\n\n微软退出Nscale英国数据中心项目 IPO前景受关注\n\n据investing报道，微软已退出与英国AI基础设施服务商Nscale的一项数据中心合作，终止了位于埃塞克斯郡劳顿的数据中心协议。微软是Nscale两大核心客户之一，此次退出引发市场对其IPO计划的关注。",
-    "keywords": [
-      "AI"
-    ],
-    "date": "2026-10-19"
-  },
-  {
-    "title": "Meta删除商业条款中涉AI训练争议表述",
-    "link": "https://www.pingwest.com/w/318498",
-    "source": "品玩",
-    "category": "other",
-    "summary": "META\n\n\n\nMeta删除商业条款中涉AI训练争议表述\n\n据PCMAG报道，Meta近日更新商业服务条款引发行业争议，相关表述已被删除。修订后的条款明确，网络抓取仅适用于广告和商业产品，不改变现有网络爬虫使用方式，内容所有者仍可通过robots.txt表达偏好。",
-    "keywords": [
-      "AI"
-    ],
-    "date": "2026-10-19"
-  },
-  {
     "title": "Nscale and Anthropic are reportedly in talks for yet another $45B compute deal",
     "link": "https://techcrunch.com/2026/10/19/nscale-and-anthropic-are-reportedly-in-talks-for-yet-another-45-billion-compute-deal/",
     "source": "TechCrunch",
@@ -430,49 +228,5 @@
       "Anthropic"
     ],
     "date": "2026-10-19"
-  },
-  {
-    "title": "WPS移动版完成iPhone Duo适配：全形态自适应、分屏双开与伴随式AI侧栏上线",
-    "link": "https://www.pingwest.com/w/318474",
-    "source": "品玩",
-    "category": "other",
-    "summary": "WPS\n\n\n\nWPS移动版完成iPhone Duo适配：全形态自适应、分屏双开与伴随式AI侧栏上线",
-    "keywords": [
-      "AI"
-    ],
-    "date": "2026-10-16"
-  },
-  {
-    "title": "2026 AI Cloud 100 China榜单发布：一目科技代表Physical AI赛道入选",
-    "link": "https://www.pingwest.com/w/318471",
-    "source": "品玩",
-    "category": "other",
-    "summary": "一目科技\n\n\n\n2026 AI Cloud 100 China榜单发布：一目科技代表Physical AI赛道入选",
-    "keywords": [
-      "AI"
-    ],
-    "date": "2026-10-16"
-  },
-  {
-    "title": "PrismML发布Ternary Bonsai 2系列端侧模型",
-    "link": "https://www.pingwest.com/w/318451",
-    "source": "品玩",
-    "category": "other",
-    "summary": "PrismML\n\n\n\nPrismML发布Ternary Bonsai 2系列端侧模型\n\nAI公司PrismML官方近日宣布扩展Bonsai 2系列，推出基于Qwen3.5的三款三元权重模型：Ternary Bonsai 2 2B、4B和9B，与已发布的27B版本共同覆盖从轻量到复杂任务的端侧部署需求。",
-    "keywords": [
-      "AI"
-    ],
-    "date": "2026-10-16"
-  },
-  {
-    "title": "Anthropic向METR开放员工级访问权限 引入独立安全评估",
-    "link": "https://www.pingwest.com/w/318447",
-    "source": "品玩",
-    "category": "other",
-    "summary": "Anthropic\n\n\n\nAnthropic向METR开放员工级访问权限 引入独立安全评估\n\n据 TechCrunch 报道，Anthropic于10月15日宣布，已向非营利机构METR的6名研究人员提供员工级访问权限，以独立评估其模型、安全实践及风险管理。METR研究人员将获得公司笔记本电脑、办公空间及与内部风险评估团队大致同级的内部工具访问权限。",
-    "keywords": [
-      "Anthropic"
-    ],
-    "date": "2026-10-16"
   }
 ]
