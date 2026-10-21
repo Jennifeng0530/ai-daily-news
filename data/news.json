@@ -96,11 +96,138 @@
     "date": "2026-10-20"
   },
   {
+    "title": "Anthropic pitches AI safety bill that may block a model if 50+ people could be killed",
+    "link": "https://techcrunch.com/2026/10/20/anthropic-pitches-ai-safety-bill-that-may-block-a-model-if-50-people-could-be-killed/",
+    "source": "TechCrunch",
+    "category": "other",
+    "summary": "The proposed policy seems to offer protections against AI run amok but actually forbids federal agencies from blocking a model's release without the permission of a judge.",
+    "keywords": [
+      "AI",
+      "Anthropic"
+    ],
+    "date": "2026-10-20"
+  },
+  {
+    "title": "Hugging Face CEO warns that Netflix’s OpenAI hack documentary isn’t accurate",
+    "link": "https://techcrunch.com/2026/10/20/hugging-face-ceo-warns-that-netflixs-openai-hack-documentary-isnt-accurate/",
+    "source": "TechCrunch",
+    "category": "other",
+    "summary": "Before you share the Netflix documentary \"AI Gone Rogue\" take note. Clem Delangue, Hugging Face's co-founder who is featured in the film, says it went \"full doomer mode\" and isn't accurate.",
+    "keywords": [
+      "AI",
+      "OpenAI"
+    ],
+    "date": "2026-10-20"
+  },
+  {
+    "title": "Anthropic’s cloud partnerships are getting messy",
+    "link": "https://techcrunch.com/2026/10/20/anthropics-cloud-partnerships-are-getting-messy/",
+    "source": "TechCrunch",
+    "category": "other",
+    "summary": "Anthropic is reportedly struggling to secure enough compute from cloud providers that increasingly view it as a competitor, even as its infrastructure spending balloons ahead of a planned November IPO",
+    "keywords": [
+      "Anthropic"
+    ],
+    "date": "2026-10-20"
+  },
+  {
+    "title": "SpaceX’s AI business is beating expectations",
+    "link": "https://techcrunch.com/2026/10/20/spacexs-ai-business-is-beating-expectations/",
+    "source": "TechCrunch",
+    "category": "other",
+    "summary": "SpaceX hit profitably in the third-quarter, with net income of $4.4 billion. AI was the engine.",
+    "keywords": [
+      "AI"
+    ],
+    "date": "2026-10-20"
+  },
+  {
+    "title": "OpenAI acquires startup Orchestra Bio⁠ to beef up its biotech business",
+    "link": "https://techcrunch.com/2026/10/20/openai-acquires-startup-orchestra-bio%e2%81%a0-to-beef-up-its-biotech-business/",
+    "source": "TechCrunch",
+    "category": "other",
+    "summary": "OpenAI says it's adding Orchestra's team and technology to work on Rosalind, its AI model for life sciences research, and to its related Rosalind Workbench tool, a harness that aims to help researcher",
+    "keywords": [
+      "AI",
+      "OpenAI"
+    ],
+    "date": "2026-10-20"
+  },
+  {
+    "title": "Google has joined Amazon in attacking Nvidia’s stronghold with AI app developers",
+    "link": "https://techcrunch.com/2026/10/20/google-has-joined-amazon-in-attacking-nvidias-stronghold-with-ai-app-developers/",
+    "source": "TechCrunch",
+    "category": "other",
+    "summary": "Google has joined Amazon in releasing a developer tool that makes it easy for PyTorch users to move their apps off Nvidia GPUs.",
+    "keywords": [
+      "AI"
+    ],
+    "date": "2026-10-20"
+  },
+  {
+    "title": "ChatGPT now lets you lock your chats",
+    "link": "https://techcrunch.com/2026/10/20/chatgpt-now-lets-you-lock-your-chats/",
+    "source": "TechCrunch",
+    "category": "other",
+    "summary": "The company says the feature is designed for situations where users might be discussing something personal or planning a surprise and want to keep those conversations private when handing their device",
+    "keywords": [
+      "GPT",
+      "ChatGPT"
+    ],
+    "date": "2026-10-20"
+  },
+  {
+    "title": "Eric Schmidt reportedly owns about half as much of Anthropic as CEO Dario Amodei",
+    "link": "https://techcrunch.com/2026/10/20/eric-schmidt-reportedly-owns-about-half-as-much-of-anthropic-as-ceo-dario-amodei/",
+    "source": "TechCrunch",
+    "category": "other",
+    "summary": "Eric Schmidt’s fortune is about to get even bigger.",
+    "keywords": [
+      "Anthropic"
+    ],
+    "date": "2026-10-20"
+  },
+  {
+    "title": "Meta’s Muse hits 10M US downloads in 40 days, a milestone reached by only 11 other apps",
+    "link": "https://techcrunch.com/2026/10/20/metas-muse-hits-10m-u-s-downloads-in-40-days-a-milestone-reached-by-only-11-other-apps/",
+    "source": "TechCrunch",
+    "category": "other",
+    "summary": "New data also shows Muse is retaining users at higher rates than its AI rivals.",
+    "keywords": [
+      "AI"
+    ],
+    "date": "2026-10-20"
+  },
+  {
+    "title": "Ex-Nvidia-turned-VC Amulya Vishwanath: ‘Physical AI is in its LEGO era’",
+    "link": "https://techcrunch.com/2026/10/20/ex-nvidia-turned-vc-amulya-vishwanath-physical-ai-is-in-its-lego-era/",
+    "source": "TechCrunch",
+    "category": "other",
+    "summary": "It’s the moment everyone is waiting for — the ChatGPT moment for robotics, Amulya Vishwanath explained to TechCrunch’s Equity.",
+    "keywords": [
+      "AI",
+      "GPT",
+      "ChatGPT"
+    ],
+    "date": "2026-10-20"
+  },
+  {
+    "title": "Plants can speak using electricity, so this startup built an AI model to decipher their language",
+    "link": "https://techcrunch.com/2026/10/20/plants-can-speak-using-electricity-so-this-startup-built-an-ai-model-to-decipher-their-language/",
+    "source": "TechCrunch",
+    "category": "other",
+    "summary": "Electric Plant has built an AI-powered translator to help humans listen to what plants are saying with the subtle electricity coursing through their stems.",
+    "keywords": [
+      "AI"
+    ],
+    "date": "2026-10-20"
+  },
+  {
     "title": "Figma co-founder Dylan Field thinks MCP is not a perfect protocol",
     "link": "https://techcrunch.com/2026/10/20/figma-co-founder-dylan-field-thinks-mcp-is-not-a-perfect-protocol/",
     "source": "TechCrunch",
     "category": "other",
-    "summary": "Figma said it plans to support as many standards as possible without exposing all of its data",
+    "summary": "Figma said it plans to support as many standards as possible without exposing all of its data.",
     "keywords": [
       "AI"
     ],
@@ -111,7 +238,7 @@
     "link": "https://techcrunch.com/2026/10/20/us-orders-federal-agencies-to-remove-chinas-deepseek-ai-from-their-systems/",
     "source": "TechCrunch",
     "category": "other",
-    "summary": "The US has ordered federal civilian agencies to remove DeepSeek products and third-party services built using its technology, citing national security concerns.",
+    "summary": "The U.S. has ordered federal civilian agencies to remove DeepSeek products and third-party services built using its technology, citing national security concerns.",
     "keywords": [
       "AI",
       "DeepSeek"
@@ -123,18 +250,7 @@
     "link": "https://techcrunch.com/2026/10/20/eka-is-worth-1-45-billion-thanks-to-a-physical-ai-model-that-has-experts-raving/",
     "source": "TechCrunch",
     "category": "other",
-    "summary": "Eka Robotics may be the first robotic arm that is actually good at picking a wide range of objects up, and it is so smooth and human-like, it is wowing the industry.",
-    "keywords": [
-      "AI"
-    ],
-    "date": "2026-10-20"
-  },
-  {
-    "title": "Otter.ai raises $320 million from General Catalyst’s growth fund for its meeting tool",
-    "link": "https://techcrunch.com/2026/10/20/otter-ai-raises-320-million-from-general-catalysts-growth-fund-for-its-meeting-tool/",
-    "source": "TechCrunch",
-    "category": "funding",
-    "summary": "Meeting note-taking tool Otter.ai announced on Tuesday that it has raised $320 million from General Catalyst&#8217;s Customer Value Fund (CVF), which provides capital to startups without diluting equi",
+    "summary": "Eka Robotics may be the first robotic arm that is actually good at picking up a wide range of objects, and it is so smooth and human-like, it is wowing the industry.",
     "keywords": [
       "AI"
     ],
@@ -146,6 +262,17 @@
     "source": "TechCrunch",
     "category": "other",
     "summary": "Yelp is embedding numerous new AI features into its app that can do everything from call to check on restaurant wait times to create personalized recommendations that remember your preferences.",
+    "keywords": [
+      "AI"
+    ],
+    "date": "2026-10-20"
+  },
+  {
+    "title": "Otter AI raises $320M from General Catalyst’s growth fund for its meeting tool",
+    "link": "https://techcrunch.com/2026/10/20/otter-ai-raises-320-million-from-general-catalysts-growth-fund-for-its-meeting-tool/",
+    "source": "TechCrunch",
+    "category": "funding",
+    "summary": "Otter.ai said that it will use these funds for enterprise growth, go-to-market strategy, international expansion, and product innovation.",
     "keywords": [
       "AI"
     ],
@@ -303,132 +430,6 @@
       "Anthropic"
     ],
     "date": "2026-10-19"
-  },
-  {
-    "title": "Amazon is taking its biggest shot at Nvidia yet with new TorchNeuron dev tool",
-    "link": "https://techcrunch.com/2026/10/19/amazon-is-taking-its-biggest-shot-at-nvidia-yet-with-new-torchneuron-dev-tool/",
-    "source": "TechCrunch",
-    "category": "other",
-    "summary": "Amazon wants to break Nvidia’s hold on PyTorch, the free toolkit used to build most AI apps, so that more developers run their apps on alternative chips like its own.",
-    "keywords": [
-      "AI"
-    ],
-    "date": "2026-10-19"
-  },
-  {
-    "title": "Hackers hit AI coding tool OpenCode, running up charges on users’ AI accounts",
-    "link": "https://techcrunch.com/2026/10/19/hackers-hit-ai-coding-tool-opencode-running-up-charges-on-users-ai-accounts/",
-    "source": "TechCrunch",
-    "category": "other",
-    "summary": "OpenCode is an open source AI coding agent that's become a popular alternative to Claude Code and Cursor. But hackers got into part of its online platform and stole some users’ API keys, and the AI to",
-    "keywords": [
-      "AI",
-      "Agent",
-      "Claude"
-    ],
-    "date": "2026-10-19"
-  },
-  {
-    "title": "Tolan snags $30M for its AI companion that helps users navigate life",
-    "link": "https://techcrunch.com/2026/10/19/tolan-snags-30m-for-its-ai-companion-that-helps-users-navigate-life/",
-    "source": "TechCrunch",
-    "category": "other",
-    "summary": "AI companion app Tolan has raised another $30 million after attracting more than 250,000 active users.",
-    "keywords": [
-      "AI"
-    ],
-    "date": "2026-10-19"
-  },
-  {
-    "title": "Replika’s founder built the AI assistant she pitched at Disrupt 12 years ago",
-    "link": "https://techcrunch.com/2026/10/19/replikas-founder-built-the-ai-assistant-she-pitched-at-disrupt-12-years-ago/",
-    "source": "TechCrunch",
-    "category": "other",
-    "summary": "Eugenia Kuyda's newest startup Wabi is positioned to take advantage of an idea she had more than a decade ago. Wabi offers a personal AI assistant with a twist, free and downloadable to anyone today.",
-    "keywords": [
-      "AI"
-    ],
-    "date": "2026-10-19"
-  },
-  {
-    "title": "Tenstorrent hits $6.2B valuation to scale open-weight AI chips",
-    "link": "https://techcrunch.com/2026/10/19/tenstorrent-hits-6-2b-valuation-to-scale-open-weight-ai-chips/",
-    "source": "TechCrunch",
-    "category": "funding",
-    "summary": "After drawing acquisition interest earlier this year, the Nvidia challenger raised $1.5 billion to remain independent.",
-    "keywords": [
-      "AI"
-    ],
-    "date": "2026-10-19"
-  },
-  {
-    "title": "People are using AI to make their smart TVs dumb again",
-    "link": "https://techcrunch.com/2026/10/19/people-are-using-ai-to-make-their-smart-tvs-dumb-again/",
-    "source": "TechCrunch",
-    "category": "other",
-    "summary": "Fed up with ads, tracking, and sluggish interfaces, some smart TV owners are turning to AI agents to strip away bloatware and take back control of their TVs.",
-    "keywords": [
-      "AI",
-      "Agent"
-    ],
-    "date": "2026-10-19"
-  },
-  {
-    "title": "Nvidia launches new open models to run agents in the enterprise and on PCs",
-    "link": "https://techcrunch.com/2026/10/19/nvidia-launches-new-open-models-to-run-agents-in-the-enterprise-and-on-pcs/",
-    "source": "TechCrunch",
-    "category": "other",
-    "summary": "Nvidia is leaning hard into the trend of enterprise companies wanting to run their own open models in their own data centers and also trying to make on-device, private AI agents a thing.",
-    "keywords": [
-      "AI",
-      "Agent"
-    ],
-    "date": "2026-10-19"
-  },
-  {
-    "title": "Laplace Intelligence red-teams robots and self-driving cars before they hit the real world",
-    "link": "https://techcrunch.com/2026/10/19/laplace-intelligence-red-teams-robots-and-self-driving-cars-before-they-hit-the-real-world/",
-    "source": "TechCrunch",
-    "category": "other",
-    "summary": "University of Michigan spinout Laplace Intelligence uses AI agents and interactive simulation to stress-test robots and self-driving vehicles before deployment. The profitable startup is competing in ",
-    "keywords": [
-      "AI",
-      "Agent"
-    ],
-    "date": "2026-10-19"
-  },
-  {
-    "title": "Anthropic says it’s committing 5% of its shares to a ‘public benefit fund’",
-    "link": "https://techcrunch.com/2026/10/18/anthropic-says-its-committing-5-of-its-shares-to-a-public-benefit-fund/",
-    "source": "TechCrunch",
-    "category": "other",
-    "summary": "The company offered some broad-strokes ideas for how this money might actually be used, such as “large donations to traditional nonprofits or direct distributions to specific populations.”",
-    "keywords": [
-      "Anthropic"
-    ],
-    "date": "2026-10-18"
-  },
-  {
-    "title": "Disney agrees to hire the majority of Character AI’s workforce",
-    "link": "https://techcrunch.com/2026/10/18/disney-agrees-to-hire-the-majority-of-character-ais-workforce/",
-    "source": "TechCrunch",
-    "category": "other",
-    "summary": "The filing also says that the “vast majority” of Character.AI employees who were offered jobs at Disney accepted them. However, this is a stalking horse bid, so another company could come forward with",
-    "keywords": [
-      "AI"
-    ],
-    "date": "2026-10-18"
-  },
-  {
-    "title": "Meta removes language that raised scraping and AI training concerns",
-    "link": "https://techcrunch.com/2026/10/17/meta-removes-language-that-raised-scraping-and-ai-training-concerns/",
-    "source": "TechCrunch",
-    "category": "funding",
-    "summary": "A Meta spokesperson insisted that the updated terms did not reflect a change in the way Meta crawls the web.",
-    "keywords": [
-      "AI"
-    ],
-    "date": "2026-10-17"
   },
   {
     "title": "WPS移动版完成iPhone Duo适配：全形态自适应、分屏双开与伴随式AI侧栏上线",
