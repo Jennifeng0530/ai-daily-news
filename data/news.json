@@ -1,5 +1,84 @@
 [
   {
+    "title": "Blackstone’s Jas Khaira says fears over AI-buildout debt are overblown",
+    "link": "https://techcrunch.com/2026/10/21/blackstones-jas-khaira-says-fears-over-ai-buildout-debt-are-overblown/",
+    "source": "TechCrunch",
+    "category": "other",
+    "summary": "Blackstone’s AI head on why the PE giant isn't panicked by market jitters.",
+    "keywords": [
+      "AI"
+    ],
+    "date": "2026-10-21"
+  },
+  {
+    "title": "TechCrunch Founder Summit 2026: Everything you need to know",
+    "link": "https://techcrunch.com/2026/10/21/techcrunch-founder-summit-2026-everything-you-need-to-know/",
+    "source": "TechCrunch",
+    "category": "other",
+    "summary": "TechCrunch Founder Summit is a full-day gathering in Boston on November 4 where founders across all stages connect with top VCs and experienced entrepreneurs to gain tactical insights on building and ",
+    "keywords": [
+      "AI"
+    ],
+    "date": "2026-10-21"
+  },
+  {
+    "title": "Meta says Muse has over 10M users, with shopping a top activity",
+    "link": "https://techcrunch.com/2026/10/21/meta-says-muse-has-over-10m-users-with-shopping-a-top-activity/",
+    "source": "TechCrunch",
+    "category": "other",
+    "summary": "Meta Muse users are adopting the app for shopping and personal productivity, the company said during Q3 earnings. The AI app now has over 10M users.",
+    "keywords": [
+      "AI"
+    ],
+    "date": "2026-10-21"
+  },
+  {
+    "title": "Recursive launches Flint, a laptop coding model it says was largely built by AI",
+    "link": "https://techcrunch.com/2026/10/21/recursive-launches-flint-a-laptop-coding-model-it-says-was-largely-built-by-ai/",
+    "source": "TechCrunch",
+    "category": "other",
+    "summary": "Startup Recursive has released Flint, a free, laptop-sized coding model built largely by its own AI research system, as an early test of AI that improves itself.",
+    "keywords": [
+      "AI"
+    ],
+    "date": "2026-10-21"
+  },
+  {
+    "title": "While Amazon blocks AI agents, Walmart rolls out the welcome mat",
+    "link": "https://techcrunch.com/2026/10/21/while-amazon-blocks-ai-agents-walmart-rolls-out-the-welcome-mat/",
+    "source": "TechCrunch",
+    "category": "other",
+    "summary": "As Amazon blocks AI agents from shopping on its site, Walmart is taking the opposite approach, introducing new technology that lets AI agents make purchases on customers' behalf, with controls over sp",
+    "keywords": [
+      "AI",
+      "Agent"
+    ],
+    "date": "2026-10-21"
+  },
+  {
+    "title": "PHP Armageddon: OpenAI, Google’s Wiz find ancient holes, panicking the internet",
+    "link": "https://techcrunch.com/2026/10/21/php-armageddon-openai-googles-wiz-find-ancient-holes-panicking-the-internet/",
+    "source": "TechCrunch",
+    "category": "other",
+    "summary": "This is the kind of security issue that was found and prevented by AI, but is also a high risk because of AI.",
+    "keywords": [
+      "AI",
+      "OpenAI"
+    ],
+    "date": "2026-10-21"
+  },
+  {
+    "title": "Blacksmith hits unicorn valuation after Sequoia leads Series C",
+    "link": "https://techcrunch.com/2026/10/21/blacksmith-hits-unicorn-valuation-after-sequoia-leads-series-c/",
+    "source": "TechCrunch",
+    "category": "funding",
+    "summary": "Blacksmith, a platform that lets companies build and test AI code more effectively, just announced a $66 million Series C round led by Sequoia that values the company at $1 billion.",
+    "keywords": [
+      "AI"
+    ],
+    "date": "2026-10-21"
+  },
+  {
     "title": "AI promises productivity, but for managers, it’s mostly a headache for now",
     "link": "https://techcrunch.com/2026/10/21/ai-promises-productivity-but-for-managers-its-mostly-a-headache-for-now-says-new-survey/",
     "source": "TechCrunch",
@@ -245,62 +324,6 @@
     "date": "2026-10-20"
   },
   {
-    "title": "US orders federal agencies to remove China’s DeepSeek AI from their systems",
-    "link": "https://techcrunch.com/2026/10/20/us-orders-federal-agencies-to-remove-chinas-deepseek-ai-from-their-systems/",
-    "source": "TechCrunch",
-    "category": "other",
-    "summary": "The U.S. has ordered federal civilian agencies to remove DeepSeek products and third-party services built using its technology, citing national security concerns.",
-    "keywords": [
-      "AI",
-      "DeepSeek"
-    ],
-    "date": "2026-10-20"
-  },
-  {
-    "title": "Eka is worth $1.45B thanks to a physical AI model that has experts raving",
-    "link": "https://techcrunch.com/2026/10/20/eka-is-worth-1-45-billion-thanks-to-a-physical-ai-model-that-has-experts-raving/",
-    "source": "TechCrunch",
-    "category": "other",
-    "summary": "Eka Robotics may be the first robotic arm that is actually good at picking up a wide range of objects, and it is so smooth and human-like, it is wowing the industry.",
-    "keywords": [
-      "AI"
-    ],
-    "date": "2026-10-20"
-  },
-  {
-    "title": "Yelp can now call on your behalf to check wait times at a restaurant",
-    "link": "https://techcrunch.com/2026/10/20/yelp-can-now-call-on-your-behalf-to-check-wait-times-at-a-restaurant/",
-    "source": "TechCrunch",
-    "category": "other",
-    "summary": "Yelp is embedding numerous new AI features into its app that can do everything from call to check on restaurant wait times to create personalized recommendations that remember your preferences.",
-    "keywords": [
-      "AI"
-    ],
-    "date": "2026-10-20"
-  },
-  {
-    "title": "Otter AI raises $320M from General Catalyst’s growth fund for its meeting tool",
-    "link": "https://techcrunch.com/2026/10/20/otter-ai-raises-320-million-from-general-catalysts-growth-fund-for-its-meeting-tool/",
-    "source": "TechCrunch",
-    "category": "funding",
-    "summary": "Otter.ai said that it will use these funds for enterprise growth, go-to-market strategy, international expansion, and product innovation.",
-    "keywords": [
-      "AI"
-    ],
-    "date": "2026-10-20"
-  },
-  {
-    "title": "Mamdani says feds have abdicated on AI, urges New Yorkers to push back",
-    "link": "https://techcrunch.com/2026/10/19/mamdani-says-feds-have-abdicated-on-ai-urges-new-yorkers-to-push-back/",
-    "source": "TechCrunch",
-    "category": "other",
-    "summary": "Mayor Zohran Mamdani said Monday night that New Yorkers must resist the narrative that an AI takeover is inevitable and demand regulations that protect the public and put power back in their hands.",
-    "keywords": [
-      "AI"
-    ],
-    "date": "2026-10-20"
-  },
-  {
     "title": "中国办公Agent用户行为报告：近七成用户偏爱单模型，重度用户人均使用2.4个",
     "link": "https://www.pingwest.com/w/318535",
     "source": "品玩",
@@ -401,28 +424,6 @@
     "source": "品玩",
     "category": "other",
     "summary": "META\n\n\n\nMeta删除商业条款中涉AI训练争议表述\n\n据PCMAG报道，Meta近日更新商业服务条款引发行业争议，相关表述已被删除。修订后的条款明确，网络抓取仅适用于广告和商业产品，不改变现有网络爬虫使用方式，内容所有者仍可通过robots.txt表达偏好。",
-    "keywords": [
-      "AI"
-    ],
-    "date": "2026-10-19"
-  },
-  {
-    "title": "Nscale and Anthropic are reportedly in talks for yet another $45B compute deal",
-    "link": "https://techcrunch.com/2026/10/19/nscale-and-anthropic-are-reportedly-in-talks-for-yet-another-45-billion-compute-deal/",
-    "source": "TechCrunch",
-    "category": "other",
-    "summary": "If the deal goes through, it would be the latest in a long string of giant compute deals Anthropic has struck over the past year.",
-    "keywords": [
-      "Anthropic"
-    ],
-    "date": "2026-10-19"
-  },
-  {
-    "title": "Embedded AI evaluators won’t be an easy solution, Hugging Face’s policy chief says",
-    "link": "https://techcrunch.com/2026/10/19/embedded-ai-evaluators-wont-be-an-easy-solution-hugging-faces-policy-chief-says/",
-    "source": "TechCrunch",
-    "category": "other",
-    "summary": "The idea of embedded evaluators — in which supposedly \"neutral\" third-party observers are placed inside AI organizations — has been popularized over the last several months, as AI labs grapple with a ",
     "keywords": [
       "AI"
     ],
