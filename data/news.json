@@ -11,6 +11,43 @@
     "date": "2026-10-22"
   },
   {
+    "title": "Claude Duet app is Anthropic’s bet on agents",
+    "link": "https://techcrunch.com/2026/10/22/claude-duet-app-is-anthropics-bet-on-agents/",
+    "source": "TechCrunch",
+    "category": "other",
+    "summary": "Claude Duet is available through waitlist for Pro and Max plan users",
+    "keywords": [
+      "AI",
+      "Agent",
+      "Anthropic",
+      "Claude"
+    ],
+    "date": "2026-10-22"
+  },
+  {
+    "title": "Nirva raises $33M for a pendant that only listens to you",
+    "link": "https://techcrunch.com/2026/10/22/nirva-raises-33m-for-a-pendant-that-only-listens-to-you/",
+    "source": "TechCrunch",
+    "category": "funding",
+    "summary": "Nirva will ship its $249 ambient AI pendant by the end of the year.",
+    "keywords": [
+      "AI"
+    ],
+    "date": "2026-10-22"
+  },
+  {
+    "title": "DeepSeek reportedly raises $15B days after US restrictions",
+    "link": "https://techcrunch.com/2026/10/22/deepseek-reportedly-raises-15b-days-after-us-restrictions/",
+    "source": "TechCrunch",
+    "category": "funding",
+    "summary": "DeepSeek has reportedly raised $15 billion in one of China's largest funding rounds, just days after the US ordered federal agencies to remove its technology over national security concerns.",
+    "keywords": [
+      "AI",
+      "DeepSeek"
+    ],
+    "date": "2026-10-22"
+  },
+  {
     "title": "Blackstone’s Jas Khaira says fears over AI-buildout debt are overblown",
     "link": "https://techcrunch.com/2026/10/21/blackstones-jas-khaira-says-fears-over-ai-buildout-debt-are-overblown/",
     "source": "TechCrunch",
@@ -300,41 +337,6 @@
     "date": "2026-10-20"
   },
   {
-    "title": "Ex-Nvidia-turned-VC Amulya Vishwanath: ‘Physical AI is in its LEGO era’",
-    "link": "https://techcrunch.com/2026/10/20/ex-nvidia-turned-vc-amulya-vishwanath-physical-ai-is-in-its-lego-era/",
-    "source": "TechCrunch",
-    "category": "other",
-    "summary": "It’s the moment everyone is waiting for — the ChatGPT moment for robotics, Amulya Vishwanath explained to TechCrunch’s Equity.",
-    "keywords": [
-      "AI",
-      "GPT",
-      "ChatGPT"
-    ],
-    "date": "2026-10-20"
-  },
-  {
-    "title": "Plants can speak using electricity, so this startup built an AI model to decipher their language",
-    "link": "https://techcrunch.com/2026/10/20/plants-can-speak-using-electricity-so-this-startup-built-an-ai-model-to-decipher-their-language/",
-    "source": "TechCrunch",
-    "category": "other",
-    "summary": "Electric Plant has built an AI-powered translator to help humans listen to what plants are saying with the subtle electricity coursing through their stems.",
-    "keywords": [
-      "AI"
-    ],
-    "date": "2026-10-20"
-  },
-  {
-    "title": "Figma co-founder Dylan Field thinks MCP is not a perfect protocol",
-    "link": "https://techcrunch.com/2026/10/20/figma-co-founder-dylan-field-thinks-mcp-is-not-a-perfect-protocol/",
-    "source": "TechCrunch",
-    "category": "other",
-    "summary": "Figma said it plans to support as many standards as possible without exposing all of its data.",
-    "keywords": [
-      "AI"
-    ],
-    "date": "2026-10-20"
-  },
-  {
     "title": "中国办公Agent用户行为报告：近七成用户偏爱单模型，重度用户人均使用2.4个",
     "link": "https://www.pingwest.com/w/318535",
     "source": "品玩",
@@ -390,30 +392,6 @@
       "AI",
       "GPT",
       "机器人",
-      "智能"
-    ],
-    "date": "2026-10-19"
-  },
-  {
-    "title": "阿里速卖通：对优秀AI硬件品牌进行天使轮投资",
-    "link": "https://www.pingwest.com/w/318503",
-    "source": "品玩",
-    "category": "funding",
-    "summary": "速卖通\n\n\n\n阿里速卖通：对优秀AI硬件品牌进行天使轮投资",
-    "keywords": [
-      "AI"
-    ],
-    "date": "2026-10-19"
-  },
-  {
-    "title": "Anthropic拟以超10%收益率向黑石融资购买谷歌TPU芯片",
-    "link": "https://www.pingwest.com/w/318502",
-    "source": "品玩",
-    "category": "funding",
-    "summary": "aNTH\n\n\n\nAnthropic拟以超10%收益率向黑石融资购买谷歌TPU芯片\n\n据TipRanks报道，人工智能公司Anthropic正推进总额600亿美元的债务融资，用于采购谷歌的张量处理单元（TPU）芯片。",
-    "keywords": [
-      "人工智能",
-      "Anthropic",
       "智能"
     ],
     "date": "2026-10-19"
