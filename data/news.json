@@ -1,5 +1,16 @@
 [
   {
+    "title": "WPS for iPhone Duo正式上线：大屏表格、双开对照与AI侧栏全面落地",
+    "link": "https://www.pingwest.com/w/318729",
+    "source": "品玩",
+    "category": "other",
+    "summary": "WPS\n\n\n\nWPS for iPhone Duo正式上线：大屏表格、双开对照与AI侧栏全面落地",
+    "keywords": [
+      "AI"
+    ],
+    "date": "2026-10-23"
+  },
+  {
     "title": "360纳米Work升级AI编辑器，文档、图片、视频实现“一切皆可编辑”",
     "link": "https://www.pingwest.com/w/318670",
     "source": "品玩",
@@ -27,6 +38,17 @@
     "source": "品玩",
     "category": "other",
     "summary": "金碟\n\n\n\n金蝶徐少春：企业AI转型，一把手要做“首席实践官”",
+    "keywords": [
+      "AI"
+    ],
+    "date": "2026-10-23"
+  },
+  {
+    "title": "Uber rival inDrive eyes 2027 robotaxi tests in Central Asia with Pony.ai and Nvidia",
+    "link": "https://techcrunch.com/2026/10/22/uber-rival-indrive-eyes-2027-robotaxi-tests-in-central-asia-with-pony-ai-and-nvidia/",
+    "source": "TechCrunch",
+    "category": "other",
+    "summary": "inDrive plans to begin testing Pony.ai's robotaxis in Kazakhstan's capital in the first half of 2027.",
     "keywords": [
       "AI"
     ],
@@ -267,17 +289,6 @@
     "date": "2026-10-21"
   },
   {
-    "title": "Blacksmith hits unicorn valuation after Sequoia leads Series C",
-    "link": "https://techcrunch.com/2026/10/21/blacksmith-hits-unicorn-valuation-after-sequoia-leads-series-c/",
-    "source": "TechCrunch",
-    "category": "funding",
-    "summary": "Blacksmith, a platform that lets companies build and test AI code more effectively, just announced a $66 million Series C round led by Sequoia that values the company at $1 billion.",
-    "keywords": [
-      "AI"
-    ],
-    "date": "2026-10-21"
-  },
-  {
     "title": "OpenCode Console遭入侵致部分API密钥泄露 团队防御中遇模型拒答",
     "link": "https://www.pingwest.com/w/318552",
     "source": "品玩",
@@ -358,18 +369,6 @@
     "keywords": [
       "Agent",
       "MiniMax"
-    ],
-    "date": "2026-10-20"
-  },
-  {
-    "title": "Anthropic分享Claude Code代码审查流程：90%代码由Claude自身生成",
-    "link": "https://www.pingwest.com/w/318539",
-    "source": "品玩",
-    "category": "other",
-    "summary": "Anthropic\n\n\n\nAnthropic分享Claude Code代码审查流程：90%代码由Claude自身生成\n\nAnthropic官方近日发布博文，详细介绍Claude Code的代码审查流程。",
-    "keywords": [
-      "Anthropic",
-      "Claude"
     ],
     "date": "2026-10-20"
   }
