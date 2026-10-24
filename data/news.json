@@ -1,5 +1,28 @@
 [
   {
+    "title": "荣耀亮相 CEIC：Magic9 领衔 AI 智能体手机 全场景 AI 生态加速落地",
+    "link": "https://www.pingwest.com/w/318737",
+    "source": "品玩",
+    "category": "other",
+    "summary": "荣耀\n\n\n\n荣耀亮相 CEIC：Magic9 领衔 AI 智能体手机 全场景 AI 生态加速落地",
+    "keywords": [
+      "AI",
+      "智能"
+    ],
+    "date": "2026-10-23"
+  },
+  {
+    "title": "iQOO 亮相 Unreal Fest Shanghai 2026，分享移动游戏图形与性能优化进展",
+    "link": "https://www.pingwest.com/w/318736",
+    "source": "品玩",
+    "category": "other",
+    "summary": "iQOO\n\n\n\niQOO 亮相 Unreal Fest Shanghai 2026，分享移动游戏图形与性能优化进展",
+    "keywords": [
+      "AI"
+    ],
+    "date": "2026-10-23"
+  },
+  {
     "title": "WPS for iPhone Duo正式上线：大屏表格、双开对照与AI侧栏全面落地",
     "link": "https://www.pingwest.com/w/318729",
     "source": "品玩",
@@ -44,11 +67,34 @@
     "date": "2026-10-23"
   },
   {
-    "title": "Uber rival inDrive eyes 2027 robotaxi tests in Central Asia with Pony.ai and Nvidia",
+    "title": "OpenAI says it will no longer train its AI models on the live internet, citing “significant risks”",
+    "link": "https://techcrunch.com/2026/10/23/openai-says-it-will-no-longer-train-its-ai-models-on-the-live-internet-citing-significant-risks/",
+    "source": "TechCrunch",
+    "category": "other",
+    "summary": "OpenAI will cut frontier models off from the internet weeks after one of its engineers said that solution wouldn't work.",
+    "keywords": [
+      "AI",
+      "OpenAI"
+    ],
+    "date": "2026-10-23"
+  },
+  {
+    "title": "From Toast to Bessemer: Who founders will hear from at TechCrunch Founder Summit 2026",
+    "link": "https://techcrunch.com/2026/10/23/from-toast-to-bessemer-who-founders-will-hear-from-at-techcrunch-founder-summit-2026/",
+    "source": "TechCrunch",
+    "category": "other",
+    "summary": "Hosted by TechCrunch in partnership with Fidelity Private Shares, the full-day event goes beyond fundraising and AI to explore the realities of finding customers, building teams, sharpening a pitch, d",
+    "keywords": [
+      "AI"
+    ],
+    "date": "2026-10-23"
+  },
+  {
+    "title": "Uber rival inDrive eyes 2027 robotaxi tests in Central Asia with Pony AI and Nvidia",
     "link": "https://techcrunch.com/2026/10/22/uber-rival-indrive-eyes-2027-robotaxi-tests-in-central-asia-with-pony-ai-and-nvidia/",
     "source": "TechCrunch",
     "category": "other",
-    "summary": "inDrive plans to begin testing Pony.ai's robotaxis in Kazakhstan's capital in the first half of 2027.",
+    "summary": "The company plans to begin testing Pony.ai's robotaxis in Kazakhstan's capital in the first half of 2027.",
     "keywords": [
       "AI"
     ],
@@ -254,41 +300,6 @@
     "date": "2026-10-21"
   },
   {
-    "title": "Recursive launches Flint, a laptop coding model it says was largely built by AI",
-    "link": "https://techcrunch.com/2026/10/21/recursive-launches-flint-a-laptop-coding-model-it-says-was-largely-built-by-ai/",
-    "source": "TechCrunch",
-    "category": "other",
-    "summary": "Startup Recursive has released Flint, a free, laptop-sized coding model built largely by its own AI research system, as an early test of AI that improves itself.",
-    "keywords": [
-      "AI"
-    ],
-    "date": "2026-10-21"
-  },
-  {
-    "title": "While Amazon blocks AI agents, Walmart rolls out the welcome mat",
-    "link": "https://techcrunch.com/2026/10/21/while-amazon-blocks-ai-agents-walmart-rolls-out-the-welcome-mat/",
-    "source": "TechCrunch",
-    "category": "other",
-    "summary": "As Amazon blocks AI agents from shopping on its site, Walmart is taking the opposite approach, introducing new technology that lets AI agents make purchases on customers' behalf, with controls over sp",
-    "keywords": [
-      "AI",
-      "Agent"
-    ],
-    "date": "2026-10-21"
-  },
-  {
-    "title": "PHP Armageddon: OpenAI, Google’s Wiz find ancient holes, panicking the internet",
-    "link": "https://techcrunch.com/2026/10/21/php-armageddon-openai-googles-wiz-find-ancient-holes-panicking-the-internet/",
-    "source": "TechCrunch",
-    "category": "other",
-    "summary": "This is the kind of security issue that was found and prevented by AI, but is also a high risk because of AI.",
-    "keywords": [
-      "AI",
-      "OpenAI"
-    ],
-    "date": "2026-10-21"
-  },
-  {
     "title": "OpenCode Console遭入侵致部分API密钥泄露 团队防御中遇模型拒答",
     "link": "https://www.pingwest.com/w/318552",
     "source": "品玩",
@@ -344,31 +355,6 @@
     "summary": "英伟达\n\n\n\n英伟达发布Nemotron 3.5 Super VL与Bolt系列开源模型\n\n据 TechCrunch 报道，英伟达近日发布三款新的开源权重模型，面向常驻运行的企业级智能体与边缘计算场景。",
     "keywords": [
       "智能"
-    ],
-    "date": "2026-10-20"
-  },
-  {
-    "title": "OpenAI加速300亿美元融资 力争抢在Anthropic IPO前锁定资金",
-    "link": "https://www.pingwest.com/w/318542",
-    "source": "品玩",
-    "category": "key_news",
-    "summary": "OpenAI\n\n\n\nOpenAI加速300亿美元融资 力争抢在Anthropic IPO前锁定资金\n\n据AI Weekly报道，OpenAI正加速推进一轮约300亿美元融资，估值或超1.4万亿美元，力争在竞争对手Anthropic预计11月中旬IPO前锁定投资者承诺。",
-    "keywords": [
-      "AI",
-      "OpenAI",
-      "Anthropic"
-    ],
-    "date": "2026-10-20"
-  },
-  {
-    "title": "MiniMax发布M3.1 Flash模型 Agent性能与成本再突破",
-    "link": "https://www.pingwest.com/w/318541",
-    "source": "品玩",
-    "category": "other",
-    "summary": "MiniMax\n\n\n\nMiniMax发布M3.1 Flash模型 Agent性能与成本再突破\n\nMiniMax官方宣布，现已发布M3.1 Flash模型，此前以匿名身份处理超200T Token。",
-    "keywords": [
-      "Agent",
-      "MiniMax"
     ],
     "date": "2026-10-20"
   }
