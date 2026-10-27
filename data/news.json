@@ -1,5 +1,40 @@
 [
   {
+    "title": "中国信通院发布AI漏洞挖掘能力标尺 360图龙锋全国首个通过评估",
+    "link": "https://www.pingwest.com/w/318814",
+    "source": "品玩",
+    "category": "other",
+    "summary": "360\n\n\n\n中国信通院发布AI漏洞挖掘能力标尺 360图龙锋全国首个通过评估",
+    "keywords": [
+      "AI"
+    ],
+    "date": "2026-10-27"
+  },
+  {
+    "title": "How OpenAI turned its coding tools into dots, an always-on personal assistant",
+    "link": "https://techcrunch.com/2026/10/26/how-openai-turned-its-coding-tools-into-dots-an-always-on-personal-assistant/",
+    "source": "TechCrunch",
+    "category": "other",
+    "summary": "Alexander Embiricos, the OpenAI executive responsible for dots, never wants to have a meeting with someone else's AI agent.",
+    "keywords": [
+      "AI",
+      "Agent",
+      "OpenAI"
+    ],
+    "date": "2026-10-27"
+  },
+  {
+    "title": "Cohere says Alibaba’s Qwen model tried to send a file to Beijing",
+    "link": "https://techcrunch.com/2026/10/26/cohere-says-alibabas-qwen-model-tried-to-send-a-file-to-beijing/",
+    "source": "TechCrunch",
+    "category": "other",
+    "summary": "An AI model said it wouldn’t use any tools, then tried to send something to a server in Beijing anyway, and while researchers say it’s probably a training quirk and not espionage, the whole thing has ",
+    "keywords": [
+      "AI"
+    ],
+    "date": "2026-10-27"
+  },
+  {
     "title": "看孩子、护老人，小度拿出了最“顾家”的智能体应用",
     "link": "https://www.pingwest.com/a/318781",
     "source": "品玩",
@@ -70,6 +105,29 @@
     "date": "2026-10-26"
   },
   {
+    "title": "Anthropic’s IPO filing reveals its strategy for keeping enterprise customers hooked",
+    "link": "https://techcrunch.com/2026/10/26/anthropics-ipo-filing-reveals-its-strategy-for-keeping-enterprise-customers-hooked/",
+    "source": "TechCrunch",
+    "category": "key_news",
+    "summary": "Anthropic’s S-1 shows more than half of its $100,000-plus customers now use both the Claude Platform and a first-party app, a cross-selling playbook reminiscent of Amazon that’s making enterprise cust",
+    "keywords": [
+      "Anthropic",
+      "Claude"
+    ],
+    "date": "2026-10-26"
+  },
+  {
+    "title": "SpaceX locks in $40B GPU financing deal with Apollo",
+    "link": "https://techcrunch.com/2026/10/26/spacex-locks-in-40b-gpu-financing-deal-with-apollo/",
+    "source": "TechCrunch",
+    "category": "other",
+    "summary": "The financing gives SpaceX another way to fund its rapidly expanding AI ambitions without relying solely on traditional debt markets.",
+    "keywords": [
+      "AI"
+    ],
+    "date": "2026-10-26"
+  },
+  {
     "title": "Anthropic officially files for its public debut",
     "link": "https://techcrunch.com/2026/10/26/anthropic-officially-files-for-its-public-debut/",
     "source": "TechCrunch",
@@ -116,6 +174,17 @@
     "date": "2026-10-25"
   },
   {
+    "title": "Will AI expose the rickety infrastructure of the internet?",
+    "link": "https://techcrunch.com/2026/10/24/will-ai-expose-the-rickety-infrastructure-of-the-internet/",
+    "source": "TechCrunch",
+    "category": "other",
+    "summary": "The moment you realize the internet is \"held together by glue and dreams.\"",
+    "keywords": [
+      "AI"
+    ],
+    "date": "2026-10-24"
+  },
+  {
     "title": "The AI graveyard: a running list of projects and startups that didn’t make it",
     "link": "https://techcrunch.com/2026/10/24/the-ai-graveyard-a-running-list-of-projects-and-startups-that-didnt-make-it/",
     "source": "TechCrunch",
@@ -132,7 +201,7 @@
     "link": "https://techcrunch.com/2026/10/24/blocks-new-voice-model-sounds-eerily-human/",
     "source": "TechCrunch",
     "category": "other",
-    "summary": "Block said that the voice model can run locally on a MacBook M4 Max",
+    "summary": "Typically, speech models are paired with a large language model for knowledge retrieval. Block said that Dessa's knowledge stems from the conversational data it has.",
     "keywords": [
       "AI"
     ],
@@ -309,65 +378,6 @@
     "keywords": [
       "AI",
       "Agent"
-    ],
-    "date": "2026-10-22"
-  },
-  {
-    "title": "OpenAI makes its Jev competitor widely available as decision model competition heats up",
-    "link": "https://techcrunch.com/2026/10/22/openai-makes-its-jev-competitor-widely-available-as-decision-model-competition-heats-up/",
-    "source": "TechCrunch",
-    "category": "other",
-    "summary": "OpenAI is launching its decision model to the world. Can it compete with the original Jev?",
-    "keywords": [
-      "AI",
-      "OpenAI"
-    ],
-    "date": "2026-10-22"
-  },
-  {
-    "title": "Canva releases its first image generation model",
-    "link": "https://techcrunch.com/2026/10/22/canva-releases-its-first-image-generation-model/",
-    "source": "TechCrunch",
-    "category": "other",
-    "summary": "Canva is making its new image model available to all users, promising better, more customizable performance at lower costs.",
-    "keywords": [
-      "AI"
-    ],
-    "date": "2026-10-22"
-  },
-  {
-    "title": "Microsoft’s Mustafa Suleyman says its AI outperforms doctors on hard cases as he chases ‘medical superintelligence’",
-    "link": "https://techcrunch.com/2026/10/22/microsofts-mustafa-suleyman-says-its-ai-outperforms-doctors-on-hard-cases-as-he-chases-medical-superintelligence/",
-    "source": "TechCrunch",
-    "category": "other",
-    "summary": "Microsoft’s new AI diagnostic system beat generalist doctors on hard cases, according to a study in Science. But most of the improvement seems to come from the AI models underneath, not from Microsoft",
-    "keywords": [
-      "AI"
-    ],
-    "date": "2026-10-22"
-  },
-  {
-    "title": "Chinese hackers spied on thousands of companies after breaching IT giant ConnectWise",
-    "link": "https://techcrunch.com/2026/10/22/chinese-hackers-spied-on-thousands-of-companies-after-breaching-it-giant-connectwise/",
-    "source": "TechCrunch",
-    "category": "other",
-    "summary": "Microsoft points the blame for ConnectWise's breach at a China-aligned hacker, which relied on AI agents to rapidly hack into thousands of its customers.",
-    "keywords": [
-      "AI",
-      "Agent"
-    ],
-    "date": "2026-10-22"
-  },
-  {
-    "title": "Uber puts all 30,000 employees on ChatGPT Work",
-    "link": "https://techcrunch.com/2026/10/22/uber-puts-all-30000-employees-on-chatgpt-work/",
-    "source": "TechCrunch",
-    "category": "other",
-    "summary": "The ride-share giant previously deployed a much smaller pilot for ChatGPT Work but is now taking the enterprise agent company-wide.",
-    "keywords": [
-      "Agent",
-      "GPT",
-      "ChatGPT"
     ],
     "date": "2026-10-22"
   }
