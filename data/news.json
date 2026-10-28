@@ -1,5 +1,116 @@
 [
   {
+    "title": "为什么领跑 AI 3D 的是中国公司，群核、Meshy、影眸Hyper3D 坐下来聊了聊",
+    "link": "https://www.pingwest.com/a/318817",
+    "source": "品玩",
+    "category": "other",
+    "summary": "为什么领跑 AI 3D 的是中国公司，群核、Meshy、影眸Hyper3D 坐下来聊了聊\n\n从中国团队的优势，到 Agent 带来的新机会。",
+    "keywords": [
+      "AI",
+      "Agent"
+    ],
+    "date": "2026-10-28"
+  },
+  {
+    "title": "OpenAI发布人工智能模型GPT-6.1 Terra",
+    "link": "https://www.pingwest.com/w/318866",
+    "source": "品玩",
+    "category": "other",
+    "summary": "OpenAI\n\n\n\nOpenAI发布人工智能模型GPT-6.1 Terra\n\n据OpenAI官方消息，OpenAI于10月27日发布人工智能新模型GPT-6.1 Terra，聚焦计算机操作与智能体应用，支持识别屏幕内容、操作软件并完成多步骤办公任务。",
+    "keywords": [
+      "AI",
+      "人工智能",
+      "OpenAI",
+      "GPT",
+      "智能"
+    ],
+    "date": "2026-10-28"
+  },
+  {
+    "title": "智元发布具身Agent框架Genie Master",
+    "link": "https://www.pingwest.com/w/318855",
+    "source": "品玩",
+    "category": "other",
+    "summary": "智元机器人\n\n\n\n智元发布具身Agent框架Genie Master",
+    "keywords": [
+      "Agent",
+      "机器人"
+    ],
+    "date": "2026-10-28"
+  },
+  {
+    "title": "OpenHubs亮相AI创造者嘉年华，分享企业多模型协同与Token治理实践",
+    "link": "https://www.pingwest.com/w/318853",
+    "source": "品玩",
+    "category": "other",
+    "summary": "ACC\n\n\n\nOpenHubs亮相AI创造者嘉年华，分享企业多模型协同与Token治理实践\n\n10月21日至25日，2026 AI创造者嘉年华（AI Creators Carnival，简称ACC）在北京举行。",
+    "keywords": [
+      "AI"
+    ],
+    "date": "2026-10-28"
+  },
+  {
+    "title": "伟达与Meta深化AI合作 拓展智能Agent生态",
+    "link": "https://www.pingwest.com/w/318849",
+    "source": "品玩",
+    "category": "other",
+    "summary": "英伟达\n\n\n\n伟达与Meta深化AI合作 拓展智能Agent生态\n\n据英伟达官方消息，英伟达与Meta近日宣布，双方将深化Muse及Muse模型家族合作，提升推理与训练性能，积极回应市场对实用型AI代理的迫切需求。",
+    "keywords": [
+      "AI",
+      "Agent",
+      "智能"
+    ],
+    "date": "2026-10-28"
+  },
+  {
+    "title": "OpenAI公布人工智能多项科学发现",
+    "link": "https://www.pingwest.com/w/318848",
+    "source": "品玩",
+    "category": "other",
+    "summary": "OpenAI\n\n\n\nOpenAI公布人工智能多项科学发现\n\nOpenAI官方于10月26日宣布，其人工智能模型在数学、计算机科学和物理学领域取得三项重要成果。",
+    "keywords": [
+      "AI",
+      "人工智能",
+      "OpenAI",
+      "智能"
+    ],
+    "date": "2026-10-28"
+  },
+  {
+    "title": "Anthropic招股书：此刻把智能做成（字面上赚钱）生意的唯一说明书",
+    "link": "https://www.pingwest.com/a/318794",
+    "source": "品玩",
+    "category": "key_news",
+    "summary": "Anthropic招股书：此刻把智能做成（字面上赚钱）生意的唯一说明书\n\n每 1 美元算力对应的收入，从0.15 美元，提高到 1.82 美元。",
+    "keywords": [
+      "Anthropic",
+      "智能"
+    ],
+    "date": "2026-10-28"
+  },
+  {
+    "title": "谷歌发布世界模型Genie 4",
+    "link": "https://www.pingwest.com/w/318844",
+    "source": "品玩",
+    "category": "other",
+    "summary": "谷歌\n\n\n\n谷歌发布世界模型Genie 4\n\n据谷歌 Deepmind 官方消息，谷歌正式发布第四代世界模型Genie 4，该模型具备原生多模态能力，可在生成视觉内容的同时同步输出音频。",
+    "keywords": [
+      "DeepMind"
+    ],
+    "date": "2026-10-28"
+  },
+  {
+    "title": "VCs will make billions on Anthropic’s IPO, but Amazon is set to make much (much) more",
+    "link": "https://techcrunch.com/2026/10/27/vcs-will-make-billions-on-anthropics-ipo-but-amazon-is-set-to-make-much-much-more/",
+    "source": "TechCrunch",
+    "category": "key_news",
+    "summary": "Massive note conversions reveal the true extent of Amazon's ownership in Anthropic.",
+    "keywords": [
+      "Anthropic"
+    ],
+    "date": "2026-10-28"
+  },
+  {
     "title": "下一个时代，从眼前开始：乐奇Rokid新品定义AI眼镜新形态",
     "link": "https://www.pingwest.com/w/318840",
     "source": "品玩",
@@ -66,6 +177,88 @@
     "date": "2026-10-27"
   },
   {
+    "title": "Parents sue OpenAI, alleging GPT-4o coached their daughter off seizure medication",
+    "link": "https://techcrunch.com/2026/10/27/parents-sue-openai-alleging-gpt-4o-coached-their-daughter-off-seizure-medication/",
+    "source": "TechCrunch",
+    "category": "other",
+    "summary": "A family is suing OpenAI, saying ChatGPT coached their daughter to quietly taper off her seizure medication and keep it from her doctors before she died in February.",
+    "keywords": [
+      "AI",
+      "OpenAI",
+      "GPT",
+      "ChatGPT"
+    ],
+    "date": "2026-10-27"
+  },
+  {
+    "title": "The data center boom has an upside: innovation for the US grid",
+    "link": "https://techcrunch.com/2026/10/27/the-data-center-boom-has-an-upside-innovation-for-the-us-grid/",
+    "source": "TechCrunch",
+    "category": "other",
+    "summary": "As the AI boom stresses the existing power grid, all sorts of new opportunities for grid modernization are also emerging as a result, industry insiders say.",
+    "keywords": [
+      "AI"
+    ],
+    "date": "2026-10-27"
+  },
+  {
+    "title": "Bank of America kindly asks that you don’t share your banking password with your AI assistant",
+    "link": "https://techcrunch.com/2026/10/27/bank-of-america-kindly-asks-that-you-dont-share-your-banking-password-with-your-ai-assistant/",
+    "source": "TechCrunch",
+    "category": "other",
+    "summary": "The banking giant reminds customers that \"you're responsible for activity\" resulting from your AI agents' access.",
+    "keywords": [
+      "AI",
+      "Agent"
+    ],
+    "date": "2026-10-27"
+  },
+  {
+    "title": "Who’s really in charge at Anthropic after the IPO?",
+    "link": "https://techcrunch.com/2026/10/27/whos-really-in-charge-at-anthropic-after-the-ipo/",
+    "source": "TechCrunch",
+    "category": "key_news",
+    "summary": "Here's a clear explanation of Anthropic's incredibly complex governance structure.",
+    "keywords": [
+      "Anthropic"
+    ],
+    "date": "2026-10-27"
+  },
+  {
+    "title": "Disruptive raises $10B fund to make big bets on at least 10 companies",
+    "link": "https://techcrunch.com/2026/10/27/disruptive-raises-10b-fund-to-make-big-bets-on-at-least-10-companies/",
+    "source": "TechCrunch",
+    "category": "funding",
+    "summary": "Disruptive has made headlines in recent years for pouring money into companies like chip startup Groq and the AI voice-generation startup ElevenLabs.",
+    "keywords": [
+      "AI"
+    ],
+    "date": "2026-10-27"
+  },
+  {
+    "title": "Frontier AI labs say their models refuted the Exponential Time Hypothesis. What does that mean?",
+    "link": "https://techcrunch.com/2026/10/27/frontier-ai-labs-say-their-models-refuted-the-exponential-time-hypothesis-what-does-that-mean/",
+    "source": "TechCrunch",
+    "category": "other",
+    "summary": "TechCrunch spoke to the MIT computer scientist charged with explaining OpenAI's latest mind-bending discovery.",
+    "keywords": [
+      "AI",
+      "OpenAI"
+    ],
+    "date": "2026-10-27"
+  },
+  {
+    "title": "Google’s Genie 4 world model adds audio, more realistic worlds, and real-time steering",
+    "link": "https://techcrunch.com/2026/10/27/googles-genie-4-world-model-adds-audio-more-realistic-worlds-and-real-time-steering/",
+    "source": "TechCrunch",
+    "category": "other",
+    "summary": "Genie 4 can maintain a consistent scene for up to two minutes, double Genie 3's limit, and offers better physics and more humanlike characters.",
+    "keywords": [
+      "AI"
+    ],
+    "date": "2026-10-27"
+  },
+  {
     "title": "Meta AI director Rohit Patel leaves to take on Microsoft Office and Google Workspace",
     "link": "https://techcrunch.com/2026/10/27/meta-ai-director-rohit-patel-leaves-to-take-on-microsoft-office-and-google-workspace/",
     "source": "TechCrunch",
@@ -103,7 +296,7 @@
     "link": "https://techcrunch.com/2026/10/27/nvidia-backs-indian-startup-helping-companies-run-ai-models-with-fewer-gpus/",
     "source": "TechCrunch",
     "category": "other",
-    "summary": "Simplismart says its annualized revenue run rate has grown 14-fold in six months, with the U.S. accounting for more than half its revenue.",
+    "summary": "Simplismart says its annualized revenue run rate has grown fourteenfold in six months, with the U.S. accounting for more than half its revenue.",
     "keywords": [
       "AI"
     ],
@@ -262,77 +455,6 @@
     "date": "2026-10-25"
   },
   {
-    "title": "The hottest AI wearables and gadgets you should know about",
-    "link": "https://techcrunch.com/2026/10/25/the-hottest-ai-wearables-and-gadgets-you-should-know-about/",
-    "source": "TechCrunch",
-    "category": "other",
-    "summary": "We compiled a list of all the hottest AI wearables, including Muse Charm, Bee, Friend, Plaud, and more.",
-    "keywords": [
-      "AI"
-    ],
-    "date": "2026-10-25"
-  },
-  {
-    "title": "Will AI expose the rickety infrastructure of the internet?",
-    "link": "https://techcrunch.com/2026/10/24/will-ai-expose-the-rickety-infrastructure-of-the-internet/",
-    "source": "TechCrunch",
-    "category": "other",
-    "summary": "The moment you realize the internet is \"held together by glue and dreams.\"",
-    "keywords": [
-      "AI"
-    ],
-    "date": "2026-10-24"
-  },
-  {
-    "title": "The AI graveyard: a running list of projects and startups that didn’t make it",
-    "link": "https://techcrunch.com/2026/10/24/the-ai-graveyard-a-running-list-of-projects-and-startups-that-didnt-make-it/",
-    "source": "TechCrunch",
-    "category": "other",
-    "summary": "From Apple's repeatedly delayed Siri AI to OpenAI's messy \"super app\" launch, here's a look at the AI projects that shut down or missed expectations.",
-    "keywords": [
-      "AI",
-      "OpenAI"
-    ],
-    "date": "2026-10-24"
-  },
-  {
-    "title": "Block’s new voice model sounds eerily human",
-    "link": "https://techcrunch.com/2026/10/24/blocks-new-voice-model-sounds-eerily-human/",
-    "source": "TechCrunch",
-    "category": "other",
-    "summary": "Typically, speech models are paired with a large language model for knowledge retrieval. Block said that Dessa's knowledge stems from the conversational data it has.",
-    "keywords": [
-      "AI"
-    ],
-    "date": "2026-10-24"
-  },
-  {
-    "title": "Forced to pick, Grok’s AI model chooses Republicans. OpenAI’s picks Democrats.",
-    "link": "https://techcrunch.com/2026/10/24/forced-to-pick-groks-ai-model-chooses-republicans-openais-picks-democrats/",
-    "source": "TechCrunch",
-    "category": "other",
-    "summary": "A new study found Grok's AI overwhelmingly recommends Republican candidates while OpenAI's GPT favors Democrats, with the two AI models disagreeing in more than 90% of nearly 500 election races.",
-    "keywords": [
-      "AI",
-      "OpenAI",
-      "GPT",
-      "Grok"
-    ],
-    "date": "2026-10-24"
-  },
-  {
-    "title": "Here are the top AI agents that can live in your text messages",
-    "link": "https://techcrunch.com/2026/10/24/all-the-ai-agents-that-can-live-in-your-text-messages/",
-    "source": "TechCrunch",
-    "category": "other",
-    "summary": "We created a list of the most notable AI agents that can live in your text messages, from general assistants to agents designed for families, travel, and work.",
-    "keywords": [
-      "AI",
-      "Agent"
-    ],
-    "date": "2026-10-24"
-  },
-  {
     "title": "荣耀亮相 CEIC：Magic9 领衔 AI 智能体手机 全场景 AI 生态加速落地",
     "link": "https://www.pingwest.com/w/318737",
     "source": "品玩",
@@ -352,62 +474,6 @@
     "summary": "iQOO\n\n\n\niQOO 亮相 Unreal Fest Shanghai 2026，分享移动游戏图形与性能优化进展",
     "keywords": [
       "AI"
-    ],
-    "date": "2026-10-23"
-  },
-  {
-    "title": "WPS for iPhone Duo正式上线：大屏表格、双开对照与AI侧栏全面落地",
-    "link": "https://www.pingwest.com/w/318729",
-    "source": "品玩",
-    "category": "other",
-    "summary": "WPS\n\n\n\nWPS for iPhone Duo正式上线：大屏表格、双开对照与AI侧栏全面落地",
-    "keywords": [
-      "AI"
-    ],
-    "date": "2026-10-23"
-  },
-  {
-    "title": "360纳米Work升级AI编辑器，文档、图片、视频实现“一切皆可编辑”",
-    "link": "https://www.pingwest.com/w/318670",
-    "source": "品玩",
-    "category": "other",
-    "summary": "360\n\n\n\n360纳米Work升级AI编辑器，文档、图片、视频实现“一切皆可编辑”\n\n近日，360出品的安全可靠AI办公平台纳米Work全面升级AI编辑器，融合超级画布功能，打通文档、表格、PPT、图片、视频等创作与编辑，将人机协同从办公文档延伸至多媒体内容和创作流程，以“一切皆可编辑”探索AI时代Office的新形态。",
-    "keywords": [
-      "AI"
-    ],
-    "date": "2026-10-23"
-  },
-  {
-    "title": "易观Q3办公智能体榜单出炉：20款产品同台竞技，WPS灵犀专业版进入典型案例分析",
-    "link": "https://www.pingwest.com/w/318668",
-    "source": "品玩",
-    "category": "other",
-    "summary": "WPS\n\n\n\n易观Q3办公智能体榜单出炉：20款产品同台竞技，WPS灵犀专业版进入典型案例分析",
-    "keywords": [
-      "智能"
-    ],
-    "date": "2026-10-23"
-  },
-  {
-    "title": "金蝶徐少春：企业AI转型，一把手要做“首席实践官”",
-    "link": "https://www.pingwest.com/w/318663",
-    "source": "品玩",
-    "category": "other",
-    "summary": "金碟\n\n\n\n金蝶徐少春：企业AI转型，一把手要做“首席实践官”",
-    "keywords": [
-      "AI"
-    ],
-    "date": "2026-10-23"
-  },
-  {
-    "title": "OpenAI says it will no longer train its AI models on the live internet, citing ‘significant risks’",
-    "link": "https://techcrunch.com/2026/10/23/openai-says-it-will-no-longer-train-its-ai-models-on-the-live-internet-citing-significant-risks/",
-    "source": "TechCrunch",
-    "category": "other",
-    "summary": "OpenAI will cut frontier models off from the internet weeks after one of its engineers said that solution wouldn't work.",
-    "keywords": [
-      "AI",
-      "OpenAI"
     ],
     "date": "2026-10-23"
   }
