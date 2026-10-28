@@ -1,5 +1,55 @@
 [
   {
+    "title": "喊了三年 AI 提效，在WorkBuddy极限挑战赛里，五个普通人给出了破局答案",
+    "link": "https://www.pingwest.com/a/318851",
+    "source": "品玩",
+    "category": "other",
+    "summary": "喊了三年 AI 提效，在WorkBuddy极限挑战赛里，五个普通人给出了破局答案\n\nAI 正在渗透各行各业",
+    "keywords": [
+      "AI"
+    ],
+    "date": "2026-10-28"
+  },
+  {
+    "title": "OpenAI因聊天机器人医疗建议相关诉讼被起诉",
+    "link": "https://www.pingwest.com/w/318869",
+    "source": "品玩",
+    "category": "other",
+    "summary": "OpenAI\n\n\n\nOpenAI因聊天机器人医疗建议相关诉讼被起诉\n\n据 TechCrcunch 报道，31岁亚马逊软件工程师鲍文·万的父母近日向旧金山高等法院提起诉讼，指控OpenAI及其首席执行官奥特曼。",
+    "keywords": [
+      "AI",
+      "OpenAI",
+      "机器人"
+    ],
+    "date": "2026-10-28"
+  },
+  {
+    "title": "Anthropic启动IPO 科技巨头成主要受益方",
+    "link": "https://www.pingwest.com/w/318868",
+    "source": "品玩",
+    "category": "key_news",
+    "summary": "Anthropic\n\n\n\nAnthropic启动IPO 科技巨头成主要受益方\n\n据 TechCrunch 报道，人工智能公司Anthropic已正式提交上市申请，计划登陆纳斯达克。",
+    "keywords": [
+      "人工智能",
+      "Anthropic",
+      "智能"
+    ],
+    "date": "2026-10-28"
+  },
+  {
+    "title": "Meta前AI负责人创立Ndoc 推出原生AI办公产品",
+    "link": "https://www.pingwest.com/w/318867",
+    "source": "品玩",
+    "category": "other",
+    "summary": "META\n\n\n\nMeta前AI负责人创立Ndoc 推出原生AI办公产品\n\n据 TechCrunch 报道，Meta前超级智能实验室总监罗希特·帕特尔近日离职创业，推出人工智能原生办公平台Ndoc，旨在整合分析、演示与数据模型，挑战传统办公套件市场。",
+    "keywords": [
+      "AI",
+      "人工智能",
+      "智能"
+    ],
+    "date": "2026-10-28"
+  },
+  {
     "title": "为什么领跑 AI 3D 的是中国公司，群核、Meshy、影眸Hyper3D 坐下来聊了聊",
     "link": "https://www.pingwest.com/a/318817",
     "source": "品玩",
@@ -96,6 +146,39 @@
     "summary": "谷歌\n\n\n\n谷歌发布世界模型Genie 4\n\n据谷歌 Deepmind 官方消息，谷歌正式发布第四代世界模型Genie 4，该模型具备原生多模态能力，可在生成视觉内容的同时同步输出音频。",
     "keywords": [
       "DeepMind"
+    ],
+    "date": "2026-10-28"
+  },
+  {
+    "title": "AI execs may be too out of touch to build for the general public",
+    "link": "https://techcrunch.com/2026/10/28/ai-execs-may-be-too-out-of-touch-to-build-for-the-general-public/",
+    "source": "TechCrunch",
+    "category": "other",
+    "summary": "Tech leaders are flaunting how out of touch they are when they brag about using AI to connect with their families.",
+    "keywords": [
+      "AI"
+    ],
+    "date": "2026-10-28"
+  },
+  {
+    "title": "South Korea’s financial industry hit by fresh wave of cyberattacks",
+    "link": "https://techcrunch.com/2026/10/28/south-koreas-financial-industry-hit-by-fresh-wave-of-cyberattacks/",
+    "source": "TechCrunch",
+    "category": "other",
+    "summary": "South Korea’s financial institutions have been hit by another wave of cyberattacks, highlighting the growing risk of AI-driven hacking in Asia.",
+    "keywords": [
+      "AI"
+    ],
+    "date": "2026-10-28"
+  },
+  {
+    "title": "Voice AI in vogue: Nvidia releases new open transcription model",
+    "link": "https://techcrunch.com/2026/10/28/voice-ai-in-vogue-nvidia-releases-new-open-transcription-model/",
+    "source": "TechCrunch",
+    "category": "other",
+    "summary": "Nvidia just released a free speech-to-text model that can transcribe up to 40 languages, but it only works on recordings, not live audio, so it’s a big step for meeting and medical transcription tools",
+    "keywords": [
+      "AI"
     ],
     "date": "2026-10-28"
   },
@@ -327,76 +410,6 @@
     "date": "2026-10-27"
   },
   {
-    "title": "看孩子、护老人，小度拿出了最“顾家”的智能体应用",
-    "link": "https://www.pingwest.com/a/318781",
-    "source": "品玩",
-    "category": "other",
-    "summary": "看孩子、护老人，小度拿出了最“顾家”的智能体应用\n\nAI走进卧室与客厅。",
-    "keywords": [
-      "AI",
-      "智能"
-    ],
-    "date": "2026-10-26"
-  },
-  {
-    "title": "禾赛造“相机”：死磕具身数据的激光雷达公司才是好机器人公司",
-    "link": "https://www.pingwest.com/a/318762",
-    "source": "品玩",
-    "category": "other",
-    "summary": "禾赛造“相机”：死磕具身数据的激光雷达公司才是好机器人公司\n\n从感知硬件到空间数据，禾赛想把真实世界变成可复用的训练场",
-    "keywords": [
-      "机器人"
-    ],
-    "date": "2026-10-26"
-  },
-  {
-    "title": "趋境科技完成 B 轮融资，半年实现超十倍速增长，加速高品质 AI Token 规模化交付",
-    "link": "https://www.pingwest.com/w/318779",
-    "source": "品玩",
-    "category": "funding",
-    "summary": "token\n\n\n\n趋境科技完成 B 轮融资，半年实现超十倍速增长，加速高品质 AI Token 规模化交付",
-    "keywords": [
-      "AI"
-    ],
-    "date": "2026-10-26"
-  },
-  {
-    "title": "华为公司高级副总裁、引望公司CEO靳玉志表示，华为乾崑会坚持做智能网联汽车行业的“电子螺丝钉”",
-    "link": "https://www.pingwest.com/w/318763",
-    "source": "品玩",
-    "category": "other",
-    "summary": "智能网联车\n\n\n\n华为公司高级副总裁、引望公司CEO靳玉志表示，华为乾崑会坚持做智能网联汽车行业的“电子螺丝钉”",
-    "keywords": [
-      "智能"
-    ],
-    "date": "2026-10-26"
-  },
-  {
-    "title": "特斯拉将自主研发人工智能地图导航系统",
-    "link": "https://www.pingwest.com/w/318760",
-    "source": "品玩",
-    "category": "other",
-    "summary": "特斯拉\n\n\n\n特斯拉将自主研发人工智能地图导航系统\n\n据 teslanorth 报道，特斯拉在近期财报电话会议上表示，公司将自主研发基于人工智能的地图与导航系统，不再依赖外部地图供应商。",
-    "keywords": [
-      "人工智能",
-      "智能"
-    ],
-    "date": "2026-10-26"
-  },
-  {
-    "title": "英国宣布设立全球首个AI生物安全实验室",
-    "link": "https://www.pingwest.com/w/318755",
-    "source": "品玩",
-    "category": "other",
-    "summary": "英国\n\n\n\n英国宣布设立全球首个AI生物安全实验室\n\n据Tech Insider报道，英国日宣布，将出资一亿英镑设立人工智能生物安全实验室（AIBL），定位为”全球首个专注于人工智能生物安全的专门机构”。",
-    "keywords": [
-      "AI",
-      "人工智能",
-      "智能"
-    ],
-    "date": "2026-10-26"
-  },
-  {
     "title": "Anthropic’s IPO filing reveals its strategy for keeping enterprise customers hooked",
     "link": "https://techcrunch.com/2026/10/26/anthropics-ipo-filing-reveals-its-strategy-for-keeping-enterprise-customers-hooked/",
     "source": "TechCrunch",
@@ -407,74 +420,5 @@
       "Claude"
     ],
     "date": "2026-10-26"
-  },
-  {
-    "title": "SpaceX locks in $40B GPU financing deal with Apollo",
-    "link": "https://techcrunch.com/2026/10/26/spacex-locks-in-40b-gpu-financing-deal-with-apollo/",
-    "source": "TechCrunch",
-    "category": "other",
-    "summary": "The financing gives SpaceX another way to fund its rapidly expanding AI ambitions without relying solely on traditional debt markets.",
-    "keywords": [
-      "AI"
-    ],
-    "date": "2026-10-26"
-  },
-  {
-    "title": "Anthropic officially files for its public debut",
-    "link": "https://techcrunch.com/2026/10/26/anthropic-officially-files-for-its-public-debut/",
-    "source": "TechCrunch",
-    "category": "other",
-    "summary": "Anthropic has officially filed for an IPO, revealing soaring revenue, mounting losses, major enterprise adoption, and an unusual governance structure designed to preserve founder control and its AI sa",
-    "keywords": [
-      "AI",
-      "Anthropic"
-    ],
-    "date": "2026-10-26"
-  },
-  {
-    "title": "Grok releases the first seven minutes of its AI-generated ‘Odyssey’",
-    "link": "https://techcrunch.com/2026/10/25/grok-releases-the-first-seven-minutes-of-its-ai-generated-odyssey/",
-    "source": "TechCrunch",
-    "category": "other",
-    "summary": "The footage looks okay, as long as you're not seeking artistry, inspiration, or human interest.",
-    "keywords": [
-      "AI",
-      "Grok"
-    ],
-    "date": "2026-10-25"
-  },
-  {
-    "title": "AI delivers ‘zero financial payoff’ to most companies, Apollo economist says",
-    "link": "https://techcrunch.com/2026/10/25/ai-delivers-zero-financial-payoff-to-most-companies-according-to-apollo-economist/",
-    "source": "TechCrunch",
-    "category": "other",
-    "summary": "\"Despite massive investments and widespread hype around artificial intelligence, the technology has delivered zero financial payoff to corporate America outside of tech.\"",
-    "keywords": [
-      "AI"
-    ],
-    "date": "2026-10-25"
-  },
-  {
-    "title": "荣耀亮相 CEIC：Magic9 领衔 AI 智能体手机 全场景 AI 生态加速落地",
-    "link": "https://www.pingwest.com/w/318737",
-    "source": "品玩",
-    "category": "other",
-    "summary": "荣耀\n\n\n\n荣耀亮相 CEIC：Magic9 领衔 AI 智能体手机 全场景 AI 生态加速落地",
-    "keywords": [
-      "AI",
-      "智能"
-    ],
-    "date": "2026-10-23"
-  },
-  {
-    "title": "iQOO 亮相 Unreal Fest Shanghai 2026，分享移动游戏图形与性能优化进展",
-    "link": "https://www.pingwest.com/w/318736",
-    "source": "品玩",
-    "category": "other",
-    "summary": "iQOO\n\n\n\niQOO 亮相 Unreal Fest Shanghai 2026，分享移动游戏图形与性能优化进展",
-    "keywords": [
-      "AI"
-    ],
-    "date": "2026-10-23"
   }
 ]
