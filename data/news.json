@@ -1,5 +1,99 @@
 [
   {
+    "title": "蚂蚁百灵开源Ling-3.1-flash-1019 灵光2.0升级为个人AI助理",
+    "link": "https://www.pingwest.com/w/318909",
+    "source": "品玩",
+    "category": "other",
+    "summary": "蚂蚁灵光\n\n\n\n蚂蚁百灵开源Ling-3.1-flash-1019 灵光2.0升级为个人AI助理\n\n蚂蚁集团发布灵光2.0，升级为“能管事的个人AI助理”，可依托跨会话记忆、长程任务调度与独立云主机，在用户授权范围内持续跟进旅行规划、比价提醒等复杂事务，即使退出对话仍可继续运行。",
+    "keywords": [
+      "AI"
+    ],
+    "date": "2026-10-29"
+  },
+  {
+    "title": "AI 让创造触手可及，阶跃星辰想与 Builder 一起构造更多可能",
+    "link": "https://www.pingwest.com/a/318888",
+    "source": "品玩",
+    "category": "other",
+    "summary": "AI 让创造触手可及，阶跃星辰想与 Builder 一起构造更多可能\n\n在真实世界真实场景中创造价值",
+    "keywords": [
+      "AI"
+    ],
+    "date": "2026-10-29"
+  },
+  {
+    "title": "豆包工作升级电脑操作能力 支持技能录制与Mac锁屏执行",
+    "link": "https://www.pingwest.com/w/318907",
+    "source": "品玩",
+    "category": "other",
+    "summary": "豆包\n\n\n\n豆包工作升级电脑操作能力 支持技能录制与Mac锁屏执行\n\n据豆包工作官方消息，豆包工作近日升级电脑操作能力，屏幕点击精度与执行速度进一步提升。用户在授权后，豆包工作可自动查看屏幕，并模拟鼠标和键盘操作完成跨应用任务。",
+    "keywords": [
+      "豆包"
+    ],
+    "date": "2026-10-29"
+  },
+  {
+    "title": "谷歌发布Gemini 4 Carbon 强化网络安全与长程任务能力",
+    "link": "https://www.pingwest.com/w/318904",
+    "source": "品玩",
+    "category": "other",
+    "summary": "GEMINI\n\n\n\n谷歌发布Gemini 4 Carbon 强化网络安全与长程任务能力\n\n谷歌发布新一代前沿模型Gemini 4 Carbon，定位为当前能力最强的版本，重点提升网络安全防御与长周期任务处理能力。",
+    "keywords": [
+      "Gemini"
+    ],
+    "date": "2026-10-29"
+  },
+  {
+    "title": "用好故事跨越流量焦虑 虎鲸文娱举办鲸锐AI创作大赛行业沙龙",
+    "link": "https://www.pingwest.com/w/318903",
+    "source": "品玩",
+    "category": "other",
+    "summary": "虎鲸\n\n\n\n用好故事跨越流量焦虑 虎鲸文娱举办鲸锐AI创作大赛行业沙龙",
+    "keywords": [
+      "AI"
+    ],
+    "date": "2026-10-29"
+  },
+  {
+    "title": "OpenAI拟采购谷歌TPU芯片 推进算力多元化",
+    "link": "https://www.pingwest.com/w/318902",
+    "source": "品玩",
+    "category": "other",
+    "summary": "OpenAI\n\n\n\nOpenAI拟采购谷歌TPU芯片 推进算力多元化\n\n据decrypt 报道，OpenAI计划采购谷歌张量处理单元（TPU），以扩充人工智能训练与推理算力，降低对单一芯片供应商的依赖。",
+    "keywords": [
+      "AI",
+      "人工智能",
+      "OpenAI",
+      "智能"
+    ],
+    "date": "2026-10-29"
+  },
+  {
+    "title": "超级App生态下，中国式Personal Agent如何长出来？",
+    "link": "https://www.pingwest.com/a/318887",
+    "source": "品玩",
+    "category": "other",
+    "summary": "超级App生态下，中国式Personal Agent如何长出来？\n\n探索中国版个人智能体的新形态。",
+    "keywords": [
+      "Agent",
+      "智能"
+    ],
+    "date": "2026-10-29"
+  },
+  {
+    "title": "智元GO-3 Nano Preview登顶机器人操作评测基准",
+    "link": "https://www.pingwest.com/w/318896",
+    "source": "品玩",
+    "category": "other",
+    "summary": "智元机器人\n\n\n\n智元GO-3 Nano Preview登顶机器人操作评测基准\n\n据 pandaliy 报道，具身智能评测基准RoboDojo公布最新榜单，智元（AGIBOT）发布的GO-3 Nano Preview预览版以61.90分的平均成绩、56.42%的平均成功率位列第一，超过GPT-6 Astra。该基准涵盖42项仿真任务和18项真实机器人任务。",
+    "keywords": [
+      "GPT",
+      "机器人",
+      "智能"
+    ],
+    "date": "2026-10-29"
+  },
+  {
     "title": "喊了三年 AI 提效，在WorkBuddy极限挑战赛里，五个普通人给出了破局答案",
     "link": "https://www.pingwest.com/a/318851",
     "source": "品玩",
@@ -150,6 +244,76 @@
     "date": "2026-10-28"
   },
   {
+    "title": "Google expands AI Search ads globally as core ad growth slows",
+    "link": "https://techcrunch.com/2026/10/28/google-expands-ai-search-ads-globally-as-core-ad-growth-slows/",
+    "source": "TechCrunch",
+    "category": "other",
+    "summary": "The announcement came alongside parent company Alphabet's third-quarter earnings report, which saw revenue grow 25% year over year to $127.6 billion.",
+    "keywords": [
+      "AI"
+    ],
+    "date": "2026-10-28"
+  },
+  {
+    "title": "Microsoft recorded $10 billion in revenue from OpenAI",
+    "link": "https://techcrunch.com/2026/10/28/microsoft-recorded-10-billion-in-revenue-from-openai/",
+    "source": "TechCrunch",
+    "category": "funding",
+    "summary": "Microsoft said it made $10 billion in revenue from commercial arrangements with OpenAI, including revenue-sharing payments, in the quarter ending September 30. It underscores the still-enormous financ",
+    "keywords": [
+      "AI",
+      "OpenAI"
+    ],
+    "date": "2026-10-28"
+  },
+  {
+    "title": "Microsoft hits 10 quarters of record-breaking revenue in a row",
+    "link": "https://techcrunch.com/2026/10/28/microsoft-hits-10-quarters-of-record-breaking-revenue-in-a-row/",
+    "source": "TechCrunch",
+    "category": "other",
+    "summary": "Whatever the future of AI might be, the current situation is still very good for Microsoft. The tech giant reported yet another record for quarterly revenue on Wednesday: $92.3 billion, a 19% increase",
+    "keywords": [
+      "AI"
+    ],
+    "date": "2026-10-28"
+  },
+  {
+    "title": "Anthropic just launched tools to show companies what their AI spending is buying",
+    "link": "https://techcrunch.com/2026/10/28/anthropic-just-launched-tools-to-show-companies-what-their-ai-spending-is-buying/",
+    "source": "TechCrunch",
+    "category": "other",
+    "summary": "The frontier lab is lifting the curtain on how users spend money on its models ahead of a planned IPO.",
+    "keywords": [
+      "AI",
+      "Anthropic"
+    ],
+    "date": "2026-10-28"
+  },
+  {
+    "title": "Chrome’s AI-powered Autofill can now dig through your Gmail to fill out forms",
+    "link": "https://techcrunch.com/2026/10/28/chromes-ai-powered-autofill-can-now-dig-through-your-gmail-to-fill-out-forms/",
+    "source": "TechCrunch",
+    "category": "other",
+    "summary": "The autofill update lets Chrome pull flight confirmations, tracking info, order details, and other information from your inbox, with your permission.",
+    "keywords": [
+      "AI"
+    ],
+    "date": "2026-10-28"
+  },
+  {
+    "title": "As AI agents reshape the web, Google opens Gemini and Search to more apps",
+    "link": "https://techcrunch.com/2026/10/28/as-ai-agents-reshape-the-web-google-opens-gemini-and-search-to-more-apps/",
+    "source": "TechCrunch",
+    "category": "other",
+    "summary": "A new developer platform will let businesses bring their services to Google's AI experiences, potentially changing how consumers discover and use apps.",
+    "keywords": [
+      "AI",
+      "Agent",
+      "Gemini"
+    ],
+    "date": "2026-10-28"
+  },
+  {
     "title": "AI execs may be too out of touch to build for the general public",
     "link": "https://techcrunch.com/2026/10/28/ai-execs-may-be-too-out-of-touch-to-build-for-the-general-public/",
     "source": "TechCrunch",
@@ -199,61 +363,6 @@
     "source": "品玩",
     "category": "other",
     "summary": "乐奇Rokid\n\n\n\n下一个时代，从眼前开始：乐奇Rokid新品定义AI眼镜新形态",
-    "keywords": [
-      "AI"
-    ],
-    "date": "2026-10-27"
-  },
-  {
-    "title": "千问办公接入乐奇AI眼镜，一句话发起任务",
-    "link": "https://www.pingwest.com/w/318834",
-    "source": "品玩",
-    "category": "other",
-    "summary": "千问\n\n\n\n千问办公接入乐奇AI眼镜，一句话发起任务",
-    "keywords": [
-      "AI"
-    ],
-    "date": "2026-10-27"
-  },
-  {
-    "title": "覆盖1.5万学生，五邑大学用WPS Comate简化学工流程",
-    "link": "https://www.pingwest.com/w/318830",
-    "source": "品玩",
-    "category": "other",
-    "summary": "WPS AI\n\n\n\n覆盖1.5万学生，五邑大学用WPS Comate简化学工流程",
-    "keywords": [
-      "AI"
-    ],
-    "date": "2026-10-27"
-  },
-  {
-    "title": "IDC评WPS：AI嵌入文档，数据留于企业",
-    "link": "https://www.pingwest.com/w/318829",
-    "source": "品玩",
-    "category": "other",
-    "summary": "WPS\n\n\n\nIDC评WPS：AI嵌入文档，数据留于企业",
-    "keywords": [
-      "AI"
-    ],
-    "date": "2026-10-27"
-  },
-  {
-    "title": "百余 AI 产品亮相杭州，“AI 产品金马奖”揭晓，观猹大会成AI创新与口碑风向标",
-    "link": "https://www.pingwest.com/w/318815",
-    "source": "品玩",
-    "category": "other",
-    "summary": "观猹大会\n\n\n\n百余 AI 产品亮相杭州，“AI 产品金马奖”揭晓，观猹大会成AI创新与口碑风向标",
-    "keywords": [
-      "AI"
-    ],
-    "date": "2026-10-27"
-  },
-  {
-    "title": "中国信通院发布AI漏洞挖掘能力标尺 360图龙锋全国首个通过评估",
-    "link": "https://www.pingwest.com/w/318814",
-    "source": "品玩",
-    "category": "other",
-    "summary": "360\n\n\n\n中国信通院发布AI漏洞挖掘能力标尺 360图龙锋全国首个通过评估",
     "keywords": [
       "AI"
     ],
@@ -329,96 +438,5 @@
       "OpenAI"
     ],
     "date": "2026-10-27"
-  },
-  {
-    "title": "Google’s Genie 4 world model adds audio, more realistic worlds, and real-time steering",
-    "link": "https://techcrunch.com/2026/10/27/googles-genie-4-world-model-adds-audio-more-realistic-worlds-and-real-time-steering/",
-    "source": "TechCrunch",
-    "category": "other",
-    "summary": "Genie 4 can maintain a consistent scene for up to two minutes, double Genie 3's limit, and offers better physics and more humanlike characters.",
-    "keywords": [
-      "AI"
-    ],
-    "date": "2026-10-27"
-  },
-  {
-    "title": "Meta AI director Rohit Patel leaves to take on Microsoft Office and Google Workspace",
-    "link": "https://techcrunch.com/2026/10/27/meta-ai-director-rohit-patel-leaves-to-take-on-microsoft-office-and-google-workspace/",
-    "source": "TechCrunch",
-    "category": "other",
-    "summary": "Rohit Patel is departing Meta after eight years working on AI evaluations and reinforcement learning, TechCrunch has exclusively learned. His startup, Ndoc, aims to take on Microsoft Office Suite.",
-    "keywords": [
-      "AI"
-    ],
-    "date": "2026-10-27"
-  },
-  {
-    "title": "Opera introduces a new web standard to let users deploy AI locally in their browser",
-    "link": "https://techcrunch.com/2026/10/27/opera-introduces-a-new-web-standard-to-let-users-deploy-ai-locally-in-their-browser/",
-    "source": "TechCrunch",
-    "category": "other",
-    "summary": "The new standard, WebAI, is designed to work with a variety of AI models.",
-    "keywords": [
-      "AI"
-    ],
-    "date": "2026-10-27"
-  },
-  {
-    "title": "General Compute raises $100 million Series A, countering the neocloud disaster narrative",
-    "link": "https://techcrunch.com/2026/10/27/general-compute-raises-100-million-series-a-countering-the-neocloud-disaster-narrative/",
-    "source": "TechCrunch",
-    "category": "funding",
-    "summary": "General Compute is betting on inference chips from outside the Nvidia ecosystem.",
-    "keywords": [
-      "AI"
-    ],
-    "date": "2026-10-27"
-  },
-  {
-    "title": "Nvidia backs Indian startup helping companies run AI models with fewer GPUs",
-    "link": "https://techcrunch.com/2026/10/27/nvidia-backs-indian-startup-helping-companies-run-ai-models-with-fewer-gpus/",
-    "source": "TechCrunch",
-    "category": "other",
-    "summary": "Simplismart says its annualized revenue run rate has grown fourteenfold in six months, with the U.S. accounting for more than half its revenue.",
-    "keywords": [
-      "AI"
-    ],
-    "date": "2026-10-27"
-  },
-  {
-    "title": "How OpenAI turned its coding tools into dots, an always-on personal assistant",
-    "link": "https://techcrunch.com/2026/10/26/how-openai-turned-its-coding-tools-into-dots-an-always-on-personal-assistant/",
-    "source": "TechCrunch",
-    "category": "other",
-    "summary": "Alexander Embiricos, the OpenAI executive responsible for dots, never wants to have a meeting with someone else's AI agent.",
-    "keywords": [
-      "AI",
-      "Agent",
-      "OpenAI"
-    ],
-    "date": "2026-10-27"
-  },
-  {
-    "title": "Cohere says Alibaba’s Qwen model tried to send a file to Beijing",
-    "link": "https://techcrunch.com/2026/10/26/cohere-says-alibabas-qwen-model-tried-to-send-a-file-to-beijing/",
-    "source": "TechCrunch",
-    "category": "other",
-    "summary": "An AI model said it wouldn’t use any tools, then tried to send something to a server in Beijing anyway, and while researchers say it’s probably a training quirk and not espionage, the whole thing has ",
-    "keywords": [
-      "AI"
-    ],
-    "date": "2026-10-27"
-  },
-  {
-    "title": "Anthropic’s IPO filing reveals its strategy for keeping enterprise customers hooked",
-    "link": "https://techcrunch.com/2026/10/26/anthropics-ipo-filing-reveals-its-strategy-for-keeping-enterprise-customers-hooked/",
-    "source": "TechCrunch",
-    "category": "key_news",
-    "summary": "Anthropic’s S-1 shows more than half of its $100,000-plus customers now use both the Claude Platform and a first-party app, a cross-selling playbook reminiscent of Amazon that’s making enterprise cust",
-    "keywords": [
-      "Anthropic",
-      "Claude"
-    ],
-    "date": "2026-10-26"
   }
 ]
