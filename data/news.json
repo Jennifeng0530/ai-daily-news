@@ -1,5 +1,38 @@
 [
   {
+    "title": "AI重构生产力与生产关系：深标院分享AI办公先行实践",
+    "link": "https://www.pingwest.com/w/319046",
+    "source": "品玩",
+    "category": "other",
+    "summary": "企业微信\n\n\n\nAI重构生产力与生产关系：深标院分享AI办公先行实践",
+    "keywords": [
+      "AI"
+    ],
+    "date": "2026-10-30"
+  },
+  {
+    "title": "触屏MacBook Pro今日开启预售，WPS将支持触控办公",
+    "link": "https://www.pingwest.com/w/319017",
+    "source": "品玩",
+    "category": "other",
+    "summary": "WPS AI\n\n\n\n触屏MacBook Pro今日开启预售，WPS将支持触控办公",
+    "keywords": [
+      "AI"
+    ],
+    "date": "2026-10-30"
+  },
+  {
+    "title": "MiniMax H3 开源生态持续拓展，英伟达团队开源 4K 视频增强方案",
+    "link": "https://www.pingwest.com/w/318998",
+    "source": "品玩",
+    "category": "other",
+    "summary": "英伟达\n\n\n\nMiniMax H3 开源生态持续拓展，英伟达团队开源 4K 视频增强方案",
+    "keywords": [
+      "MiniMax"
+    ],
+    "date": "2026-10-30"
+  },
+  {
     "title": "Reddit拟转向以登录为主体验 应对AI搜索流量下滑",
     "link": "https://www.pingwest.com/w/318971",
     "source": "品玩",
@@ -90,6 +123,51 @@
     "source": "品玩",
     "category": "other",
     "summary": "谷歌\n\n\n\nAI搜索变现滞后拖累核心业务 Alphabet三季度业绩不及预期\n\n据 nypost 报道，谷歌母公司Alphabet公布2026年第三季度财报，营收1275.8亿美元、同比增长25%，低于市场预期；净利润261.7亿美元，同比下降25%；调整后每股收益2.12美元，不及预期的2.99至3.02美元。",
+    "keywords": [
+      "AI"
+    ],
+    "date": "2026-10-30"
+  },
+  {
+    "title": "Theranos whistleblower Tyler Shultz warns that the AI boom is ‘a great opportunity to go deceive people’",
+    "link": "https://techcrunch.com/2026/10/30/theranos-whistleblower-tyler-shultz-warns-that-the-ai-boom-is-a-great-opportunity-to-go-deceive-people/",
+    "source": "TechCrunch",
+    "category": "other",
+    "summary": "The cautionary Theranos tale takes on a new significance in the AI era, when companies that have never turned a profit are raising capital at trillion-dollar valuations.",
+    "keywords": [
+      "AI"
+    ],
+    "date": "2026-10-30"
+  },
+  {
+    "title": "Skip the small talk: Make game-changing connections at TechCrunch Founder Summit with Braindate",
+    "link": "https://techcrunch.com/2026/10/30/skip-the-small-talk-make-game-changing-connections-at-techcrunch-founder-summit-with-braindate/",
+    "source": "TechCrunch",
+    "category": "other",
+    "summary": "At TechCrunch Founder Summit 2026, happening November 4 at SoWa Power Station in Boston, networking powered by Braindate is designed to make those conversations easier to find, whether they are in 1:1",
+    "keywords": [
+      "AI"
+    ],
+    "date": "2026-10-30"
+  },
+  {
+    "title": "DoorDash said it’s only received ‘several hundred’ orders from AI agents",
+    "link": "https://techcrunch.com/2026/10/30/doordash-said-its-only-received-several-hundred-orders-from-ai-agents/",
+    "source": "TechCrunch",
+    "category": "other",
+    "summary": "DoorDash said that it is open to working with third-party agent makers.",
+    "keywords": [
+      "AI",
+      "Agent"
+    ],
+    "date": "2026-10-30"
+  },
+  {
+    "title": "Can AI data centers be mass-produced like cars? This startup aims to find out",
+    "link": "https://techcrunch.com/2026/10/30/can-ai-data-centers-be-mass-produced-like-cars-and-online-in-48-hours-this-startup-aims-to-find-out/",
+    "source": "TechCrunch",
+    "category": "other",
+    "summary": "Runware is building a factory to turn out prefabricated AI data centers on an assembly line. The real test will be whether it can deliver at that scale.",
     "keywords": [
       "AI"
     ],
@@ -233,46 +311,7 @@
     "date": "2026-10-29"
   },
   {
-    "title": "OpenAI拟采购谷歌TPU芯片 推进算力多元化",
-    "link": "https://www.pingwest.com/w/318902",
-    "source": "品玩",
-    "category": "other",
-    "summary": "OpenAI\n\n\n\nOpenAI拟采购谷歌TPU芯片 推进算力多元化\n\n据decrypt 报道，OpenAI计划采购谷歌张量处理单元（TPU），以扩充人工智能训练与推理算力，降低对单一芯片供应商的依赖。",
-    "keywords": [
-      "AI",
-      "人工智能",
-      "OpenAI",
-      "智能"
-    ],
-    "date": "2026-10-29"
-  },
-  {
-    "title": "超级App生态下，中国式Personal Agent如何长出来？",
-    "link": "https://www.pingwest.com/a/318887",
-    "source": "品玩",
-    "category": "other",
-    "summary": "超级App生态下，中国式Personal Agent如何长出来？\n\n探索中国版个人智能体的新形态。",
-    "keywords": [
-      "Agent",
-      "智能"
-    ],
-    "date": "2026-10-29"
-  },
-  {
-    "title": "智元GO-3 Nano Preview登顶机器人操作评测基准",
-    "link": "https://www.pingwest.com/w/318896",
-    "source": "品玩",
-    "category": "other",
-    "summary": "智元机器人\n\n\n\n智元GO-3 Nano Preview登顶机器人操作评测基准\n\n据 pandaliy 报道，具身智能评测基准RoboDojo公布最新榜单，智元（AGIBOT）发布的GO-3 Nano Preview预览版以61.90分的平均成绩、56.42%的平均成功率位列第一，超过GPT-6 Astra。该基准涵盖42项仿真任务和18项真实机器人任务。",
-    "keywords": [
-      "GPT",
-      "机器人",
-      "智能"
-    ],
-    "date": "2026-10-29"
-  },
-  {
-    "title": "AWS will be a $1T business, Jassy says. But first, it will spend big.",
+    "title": "AWS will be a $1T business, Jassy says — but first, it will spend big",
     "link": "https://techcrunch.com/2026/10/29/aws-will-be-a-1t-business-jassy-says-but-first-it-will-spend-big/",
     "source": "TechCrunch",
     "category": "other",
@@ -404,41 +443,6 @@
     "summary": "The announcement came alongside parent company Alphabet's third-quarter earnings report, which saw revenue grow 25% year over year to $127.6 billion.",
     "keywords": [
       "AI"
-    ],
-    "date": "2026-10-28"
-  },
-  {
-    "title": "Microsoft recorded $10 billion in revenue from OpenAI",
-    "link": "https://techcrunch.com/2026/10/28/microsoft-recorded-10-billion-in-revenue-from-openai/",
-    "source": "TechCrunch",
-    "category": "funding",
-    "summary": "Microsoft said it made $10 billion in revenue from commercial arrangements with OpenAI, including revenue-sharing payments, in the quarter ending September 30. It underscores the still-enormous financ",
-    "keywords": [
-      "AI",
-      "OpenAI"
-    ],
-    "date": "2026-10-28"
-  },
-  {
-    "title": "Microsoft hits 10 quarters of record-breaking revenue in a row",
-    "link": "https://techcrunch.com/2026/10/28/microsoft-hits-10-quarters-of-record-breaking-revenue-in-a-row/",
-    "source": "TechCrunch",
-    "category": "other",
-    "summary": "Whatever the future of AI might be, the current situation is still very good for Microsoft. The tech giant reported yet another record for quarterly revenue on Wednesday: $92.3 billion, a 19% increase",
-    "keywords": [
-      "AI"
-    ],
-    "date": "2026-10-28"
-  },
-  {
-    "title": "Anthropic just launched tools to show companies what their AI spending is buying",
-    "link": "https://techcrunch.com/2026/10/28/anthropic-just-launched-tools-to-show-companies-what-their-ai-spending-is-buying/",
-    "source": "TechCrunch",
-    "category": "other",
-    "summary": "The frontier lab is lifting the curtain on how users spend money on its models ahead of a planned IPO.",
-    "keywords": [
-      "AI",
-      "Anthropic"
     ],
     "date": "2026-10-28"
   }
