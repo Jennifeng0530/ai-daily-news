@@ -1,54 +1,55 @@
 [
   {
-    "title": "AI重构生产力与生产关系：深标院分享AI办公先行实践",
-    "link": "https://www.pingwest.com/w/319046",
-    "source": "品玩",
+    "title": "Nvidia weighs playing the cosigner for Nscale’s AI data center in West Virginia",
+    "link": "https://techcrunch.com/2026/10/30/nvidia-weighs-playing-the-cosigner-for-nscales-ai-data-center-in-west-virginia/",
+    "source": "TechCrunch",
     "category": "other",
-    "summary": "企业微信\n\n\n\nAI重构生产力与生产关系：深标院分享AI办公先行实践",
+    "summary": "When investors get nervous about AI spending, it helps to have the chipmaker that sells the chips offer to cosign the loan.",
+    "keywords": [
+      "AI"
+    ],
+    "date": "2026-10-31"
+  },
+  {
+    "title": "Ollie, a privacy-focused AI assistant, is shutting down",
+    "link": "https://techcrunch.com/2026/10/30/ollie-a-privacy-focused-ai-assistant-is-shutting-down/",
+    "source": "TechCrunch",
+    "category": "other",
+    "summary": "As an increasing number of AI assistants flood the market, the founder of Ollie, an assistant that respected its users' privacy, says it will be shutting down in a week.",
     "keywords": [
       "AI"
     ],
     "date": "2026-10-30"
   },
   {
-    "title": "触屏MacBook Pro今日开启预售，WPS将支持触控办公",
-    "link": "https://www.pingwest.com/w/319017",
-    "source": "品玩",
+    "title": "Intel’s stock crashes, knocking $12B from government’s stake",
+    "link": "https://techcrunch.com/2026/10/30/intels-stock-crashes-knocking-12b-from-governments-stake/",
+    "source": "TechCrunch",
     "category": "other",
-    "summary": "WPS AI\n\n\n\n触屏MacBook Pro今日开启预售，WPS将支持触控办公",
+    "summary": "Intel is being hurt by PC sales as the AI industry gobbles memory and other components causing PC prices to rise.",
     "keywords": [
       "AI"
     ],
     "date": "2026-10-30"
   },
   {
-    "title": "MiniMax H3 开源生态持续拓展，英伟达团队开源 4K 视频增强方案",
-    "link": "https://www.pingwest.com/w/318998",
-    "source": "品玩",
-    "category": "other",
-    "summary": "英伟达\n\n\n\nMiniMax H3 开源生态持续拓展，英伟达团队开源 4K 视频增强方案",
+    "title": "Anthropic expected to receive high ‘junk’ rating from credit agencies following IPO, FT report says",
+    "link": "https://techcrunch.com/2026/10/30/anthropic-expected-to-receive-high-junk-rating-from-credit-agencies-following-ipo-report-says/",
+    "source": "TechCrunch",
+    "category": "key_news",
+    "summary": "Blackstone's forecast is just a prediction, but naturally, a high junk rating would make it more difficult and costlier for Anthropic to raise the money to keep funding its massive spending that has u",
     "keywords": [
-      "MiniMax"
+      "AI",
+      "Anthropic"
     ],
     "date": "2026-10-30"
   },
   {
-    "title": "Reddit拟转向以登录为主体验 应对AI搜索流量下滑",
-    "link": "https://www.pingwest.com/w/318971",
-    "source": "品玩",
+    "title": "Last-minute Halloween costumes for tech nerds",
+    "link": "https://techcrunch.com/2026/10/30/last-minute-halloween-costumes-for-tech-nerds/",
+    "source": "TechCrunch",
     "category": "other",
-    "summary": "Reddit\n\n\n\nReddit拟转向以登录为主体验 应对AI搜索流量下滑\n\n据 TechCrunch 报道，Reddit公布2026年第三季度财报，营收8.95亿美元，同比增长53%，超出市场预期；净利润2.83亿美元，同比增长74%。全球日活跃用户1.303亿，环比持平；美国日活跃用户降至5070万，同比下降2%。",
-    "keywords": [
-      "AI"
-    ],
-    "date": "2026-10-30"
-  },
-  {
-    "title": "腾讯发布跨应用AI协同体系Buddy One 统一账号与积分池",
-    "link": "https://www.pingwest.com/w/318968",
-    "source": "品玩",
-    "category": "other",
-    "summary": "腾讯\n\n\n\n腾讯发布跨应用AI协同体系Buddy One 统一账号与积分池\n\n在2026腾讯全球数字生态大会上，腾讯正式发布面向个人用户的跨应用AI协同体系Buddy One，打通WorkBuddy、腾讯文档、腾讯会议、腾讯网盘及ima等产品，共享WorkBuddy Agent底座，并统一账号与积分池。",
+    "summary": "No Halloween costume? Just be a deceptively cute AI agent icon, a PHP vulnerability, or sleepy time Bryan Johnson.",
     "keywords": [
       "AI",
       "Agent"
@@ -56,75 +57,36 @@
     "date": "2026-10-30"
   },
   {
-    "title": "腾讯Marvis上线 Coding 管家 远程调用桌面AI工具",
-    "link": "https://www.pingwest.com/w/318967",
-    "source": "品玩",
+    "title": "Cracks are emerging in the AI spending boom",
+    "link": "https://techcrunch.com/2026/10/30/cracks-are-emerging-in-the-ai-spending-boom/",
+    "source": "TechCrunch",
     "category": "other",
-    "summary": "腾讯云\n\n\n\n腾讯Marvis上线 Coding 管家 远程调用桌面AI工具\n\n腾讯",
+    "summary": "Big Tech is pouring billions into AI infrastructure, but mounting debt, negative cash flow, and growing investor skepticism are raising questions about the sustainability of the AI spending boom.",
     "keywords": [
       "AI"
     ],
     "date": "2026-10-30"
   },
   {
-    "title": "OpenAI上调ChatGPT Pro系列额度 Codex与Work用量翻倍",
-    "link": "https://www.pingwest.com/w/318966",
-    "source": "品玩",
+    "title": "Zest’s new AI agent finds restaurants and books reservations over text",
+    "link": "https://techcrunch.com/2026/10/30/zests-new-ai-agent-finds-restaurants-and-books-reservations-over-text/",
+    "source": "TechCrunch",
     "category": "other",
-    "summary": "OpenAI\n\n\n\nOpenAI上调ChatGPT Pro系列额度 Codex与Work用量翻倍\n\nOpenAI宣布调整ChatGPT Pro及Business Premium订阅权益，Work和Codex可用额度即日起翻倍。",
+    "summary": "Can't agree on where to eat? Zest's AI concierge can combine everyone's tastes, put restaurant options to a vote, and make the reservation.",
     "keywords": [
       "AI",
-      "OpenAI",
-      "GPT",
-      "ChatGPT"
+      "Agent"
     ],
     "date": "2026-10-30"
   },
   {
-    "title": "心言机器人发布具身家庭智能体“巴布”",
-    "link": "https://www.pingwest.com/w/318965",
-    "source": "品玩",
+    "title": "Google’s first data center satellite is online and writing poetry",
+    "link": "https://techcrunch.com/2026/10/30/googles-first-data-center-satellite-is-online-and-writing-poetry/",
+    "source": "TechCrunch",
     "category": "other",
-    "summary": "具身智能\n\n\n\n心言机器人发布具身家庭智能体“巴布”\n\n心言机器人近日在北京正式发布具身家庭智能体“巴布（Bubbo 1）”，产品即日起在京东等官方渠道发售，售价9499元，前1000名订购者享7999元优惠价。",
+    "summary": "The first TPU in space is running a Google DeepMind Gemma 4 model and writing cheesy poetry.",
     "keywords": [
-      "机器人",
-      "智能"
-    ],
-    "date": "2026-10-30"
-  },
-  {
-    "title": "SpaceX AI业务季度营收暴增9倍 Anthropic成最大客户",
-    "link": "https://www.pingwest.com/w/318963",
-    "source": "品玩",
-    "category": "other",
-    "summary": "SpaceX\n\n\n\nSpaceX AI业务季度营收暴增9倍 Anthropic成最大客户\n\n据 Cellcog 报道，SpaceX第三季度财报显示，代号\"客户B\"的一家客户贡献了当季34.5%的营收，全部来自其AI业务板块\"超级智能\"（Super Intelligence）。",
-    "keywords": [
-      "AI",
-      "Anthropic",
-      "智能"
-    ],
-    "date": "2026-10-30"
-  },
-  {
-    "title": "腾讯混元Hy4即将发布 首次引入视觉理解能力",
-    "link": "https://www.pingwest.com/w/318959",
-    "source": "品玩",
-    "category": "other",
-    "summary": "腾讯\n\n\n\n腾讯混元Hy4即将发布 首次引入视觉理解能力\n\n在2026腾讯全球数字生态大会上，腾讯集团高级执行副总裁、云与智慧产业事业群CEO汤道生宣布，腾讯混元新一代大模型Hy4即将发布。",
-    "keywords": [
-      "大模型",
-      "混元"
-    ],
-    "date": "2026-10-30"
-  },
-  {
-    "title": "AI搜索变现滞后拖累核心业务 Alphabet三季度业绩不及预期",
-    "link": "https://www.pingwest.com/w/318957",
-    "source": "品玩",
-    "category": "other",
-    "summary": "谷歌\n\n\n\nAI搜索变现滞后拖累核心业务 Alphabet三季度业绩不及预期\n\n据 nypost 报道，谷歌母公司Alphabet公布2026年第三季度财报，营收1275.8亿美元、同比增长25%，低于市场预期；净利润261.7亿美元，同比下降25%；调整后每股收益2.12美元，不及预期的2.99至3.02美元。",
-    "keywords": [
-      "AI"
+      "DeepMind"
     ],
     "date": "2026-10-30"
   },
@@ -183,132 +145,6 @@
       "AI"
     ],
     "date": "2026-10-30"
-  },
-  {
-    "title": "今日宜休发布两款睡眠科技旗舰新品，以软硬协同构建AI睡眠科技生态",
-    "link": "https://www.pingwest.com/w/318953",
-    "source": "品玩",
-    "category": "other",
-    "summary": "今日宜休\n\n\n\n今日宜休发布两款睡眠科技旗舰新品，以软硬协同构建AI睡眠科技生态",
-    "keywords": [
-      "AI"
-    ],
-    "date": "2026-10-29"
-  },
-  {
-    "title": "AI WAVE｜智元发布具身模型GO-3 Preview ，一举拿下 RoboDojo、RoboTwin、RoboColiseum三大榜单第一",
-    "link": "https://www.pingwest.com/w/318950",
-    "source": "品玩",
-    "category": "other",
-    "summary": "智元机器人\n\n\n\nAI WAVE｜智元发布具身模型GO-3 Preview ，一举拿下 RoboDojo、RoboTwin、RoboColiseum三大榜单第一\n\n导言：10月29日，作为AI&nbsp;WAVE的集大成之作，智元正式推出预训练/后训练/部署后实现全链路规模化学习的具身模型——GO-3 Preview。GO-3 Preview 以理解、预测、动作统一的具身原生架构为基础，依托&nb",
-    "keywords": [
-      "AI",
-      "机器人"
-    ],
-    "date": "2026-10-29"
-  },
-  {
-    "title": "2026智元创新日，技术跃迁推动部署态全域落地",
-    "link": "https://www.pingwest.com/w/318948",
-    "source": "品玩",
-    "category": "other",
-    "summary": "智元机器人\n\n\n\n2026智元创新日，技术跃迁推动部署态全域落地",
-    "keywords": [
-      "机器人"
-    ],
-    "date": "2026-10-29"
-  },
-  {
-    "title": "比Astra更懂物理空间，ACE-Brain API来了",
-    "link": "https://www.pingwest.com/w/318939",
-    "source": "品玩",
-    "category": "other",
-    "summary": "大晓机器人\n\n\n\n比Astra更懂物理空间，ACE-Brain API来了\n\n近日，继ACE-Brain-0.6在六项空间锚定评测中超越GPT-6 Astra后，大晓机器人正式推出ACE-Brain-0.6 API。",
-    "keywords": [
-      "AI",
-      "GPT",
-      "机器人"
-    ],
-    "date": "2026-10-29"
-  },
-  {
-    "title": "教育部“扶光计划”全国启动，北京大学与腾讯携手助力中小学人工智能素养提升",
-    "link": "https://www.pingwest.com/w/318927",
-    "source": "品玩",
-    "category": "other",
-    "summary": "腾讯\n\n\n\n教育部“扶光计划”全国启动，北京大学与腾讯携手助力中小学人工智能素养提升",
-    "keywords": [
-      "人工智能",
-      "智能"
-    ],
-    "date": "2026-10-29"
-  },
-  {
-    "title": "AI做中学 创未来｜智源SoulAgent持续拓展教育应用",
-    "link": "https://www.pingwest.com/w/318921",
-    "source": "品玩",
-    "category": "other",
-    "summary": "北京智源研究院\n\n\n\nAI做中学 创未来｜智源SoulAgent持续拓展教育应用",
-    "keywords": [
-      "AI",
-      "Agent"
-    ],
-    "date": "2026-10-29"
-  },
-  {
-    "title": "蚂蚁百灵开源Ling-3.1-flash-1019 灵光2.0升级为个人AI助理",
-    "link": "https://www.pingwest.com/w/318909",
-    "source": "品玩",
-    "category": "other",
-    "summary": "蚂蚁灵光\n\n\n\n蚂蚁百灵开源Ling-3.1-flash-1019 灵光2.0升级为个人AI助理\n\n蚂蚁集团发布灵光2.0，升级为“能管事的个人AI助理”，可依托跨会话记忆、长程任务调度与独立云主机，在用户授权范围内持续跟进旅行规划、比价提醒等复杂事务，即使退出对话仍可继续运行。",
-    "keywords": [
-      "AI"
-    ],
-    "date": "2026-10-29"
-  },
-  {
-    "title": "AI 让创造触手可及，阶跃星辰想与 Builder 一起构造更多可能",
-    "link": "https://www.pingwest.com/a/318888",
-    "source": "品玩",
-    "category": "other",
-    "summary": "AI 让创造触手可及，阶跃星辰想与 Builder 一起构造更多可能\n\n在真实世界真实场景中创造价值",
-    "keywords": [
-      "AI"
-    ],
-    "date": "2026-10-29"
-  },
-  {
-    "title": "豆包工作升级电脑操作能力 支持技能录制与Mac锁屏执行",
-    "link": "https://www.pingwest.com/w/318907",
-    "source": "品玩",
-    "category": "other",
-    "summary": "豆包\n\n\n\n豆包工作升级电脑操作能力 支持技能录制与Mac锁屏执行\n\n据豆包工作官方消息，豆包工作近日升级电脑操作能力，屏幕点击精度与执行速度进一步提升。用户在授权后，豆包工作可自动查看屏幕，并模拟鼠标和键盘操作完成跨应用任务。",
-    "keywords": [
-      "豆包"
-    ],
-    "date": "2026-10-29"
-  },
-  {
-    "title": "谷歌发布Gemini 4 Carbon 强化网络安全与长程任务能力",
-    "link": "https://www.pingwest.com/w/318904",
-    "source": "品玩",
-    "category": "other",
-    "summary": "GEMINI\n\n\n\n谷歌发布Gemini 4 Carbon 强化网络安全与长程任务能力\n\n谷歌发布新一代前沿模型Gemini 4 Carbon，定位为当前能力最强的版本，重点提升网络安全防御与长周期任务处理能力。",
-    "keywords": [
-      "Gemini"
-    ],
-    "date": "2026-10-29"
-  },
-  {
-    "title": "用好故事跨越流量焦虑 虎鲸文娱举办鲸锐AI创作大赛行业沙龙",
-    "link": "https://www.pingwest.com/w/318903",
-    "source": "品玩",
-    "category": "other",
-    "summary": "虎鲸\n\n\n\n用好故事跨越流量焦虑 虎鲸文娱举办鲸锐AI创作大赛行业沙龙",
-    "keywords": [
-      "AI"
-    ],
-    "date": "2026-10-29"
   },
   {
     "title": "AWS will be a $1T business, Jassy says — but first, it will spend big",
@@ -376,74 +212,5 @@
       "AI"
     ],
     "date": "2026-10-29"
-  },
-  {
-    "title": "Mistral releases weights for its trillion-parameter AI model, targeting cybersecurity",
-    "link": "https://techcrunch.com/2026/10/29/mistral-releases-weights-for-its-trillion-parameter-ai-model-targeting-cybersecurity/",
-    "source": "TechCrunch",
-    "category": "other",
-    "summary": "Mistral says its new model can afford organizations a kind of control over its cyber defenses that closed models can't.",
-    "keywords": [
-      "AI",
-      "Mistral"
-    ],
-    "date": "2026-10-29"
-  },
-  {
-    "title": "US investigated Chinese spy plot aimed at Nvidia CEO",
-    "link": "https://techcrunch.com/2026/10/29/u-s-investigated-chinese-spy-plot-aimed-at-nvidia-ceo/",
-    "source": "TechCrunch",
-    "category": "other",
-    "summary": "A top executive of a Singapore AI cloud company that was accused of illegally selling Nvidia chips to China could also have been a Chinese spy, sources have told the New York Times.",
-    "keywords": [
-      "AI"
-    ],
-    "date": "2026-10-29"
-  },
-  {
-    "title": "Ex-Palantir execs launch Dream with $17M from a16z to build AI world models for construction",
-    "link": "https://techcrunch.com/2026/10/29/ex-palantir-execs-launch-dream-with-17m-from-a16z-to-build-ai-world-models-for-construction/",
-    "source": "TechCrunch",
-    "category": "other",
-    "summary": "Dream is grounded in real physics and construction standards. Just as LLMs learn from text, Dream's world model is trained on more than 100 million square feet of building data gathered from permit ar",
-    "keywords": [
-      "AI",
-      "LLM"
-    ],
-    "date": "2026-10-29"
-  },
-  {
-    "title": "Wabi, the AI agent that builds mini apps, now valued at $1.25B after latest round",
-    "link": "https://techcrunch.com/2026/10/29/wabi-the-ai-agent-that-builds-mini-apps-now-valued-at-1-25b-after-latest-round/",
-    "source": "TechCrunch",
-    "category": "other",
-    "summary": "On Thursday, AI app Wabi, now describing itself as a \"personal agent,\" said it has raised $55 million at a $1.25 billion valuation.",
-    "keywords": [
-      "AI",
-      "Agent"
-    ],
-    "date": "2026-10-29"
-  },
-  {
-    "title": "Deepgram acquires Pipecat-maker Daily to bolster its voice AI infrastructure",
-    "link": "https://techcrunch.com/2026/10/29/deepgram-acquires-pipecat-maker-daily-to-bolster-its-voice-ai-infrastructure/",
-    "source": "TechCrunch",
-    "category": "other",
-    "summary": "With Pipecat, Deepgram will likely gain a deeper understanding of real-time voice and video infrastructure.",
-    "keywords": [
-      "AI"
-    ],
-    "date": "2026-10-29"
-  },
-  {
-    "title": "Google expands AI Search ads globally as core ad growth slows",
-    "link": "https://techcrunch.com/2026/10/28/google-expands-ai-search-ads-globally-as-core-ad-growth-slows/",
-    "source": "TechCrunch",
-    "category": "other",
-    "summary": "The announcement came alongside parent company Alphabet's third-quarter earnings report, which saw revenue grow 25% year over year to $127.6 billion.",
-    "keywords": [
-      "AI"
-    ],
-    "date": "2026-10-28"
   }
 ]
