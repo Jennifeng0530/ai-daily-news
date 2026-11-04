@@ -1,5 +1,40 @@
 [
   {
+    "title": "Anthropic发布FlashProve实现大模型可验证推理",
+    "link": "https://www.pingwest.com/w/319216",
+    "source": "品玩",
+    "category": "other",
+    "summary": "Anthropic\n\n\n\nAnthropic发布FlashProve实现大模型可验证推理\n\nAnthropic近日发布FlashProve，一种基于zkSNARK密码学技术的大语言模型可验证推理系统。",
+    "keywords": [
+      "大模型",
+      "Anthropic"
+    ],
+    "date": "2026-11-04"
+  },
+  {
+    "title": "360乌镇峰会发布元认知模型，破解AI产业应用关键瓶颈",
+    "link": "https://www.pingwest.com/w/319213",
+    "source": "品玩",
+    "category": "other",
+    "summary": "360\n\n\n\n360乌镇峰会发布元认知模型，破解AI产业应用关键瓶颈\n\n360",
+    "keywords": [
+      "AI"
+    ],
+    "date": "2026-11-04"
+  },
+  {
+    "title": "Grok Bot成了所有Personal Agent想象中自己的样子",
+    "link": "https://www.pingwest.com/a/319193",
+    "source": "品玩",
+    "category": "other",
+    "summary": "Grok Bot成了所有Personal Agent想象中自己的样子\n\n一个 Personal Agent Team",
+    "keywords": [
+      "Agent",
+      "Grok"
+    ],
+    "date": "2026-11-04"
+  },
+  {
     "title": "一次抓取背后：读懂智能的“计量”，Token经济学如何聚合“算力、模型、语料”？",
     "link": "https://www.pingwest.com/w/319199",
     "source": "品玩",
@@ -156,6 +191,28 @@
     "date": "2026-11-04"
   },
   {
+    "title": "I tried Apple’s Siri Recaps. They’re surprisingly useful — and a little unsettling",
+    "link": "https://techcrunch.com/2026/11/04/i-tried-apples-siri-recaps-theyre-surprisingly-useful-and-a-little-unsettling/",
+    "source": "TechCrunch",
+    "category": "other",
+    "summary": "Apple's AI-powered Siri Recaps won me over in just one day, despite my privacy reservations. But there's still room for improvement.",
+    "keywords": [
+      "AI"
+    ],
+    "date": "2026-11-04"
+  },
+  {
+    "title": "Google faces backlash for plan that would turn off Search for schools that restrict AI",
+    "link": "https://techcrunch.com/2026/11/04/google-faces-backlash-for-plan-that-would-turn-off-search-for-schools-that-restrict-ai/",
+    "source": "TechCrunch",
+    "category": "other",
+    "summary": "Politicians on the left, like NYC mayor Zohran Mamdani and former FTC chair Lina Khan, accused Google of acting as an unregulated monopoly.",
+    "keywords": [
+      "AI"
+    ],
+    "date": "2026-11-04"
+  },
+  {
     "title": "前迪士尼 AI 高管出任 CPO，Utopai Studios 技术布局再提速",
     "link": "https://www.pingwest.com/w/319160",
     "source": "品玩",
@@ -254,77 +311,6 @@
     "summary": "苹果\n\n\n\n苹果拟借第三方AI应用拓展服务收入 应对App Store增长压力\n\nTechCrunch 报道，苹果公司服务业务收入仍处历史高位，但增长正面临压力。作为服务业务核心的App Store受到监管趋严及移动游戏市场低迷影响，拖累整体增速。",
     "keywords": [
       "AI"
-    ],
-    "date": "2026-11-03"
-  },
-  {
-    "title": "腾讯混元发布Hyra 2.0 AI科研从解题迈向工具研发",
-    "link": "https://www.pingwest.com/w/319126",
-    "source": "品玩",
-    "category": "other",
-    "summary": "腾讯\n\n\n\n腾讯混元发布Hyra 2.0 AI科研从解题迈向工具研发\n\n腾讯混元Hyra团队近日发布Hyra 2.0，推动AI科研从自主解题向工具研发升级。相较于1.0版本聚焦单一问题求解，2.0让智能体参与科学模型、工作流与软件工具的研发与升级，使研发成果可被后续研究反复复用。",
-    "keywords": [
-      "AI",
-      "混元",
-      "智能"
-    ],
-    "date": "2026-11-03"
-  },
-  {
-    "title": "OpenAI推出\"电网保护者计划\" 助力AI算力设施灵活用电",
-    "link": "https://www.pingwest.com/w/319124",
-    "source": "品玩",
-    "category": "other",
-    "summary": "OpenAI\n\n\n\nOpenAI推出\"电网保护者计划\" 助力AI算力设施灵活用电\n\nOpenAI近日宣布推出\"电网保护者计划\"(Grid Protectors Program)，与美国电力公司、监管机构合作，帮助未来算力园区在电网负荷紧张时灵活调节用电需求，保障社区电力供应稳定。",
-    "keywords": [
-      "AI",
-      "OpenAI"
-    ],
-    "date": "2026-11-03"
-  },
-  {
-    "title": "腾讯Marvis正式上架统信应用商店，完成国产操作系统整体布局",
-    "link": "https://www.pingwest.com/w/319122",
-    "source": "品玩",
-    "category": "other",
-    "summary": "腾讯\n\n\n\n腾讯Marvis正式上架统信应用商店，完成国产操作系统整体布局\n\n11月3日，腾讯旗下AI管家Marvis正式登陆统信UOS，X86-64与ARM64两种架构的安装包同步上架官方应用商店及deepin社区软件商店。",
-    "keywords": [
-      "AI"
-    ],
-    "date": "2026-11-03"
-  },
-  {
-    "title": "Marvell宣布1150亿美元收购Lumentum 布局AI光互联",
-    "link": "https://www.pingwest.com/w/319121",
-    "source": "品玩",
-    "category": "other",
-    "summary": "Marvell\n\n\n\nMarvell宣布1150亿美元收购Lumentum 布局AI光互联\n\n据 Marvell 官方消息，Marvell以换股方式收购光通信技术企业Lumentum，每股兑换4.5股Marvell股票，隐含企业价值约1150亿美元，溢价约23.9%。",
-    "keywords": [
-      "AI"
-    ],
-    "date": "2026-11-03"
-  },
-  {
-    "title": "微软发布AI行为准则草案 明确\"人比AI更重要\"原则",
-    "link": "https://www.pingwest.com/w/319120",
-    "source": "品玩",
-    "category": "other",
-    "summary": "微软\n\n\n\n微软发布AI行为准则草案 明确\"人比AI更重要\"原则\n\n据微软官方消息，微软AI团队（MAI）近日发布《人文主义AI行为准则》第一版草案，同步开放为期六周的公众咨询。",
-    "keywords": [
-      "AI"
-    ],
-    "date": "2026-11-03"
-  },
-  {
-    "title": "DeepSeek发布Super-agent架构 推动智能体向自主管家型演进",
-    "link": "https://www.pingwest.com/w/319118",
-    "source": "品玩",
-    "category": "other",
-    "summary": "DEEPseek\n\n\n\nDeepSeek发布Super-agent架构 推动智能体向自主管家型演进\n\n据科创板日报报道，DeepSeek Harness团队近日发布技术文章《Super-agent设计探索：迈向更自主的Agent系统》，正式公开其面向自主智能体探索的全新架构Super-agent。",
-    "keywords": [
-      "Agent",
-      "DeepSeek",
-      "智能"
     ],
     "date": "2026-11-03"
   },
@@ -482,39 +468,6 @@
     "keywords": [
       "AI",
       "Anthropic"
-    ],
-    "date": "2026-11-02"
-  },
-  {
-    "title": "Web host Squarespace lays off 19% of its employees",
-    "link": "https://techcrunch.com/2026/11/02/web-host-squarespace-lays-off-19-of-its-employees/",
-    "source": "TechCrunch",
-    "category": "other",
-    "summary": "The website builder said that the job losses are part of a broader restructuring of its organization.",
-    "keywords": [
-      "AI"
-    ],
-    "date": "2026-11-02"
-  },
-  {
-    "title": "New York Times and other outlets sue web browser Brave over alleged content scraping",
-    "link": "https://techcrunch.com/2026/11/02/new-york-times-and-other-outlets-sue-web-browser-brave-over-alleged-content-scraping/",
-    "source": "TechCrunch",
-    "category": "other",
-    "summary": "The New York Times is suing privacy-focused web browser company Brave for allegedly scraping the outlet’s copyrighted content and unlawfully distributing it to its own customers, like Anthropic and Pe",
-    "keywords": [
-      "Anthropic"
-    ],
-    "date": "2026-11-02"
-  },
-  {
-    "title": "42AI comes out of stealth with $62.5M and a world model that can ‘predict human behavior’",
-    "link": "https://techcrunch.com/2026/11/02/42ai-comes-out-of-stealth-with-62-5m-and-a-world-model-that-can-predict-human-behavior/",
-    "source": "TechCrunch",
-    "category": "other",
-    "summary": "Here's a question straight out of sci-fi: What if AI could predict what you were going to do before you decided to, even in a completely new situation?",
-    "keywords": [
-      "AI"
     ],
     "date": "2026-11-02"
   }
