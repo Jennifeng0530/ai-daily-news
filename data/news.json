@@ -1,14 +1,285 @@
 [
   {
-    "title": "Apple is reportedly cutting budgets for its internal AI usage",
-    "link": "https://techcrunch.com/2026/11/04/apple-is-reportedly-cutting-budgets-for-its-internal-ai-usage/",
-    "source": "TechCrunch",
+    "title": "菜鸟发布与AI及具身智能产业合作计划",
+    "link": "https://www.pingwest.com/w/319280",
+    "source": "品玩",
     "category": "other",
-    "summary": "The company is said to be significantly dropping the amount it's spending on AI for its engineering teams.",
+    "summary": "菜鸟网络\n\n\n\n菜鸟发布与AI及具身智能产业合作计划",
+    "keywords": [
+      "AI",
+      "智能"
+    ],
+    "date": "2026-11-05"
+  },
+  {
+    "title": "Meta收购AI编程初创公司Conductor 强化多智能体开发能力",
+    "link": "https://www.pingwest.com/w/319259",
+    "source": "品玩",
+    "category": "other",
+    "summary": "META\n\n\n\nMeta收购AI编程初创公司Conductor 强化多智能体开发能力\n\n据 TechCrunch 报道，Meta近日宣布收购AI编程初创公司Conductor，交易细节未披露。",
+    "keywords": [
+      "AI",
+      "智能"
+    ],
+    "date": "2026-11-05"
+  },
+  {
+    "title": "OpenAI拟收购Pierre 强化Codex开发者基础设施",
+    "link": "https://www.pingwest.com/w/319245",
+    "source": "品玩",
+    "category": "other",
+    "summary": "OpenAI\n\n\n\nOpenAI拟收购Pierre 强化Codex开发者基础设施\n\n据 Axios 报道，OpenAI近日宣布达成协议收购Pierre Computer Company，以加速扩展Codex平台原生开发者能力。",
+    "keywords": [
+      "AI",
+      "OpenAI"
+    ],
+    "date": "2026-11-05"
+  },
+  {
+    "title": "Netflix推出AI Discover标签页 探索智能内容发现新方式",
+    "link": "https://www.pingwest.com/w/319243",
+    "source": "品玩",
+    "category": "other",
+    "summary": "metflix\n\n\n\nNetflix推出AI Discover标签页 探索智能内容发现新方式\n\nNetflix近日宣布在电视应用中上线AI Discover标签页，首批面向美国使用英语版且设备受支持的会员开放，未来数周将逐步扩大覆盖范围。",
+    "keywords": [
+      "AI",
+      "智能"
+    ],
+    "date": "2026-11-05"
+  },
+  {
+    "title": "OpenAI发布Images 2.6图像生成模型 速度提升50%并支持GIF创作",
+    "link": "https://www.pingwest.com/w/319237",
+    "source": "品玩",
+    "category": "other",
+    "summary": "OpenAI\n\n\n\nOpenAI发布Images 2.6图像生成模型 速度提升50%并支持GIF创作\n\nOpenAI今天宣布推出图像生成模型Images 2.6，现已面向全球用户开放，支持ChatGPT、Codex及API端调用。",
+    "keywords": [
+      "AI",
+      "OpenAI",
+      "GPT",
+      "ChatGPT"
+    ],
+    "date": "2026-11-05"
+  },
+  {
+    "title": "Alphabet宣布投资150亿美元在马来西亚扩建数据中心与AI基础设施",
+    "link": "https://www.pingwest.com/w/319234",
+    "source": "品玩",
+    "category": "other",
+    "summary": "Alphabet\n\n\n\nAlphabet宣布投资150亿美元在马来西亚扩建数据中心与AI基础设施\n\n据simplywall 报道，Alphabet近日宣布计划在马来西亚投资150亿美元，扩建Google数据中心及AI基础设施。",
     "keywords": [
       "AI"
     ],
     "date": "2026-11-05"
+  },
+  {
+    "title": "Anthropic展示自研芯片设计能力 AI辅助半导体工程引关注",
+    "link": "https://www.pingwest.com/w/319232",
+    "source": "品玩",
+    "category": "other",
+    "summary": "Anthropic\n\n\n\nAnthropic展示自研芯片设计能力 AI辅助半导体工程引关注\n\n据 The Information 报道，Anthropic在向潜在IPO投资者推介过程中，重点展示了其内部芯片设计能力。",
+    "keywords": [
+      "AI",
+      "Anthropic"
+    ],
+    "date": "2026-11-05"
+  },
+  {
+    "title": "Axiom Math wants to keep AI slop out of mathematics",
+    "link": "https://techcrunch.com/2026/11/05/axiom-math-wants-to-keep-ai-slop-out-of-mathematics/",
+    "source": "TechCrunch",
+    "category": "other",
+    "summary": "As AI floods math with unchecked proofs, Axiom Math is betting on verification. The startup’s AI agents just formally verified the Stacks Project, one of the field’s biggest libraries.",
+    "keywords": [
+      "AI",
+      "Agent"
+    ],
+    "date": "2026-11-05"
+  },
+  {
+    "title": "Dropbox acquires Tigris Data for $350M to bolster its AI infrastructure",
+    "link": "https://techcrunch.com/2026/11/05/dropbox-acquires-tigris-data-for-350m-to-bolster-its-ai-iinfrastructure/",
+    "source": "TechCrunch",
+    "category": "other",
+    "summary": "The deal is expected to support the development of DBX Agent Cloud, a new storage platform aimed at developers building AI models and agents.",
+    "keywords": [
+      "AI",
+      "Agent"
+    ],
+    "date": "2026-11-05"
+  },
+  {
+    "title": "Aina’s smart ring has a screen, a joystick, and a mic so you can talk to AI agents",
+    "link": "https://techcrunch.com/2026/11/05/ainas-smart-ring-has-a-screen-a-joystick-and-a-mic-so-you-can-talk-to-ai-agents/",
+    "source": "TechCrunch",
+    "category": "other",
+    "summary": "Aina's ring can also take calls and help you dictate notes on your Mac.",
+    "keywords": [
+      "AI",
+      "Agent"
+    ],
+    "date": "2026-11-05"
+  },
+  {
+    "title": "Box taps Nvidia’s Nemotron for new agent-first content retrieval system",
+    "link": "https://techcrunch.com/2026/11/05/box-taps-nvidias-nemotron-for-new-agent-first-content-retrieval-system/",
+    "source": "TechCrunch",
+    "category": "other",
+    "summary": "The system can supposedly answer queries four times faster, with 20% fewer errors and 90% fewer tokens used.",
+    "keywords": [
+      "Agent"
+    ],
+    "date": "2026-11-05"
+  },
+  {
+    "title": "A YC startup is putting $1M behind five unsolved materials science problems for AI",
+    "link": "https://techcrunch.com/2026/11/05/a-yc-startup-is-putting-1m-behind-five-unsolved-materials-science-problems-for-ai/",
+    "source": "TechCrunch",
+    "category": "other",
+    "summary": "Discovered Materials, a months-old YC startup that uses AI to find chip materials, is offering $200,000 for each solution to five open materials science problems.",
+    "keywords": [
+      "AI"
+    ],
+    "date": "2026-11-05"
+  },
+  {
+    "title": "Apple is reportedly cutting budgets for its internal AI usage",
+    "link": "https://techcrunch.com/2026/11/04/apple-is-reportedly-cutting-budgets-for-its-internal-ai-usage/",
+    "source": "TechCrunch",
+    "category": "other",
+    "summary": "The tokenmaxxing frenzy has been short-lived as bills for said tokens came due, and companies decided that token rationing might be a more fiscally sensible approach.",
+    "keywords": [
+      "AI"
+    ],
+    "date": "2026-11-05"
+  },
+  {
+    "title": "Anthropic发布FlashProve实现大模型可验证推理",
+    "link": "https://www.pingwest.com/w/319216",
+    "source": "品玩",
+    "category": "other",
+    "summary": "Anthropic\n\n\n\nAnthropic发布FlashProve实现大模型可验证推理\n\nAnthropic近日发布FlashProve，一种基于zkSNARK密码学技术的大语言模型可验证推理系统。",
+    "keywords": [
+      "大模型",
+      "Anthropic"
+    ],
+    "date": "2026-11-04"
+  },
+  {
+    "title": "360乌镇峰会发布元认知模型，破解AI产业应用关键瓶颈",
+    "link": "https://www.pingwest.com/w/319213",
+    "source": "品玩",
+    "category": "other",
+    "summary": "360\n\n\n\n360乌镇峰会发布元认知模型，破解AI产业应用关键瓶颈\n\n360",
+    "keywords": [
+      "AI"
+    ],
+    "date": "2026-11-04"
+  },
+  {
+    "title": "Grok Bot成了所有Personal Agent想象中自己的样子",
+    "link": "https://www.pingwest.com/a/319193",
+    "source": "品玩",
+    "category": "other",
+    "summary": "Grok Bot成了所有Personal Agent想象中自己的样子\n\n一个 Personal Agent Team",
+    "keywords": [
+      "Agent",
+      "Grok"
+    ],
+    "date": "2026-11-04"
+  },
+  {
+    "title": "一次抓取背后：读懂智能的“计量”，Token经济学如何聚合“算力、模型、语料”？",
+    "link": "https://www.pingwest.com/w/319199",
+    "source": "品玩",
+    "category": "other",
+    "summary": "人工智能\n\n\n\n一次抓取背后：读懂智能的“计量”，Token经济学如何聚合“算力、模型、语料”？",
+    "keywords": [
+      "人工智能",
+      "智能"
+    ],
+    "date": "2026-11-04"
+  },
+  {
+    "title": "迭代不止，“龙虾”到“WorkBuddy”,见证AI生产力跃升",
+    "link": "https://www.pingwest.com/w/319198",
+    "source": "品玩",
+    "category": "other",
+    "summary": "人工智能\n\n\n\n迭代不止，“龙虾”到“WorkBuddy”,见证AI生产力跃升",
+    "keywords": [
+      "AI",
+      "人工智能",
+      "智能"
+    ],
+    "date": "2026-11-04"
+  },
+  {
+    "title": "真机实干，产训一体：具身智能的下一座基础设施，为什么是“实景实训平台”？",
+    "link": "https://www.pingwest.com/w/319197",
+    "source": "品玩",
+    "category": "other",
+    "summary": "机器人\n\n\n\n真机实干，产训一体：具身智能的下一座基础设施，为什么是“实景实训平台”？",
+    "keywords": [
+      "机器人",
+      "智能"
+    ],
+    "date": "2026-11-04"
+  },
+  {
+    "title": "从“看懂世界”到“预演下一步”：世界模型与 VLA，如何让机器人拥有真正的“具身大脑”？v2.4_20261015(1)",
+    "link": "https://www.pingwest.com/w/319196",
+    "source": "品玩",
+    "category": "other",
+    "summary": "机器人\n\n\n\n从“看懂世界”到“预演下一步”：世界模型与 VLA，如何让机器人拥有真正的“具身大脑”？v2.4_20261015(1)",
+    "keywords": [
+      "机器人"
+    ],
+    "date": "2026-11-04"
+  },
+  {
+    "title": "复旦大学与铭芯启睿共建先进存算一体智能芯片校企联合实验室",
+    "link": "https://www.pingwest.com/w/319195",
+    "source": "品玩",
+    "category": "other",
+    "summary": "铭芯启睿\n\n\n\n复旦大学与铭芯启睿共建先进存算一体智能芯片校企联合实验室\n\n围绕高密度阻变存储器、存算融合芯片、异构集成芯片设计开展合作。",
+    "keywords": [
+      "智能"
+    ],
+    "date": "2026-11-04"
+  },
+  {
+    "title": "梦回 2024：国行 iPhone 终于用上 Apple 智能了，但它还不够好",
+    "link": "https://www.pingwest.com/a/319191",
+    "source": "品玩",
+    "category": "other",
+    "summary": "苹果智能\n\n\n\n梦回 2024：国行 iPhone 终于用上 Apple 智能了，但它还不够好\n\n苹果终于把当年承诺的一部分 AI 功能带到了国行 iPhone 上。",
+    "keywords": [
+      "AI",
+      "智能"
+    ],
+    "date": "2026-11-04"
+  },
+  {
+    "title": "从 Demo 到全球产品：AI 时代的出海门槛变了 ｜硅星人 ACC",
+    "link": "https://www.pingwest.com/a/319084",
+    "source": "品玩",
+    "category": "other",
+    "summary": "从 Demo 到全球产品：AI 时代的出海门槛变了 ｜硅星人 ACC\n\nBuild的成本变低，但理解用户、寻找价值锚点的难度依然很高。",
+    "keywords": [
+      "AI"
+    ],
+    "date": "2026-11-04"
+  },
+  {
+    "title": "高通AI Hub面向中国开发者开放 加速终端侧AI部署",
+    "link": "https://www.pingwest.com/w/319190",
+    "source": "品玩",
+    "category": "other",
+    "summary": "高通\n\n\n\n高通AI Hub面向中国开发者开放 加速终端侧AI部署\n\n高通技术公司近日宣布，高通AI Hub正式面向中国开发者开放，提供用于构建和部署终端侧AI的一站式平台。",
+    "keywords": [
+      "AI"
+    ],
+    "date": "2026-11-04"
   },
   {
     "title": "AI PACs spent millions trying to shape Congress — here’s how they fared",
@@ -131,61 +402,6 @@
     "summary": "Called FlashProve, the system would let anyone check that an AI response really came from the model it claims to be from.",
     "keywords": [
       "AI",
-      "Anthropic"
-    ],
-    "date": "2026-11-03"
-  },
-  {
-    "title": "Data centers are turning to old jet engines as the wait for power grows",
-    "link": "https://techcrunch.com/2026/11/03/data-centers-are-turning-to-old-jet-engines-as-the-wait-for-power-grows/",
-    "source": "TechCrunch",
-    "category": "other",
-    "summary": "The years-long wait for access to the grid and new turbines is causing data center builders to turn to an unusual, less-efficient and less environmentally friendly solution: once-discarded jet engines",
-    "keywords": [
-      "AI"
-    ],
-    "date": "2026-11-03"
-  },
-  {
-    "title": "Ted Schlein’s Ballistic Ventures seeks $490M for new funds amid AI-driven cybersecurity boom",
-    "link": "https://techcrunch.com/2026/11/03/ted-schleins-ballistic-ventures-seeks-490m-for-new-funds-amid-ai-driven-cybersecurity-boom/",
-    "source": "TechCrunch",
-    "category": "other",
-    "summary": "Cybersecurity-focused Ballistic Ventures is seeking to raise $360 million for a new flagship fund and another $130 million for a separate investment vehicle.",
-    "keywords": [
-      "AI"
-    ],
-    "date": "2026-11-03"
-  },
-  {
-    "title": "AI inference startup Fal doubles its valuation to $16B as demand surges",
-    "link": "https://techcrunch.com/2026/11/03/ai-inference-startup-fal-doubles-its-valuation-to-16b-as-demand-surges/",
-    "source": "TechCrunch",
-    "category": "funding",
-    "summary": "The five-year-old startup raised a $1.3  billion round led by Bessemer.",
-    "keywords": [
-      "AI"
-    ],
-    "date": "2026-11-03"
-  },
-  {
-    "title": "Netflix’s new AI Discover tab helps you find something to watch based on your mood",
-    "link": "https://techcrunch.com/2026/11/03/netflixs-new-ai-discover-tab-helps-you-find-something-to-watch-based-on-your-mood/",
-    "source": "TechCrunch",
-    "category": "other",
-    "summary": "The first experimental feature under the tab will allow users to get recommendations based on what they're currently in the mood for.",
-    "keywords": [
-      "AI"
-    ],
-    "date": "2026-11-03"
-  },
-  {
-    "title": "Anthropic is still grappling with the economics of compute",
-    "link": "https://techcrunch.com/2026/11/03/anthropic-is-still-grappling-with-the-economics-of-compute/",
-    "source": "TechCrunch",
-    "category": "other",
-    "summary": "At a moment when Anthropic's compute margins should be getting better, they’re getting worse.",
-    "keywords": [
       "Anthropic"
     ],
     "date": "2026-11-03"
