@@ -1,190 +1,101 @@
 [
   {
-    "title": "Anthropic发布FlashProve实现大模型可验证推理",
-    "link": "https://www.pingwest.com/w/319216",
-    "source": "品玩",
+    "title": "Apple is reportedly cutting budgets for its internal AI usage",
+    "link": "https://techcrunch.com/2026/11/04/apple-is-reportedly-cutting-budgets-for-its-internal-ai-usage/",
+    "source": "TechCrunch",
     "category": "other",
-    "summary": "Anthropic\n\n\n\nAnthropic发布FlashProve实现大模型可验证推理\n\nAnthropic近日发布FlashProve，一种基于zkSNARK密码学技术的大语言模型可验证推理系统。",
+    "summary": "The company is said to be significantly dropping the amount it's spending on AI for its engineering teams.",
     "keywords": [
-      "大模型",
-      "Anthropic"
+      "AI"
     ],
-    "date": "2026-11-04"
+    "date": "2026-11-05"
   },
   {
-    "title": "360乌镇峰会发布元认知模型，破解AI产业应用关键瓶颈",
-    "link": "https://www.pingwest.com/w/319213",
-    "source": "品玩",
-    "category": "other",
-    "summary": "360\n\n\n\n360乌镇峰会发布元认知模型，破解AI产业应用关键瓶颈\n\n360",
+    "title": "AI PACs spent millions trying to shape Congress — here’s how they fared",
+    "link": "https://techcrunch.com/2026/11/04/ai-pacs-spent-millions-trying-to-shape-congress-heres-how-they-fared/",
+    "source": "TechCrunch",
+    "category": "funding",
+    "summary": "AI industry PACs spent millions influencing the 2026 midterms, with mixed results. Political groups are already looking toward the next election cycle.",
     "keywords": [
       "AI"
     ],
     "date": "2026-11-04"
   },
   {
-    "title": "Grok Bot成了所有Personal Agent想象中自己的样子",
-    "link": "https://www.pingwest.com/a/319193",
-    "source": "品玩",
+    "title": "Nothing CEO says company’s mysterious AI-first device is dropping next month",
+    "link": "https://techcrunch.com/2026/11/04/nothing-ceo-says-companys-mysterious-ai-first-device-is-dropping-next-month/",
+    "source": "TechCrunch",
     "category": "other",
-    "summary": "Grok Bot成了所有Personal Agent想象中自己的样子\n\n一个 Personal Agent Team",
-    "keywords": [
-      "Agent",
-      "Grok"
-    ],
-    "date": "2026-11-04"
-  },
-  {
-    "title": "一次抓取背后：读懂智能的“计量”，Token经济学如何聚合“算力、模型、语料”？",
-    "link": "https://www.pingwest.com/w/319199",
-    "source": "品玩",
-    "category": "other",
-    "summary": "人工智能\n\n\n\n一次抓取背后：读懂智能的“计量”，Token经济学如何聚合“算力、模型、语料”？",
-    "keywords": [
-      "人工智能",
-      "智能"
-    ],
-    "date": "2026-11-04"
-  },
-  {
-    "title": "迭代不止，“龙虾”到“WorkBuddy”,见证AI生产力跃升",
-    "link": "https://www.pingwest.com/w/319198",
-    "source": "品玩",
-    "category": "other",
-    "summary": "人工智能\n\n\n\n迭代不止，“龙虾”到“WorkBuddy”,见证AI生产力跃升",
-    "keywords": [
-      "AI",
-      "人工智能",
-      "智能"
-    ],
-    "date": "2026-11-04"
-  },
-  {
-    "title": "真机实干，产训一体：具身智能的下一座基础设施，为什么是“实景实训平台”？",
-    "link": "https://www.pingwest.com/w/319197",
-    "source": "品玩",
-    "category": "other",
-    "summary": "机器人\n\n\n\n真机实干，产训一体：具身智能的下一座基础设施，为什么是“实景实训平台”？",
-    "keywords": [
-      "机器人",
-      "智能"
-    ],
-    "date": "2026-11-04"
-  },
-  {
-    "title": "从“看懂世界”到“预演下一步”：世界模型与 VLA，如何让机器人拥有真正的“具身大脑”？v2.4_20261015(1)",
-    "link": "https://www.pingwest.com/w/319196",
-    "source": "品玩",
-    "category": "other",
-    "summary": "机器人\n\n\n\n从“看懂世界”到“预演下一步”：世界模型与 VLA，如何让机器人拥有真正的“具身大脑”？v2.4_20261015(1)",
-    "keywords": [
-      "机器人"
-    ],
-    "date": "2026-11-04"
-  },
-  {
-    "title": "复旦大学与铭芯启睿共建先进存算一体智能芯片校企联合实验室",
-    "link": "https://www.pingwest.com/w/319195",
-    "source": "品玩",
-    "category": "other",
-    "summary": "铭芯启睿\n\n\n\n复旦大学与铭芯启睿共建先进存算一体智能芯片校企联合实验室\n\n围绕高密度阻变存储器、存算融合芯片、异构集成芯片设计开展合作。",
-    "keywords": [
-      "智能"
-    ],
-    "date": "2026-11-04"
-  },
-  {
-    "title": "梦回 2024：国行 iPhone 终于用上 Apple 智能了，但它还不够好",
-    "link": "https://www.pingwest.com/a/319191",
-    "source": "品玩",
-    "category": "other",
-    "summary": "苹果智能\n\n\n\n梦回 2024：国行 iPhone 终于用上 Apple 智能了，但它还不够好\n\n苹果终于把当年承诺的一部分 AI 功能带到了国行 iPhone 上。",
-    "keywords": [
-      "AI",
-      "智能"
-    ],
-    "date": "2026-11-04"
-  },
-  {
-    "title": "从 Demo 到全球产品：AI 时代的出海门槛变了 ｜硅星人 ACC",
-    "link": "https://www.pingwest.com/a/319084",
-    "source": "品玩",
-    "category": "other",
-    "summary": "从 Demo 到全球产品：AI 时代的出海门槛变了 ｜硅星人 ACC\n\nBuild的成本变低，但理解用户、寻找价值锚点的难度依然很高。",
+    "summary": "While it's not yet clear what kind of product the smartphone startup is cooking up, Nothing's CEO said the product is designed to leverage AI for productivity gains.",
     "keywords": [
       "AI"
     ],
     "date": "2026-11-04"
   },
   {
-    "title": "高通AI Hub面向中国开发者开放 加速终端侧AI部署",
-    "link": "https://www.pingwest.com/w/319190",
-    "source": "品玩",
+    "title": "Almost no one uses AI agents to book their Uber, company says",
+    "link": "https://techcrunch.com/2026/11/04/almost-no-one-uses-ai-agents-to-book-their-uber-company-says/",
+    "source": "TechCrunch",
     "category": "other",
-    "summary": "高通\n\n\n\n高通AI Hub面向中国开发者开放 加速终端侧AI部署\n\n高通技术公司近日宣布，高通AI Hub正式面向中国开发者开放，提供用于构建和部署终端侧AI的一站式平台。",
+    "summary": "During its busiest week last quarter, Uber said only four people booked a ride using an AI agent.",
+    "keywords": [
+      "AI",
+      "Agent"
+    ],
+    "date": "2026-11-04"
+  },
+  {
+    "title": "OpenAI is already trying to shape the 2028 election",
+    "link": "https://techcrunch.com/2026/11/04/openai-is-already-trying-to-shape-the-2028-election/",
+    "source": "TechCrunch",
+    "category": "other",
+    "summary": "OpenAI’s Chris Lehane wants AI to define the 2028 election, proposing a new social contract that could benefit Americans while also advancing the AI giant’s own business interests.",
+    "keywords": [
+      "AI",
+      "OpenAI"
+    ],
+    "date": "2026-11-04"
+  },
+  {
+    "title": "Meta acquires AI coding startup Conductor",
+    "link": "https://techcrunch.com/2026/11/04/meta-acquires-ai-coding-startup-conductor/",
+    "source": "TechCrunch",
+    "category": "other",
+    "summary": "The startup allows software engineers to deploy teams of agents to work on various aspects of a project simultaneously.",
+    "keywords": [
+      "AI",
+      "Agent"
+    ],
+    "date": "2026-11-04"
+  },
+  {
+    "title": "Open source AI is booming. Hugging Face explains who profits.",
+    "link": "https://techcrunch.com/video/open-source-ai-is-booming-hugging-face-explains-who-profits/",
+    "source": "TechCrunch",
+    "category": "other",
+    "summary": "Open source models are becoming more mainstream as enterprises, governments and startups alike rely on the promise of lower costs, more control, and more flexibility. But as increasingly capable model",
     "keywords": [
       "AI"
     ],
     "date": "2026-11-04"
   },
   {
-    "title": "百度发布Apollo World世界模型 加速无人驾驶虚拟验证",
-    "link": "https://www.pingwest.com/w/319189",
-    "source": "品玩",
+    "title": "DuckDuckGo pitches itself to schools amid backlash over Google’s AI policy",
+    "link": "https://techcrunch.com/2026/11/04/duckduckgo-pitches-itself-to-schools-amid-backlash-over-googles-ai-policy/",
+    "source": "TechCrunch",
     "category": "other",
-    "summary": "百度\n\n\n\n百度发布Apollo World世界模型 加速无人驾驶虚拟验证\n\n据百度官方消息，百度Apollo在11月3日深圳AI Day专场上首次披露面向物理AI的智能体驱动全模态世界模型Apollo World，并提出世界模型“2+3”判断标准。",
+    "summary": "DuckDuckGo is courting schools frustrated by Google's AI restrictions, pointing educators to its search engine and options to disable AI features.",
     "keywords": [
-      "AI",
-      "智能"
+      "AI"
     ],
     "date": "2026-11-04"
   },
   {
-    "title": "OpenAI称ChatGPT搜索量已达谷歌20%",
-    "link": "https://www.pingwest.com/w/319187",
-    "source": "品玩",
+    "title": "Building on open source AI? Hugging Face’s policy chief on the costs, risks, and trade-offs",
+    "link": "https://techcrunch.com/podcast/building-on-open-source-ai-hugging-faces-policy-chief-on-the-costs-risks-and-trade-offs/",
+    "source": "TechCrunch",
     "category": "other",
-    "summary": "ChatGPT\n\n\n\nOpenAI称ChatGPT搜索量已达谷歌20%\n\n据 9to5Mac 报道，OpenAI消费产品负责人Adam Fry近日表示，ChatGPT当前触发的网络搜索请求量已相当于谷歌搜索量的约20%。",
-    "keywords": [
-      "AI",
-      "OpenAI",
-      "GPT",
-      "ChatGPT"
-    ],
-    "date": "2026-11-04"
-  },
-  {
-    "title": "OpenAI宣布ChatGPT Classic即将停用 桌面端界面与额度规则将调整",
-    "link": "https://www.pingwest.com/w/319185",
-    "source": "品玩",
-    "category": "other",
-    "summary": "OpenAI\n\n\n\nOpenAI宣布ChatGPT Classic即将停用 桌面端界面与额度规则将调整\n\n据basic-tutorials 报道，OpenAI近日通知用户，旧版桌面应用ChatGPT Classic将于2027年1月30日正式停止服务。",
-    "keywords": [
-      "AI",
-      "OpenAI",
-      "GPT",
-      "ChatGPT"
-    ],
-    "date": "2026-11-04"
-  },
-  {
-    "title": "苹果国行版Apple智能开始测试 端侧模型与千问协同驱动",
-    "link": "https://www.pingwest.com/w/319184",
-    "source": "品玩",
-    "category": "other",
-    "summary": "苹果\n\n\n\n苹果国行版Apple智能开始测试 端侧模型与千问协同驱动\n\n首批Apple智能功能随iOS 27.3开发者测试版在中国开放测试，正式版将于12月推送。该服务由苹果自研生成式模型驱动，深度整合于信息、邮件、照片、备忘录等系统应用中。",
-    "keywords": [
-      "生成式",
-      "智能"
-    ],
-    "date": "2026-11-04"
-  },
-  {
-    "title": "AI创业下半场：从Demo狂欢到商业与场景沉淀",
-    "link": "https://www.pingwest.com/v/319180",
-    "source": "品玩",
-    "category": "other",
-    "summary": "ACC\n\n\n\nAI创业下半场：从Demo狂欢到商业与场景沉淀",
+    "summary": "Open source models are becoming more mainstream as enterprises, governments and startups alike rely on the promise of lower costs, more control, and more flexibility. But as increasingly capable model",
     "keywords": [
       "AI"
     ],
@@ -211,108 +122,6 @@
       "AI"
     ],
     "date": "2026-11-04"
-  },
-  {
-    "title": "前迪士尼 AI 高管出任 CPO，Utopai Studios 技术布局再提速",
-    "link": "https://www.pingwest.com/w/319160",
-    "source": "品玩",
-    "category": "other",
-    "summary": "迪士尼\n\n\n\n前迪士尼 AI 高管出任 CPO，Utopai Studios 技术布局再提速",
-    "keywords": [
-      "AI"
-    ],
-    "date": "2026-11-03"
-  },
-  {
-    "title": "深度 | AI 数据公司凶猛",
-    "link": "https://www.pingwest.com/a/319155",
-    "source": "品玩",
-    "category": "other",
-    "summary": "深度 | AI 数据公司凶猛\n\n下一阶段模型进步最重要的“燃料”。",
-    "keywords": [
-      "AI"
-    ],
-    "date": "2026-11-03"
-  },
-  {
-    "title": "乌镇峰会斩获“领先科技奖”，小米机器人披露工厂8小时稳定作业、青年公寓“试运营”新进展",
-    "link": "https://www.pingwest.com/w/319146",
-    "source": "品玩",
-    "category": "other",
-    "summary": "小米\n\n\n\n乌镇峰会斩获“领先科技奖”，小米机器人披露工厂8小时稳定作业、青年公寓“试运营”新进展",
-    "keywords": [
-      "机器人"
-    ],
-    "date": "2026-11-03"
-  },
-  {
-    "title": "360获世界互联网大会杰出贡献奖，系唯一获此殊荣的AI安全企业",
-    "link": "https://www.pingwest.com/w/319144",
-    "source": "品玩",
-    "category": "other",
-    "summary": "360\n\n\n\n360获世界互联网大会杰出贡献奖，系唯一获此殊荣的AI安全企业",
-    "keywords": [
-      "AI"
-    ],
-    "date": "2026-11-03"
-  },
-  {
-    "title": "淘宝短剧xWan3.0，温碧霞授权形象亮相AI短剧",
-    "link": "https://www.pingwest.com/w/319137",
-    "source": "品玩",
-    "category": "other",
-    "summary": "淘宝\n\n\n\n淘宝短剧xWan3.0，温碧霞授权形象亮相AI短剧",
-    "keywords": [
-      "AI"
-    ],
-    "date": "2026-11-03"
-  },
-  {
-    "title": "OpenAI发布LifeVal基准测试 评估AI日常任务执行能力",
-    "link": "https://www.pingwest.com/w/319135",
-    "source": "品玩",
-    "category": "other",
-    "summary": "OpenAI\n\n\n\nOpenAI发布LifeVal基准测试 评估AI日常任务执行能力\n\nOpenAI近日发布LifeVal基准测试，衡量AI在照护、健康、教育、家庭管理、个人财务及政府服务等日常场景中的表现。",
-    "keywords": [
-      "AI",
-      "OpenAI"
-    ],
-    "date": "2026-11-03"
-  },
-  {
-    "title": "Anthropic招股书提示AI自我改进能力临近 将强化人工监督",
-    "link": "https://www.pingwest.com/w/319133",
-    "source": "品玩",
-    "category": "key_news",
-    "summary": "Anthropic\n\n\n\nAnthropic招股书提示AI自我改进能力临近 将强化人工监督\n\n据 TechCrunch 报道，Anthropic近日提交修订后的S-1A文件，在风险因素部分披露，公司可能很快达到其“负责任扩展政策”中关于“AI带来的进展急剧加速”的内部定义，即递归自我改进（RSI）门槛。",
-    "keywords": [
-      "AI",
-      "Anthropic"
-    ],
-    "date": "2026-11-03"
-  },
-  {
-    "title": "OpenAI联手Cathedral Systems以AI强化安全防护",
-    "link": "https://www.pingwest.com/w/319131",
-    "source": "品玩",
-    "category": "other",
-    "summary": "OpenAI\n\n\n\nOpenAI联手Cathedral Systems以AI强化安全防护\n\n据OpenAI 官方消息，OpenAI宣布启动新一轮内部安全冲刺，与安全公司Cathedral Systems合作，利用自身AI模型测试并加固系统防御能力。",
-    "keywords": [
-      "AI",
-      "OpenAI"
-    ],
-    "date": "2026-11-03"
-  },
-  {
-    "title": "苹果拟借第三方AI应用拓展服务收入 应对App Store增长压力",
-    "link": "https://www.pingwest.com/w/319128",
-    "source": "品玩",
-    "category": "other",
-    "summary": "苹果\n\n\n\n苹果拟借第三方AI应用拓展服务收入 应对App Store增长压力\n\nTechCrunch 报道，苹果公司服务业务收入仍处历史高位，但增长正面临压力。作为服务业务核心的App Store受到监管趋严及移动游戏市场低迷影响，拖累整体增速。",
-    "keywords": [
-      "AI"
-    ],
-    "date": "2026-11-03"
   },
   {
     "title": "Anthropic is working on a system to prove AI models’ identity",
@@ -380,95 +189,5 @@
       "Anthropic"
     ],
     "date": "2026-11-03"
-  },
-  {
-    "title": "Google will let schools disable its AI tools, but not without sacrificing Search",
-    "link": "https://techcrunch.com/2026/11/03/google-will-let-schools-disable-its-ai-tools-but-not-without-sacrificing-search/",
-    "source": "TechCrunch",
-    "category": "other",
-    "summary": "Schools choosing to restrict AI altogether will no longer be able to access Google Search, as AI features are now integrated into the search engine.",
-    "keywords": [
-      "AI"
-    ],
-    "date": "2026-11-03"
-  },
-  {
-    "title": "Apple restricts dating apps and AI companions to users 18 and up",
-    "link": "https://techcrunch.com/2026/11/03/apple-restricts-dating-apps-and-ai-companions-to-users-18-and-up/",
-    "source": "TechCrunch",
-    "category": "other",
-    "summary": "Apple's new App Store rules will require 18+ ratings for dating apps and AI companions that offer sexual or romantic content.",
-    "keywords": [
-      "AI"
-    ],
-    "date": "2026-11-03"
-  },
-  {
-    "title": "Apple Watch’s AI features for rewinding and recapping conversations begin beta testing",
-    "link": "https://techcrunch.com/2026/11/02/apple-watchs-ai-features-for-rewinding-and-recapping-conversations-begin-beta-testing/",
-    "source": "TechCrunch",
-    "category": "other",
-    "summary": "Now in beta: Apple's new Audio Intelligence features can help you remember what someone said or take notes on conversations.",
-    "keywords": [
-      "AI"
-    ],
-    "date": "2026-11-03"
-  },
-  {
-    "title": "Google takes Dreambeans to India in bid to bring AI-generated personal stories to the masses",
-    "link": "https://techcrunch.com/2026/11/02/google-takes-dreambeans-to-india-in-bid-to-bring-ai-generated-personal-stories-to-the-masses/",
-    "source": "TechCrunch",
-    "category": "other",
-    "summary": "Google's Dreambeans, its latest AI experiment, now supports 13 Indian languages.",
-    "keywords": [
-      "AI"
-    ],
-    "date": "2026-11-03"
-  },
-  {
-    "title": "Apple may try to increase revenue by doing…something with third-party AI apps",
-    "link": "https://techcrunch.com/2026/11/02/apple-may-try-to-increase-revenue-by-doing-something-with-third-party-ai-apps/",
-    "source": "TechCrunch",
-    "category": "other",
-    "summary": "Apple hinted at ways that it could spur revenue through third-party \"opportunities\" during its Monday night earnings call.",
-    "keywords": [
-      "AI"
-    ],
-    "date": "2026-11-03"
-  },
-  {
-    "title": "Y Combinator’s Garry Tan uses AI agents so much, he spends up to $200K a year on tokens",
-    "link": "https://techcrunch.com/2026/11/02/y-combinators-garry-tan-uses-ai-agents-so-much-he-spends-up-to-200k-a-year-on-tokens/",
-    "source": "TechCrunch",
-    "category": "other",
-    "summary": "Y Combinator Garry Tan has jokingly admitted that he's suffered from \"cyber psychosis” and barely sleeps sometimes because he’s so excited to be working with his AI agents. On a new episode of Walter ",
-    "keywords": [
-      "AI",
-      "Agent"
-    ],
-    "date": "2026-11-03"
-  },
-  {
-    "title": "Trajectory raises $45M to make AI model training accessible to nontechnical experts",
-    "link": "https://techcrunch.com/2026/11/02/trajectory-raises-45m-to-make-ai-model-training-accessible-to-nontechnical-experts/",
-    "source": "TechCrunch",
-    "category": "funding",
-    "summary": "The one-year-old startup is now valued at $300 million.",
-    "keywords": [
-      "AI"
-    ],
-    "date": "2026-11-02"
-  },
-  {
-    "title": "Anthropic warns that it’s very close to RSI capability, aka self-building AI",
-    "link": "https://techcrunch.com/2026/11/02/anthropic-warns-that-its-very-close-to-rsi-capability-aka-self-building-ai/",
-    "source": "TechCrunch",
-    "category": "other",
-    "summary": "RSI is the point at which AI grows so good at training itself that it spawns a dramatic acceleration of AI capabilities. To the AI doomers, RSI represents the cataclysm from which there is no return.",
-    "keywords": [
-      "AI",
-      "Anthropic"
-    ],
-    "date": "2026-11-02"
   }
 ]
