@@ -1,5 +1,16 @@
 [
   {
+    "title": "Crusoe sells troubled Wyoming data center project to Google",
+    "link": "https://techcrunch.com/2026/11/06/crusoe-sells-troubled-wyoming-data-center-project-to-google/",
+    "source": "TechCrunch",
+    "category": "other",
+    "summary": "The deal highlights the challenges of developing massive AI data centers.",
+    "keywords": [
+      "AI"
+    ],
+    "date": "2026-11-07"
+  },
+  {
     "title": "AI经营的下一步，该往哪走？阿里妈妈《超级产品100问》的答案有点意外",
     "link": "https://www.pingwest.com/a/319273",
     "source": "品玩",
@@ -165,6 +176,63 @@
       "OpenAI",
       "Anthropic",
       "Claude"
+    ],
+    "date": "2026-11-06"
+  },
+  {
+    "title": "OpenAI reportedly raises an additional $11 billion at a $1.25 trillion valuation",
+    "link": "https://techcrunch.com/2026/11/06/openai-reportedly-raises-an-additional-11-billion-at-a-1-25-trillion-valuation/",
+    "source": "TechCrunch",
+    "category": "funding",
+    "summary": "OpenAI has reportedly raised an additional $11 billion as part of a funding round that hasn't closed yet but is expected to in the coming weeks.",
+    "keywords": [
+      "AI",
+      "OpenAI"
+    ],
+    "date": "2026-11-06"
+  },
+  {
+    "title": "Hundreds of Artex AI hacking tools found publicly exposed to the web",
+    "link": "https://techcrunch.com/2026/11/06/hundreds-of-artex-ai-hacking-tools-found-publicly-exposed-to-the-web/",
+    "source": "TechCrunch",
+    "category": "other",
+    "summary": "Security researchers found hundreds of servers hosting the penetration testing tool Artex exposed to the internet, allowing anyone access to the hacking tool.",
+    "keywords": [
+      "AI"
+    ],
+    "date": "2026-11-06"
+  },
+  {
+    "title": "Meta introduces Spaces, a new way to collaborate with your Muse agent",
+    "link": "https://techcrunch.com/2026/11/06/meta-introduces-spaces-a-new-way-to-collaborate-with-your-muse-agent/",
+    "source": "TechCrunch",
+    "category": "other",
+    "summary": "Meta's Muse agents continue to get new features and integrations. Spaces promises to be a new way to interact with the AI helpers.",
+    "keywords": [
+      "AI",
+      "Agent"
+    ],
+    "date": "2026-11-06"
+  },
+  {
+    "title": "How a Blue Wave midterm might reshape the AI industry",
+    "link": "https://techcrunch.com/podcast/how-a-blue-wave-midterm-might-reshape-the-ai-industry/",
+    "source": "TechCrunch",
+    "category": "other",
+    "summary": "Democrats’ historic victories in this week’s U.S. midterm elections could also transform the tech industry. The public voted on 41 data center-related ballot measures on Tuesday — in all but one, the ",
+    "keywords": [
+      "AI"
+    ],
+    "date": "2026-11-06"
+  },
+  {
+    "title": "After the midterms, is the AI industry in for a rough two years?",
+    "link": "https://techcrunch.com/video/after-the-midterms-is-the-ai-industry-in-for-a-rough-two-years/",
+    "source": "TechCrunch",
+    "category": "other",
+    "summary": "Democrats’ historic victories in this week’s U.S. midterm elections could also transform the tech industry. The public voted on 41 data center-related ballot measures on Tuesday — in all but one, the ",
+    "keywords": [
+      "AI"
     ],
     "date": "2026-11-06"
   },
@@ -369,49 +437,5 @@
       "Agent"
     ],
     "date": "2026-11-05"
-  },
-  {
-    "title": "Box taps Nvidia’s Nemotron for new agent-first content retrieval system",
-    "link": "https://techcrunch.com/2026/11/05/box-taps-nvidias-nemotron-for-new-agent-first-content-retrieval-system/",
-    "source": "TechCrunch",
-    "category": "other",
-    "summary": "The system can supposedly answer queries four times faster, with 20% fewer errors and 90% fewer tokens used.",
-    "keywords": [
-      "Agent"
-    ],
-    "date": "2026-11-05"
-  },
-  {
-    "title": "A YC startup is putting $1M behind 5 unsolved materials science problems for AI",
-    "link": "https://techcrunch.com/2026/11/05/a-yc-startup-is-putting-1m-behind-five-unsolved-materials-science-problems-for-ai/",
-    "source": "TechCrunch",
-    "category": "other",
-    "summary": "While frontier AI models have solved a remarkable series of outstanding mathematics problems and made progress in the life sciences, they have yet to truly plumb the complex physics in advanced materi",
-    "keywords": [
-      "AI"
-    ],
-    "date": "2026-11-05"
-  },
-  {
-    "title": "Apple is reportedly cutting budgets for its internal AI usage",
-    "link": "https://techcrunch.com/2026/11/04/apple-is-reportedly-cutting-budgets-for-its-internal-ai-usage/",
-    "source": "TechCrunch",
-    "category": "other",
-    "summary": "The tokenmaxxing frenzy has been short-lived as bills for said tokens came due, and companies decided that token rationing might be a more fiscally sensible approach.",
-    "keywords": [
-      "AI"
-    ],
-    "date": "2026-11-05"
-  },
-  {
-    "title": "AI PACs spent millions trying to shape Congress — here’s how they fared",
-    "link": "https://techcrunch.com/2026/11/04/ai-pacs-spent-millions-trying-to-shape-congress-heres-how-they-fared/",
-    "source": "TechCrunch",
-    "category": "funding",
-    "summary": "AI industry PACs spent millions influencing the 2026 midterms, with mixed results. Political groups are already looking toward the next election cycle.",
-    "keywords": [
-      "AI"
-    ],
-    "date": "2026-11-04"
   }
 ]
