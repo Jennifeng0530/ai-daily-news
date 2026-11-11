@@ -1,5 +1,86 @@
 [
   {
+    "title": "Anthropic 推出 Claude 办公套件 覆盖会议、白板、表格与数据",
+    "link": "https://www.pingwest.com/w/319448",
+    "source": "品玩",
+    "category": "other",
+    "summary": "Anthropic\n\n\n\nAnthropic 推出 Claude 办公套件 覆盖会议、白板、表格与数据\n\n据 TechCrunch 报道，Anthropic 近日发布一系列面向企业办公场景的新功能，包括 Claude Meetings、Claude Whiteboards、Claude Sheets 以及 Claude Data，进一步扩展其在工作场景中的应用能力。",
+    "keywords": [
+      "Anthropic",
+      "Claude"
+    ],
+    "date": "2026-11-11"
+  },
+  {
+    "title": "MiniMax 正式发布 H3-Image 图像生成模型并开放权重",
+    "link": "https://www.pingwest.com/w/319447",
+    "source": "品玩",
+    "category": "other",
+    "summary": "MiniMax\n\n\n\nMiniMax 正式发布 H3-Image 图像生成模型并开放权重\n\n据稀宇科技官方消息，MiniMax 近日正式发布图像生成模型 MiniMax H3-Image，并同步开放模型权重。该模型衍生自 H3，具备文本生成图像、图像参考和图像编辑能力，可在约 10 秒内生成 4096×4096 像素、约 16MP 的高分辨率图像，同时提供丰富的细节与较强的真实感。",
+    "keywords": [
+      "MiniMax"
+    ],
+    "date": "2026-11-11"
+  },
+  {
+    "title": "苹果旗下Claris测试Harbor应用 将Apple silicon Mac改造为私有AI推理服务器",
+    "link": "https://www.pingwest.com/w/319446",
+    "source": "品玩",
+    "category": "other",
+    "summary": "苹果\n\n\n\n苹果旗下Claris测试Harbor应用 将Apple silicon Mac改造为私有AI推理服务器\n\n据 MacRumors 报道，苹果子公司Claris正在测试一款名为Harbor的应用，可将搭载Apple silicon芯片的Mac转变为私有AI推理服务器。用户在本地运行开放权重模型，数据始终保留在本地硬件，无需上传云端。",
+    "keywords": [
+      "AI"
+    ],
+    "date": "2026-11-11"
+  },
+  {
+    "title": "谷歌 Gemini 4 Carbon 今日正式开放上线 面向复杂知识工作与长周期智能体任务",
+    "link": "https://www.pingwest.com/w/319444",
+    "source": "品玩",
+    "category": "other",
+    "summary": "谷歌\n\n\n\n谷歌 Gemini 4 Carbon 今日正式开放上线 面向复杂知识工作与长周期智能体任务\n\n谷歌今日正式向开发者、企业、科研机构及消费者开放 Gemini 4 Carbon，即日起可通过 API 调用。",
+    "keywords": [
+      "Gemini",
+      "智能"
+    ],
+    "date": "2026-11-11"
+  },
+  {
+    "title": "Meta 组建企业销售团队 加速 AI 产品商业化落地",
+    "link": "https://www.pingwest.com/w/319443",
+    "source": "品玩",
+    "category": "other",
+    "summary": "META\n\n\n\nMeta 组建企业销售团队 加速 AI 产品商业化落地\n\n据 The Information 报道，Meta 已着手组建面向中小企业的销售组织，并正与咨询公司、系统集成商建立合作，以开拓大型企业客户。报道称，这是 Meta 推进企业级 AI 业务商业化的后续步骤。Meta 尚未公开确认该计划，相关报道为付费内容。",
+    "keywords": [
+      "AI"
+    ],
+    "date": "2026-11-11"
+  },
+  {
+    "title": "谷歌 AI 训练底座 Pathways 正式开放 大模型分布式训练系统对外开放",
+    "link": "https://www.pingwest.com/w/319441",
+    "source": "品玩",
+    "category": "other",
+    "summary": "谷歌\n\n\n\n谷歌 AI 训练底座 Pathways 正式开放 大模型分布式训练系统对外开放\n\n谷歌近日宣布，其分布式训练系统 Pathways 在 Google Cloud 正式开放。该系统由谷歌自研，用于训练 Gemini 等自有大模型，此次对外商用，标志着支撑前沿模型研发的基础设施能力同步开放。",
+    "keywords": [
+      "AI",
+      "大模型",
+      "Gemini"
+    ],
+    "date": "2026-11-11"
+  },
+  {
+    "title": "雷鸟 iO AI 眼镜迎来重磅升级：高德导航正式上镜，全天智记再进化",
+    "link": "https://www.pingwest.com/w/319435",
+    "source": "品玩",
+    "category": "other",
+    "summary": "雷鸟创新\n\n\n\n雷鸟 iO AI 眼镜迎来重磅升级：高德导航正式上镜，全天智记再进化",
+    "keywords": [
+      "AI"
+    ],
+    "date": "2026-11-11"
+  },
+  {
     "title": "大晓机器人双脑协同架构首次落地酒店洗衣场景，具身智能RSI 驱动技能持续进化",
     "link": "https://www.pingwest.com/w/319424",
     "source": "品玩",
@@ -154,6 +235,79 @@
     "date": "2026-11-10"
   },
   {
+    "title": "OpenAI acquires Odessia, travel startup created by Sonder founder",
+    "link": "https://techcrunch.com/2026/11/10/openai-acquires-odessia-travel-startup-created-by-sonder-founder/",
+    "source": "TechCrunch",
+    "category": "other",
+    "summary": "OpenAI has not yet said what its plans are for the future of travel. But Sonder founder Francis Davidson is a well-known figure in the travel industry.",
+    "keywords": [
+      "AI",
+      "OpenAI"
+    ],
+    "date": "2026-11-10"
+  },
+  {
+    "title": "OpenAI, Anthropic face new oversight as New York’s AI safety law takes effect",
+    "link": "https://techcrunch.com/2026/11/10/openai-anthropic-face-new-oversight-as-new-yorks-ai-safety-law-takes-effect/",
+    "source": "TechCrunch",
+    "category": "other",
+    "summary": "New York is preparing to enforce its sweeping AI safety law, requiring major developers like OpenAI and Anthropic to register, disclose safety practices, and report critical incidents or face fines.",
+    "keywords": [
+      "AI",
+      "OpenAI",
+      "Anthropic"
+    ],
+    "date": "2026-11-10"
+  },
+  {
+    "title": "All 7 Anthropic founders will each cash out about $250M in IPO",
+    "link": "https://techcrunch.com/2026/11/10/all-7-anthropic-founders-will-each-cash-out-about-250m-in-ipo/",
+    "source": "TechCrunch",
+    "category": "key_news",
+    "summary": "Each of the seven co-founders plans to sell exactly the same number of shares in the IPO, which would bring each of them about $250 million in cash at the midpoint of the price range while leaving the",
+    "keywords": [
+      "Anthropic"
+    ],
+    "date": "2026-11-10"
+  },
+  {
+    "title": "Oura to acquire AI-native primary care startup Counsel Health for $625M",
+    "link": "https://techcrunch.com/2026/11/10/oura-to-acquire-ai-native-primary-care-startup-counsel-health-for-625m/",
+    "source": "TechCrunch",
+    "category": "other",
+    "summary": "The deal comes a few weeks after Oura postponed its up to $2.2 billion IPO indefinitely, citing “uncertainty in the IPO market.”",
+    "keywords": [
+      "AI"
+    ],
+    "date": "2026-11-10"
+  },
+  {
+    "title": "PSI is trying to make a business out of AI-driven scientific discovery",
+    "link": "https://techcrunch.com/2026/11/10/psi-is-trying-to-make-a-business-out-of-ai-driven-scientific-discovery/",
+    "source": "TechCrunch",
+    "category": "other",
+    "summary": "PSI used an unreleased Anthropic model to answer a fundamental question about quantum computing that scientists have pursued for nearly two decades.",
+    "keywords": [
+      "AI",
+      "Anthropic"
+    ],
+    "date": "2026-11-10"
+  },
+  {
+    "title": "OpenAI rolls out new business profiles, making ChatGPT just a little bit more like Google",
+    "link": "https://techcrunch.com/2026/11/10/openai-rolls-out-new-business-profiles-making-chatgpt-just-a-little-bit-more-like-google/",
+    "source": "TechCrunch",
+    "category": "other",
+    "summary": "OpenAI is looking to make ChatGPT a more robust consumer discovery engine, and a host of new features seek to empower businesses to help it do that.",
+    "keywords": [
+      "AI",
+      "OpenAI",
+      "GPT",
+      "ChatGPT"
+    ],
+    "date": "2026-11-10"
+  },
+  {
     "title": "Anthropic launches Claude Meetings to turn workplace discussions into plans and tasks",
     "link": "https://techcrunch.com/2026/11/10/anthropic-launches-claude-meetings-to-turn-workplace-discussions-into-plans-and-tasks/",
     "source": "TechCrunch",
@@ -223,17 +377,6 @@
     "date": "2026-11-10"
   },
   {
-    "title": "Spotify’s AI DJ gets new voices, personalities, and an option for less chatter",
-    "link": "https://techcrunch.com/2026/11/10/spotifys-ai-dj-gets-new-voices-personalities-and-an-option-for-less-chatter/",
-    "source": "TechCrunch",
-    "category": "other",
-    "summary": "Spotify Premium users can now customize their AI DJ with new voices with different personalities, or turn off the commentary between songs.",
-    "keywords": [
-      "AI"
-    ],
-    "date": "2026-11-10"
-  },
-  {
     "title": "After challenging Google’s Android with Cyanogen, its co-founder takes aim at Windows for AI era",
     "link": "https://techcrunch.com/2026/11/10/after-challenging-googles-android-with-cyanogen-its-co-founder-takes-aim-at-windows-for-ai-era/",
     "source": "TechCrunch",
@@ -246,11 +389,22 @@
     "date": "2026-11-10"
   },
   {
-    "title": "Cyberattacks threaten to make open-source AI a little less open, Hugging Face exec warns",
+    "title": "Spotify’s AI DJ gets new voices, personalities, and an option for less chatter",
+    "link": "https://techcrunch.com/2026/11/10/spotifys-ai-dj-gets-new-voices-personalities-and-an-option-for-less-chatter/",
+    "source": "TechCrunch",
+    "category": "other",
+    "summary": "Spotify Premium users can now customize their AI DJ with new voices with different personalities, or turn off the commentary between songs.",
+    "keywords": [
+      "AI"
+    ],
+    "date": "2026-11-10"
+  },
+  {
+    "title": "Cyberattacks threaten to make open source AI a little less open, Hugging Face exec warns",
     "link": "https://techcrunch.com/2026/11/10/cyberattacks-threaten-to-make-open-source-ai-a-little-less-open-hugging-face-exec-warns/",
     "source": "TechCrunch",
     "category": "other",
-    "summary": "Hugging Face executive Irene Solaiman warns that growing cyberattacks on open AI platforms could force tighter security restrictions, threatening the accessibility that makes open-source communities v",
+    "summary": "Hugging Face executive Irene Solaiman warns that growing cyberattacks on open AI platforms could force tighter security restrictions, threatening the accessibility that makes open source communities v",
     "keywords": [
       "AI"
     ],
@@ -334,164 +488,5 @@
       "AI"
     ],
     "date": "2026-11-09"
-  },
-  {
-    "title": "亚马逊押注AI机器人赛道：组建新团队推进家用机器人并收购Fauna",
-    "link": "https://www.pingwest.com/w/319360",
-    "source": "品玩",
-    "category": "other",
-    "summary": "亚马逊\n\n\n\n亚马逊押注AI机器人赛道：组建新团队推进家用机器人并收购Fauna\n\n据 Pluang 报道，亚马逊近日正组建全新团队开发一款\"前所未有\"的家用机器人产品。此前，创始人Jeff Bezos于2017年推动内部立项，团队在数年内推出带屏移动机器人Astro，售价1450美元。该产品虽具备自主导航、人脸识别及家庭安防功能，但始终未大规模上市，仅向少量用户开放，企业版亦在不到一年内停止运营",
-    "keywords": [
-      "AI",
-      "机器人"
-    ],
-    "date": "2026-11-09"
-  },
-  {
-    "title": "苹果CEO特努斯敦促加速AI路线图 计划明年推出Agent式Siri",
-    "link": "https://www.pingwest.com/w/319358",
-    "source": "品玩",
-    "category": "other",
-    "summary": "苹果\n\n\n\n苹果CEO特努斯敦促加速AI路线图 计划明年推出Agent式Siri\n\n据 gizmodo 报道，苹果CEO约翰·特努斯（John Ternus）近日在内部闭门会议上敦促软件工程主管克雷格·费德里吉（Craig Federighi）加快AI业务推进，要求不再满足于对Siri进行必要改进，而是采取更激进的路线图。",
-    "keywords": [
-      "AI",
-      "Agent"
-    ],
-    "date": "2026-11-09"
-  },
-  {
-    "title": "苹果Siri AI负责人Mike Rockwell考虑2027年卸任",
-    "link": "https://www.pingwest.com/w/319354",
-    "source": "品玩",
-    "category": "other",
-    "summary": "苹果\n\n\n\n苹果Siri AI负责人Mike Rockwell考虑2027年卸任\n\n据 AppleInsider 报道，马克·古尔曼近日披露，苹果Siri工程副总裁Mike Rockwell正在认真考虑于2027年卸任现职，甚至可能离开公司。Rockwell此前主导Vision Pro开发，2025年接手Siri AI团队后推动新版Siri重构，并于WWDC 2026正式发布。",
-    "keywords": [
-      "AI"
-    ],
-    "date": "2026-11-09"
-  },
-  {
-    "title": "特斯拉更新AI加速器路线图 SI6算力目标达现有版本的80倍",
-    "link": "https://www.pingwest.com/w/319353",
-    "source": "品玩",
-    "category": "other",
-    "summary": "特斯拉\n\n\n\n特斯拉更新AI加速器路线图 SI6算力目标达现有版本的80倍\n\n据 tomshardware 报道，特斯拉近日披露更新后的AI加速器路线图，将旗下芯片统一更名为SI（Super Intelligence）系列，原HW4/AI4对应SI4。第六代推理加速器SI6预计2029至2030年推出，采用2nm级制程与多芯片模块封装，内存容量144GB，算力目标达SI4的80倍。",
-    "keywords": [
-      "AI"
-    ],
-    "date": "2026-11-09"
-  },
-  {
-    "title": "Meta前首席战略官戴夫·韦纳出任AI推理初创公司Fireworks CFO",
-    "link": "https://www.pingwest.com/w/319349",
-    "source": "品玩",
-    "category": "other",
-    "summary": "META\n\n\n\nMeta前首席战略官戴夫·韦纳出任AI推理初创公司Fireworks CFO\n\n据 tradersunion 报道，AI推理初创公司Fireworks近日宣布，Meta前首席战略官戴夫·韦纳（Dave Wehner）将出任公司首席财务官，负责扩大财务与运营规模。韦纳2012年加入Meta，2014年至2022年担任首席财务官，此后转任首席战略官，在Meta任职14年。",
-    "keywords": [
-      "AI"
-    ],
-    "date": "2026-11-09"
-  },
-  {
-    "title": "分析师估算OpenAI算力承诺对应6140亿美元基础设施支出",
-    "link": "https://www.pingwest.com/w/319348",
-    "source": "品玩",
-    "category": "other",
-    "summary": "OpenAI\n\n\n\n分析师估算OpenAI算力承诺对应6140亿美元基础设施支出\n\n据 DealRoom 报道，Bernstein分析师Mark Moerdler近日表示，OpenAI的算力承诺到2030年可能对应约6140亿美元基础设施支出，低于此前市场广泛引用的7500亿美元，主要云服务商短期风险有限。",
-    "keywords": [
-      "AI",
-      "OpenAI"
-    ],
-    "date": "2026-11-09"
-  },
-  {
-    "title": "Jensen Huang pulls out of ElevenLabs Summit amid Nvidia controversy",
-    "link": "https://techcrunch.com/2026/11/09/jensen-huang-pulls-out-of-elevenlabs-summit-amid-nvidia-controversy/",
-    "source": "TechCrunch",
-    "category": "other",
-    "summary": "The Nvidia CEO also pulled out of an Anthropic event earlier.",
-    "keywords": [
-      "Anthropic"
-    ],
-    "date": "2026-11-09"
-  },
-  {
-    "title": "Anthropic releases new Mythos and Fable models amid RSI concerns",
-    "link": "https://techcrunch.com/2026/11/09/anthropic-releases-new-mythos-and-fable-models-amid-rsi-concerns/",
-    "source": "TechCrunch",
-    "category": "other",
-    "summary": "Anthropic says the new models \"show improvements in areas like coding, reasoning, and vision,\" as well as in communicating more clearly with users.",
-    "keywords": [
-      "Anthropic"
-    ],
-    "date": "2026-11-09"
-  },
-  {
-    "title": "Jensen Huang’s affair with alleged Chinese spy puts Nvidia’s China ambitions under scrutiny",
-    "link": "https://techcrunch.com/2026/11/09/jensen-huangs-affair-with-alleged-chinese-spy-puts-nvidias-china-ambitions-under-scrutiny/",
-    "source": "TechCrunch",
-    "category": "other",
-    "summary": "Jensen Huang’s alleged affair with a suspected Chinese spy threatens to complicate Nvidia’s lobbying efforts to loosen U.S. chip export restrictions and maintain access to China’s lucrative AI market.",
-    "keywords": [
-      "AI"
-    ],
-    "date": "2026-11-09"
-  },
-  {
-    "title": "Meta releases Muse Ember, a new lightweight model for agent execution",
-    "link": "https://techcrunch.com/2026/11/09/meta-releases-muse-ember-a-new-lightweight-model-for-agent-execution/",
-    "source": "TechCrunch",
-    "category": "other",
-    "summary": "At 10 cents per million input tokens, Ember is significantly cheaper than frontier competitors like Haiku and Luna.",
-    "keywords": [
-      "AI",
-      "Agent"
-    ],
-    "date": "2026-11-09"
-  },
-  {
-    "title": "Anthropic joins AI’s natural gas frenzy, buys $3.4B worth of turbines",
-    "link": "https://techcrunch.com/2026/11/09/anthropic-joins-ais-natural-gas-frenzy-buys-3-4b-worth-of-turbines/",
-    "source": "TechCrunch",
-    "category": "other",
-    "summary": "Anthropic bought billions of dollars' worth of natural gas turbines in a deal that could give it buyer's remorse.",
-    "keywords": [
-      "AI",
-      "Anthropic"
-    ],
-    "date": "2026-11-09"
-  },
-  {
-    "title": "Medium’s new TK app brings AI assistance directly into the writing process",
-    "link": "https://techcrunch.com/2026/11/09/mediums-new-tk-app-brings-ai-assistance-directly-into-the-writing-process/",
-    "source": "TechCrunch",
-    "category": "other",
-    "summary": "Medium's new writing app embraces AI-assisted writing, despite growing controversy over the technology's role in publishing.",
-    "keywords": [
-      "AI"
-    ],
-    "date": "2026-11-09"
-  },
-  {
-    "title": "AI经营的下一步，该往哪走？阿里妈妈《超级产品100问》的答案有点意外",
-    "link": "https://www.pingwest.com/a/319273",
-    "source": "品玩",
-    "category": "other",
-    "summary": "AI经营的下一步，该往哪走？阿里妈妈《超级产品100问》的答案有点意外\n\nAI做经营一年，它究竟改变了什么？",
-    "keywords": [
-      "AI"
-    ],
-    "date": "2026-11-06"
-  },
-  {
-    "title": "四维图新创想大会 | 以数据与算力为基，SEEWAY.AI驶向新一站",
-    "link": "https://www.pingwest.com/w/319327",
-    "source": "品玩",
-    "category": "other",
-    "summary": "四维图新\n\n\n\n四维图新创想大会 | 以数据与算力为基，SEEWAY.AI驶向新一站",
-    "keywords": [
-      "AI"
-    ],
-    "date": "2026-11-06"
   }
 ]
