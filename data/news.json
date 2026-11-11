@@ -1,5 +1,53 @@
 [
   {
+    "title": "实测 Gemini 4 Carbon ：已玩嗨，Google就这样悄悄重回牌桌",
+    "link": "https://www.pingwest.com/a/319445",
+    "source": "品玩",
+    "category": "other",
+    "summary": "实测 Gemini 4 Carbon ：已玩嗨，Google就这样悄悄重回牌桌\n\n下限很稳，回到一流，接下来，需要的是惊喜。",
+    "keywords": [
+      "Gemini"
+    ],
+    "date": "2026-11-11"
+  },
+  {
+    "title": "Oura 拟以6.25亿美元收购AI医疗公司Counsel Health",
+    "link": "https://www.pingwest.com/w/319466",
+    "source": "品玩",
+    "category": "other",
+    "summary": "AI 医疗\n\n\n\nOura 拟以6.25亿美元收购AI医疗公司Counsel Health\n\n据 TechCrunch 报道，智能戒指厂商Oura宣布，拟以6.25亿美元收购AI原生初级医疗平台Counsel Health，交易预计于2027年底前完成。",
+    "keywords": [
+      "AI",
+      "智能"
+    ],
+    "date": "2026-11-11"
+  },
+  {
+    "title": "OpenAI 收编 AI 旅行智能体团队 Odessia 创始人加盟",
+    "link": "https://www.pingwest.com/w/319462",
+    "source": "品玩",
+    "category": "other",
+    "summary": "OpenAI\n\n\n\nOpenAI 收编 AI 旅行智能体团队 Odessia 创始人加盟\n\n据 TechCrunch 报道，OpenAI 已收购 AI 旅行助手公司 Odessia，其本人现已加入 OpenAI，负责探索 AI 在旅行场景的未来应用。交易条款未披露，业内普遍判断此为人效型收购。",
+    "keywords": [
+      "AI",
+      "OpenAI",
+      "智能"
+    ],
+    "date": "2026-11-11"
+  },
+  {
+    "title": "阿里预告Qwen4大模型 预览版已上线Token Plan开放体验",
+    "link": "https://www.pingwest.com/w/319461",
+    "source": "品玩",
+    "category": "other",
+    "summary": "千问\n\n\n\n阿里预告Qwen4大模型 预览版已上线Token Plan开放体验\n\n全新一代千问大模型Qwen4即将发布。Qwen4将进一步提升知识理解与世界感知能力，编程及智能体任务执行能力持续升级，可覆盖复杂编程、专业办公、前端设计、专业软件操作等实际任务场景。",
+    "keywords": [
+      "大模型",
+      "智能"
+    ],
+    "date": "2026-11-11"
+  },
+  {
     "title": "Anthropic 推出 Claude 办公套件 覆盖会议、白板、表格与数据",
     "link": "https://www.pingwest.com/w/319448",
     "source": "品玩",
@@ -77,6 +125,53 @@
     "summary": "雷鸟创新\n\n\n\n雷鸟 iO AI 眼镜迎来重磅升级：高德导航正式上镜，全天智记再进化",
     "keywords": [
       "AI"
+    ],
+    "date": "2026-11-11"
+  },
+  {
+    "title": "Is Jensen Huang’s bad behavior more commonplace than it seems?",
+    "link": "https://techcrunch.com/2026/11/11/is-jensen-huangs-bad-behavior-more-commonplace-than-it-seems/",
+    "source": "TechCrunch",
+    "category": "other",
+    "summary": "“There are a lot of senior people in the industry that know this is happening, and are effectively condoning it,” an investment intel consultant said.",
+    "keywords": [
+      "AI"
+    ],
+    "date": "2026-11-11"
+  },
+  {
+    "title": "OpenAI’s quarterly revenue reportedly crosses $10B for the first time",
+    "link": "https://techcrunch.com/2026/11/11/openais-quarterly-revenue-reportedly-crosses-10b-for-the-first-time/",
+    "source": "TechCrunch",
+    "category": "other",
+    "summary": "Sales of $10B represents an almost 50% jump from revenue of $6.7 billion the company recorded in the second quarter.",
+    "keywords": [
+      "AI",
+      "OpenAI"
+    ],
+    "date": "2026-11-11"
+  },
+  {
+    "title": "Databricks’ new AI agent tells CEO Ali Ghodsi the unvarnished truth",
+    "link": "https://techcrunch.com/2026/11/11/databricks-new-ai-agent-tells-ceo-ali-ghodsi-the-unvarnished-truth/",
+    "source": "TechCrunch",
+    "category": "other",
+    "summary": "At 12,000 employees, AI Ghodsi is the first to admit that he can't know everyone and that they are unlikely to confess the things that go wrong to him. But he doesn't need them to. He uses Databricks'",
+    "keywords": [
+      "AI",
+      "Agent"
+    ],
+    "date": "2026-11-11"
+  },
+  {
+    "title": "Plurai wants to help AI agents work better using the same approach that helped get self-driving cars to roads",
+    "link": "https://techcrunch.com/2026/11/11/plurai-wants-to-help-ai-agents-work-better-using-the-same-approach-that-helped-get-self-driving-cars-to-roads/",
+    "source": "TechCrunch",
+    "category": "other",
+    "summary": "Like the end-to-end models trained to drive cars, AI agents are probabilistic systems operating in unpredictable environments.",
+    "keywords": [
+      "AI",
+      "Agent"
     ],
     "date": "2026-11-11"
   },
@@ -400,40 +495,6 @@
     "date": "2026-11-10"
   },
   {
-    "title": "Cyberattacks threaten to make open source AI a little less open, Hugging Face exec warns",
-    "link": "https://techcrunch.com/2026/11/10/cyberattacks-threaten-to-make-open-source-ai-a-little-less-open-hugging-face-exec-warns/",
-    "source": "TechCrunch",
-    "category": "other",
-    "summary": "Hugging Face executive Irene Solaiman warns that growing cyberattacks on open AI platforms could force tighter security restrictions, threatening the accessibility that makes open source communities v",
-    "keywords": [
-      "AI"
-    ],
-    "date": "2026-11-10"
-  },
-  {
-    "title": "Otter AI can now follow conversations across 30+ languages",
-    "link": "https://techcrunch.com/2026/11/09/otter-ai-can-now-follow-conversations-across-30-languages/",
-    "source": "TechCrunch",
-    "category": "other",
-    "summary": "Otter AI just added support for 27 languages and revealed an upcoming feature that can follow along if speakers switch between languages.",
-    "keywords": [
-      "AI"
-    ],
-    "date": "2026-11-10"
-  },
-  {
-    "title": "Anthropic reportedly plans to move forward with IPO plans",
-    "link": "https://techcrunch.com/2026/11/09/anthropic-reportedly-plans-to-move-forward-with-ipo-plans/",
-    "source": "TechCrunch",
-    "category": "key_news",
-    "summary": "The AI company is expected to set its valuation range this week, the Wall Street Journal reported.",
-    "keywords": [
-      "AI",
-      "Anthropic"
-    ],
-    "date": "2026-11-10"
-  },
-  {
     "title": "微软申请AI直播视频改写专利 可实时替换语音并同步重绘唇形",
     "link": "https://www.pingwest.com/w/319378",
     "source": "品玩",
@@ -453,39 +514,6 @@
     "keywords": [
       "Agent",
       "通义千问"
-    ],
-    "date": "2026-11-09"
-  },
-  {
-    "title": "腾讯WorkBuddy联合中国记协“记者之家”推出记者节AI办公福利，最高送出超20万份积分",
-    "link": "https://www.pingwest.com/w/319376",
-    "source": "品玩",
-    "category": "other",
-    "summary": "腾讯\n\n\n\n腾讯WorkBuddy联合中国记协“记者之家”推出记者节AI办公福利，最高送出超20万份积分\n\n11月8日，中国记协“记者之家”大学堂联合腾讯WorkBuddy联合推出记者节AI办公福利，拟送出超20 万份1000积分卡，累计额度超过2亿积分。",
-    "keywords": [
-      "AI"
-    ],
-    "date": "2026-11-09"
-  },
-  {
-    "title": "当 AI 在加速狂奔，什么反而应该“慢”下来？",
-    "link": "https://www.pingwest.com/w/319374",
-    "source": "品玩",
-    "category": "other",
-    "summary": "腾讯\n\n\n\n当 AI 在加速狂奔，什么反而应该“慢”下来？",
-    "keywords": [
-      "AI"
-    ],
-    "date": "2026-11-09"
-  },
-  {
-    "title": "双十一苹果耳机到底怎么选？AirPods Max 2、Pro 3、AirPods 5 全面对比",
-    "link": "https://www.pingwest.com/a/319365",
-    "source": "品玩",
-    "category": "other",
-    "summary": "苹果\n\n\n\n双十一苹果耳机到底怎么选？AirPods Max 2、Pro 3、AirPods 5 全面对比\n\n从 999 元到 3999 元，苹果这三款耳机，究竟谁最值得买？",
-    "keywords": [
-      "AI"
     ],
     "date": "2026-11-09"
   }
