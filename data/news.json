@@ -1,225 +1,113 @@
 [
   {
-    "title": "AI接手运营后，速卖通潜力市场双11成交大涨超50%",
-    "link": "https://www.pingwest.com/w/319492",
-    "source": "品玩",
+    "title": "Hugging Face CEO vows to keep fighting for open-source AI after Jensen Huang’s exit",
+    "link": "https://techcrunch.com/2026/11/12/hugging-face-ceo-vows-to-keep-fighting-for-open-source-ai-after-jensen-huangs-exit/",
+    "source": "TechCrunch",
     "category": "other",
-    "summary": "速卖通\n\n\n\nAI接手运营后，速卖通潜力市场双11成交大涨超50%",
+    "summary": "Hugging Face's CEO pledged to keep fighting for open-source AI after Huang's exit, raising questions about Nvidia's $12.9B acquisition.",
     "keywords": [
       "AI"
     ],
     "date": "2026-11-12"
   },
   {
-    "title": "CoreWeave 调整 AI 算力基础设施融资策略",
-    "link": "https://www.pingwest.com/w/319488",
-    "source": "品玩",
+    "title": "SoftBank’s billion-dollar loss may have put a cap on AI’s natural gas ambitions",
+    "link": "https://techcrunch.com/2026/11/12/softbanks-billion-dollar-loss-may-have-put-a-cap-on-ais-natural-gas-ambitions/",
+    "source": "TechCrunch",
     "category": "funding",
-    "summary": "Coreweave\n\n\n\nCoreWeave 调整 AI 算力基础设施融资策略\n\n据 TechCrunch 报道，AI 云服务提供商 CoreWeave 近日披露 2026 年第三季度业绩，并公布新的融资安排。",
+    "summary": "SoftBank lost over $3 billion pre-ordering natural gas turbines to power AI data centers. Here's what the loss means to power markets.",
     "keywords": [
       "AI"
     ],
     "date": "2026-11-12"
   },
   {
-    "title": "谷歌 Gemini 应用正式登陆 Apple CarPlay 支持免提语音对话",
-    "link": "https://www.pingwest.com/w/319487",
-    "source": "品玩",
+    "title": "Phota Labs uses AI to turn everyday photos into professional-looking shots",
+    "link": "https://techcrunch.com/2026/11/12/phota-labs-uses-ai-to-turn-everyday-photos-into-professional-looking-shots/",
+    "source": "TechCrunch",
     "category": "other",
-    "summary": "GEMINI\n\n\n\n谷歌 Gemini 应用正式登陆 Apple CarPlay 支持免提语音对话\n\n谷歌宣布，Gemini 应用已正式登陆 Apple CarPlay，面向全球 iOS 端 Gemini 用户逐步推送，覆盖 Gemini Live 已支持的全部语言。",
-    "keywords": [
-      "Gemini"
-    ],
-    "date": "2026-11-12"
-  },
-  {
-    "title": "Stripe 完成收购OpenRouter",
-    "link": "https://www.pingwest.com/w/319483",
-    "source": "品玩",
-    "category": "other",
-    "summary": "OpenRouter\n\n\n\nStripe 完成收购OpenRouter\n\n支付公司 Stripe 近日宣布，已完成对全球最大 AI 模型 API 聚合平台 OpenRouter 的收购，交易于 2026 年 11 月 10 日完成。",
+    "summary": "Rather than giving consumers yet another photo-editing tool, Phota Labs aims to use advances in AI to automate the editing process so it’s easier for anyone to turn everyday moments into better photos",
     "keywords": [
       "AI"
     ],
     "date": "2026-11-12"
   },
   {
-    "title": "OpenAI宣布12月11日停用ChatGPT旧版语音模式 全面转向GPT-Live",
-    "link": "https://www.pingwest.com/w/319482",
-    "source": "品玩",
+    "title": "Jensen Huang agrees to testify before Congress",
+    "link": "https://techcrunch.com/2026/11/12/jensen-huang-agrees-to-testify-before-congress/",
+    "source": "TechCrunch",
     "category": "other",
-    "summary": "OpenAI\n\n\n\nOpenAI宣布12月11日停用ChatGPT旧版语音模式 全面转向GPT-Live\n\nOpenAI 近日宣布，将于 2026 年 12 月 11 日正式停用 ChatGPT 中的 Advanced Voice Mode 和 Standard Voice Mode，届时相关选项将从“设置-语音”中移除，原使用旧版模式的用户将自动切换至 GPT-Live。",
+    "summary": "Huang, who was ousted as CEO following reports of an alleged affair with a woman suspected of spying for China, agreed to testify Wednesday after several senior lawmakers threatened to subpoena him.",
     "keywords": [
-      "AI",
-      "OpenAI",
-      "GPT",
-      "ChatGPT"
+      "AI"
     ],
     "date": "2026-11-12"
   },
   {
-    "title": "字节跳动筹备推出对标Meta Muse的AI智能体",
-    "link": "https://www.pingwest.com/w/319478",
-    "source": "品玩",
+    "title": "Five ways Jensen Huang’s ouster from Nvidia could damage the AI industry",
+    "link": "https://techcrunch.com/2026/11/12/five-ways-jensen-huangs-ouster-from-nvidia-could-damage-the-ai-industry/",
+    "source": "TechCrunch",
     "category": "other",
-    "summary": "META\n\n\n\n字节跳动筹备推出对标Meta Muse的AI智能体\n\n据 BigGo 报道，字节跳动计划在未来数周内推出一款新型AI助手，定位与Meta近期发布的个人智能体Muse相近。",
+    "summary": "Nvidia's ousted CEO Jensen Huang's downfall isn’t just your run-of-the-mill salacious billionaire sex scandal. He was using his influence to push the AI industry in some very specific ways.",
     "keywords": [
-      "AI",
-      "智能"
+      "AI"
     ],
     "date": "2026-11-12"
   },
   {
-    "title": "谷歌发布 Gemini Decisions API 面向智能体提供快速多模态决策",
-    "link": "https://www.pingwest.com/w/319475",
-    "source": "品玩",
+    "title": "Trump floats Apple chairman Tim Cook as Jensen Huang’s successor",
+    "link": "https://techcrunch.com/2026/11/12/trump-floats-apple-chairman-tim-cook-as-jensen-huangs-successor/",
+    "source": "TechCrunch",
     "category": "other",
-    "summary": "谷歌\n\n\n\n谷歌发布 Gemini Decisions API 面向智能体提供快速多模态决策\n\n据 Mezha 报道，谷歌近日推出 Gemini Decisions API，由全新模型 Gemini Decision 1 驱动，面向工具选择、策略检查、模型路由和上下文评估等范围明确的决策场景。",
+    "summary": "In a post on Truth Social, President Trump says only one man can take Jensen Huang's place as head of Nvidia: Tim Cook.",
     "keywords": [
-      "Gemini",
-      "智能"
+      "AI"
     ],
     "date": "2026-11-12"
   },
   {
-    "title": "实测 Gemini 4 Carbon ：已玩嗨，Google就这样悄悄重回牌桌",
-    "link": "https://www.pingwest.com/a/319445",
-    "source": "品玩",
+    "title": "Norwest pushes deeper into AI with new $4B fund",
+    "link": "https://techcrunch.com/2026/11/12/norwest-pushes-deeper-into-ai-with-new-4b-fund/",
+    "source": "TechCrunch",
     "category": "other",
-    "summary": "实测 Gemini 4 Carbon ：已玩嗨，Google就这样悄悄重回牌桌\n\n下限很稳，回到一流，接下来，需要的是惊喜。",
-    "keywords": [
-      "Gemini"
-    ],
-    "date": "2026-11-11"
-  },
-  {
-    "title": "Oura 拟以6.25亿美元收购AI医疗公司Counsel Health",
-    "link": "https://www.pingwest.com/w/319466",
-    "source": "品玩",
-    "category": "other",
-    "summary": "AI 医疗\n\n\n\nOura 拟以6.25亿美元收购AI医疗公司Counsel Health\n\n据 TechCrunch 报道，智能戒指厂商Oura宣布，拟以6.25亿美元收购AI原生初级医疗平台Counsel Health，交易预计于2027年底前完成。",
-    "keywords": [
-      "AI",
-      "智能"
-    ],
-    "date": "2026-11-11"
-  },
-  {
-    "title": "OpenAI 收编 AI 旅行智能体团队 Odessia 创始人加盟",
-    "link": "https://www.pingwest.com/w/319462",
-    "source": "品玩",
-    "category": "other",
-    "summary": "OpenAI\n\n\n\nOpenAI 收编 AI 旅行智能体团队 Odessia 创始人加盟\n\n据 TechCrunch 报道，OpenAI 已收购 AI 旅行助手公司 Odessia，其本人现已加入 OpenAI，负责探索 AI 在旅行场景的未来应用。交易条款未披露，业内普遍判断此为人效型收购。",
-    "keywords": [
-      "AI",
-      "OpenAI",
-      "智能"
-    ],
-    "date": "2026-11-11"
-  },
-  {
-    "title": "阿里预告Qwen4大模型 预览版已上线Token Plan开放体验",
-    "link": "https://www.pingwest.com/w/319461",
-    "source": "品玩",
-    "category": "other",
-    "summary": "千问\n\n\n\n阿里预告Qwen4大模型 预览版已上线Token Plan开放体验\n\n全新一代千问大模型Qwen4即将发布。Qwen4将进一步提升知识理解与世界感知能力，编程及智能体任务执行能力持续升级，可覆盖复杂编程、专业办公、前端设计、专业软件操作等实际任务场景。",
-    "keywords": [
-      "大模型",
-      "智能"
-    ],
-    "date": "2026-11-11"
-  },
-  {
-    "title": "Anthropic 推出 Claude 办公套件 覆盖会议、白板、表格与数据",
-    "link": "https://www.pingwest.com/w/319448",
-    "source": "品玩",
-    "category": "other",
-    "summary": "Anthropic\n\n\n\nAnthropic 推出 Claude 办公套件 覆盖会议、白板、表格与数据\n\n据 TechCrunch 报道，Anthropic 近日发布一系列面向企业办公场景的新功能，包括 Claude Meetings、Claude Whiteboards、Claude Sheets 以及 Claude Data，进一步扩展其在工作场景中的应用能力。",
-    "keywords": [
-      "Anthropic",
-      "Claude"
-    ],
-    "date": "2026-11-11"
-  },
-  {
-    "title": "MiniMax 正式发布 H3-Image 图像生成模型并开放权重",
-    "link": "https://www.pingwest.com/w/319447",
-    "source": "品玩",
-    "category": "other",
-    "summary": "MiniMax\n\n\n\nMiniMax 正式发布 H3-Image 图像生成模型并开放权重\n\n据稀宇科技官方消息，MiniMax 近日正式发布图像生成模型 MiniMax H3-Image，并同步开放模型权重。该模型衍生自 H3，具备文本生成图像、图像参考和图像编辑能力，可在约 10 秒内生成 4096×4096 像素、约 16MP 的高分辨率图像，同时提供丰富的细节与较强的真实感。",
-    "keywords": [
-      "MiniMax"
-    ],
-    "date": "2026-11-11"
-  },
-  {
-    "title": "苹果旗下Claris测试Harbor应用 将Apple silicon Mac改造为私有AI推理服务器",
-    "link": "https://www.pingwest.com/w/319446",
-    "source": "品玩",
-    "category": "other",
-    "summary": "苹果\n\n\n\n苹果旗下Claris测试Harbor应用 将Apple silicon Mac改造为私有AI推理服务器\n\n据 MacRumors 报道，苹果子公司Claris正在测试一款名为Harbor的应用，可将搭载Apple silicon芯片的Mac转变为私有AI推理服务器。用户在本地运行开放权重模型，数据始终保留在本地硬件，无需上传云端。",
+    "summary": "This is the investment firm's largest fund to date.",
     "keywords": [
       "AI"
     ],
-    "date": "2026-11-11"
+    "date": "2026-11-12"
   },
   {
-    "title": "谷歌 Gemini 4 Carbon 今日正式开放上线 面向复杂知识工作与长周期智能体任务",
-    "link": "https://www.pingwest.com/w/319444",
-    "source": "品玩",
+    "title": "Cyberattack on Fireworks AI allowed hackers to access Notion customers’ chat transcripts",
+    "link": "https://techcrunch.com/2026/11/12/cyberattack-on-fireworks-ai-allowed-hackers-to-access-notion-customers-chat-transcripts/",
+    "source": "TechCrunch",
     "category": "other",
-    "summary": "谷歌\n\n\n\n谷歌 Gemini 4 Carbon 今日正式开放上线 面向复杂知识工作与长周期智能体任务\n\n谷歌今日正式向开发者、企业、科研机构及消费者开放 Gemini 4 Carbon，即日起可通过 API 调用。",
-    "keywords": [
-      "Gemini",
-      "智能"
-    ],
-    "date": "2026-11-11"
-  },
-  {
-    "title": "Meta 组建企业销售团队 加速 AI 产品商业化落地",
-    "link": "https://www.pingwest.com/w/319443",
-    "source": "品玩",
-    "category": "other",
-    "summary": "META\n\n\n\nMeta 组建企业销售团队 加速 AI 产品商业化落地\n\n据 The Information 报道，Meta 已着手组建面向中小企业的销售组织，并正与咨询公司、系统集成商建立合作，以开拓大型企业客户。报道称，这是 Meta 推进企业级 AI 业务商业化的后续步骤。Meta 尚未公开确认该计划，相关报道为付费内容。",
+    "summary": "This is Fireworks' second data breach in as many months.",
     "keywords": [
       "AI"
     ],
-    "date": "2026-11-11"
-  },
-  {
-    "title": "谷歌 AI 训练底座 Pathways 正式开放 大模型分布式训练系统对外开放",
-    "link": "https://www.pingwest.com/w/319441",
-    "source": "品玩",
-    "category": "other",
-    "summary": "谷歌\n\n\n\n谷歌 AI 训练底座 Pathways 正式开放 大模型分布式训练系统对外开放\n\n谷歌近日宣布，其分布式训练系统 Pathways 在 Google Cloud 正式开放。该系统由谷歌自研，用于训练 Gemini 等自有大模型，此次对外商用，标志着支撑前沿模型研发的基础设施能力同步开放。",
-    "keywords": [
-      "AI",
-      "大模型",
-      "Gemini"
-    ],
-    "date": "2026-11-11"
-  },
-  {
-    "title": "雷鸟 iO AI 眼镜迎来重磅升级：高德导航正式上镜，全天智记再进化",
-    "link": "https://www.pingwest.com/w/319435",
-    "source": "品玩",
-    "category": "other",
-    "summary": "雷鸟创新\n\n\n\n雷鸟 iO AI 眼镜迎来重磅升级：高德导航正式上镜，全天智记再进化",
-    "keywords": [
-      "AI"
-    ],
-    "date": "2026-11-11"
+    "date": "2026-11-12"
   },
   {
     "title": "The unfolding Jensen Huang scandal: a timeline",
-    "link": "https://techcrunch.com/2026/11/11/nvidia-ceo-jensen-huangs-affair-with-alleged-chinese-spy-a-timeline/",
+    "link": "https://techcrunch.com/2026/11/12/nvidia-ceo-jensen-huangs-affair-with-alleged-chinese-spy-a-timeline/",
     "source": "TechCrunch",
     "category": "other",
-    "summary": "The affair could have ramifications for national security as the U.S. and China race to develop the most advanced AI infrastructure.",
+    "summary": "Jensen Huang has resigned from Nvidia following an affair, which could have ramifications for national security as the U.S. and China race to develop the most advanced AI infrastructure.",
     "keywords": [
       "AI"
     ],
-    "date": "2026-11-11"
+    "date": "2026-11-12"
+  },
+  {
+    "title": "Nine Korean startups vie for a spot in Disrupt 2027’s Startup Battlefield 200 competition",
+    "link": "https://techcrunch.com/2026/11/12/nine-korean-startups-vie-for-a-spot-in-disrupt-2027s-startup-battlefield-200-competition/",
+    "source": "TechCrunch",
+    "category": "other",
+    "summary": "The startups work across the deep tech sector, including healthcare, fintech, energy, semiconductors, and AI. All nine are looking to enter the U.S.",
+    "keywords": [
+      "AI"
+    ],
+    "date": "2026-11-12"
   },
   {
     "title": "Jensen Huang accused of having another affair — with an Nvidia exec",
@@ -265,207 +153,5 @@
       "AI"
     ],
     "date": "2026-11-11"
-  },
-  {
-    "title": "Is Jensen Huang’s bad behavior more commonplace than it seems?",
-    "link": "https://techcrunch.com/2026/11/11/is-jensen-huangs-bad-behavior-more-commonplace-than-it-seems/",
-    "source": "TechCrunch",
-    "category": "other",
-    "summary": "“There are a lot of senior people in the industry that know this is happening, and are effectively condoning it,” an investment intel consultant said.",
-    "keywords": [
-      "AI"
-    ],
-    "date": "2026-11-11"
-  },
-  {
-    "title": "OpenAI’s quarterly revenue reportedly crosses $10B for the first time",
-    "link": "https://techcrunch.com/2026/11/11/openais-quarterly-revenue-reportedly-crosses-10b-for-the-first-time/",
-    "source": "TechCrunch",
-    "category": "other",
-    "summary": "Sales of $10 billion represents an almost 50% jump from revenue of $6.7 billion the company recorded in the second quarter.",
-    "keywords": [
-      "AI",
-      "OpenAI"
-    ],
-    "date": "2026-11-11"
-  },
-  {
-    "title": "Databricks’ new AI agent tells CEO Ali Ghodsi the unvarnished truth",
-    "link": "https://techcrunch.com/2026/11/11/databricks-new-ai-agent-tells-ceo-ali-ghodsi-the-unvarnished-truth/",
-    "source": "TechCrunch",
-    "category": "other",
-    "summary": "With Databricks at 12,000 employees, AI Ghodsi is the first to admit that he can't know everyone and that they are unlikely to confess the things that go wrong to him. But he doesn't need them to. He ",
-    "keywords": [
-      "AI",
-      "Agent"
-    ],
-    "date": "2026-11-11"
-  },
-  {
-    "title": "Plurai wants to help AI agents work better using the same approach that helped get self-driving cars to roads",
-    "link": "https://techcrunch.com/2026/11/11/plurai-wants-to-help-ai-agents-work-better-using-the-same-approach-that-helped-get-self-driving-cars-to-roads/",
-    "source": "TechCrunch",
-    "category": "other",
-    "summary": "Like the end-to-end models trained to drive cars, AI agents are probabilistic systems operating in unpredictable environments.",
-    "keywords": [
-      "AI",
-      "Agent"
-    ],
-    "date": "2026-11-11"
-  },
-  {
-    "title": "大晓机器人双脑协同架构首次落地酒店洗衣场景，具身智能RSI 驱动技能持续进化",
-    "link": "https://www.pingwest.com/w/319424",
-    "source": "品玩",
-    "category": "other",
-    "summary": "大晓机器人\n\n\n\n大晓机器人双脑协同架构首次落地酒店洗衣场景，具身智能RSI 驱动技能持续进化",
-    "keywords": [
-      "机器人",
-      "智能"
-    ],
-    "date": "2026-11-10"
-  },
-  {
-    "title": "本周AI项目推荐｜硅谷创始人们看好的29个AI创业公司",
-    "link": "https://www.pingwest.com/a/319344",
-    "source": "品玩",
-    "category": "other",
-    "summary": "本周AI项目推荐｜硅谷创始人们看好的29个AI创业公司\n\nRunway、ElevenLabs、Vercel、Mercor 等公司的创始人，最近在关注哪些早期项目？",
-    "keywords": [
-      "AI",
-      "Runway"
-    ],
-    "date": "2026-11-10"
-  },
-  {
-    "title": "中国最应该做 Personal Agent 的，是 Looki",
-    "link": "https://www.pingwest.com/a/319334",
-    "source": "品玩",
-    "category": "other",
-    "summary": "中国最应该做 Personal Agent 的，是 Looki\n\n最懂 PA 的，可能是家硬件公司",
-    "keywords": [
-      "Agent"
-    ],
-    "date": "2026-11-10"
-  },
-  {
-    "title": "对话智能知识：只靠RSI到不了AGI；Human Data is all you need",
-    "link": "https://www.pingwest.com/a/319352",
-    "source": "品玩",
-    "category": "other",
-    "summary": "对话智能知识：只靠RSI到不了AGI；Human Data is all you need\n\n没有人的参与到不了AGI",
-    "keywords": [
-      "智能"
-    ],
-    "date": "2026-11-10"
-  },
-  {
-    "title": "Gemini 上线「记忆摘要」功能 AI 助手个性化记忆实现可视化管理",
-    "link": "https://www.pingwest.com/w/319421",
-    "source": "品玩",
-    "category": "other",
-    "summary": "GEMINI\n\n\n\nGemini 上线「记忆摘要」功能 AI 助手个性化记忆实现可视化管理\n\n据 9to5Google 报道，Google 近日为 Gemini 应用新增「Memory summary（记忆摘要）」功能，用户可查看、编辑并删除 Gemini 所记录的个人信息，首次将大模型的记忆机制以透明化界面呈现给用户。",
-    "keywords": [
-      "AI",
-      "大模型",
-      "Gemini"
-    ],
-    "date": "2026-11-10"
-  },
-  {
-    "title": "OpenAI发布Control Room安全系统 实现35秒内终止模型推理任务",
-    "link": "https://www.pingwest.com/w/319418",
-    "source": "品玩",
-    "category": "other",
-    "summary": "OpenAI\n\n\n\nOpenAI发布Control Room安全系统 实现35秒内终止模型推理任务\n\nOpenAI今天发布Control Room中央安全系统，用于统一追踪其研究基础设施中的全部模型工作负载，并在安全或风控触发时快速中止输出。该系统与misalignment监控体系深度集成，可在发出终止指令后35秒内切断推理。",
-    "keywords": [
-      "AI",
-      "OpenAI"
-    ],
-    "date": "2026-11-10"
-  },
-  {
-    "title": "Anthropic推进上市计划 AI热潮估值成市场风向标",
-    "link": "https://www.pingwest.com/w/319417",
-    "source": "品玩",
-    "category": "key_news",
-    "summary": "Anthropic\n\n\n\nAnthropic推进上市计划 AI热潮估值成市场风向标\n\n据 TechCrunch 报道，AI公司Anthropic正按计划推进首次公开募股，拟于本周确定估值区间，最早下周后半周正式启动交易。这一决定发生在纳斯达克近期出现较大规模回调之后，市场对科技板块估值的审视明显加剧。",
-    "keywords": [
-      "AI",
-      "Anthropic"
-    ],
-    "date": "2026-11-10"
-  },
-  {
-    "title": "Meta发布轻量模型Muse Ember AI Agent推理成本低至每任务0.14美元",
-    "link": "https://www.pingwest.com/w/319416",
-    "source": "品玩",
-    "category": "other",
-    "summary": "META\n\n\n\nMeta发布轻量模型Muse Ember AI Agent推理成本低至每任务0.14美元\n\nMeta近日发布新一代轻量AI模型Muse Ember，专为Agent重复性推理任务设计，覆盖工具调用、编码子任务、信息提取及长文档解析等场景。该模型在Artificial Analysis榜单中位居效率前沿，以约0.14美元的每任务成本，在最高推理档位下用约三分之一的价格匹配Claude ",
-    "keywords": [
-      "AI",
-      "Agent",
-      "Claude"
-    ],
-    "date": "2026-11-10"
-  },
-  {
-    "title": "OpenAI acquires Odessia, travel startup created by Sonder founder",
-    "link": "https://techcrunch.com/2026/11/10/openai-acquires-odessia-travel-startup-created-by-sonder-founder/",
-    "source": "TechCrunch",
-    "category": "other",
-    "summary": "OpenAI has not yet said what its plans are for the future of travel. But Sonder founder Francis Davidson is a well-known figure in the travel industry.",
-    "keywords": [
-      "AI",
-      "OpenAI"
-    ],
-    "date": "2026-11-10"
-  },
-  {
-    "title": "OpenAI, Anthropic face new oversight as New York’s AI safety law takes effect",
-    "link": "https://techcrunch.com/2026/11/10/openai-anthropic-face-new-oversight-as-new-yorks-ai-safety-law-takes-effect/",
-    "source": "TechCrunch",
-    "category": "other",
-    "summary": "New York is preparing to enforce its sweeping AI safety law, requiring major developers like OpenAI and Anthropic to register, disclose safety practices, and report critical incidents or face fines.",
-    "keywords": [
-      "AI",
-      "OpenAI",
-      "Anthropic"
-    ],
-    "date": "2026-11-10"
-  },
-  {
-    "title": "All 7 Anthropic founders will each cash out about $250M in IPO",
-    "link": "https://techcrunch.com/2026/11/10/all-7-anthropic-founders-will-each-cash-out-about-250m-in-ipo/",
-    "source": "TechCrunch",
-    "category": "key_news",
-    "summary": "Each of the seven co-founders plans to sell exactly the same number of shares in the IPO, which would bring each of them about $250 million in cash at the midpoint of the price range while leaving the",
-    "keywords": [
-      "Anthropic"
-    ],
-    "date": "2026-11-10"
-  },
-  {
-    "title": "Oura to acquire AI-native primary care startup Counsel Health for $625M",
-    "link": "https://techcrunch.com/2026/11/10/oura-to-acquire-ai-native-primary-care-startup-counsel-health-for-625m/",
-    "source": "TechCrunch",
-    "category": "other",
-    "summary": "The deal comes a few weeks after Oura postponed its up to $2.2 billion IPO indefinitely, citing “uncertainty in the IPO market.”",
-    "keywords": [
-      "AI"
-    ],
-    "date": "2026-11-10"
-  },
-  {
-    "title": "PSI is trying to make a business out of AI-driven scientific discovery",
-    "link": "https://techcrunch.com/2026/11/10/psi-is-trying-to-make-a-business-out-of-ai-driven-scientific-discovery/",
-    "source": "TechCrunch",
-    "category": "other",
-    "summary": "PSI used an unreleased Anthropic model to answer a fundamental question about quantum computing that scientists have pursued for nearly two decades.",
-    "keywords": [
-      "AI",
-      "Anthropic"
-    ],
-    "date": "2026-11-10"
   }
 ]
