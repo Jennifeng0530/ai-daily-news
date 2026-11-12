@@ -1,5 +1,87 @@
 [
   {
+    "title": "AI接手运营后，速卖通潜力市场双11成交大涨超50%",
+    "link": "https://www.pingwest.com/w/319492",
+    "source": "品玩",
+    "category": "other",
+    "summary": "速卖通\n\n\n\nAI接手运营后，速卖通潜力市场双11成交大涨超50%",
+    "keywords": [
+      "AI"
+    ],
+    "date": "2026-11-12"
+  },
+  {
+    "title": "CoreWeave 调整 AI 算力基础设施融资策略",
+    "link": "https://www.pingwest.com/w/319488",
+    "source": "品玩",
+    "category": "funding",
+    "summary": "Coreweave\n\n\n\nCoreWeave 调整 AI 算力基础设施融资策略\n\n据 TechCrunch 报道，AI 云服务提供商 CoreWeave 近日披露 2026 年第三季度业绩，并公布新的融资安排。",
+    "keywords": [
+      "AI"
+    ],
+    "date": "2026-11-12"
+  },
+  {
+    "title": "谷歌 Gemini 应用正式登陆 Apple CarPlay 支持免提语音对话",
+    "link": "https://www.pingwest.com/w/319487",
+    "source": "品玩",
+    "category": "other",
+    "summary": "GEMINI\n\n\n\n谷歌 Gemini 应用正式登陆 Apple CarPlay 支持免提语音对话\n\n谷歌宣布，Gemini 应用已正式登陆 Apple CarPlay，面向全球 iOS 端 Gemini 用户逐步推送，覆盖 Gemini Live 已支持的全部语言。",
+    "keywords": [
+      "Gemini"
+    ],
+    "date": "2026-11-12"
+  },
+  {
+    "title": "Stripe 完成收购OpenRouter",
+    "link": "https://www.pingwest.com/w/319483",
+    "source": "品玩",
+    "category": "other",
+    "summary": "OpenRouter\n\n\n\nStripe 完成收购OpenRouter\n\n支付公司 Stripe 近日宣布，已完成对全球最大 AI 模型 API 聚合平台 OpenRouter 的收购，交易于 2026 年 11 月 10 日完成。",
+    "keywords": [
+      "AI"
+    ],
+    "date": "2026-11-12"
+  },
+  {
+    "title": "OpenAI宣布12月11日停用ChatGPT旧版语音模式 全面转向GPT-Live",
+    "link": "https://www.pingwest.com/w/319482",
+    "source": "品玩",
+    "category": "other",
+    "summary": "OpenAI\n\n\n\nOpenAI宣布12月11日停用ChatGPT旧版语音模式 全面转向GPT-Live\n\nOpenAI 近日宣布，将于 2026 年 12 月 11 日正式停用 ChatGPT 中的 Advanced Voice Mode 和 Standard Voice Mode，届时相关选项将从“设置-语音”中移除，原使用旧版模式的用户将自动切换至 GPT-Live。",
+    "keywords": [
+      "AI",
+      "OpenAI",
+      "GPT",
+      "ChatGPT"
+    ],
+    "date": "2026-11-12"
+  },
+  {
+    "title": "字节跳动筹备推出对标Meta Muse的AI智能体",
+    "link": "https://www.pingwest.com/w/319478",
+    "source": "品玩",
+    "category": "other",
+    "summary": "META\n\n\n\n字节跳动筹备推出对标Meta Muse的AI智能体\n\n据 BigGo 报道，字节跳动计划在未来数周内推出一款新型AI助手，定位与Meta近期发布的个人智能体Muse相近。",
+    "keywords": [
+      "AI",
+      "智能"
+    ],
+    "date": "2026-11-12"
+  },
+  {
+    "title": "谷歌发布 Gemini Decisions API 面向智能体提供快速多模态决策",
+    "link": "https://www.pingwest.com/w/319475",
+    "source": "品玩",
+    "category": "other",
+    "summary": "谷歌\n\n\n\n谷歌发布 Gemini Decisions API 面向智能体提供快速多模态决策\n\n据 Mezha 报道，谷歌近日推出 Gemini Decisions API，由全新模型 Gemini Decision 1 驱动，面向工具选择、策略检查、模型路由和上下文评估等范围明确的决策场景。",
+    "keywords": [
+      "Gemini",
+      "智能"
+    ],
+    "date": "2026-11-12"
+  },
+  {
     "title": "实测 Gemini 4 Carbon ：已玩嗨，Google就这样悄悄重回牌桌",
     "link": "https://www.pingwest.com/a/319445",
     "source": "品玩",
@@ -129,6 +211,62 @@
     "date": "2026-11-11"
   },
   {
+    "title": "The unfolding Jensen Huang scandal: a timeline",
+    "link": "https://techcrunch.com/2026/11/11/nvidia-ceo-jensen-huangs-affair-with-alleged-chinese-spy-a-timeline/",
+    "source": "TechCrunch",
+    "category": "other",
+    "summary": "The affair could have ramifications for national security as the U.S. and China race to develop the most advanced AI infrastructure.",
+    "keywords": [
+      "AI"
+    ],
+    "date": "2026-11-11"
+  },
+  {
+    "title": "Jensen Huang accused of having another affair — with an Nvidia exec",
+    "link": "https://techcrunch.com/2026/11/11/jensen-huang-accused-of-having-another-affair-with-a-nvidia-exec/",
+    "source": "TechCrunch",
+    "category": "other",
+    "summary": "Jensen Huang, who has come under fire for admitting to an affair with a woman accused of being a Chinese intelligence agent, has been accused of having a separate affair with an Nvidia subordinate.",
+    "keywords": [
+      "AI",
+      "Agent"
+    ],
+    "date": "2026-11-11"
+  },
+  {
+    "title": "CoreWeave turns to customer prepayments, shorter contracts to fund AI growth",
+    "link": "https://techcrunch.com/2026/11/11/coreweave-turns-to-customer-prepayments-shorter-contracts-to-fund-ai-growth/",
+    "source": "TechCrunch",
+    "category": "other",
+    "summary": "CoreWeave is increasingly asking customers to pay up front, borrowing against specific contracts, and even looking to short-term deals that could lead to higher prices, according to the company’s thir",
+    "keywords": [
+      "AI"
+    ],
+    "date": "2026-11-11"
+  },
+  {
+    "title": "With $720M round, Britain’s Fractile gets a leg up in the race for AI chips",
+    "link": "https://techcrunch.com/2026/11/11/with-720m-round-britains-fractile-gets-a-leg-up-in-the-race-for-ai-chips/",
+    "source": "TechCrunch",
+    "category": "other",
+    "summary": "Fractile has now become one of the top-funded players in the race for purpose-built AI chips.",
+    "keywords": [
+      "AI"
+    ],
+    "date": "2026-11-11"
+  },
+  {
+    "title": "Congress to call Jensen Huang in to answer for alleged Chinese spy affair",
+    "link": "https://techcrunch.com/2026/11/11/congress-to-call-jensen-huang-in-to-answer-for-alleged-chinese-spy-affair/",
+    "source": "TechCrunch",
+    "category": "other",
+    "summary": "Nvidia CEO Jensen Huang has until the end of the day Wednesday to answer a call from House Republicans for a closed-door briefing on his affair with alleged Chinese spy.",
+    "keywords": [
+      "AI"
+    ],
+    "date": "2026-11-11"
+  },
+  {
     "title": "Is Jensen Huang’s bad behavior more commonplace than it seems?",
     "link": "https://techcrunch.com/2026/11/11/is-jensen-huangs-bad-behavior-more-commonplace-than-it-seems/",
     "source": "TechCrunch",
@@ -144,7 +282,7 @@
     "link": "https://techcrunch.com/2026/11/11/openais-quarterly-revenue-reportedly-crosses-10b-for-the-first-time/",
     "source": "TechCrunch",
     "category": "other",
-    "summary": "Sales of $10B represents an almost 50% jump from revenue of $6.7 billion the company recorded in the second quarter.",
+    "summary": "Sales of $10 billion represents an almost 50% jump from revenue of $6.7 billion the company recorded in the second quarter.",
     "keywords": [
       "AI",
       "OpenAI"
@@ -156,7 +294,7 @@
     "link": "https://techcrunch.com/2026/11/11/databricks-new-ai-agent-tells-ceo-ali-ghodsi-the-unvarnished-truth/",
     "source": "TechCrunch",
     "category": "other",
-    "summary": "At 12,000 employees, AI Ghodsi is the first to admit that he can't know everyone and that they are unlikely to confess the things that go wrong to him. But he doesn't need them to. He uses Databricks'",
+    "summary": "With Databricks at 12,000 employees, AI Ghodsi is the first to admit that he can't know everyone and that they are unlikely to confess the things that go wrong to him. But he doesn't need them to. He ",
     "keywords": [
       "AI",
       "Agent"
@@ -272,64 +410,6 @@
     "date": "2026-11-10"
   },
   {
-    "title": "字节跳动发布 Seedream 5.5 图像创作模型 三项核心能力升级面向专业生产",
-    "link": "https://www.pingwest.com/w/319414",
-    "source": "品玩",
-    "category": "other",
-    "summary": "Seedream\n\n\n\n字节跳动发布 Seedream 5.5 图像创作模型 三项核心能力升级面向专业生产\n\n字节跳动正式发布新一代AI图像创作模型 Seedream 5.5。Seedream 5.5 围绕画面表现力、内容准确性与编辑可控性，完成三项核心升级。",
-    "keywords": [
-      "AI"
-    ],
-    "date": "2026-11-10"
-  },
-  {
-    "title": "Adobe与迪士尼达成多年战略联盟 AI赋能创意内容开发",
-    "link": "https://www.pingwest.com/w/319413",
-    "source": "品玩",
-    "category": "other",
-    "summary": "Adobe\n\n\n\nAdobe与迪士尼达成多年战略联盟 AI赋能创意内容开发\n\nAdobe在MAX全球创造力大会上宣布与The Walt Disney Company达成多年战略联盟，成为迪士尼官方AI创新合作伙伴。双方将借助自研AI模型与工具加速创意构思，同时保护创作者及其作品权益。",
-    "keywords": [
-      "AI"
-    ],
-    "date": "2026-11-10"
-  },
-  {
-    "title": "Meta 更新 Muse 应用上线 Apple Watch 主动式 AI Agent 入驻可穿戴设备",
-    "link": "https://www.pingwest.com/w/319405",
-    "source": "品玩",
-    "category": "other",
-    "summary": "META\n\n\n\nMeta 更新 Muse 应用上线 Apple Watch 主动式 AI Agent 入驻可穿戴设备\n\n据 MacRumors 报道，Meta 今日更新 iOS 版 Muse 应用，新增 Apple Watch 支持，用户可直接在手腕上访问这一主动式 AI Agent，标志着个人 AI 助手进一步向可穿戴场景延伸。",
-    "keywords": [
-      "AI",
-      "Agent"
-    ],
-    "date": "2026-11-10"
-  },
-  {
-    "title": "机器人便利店打工24小时：先把情绪价值给足，再悄悄自我升级",
-    "link": "https://www.pingwest.com/a/319296",
-    "source": "品玩",
-    "category": "other",
-    "summary": "机器人便利店打工24小时：先把情绪价值给足，再悄悄自我升级\n\n一场在真实业务场景中验证 Physical RSI 的实验。",
-    "keywords": [
-      "机器人"
-    ],
-    "date": "2026-11-10"
-  },
-  {
-    "title": "Anthropic发布Claude Fable 5.2 编码与科学推理能力显著跃升",
-    "link": "https://www.pingwest.com/w/319396",
-    "source": "品玩",
-    "category": "other",
-    "summary": "Anthropic\n\n\n\nAnthropic发布Claude Fable 5.2 编码与科学推理能力显著跃升\n\nAI公司Anthropic发布Claude Fable 5.2与Claude Mythos 5.2两款模型，在编码、推理与视觉方面实现显著提升。两者基于同一底层架构，Fable面向全体用户并内置安全机制，Mythos经审核向特定机构定向开放。",
-    "keywords": [
-      "AI",
-      "Anthropic",
-      "Claude"
-    ],
-    "date": "2026-11-10"
-  },
-  {
     "title": "OpenAI acquires Odessia, travel startup created by Sonder founder",
     "link": "https://techcrunch.com/2026/11/10/openai-acquires-odessia-travel-startup-created-by-sonder-founder/",
     "source": "TechCrunch",
@@ -387,134 +467,5 @@
       "Anthropic"
     ],
     "date": "2026-11-10"
-  },
-  {
-    "title": "OpenAI rolls out new business profiles, making ChatGPT just a little bit more like Google",
-    "link": "https://techcrunch.com/2026/11/10/openai-rolls-out-new-business-profiles-making-chatgpt-just-a-little-bit-more-like-google/",
-    "source": "TechCrunch",
-    "category": "other",
-    "summary": "OpenAI is looking to make ChatGPT a more robust consumer discovery engine, and a host of new features seek to empower businesses to help it do that.",
-    "keywords": [
-      "AI",
-      "OpenAI",
-      "GPT",
-      "ChatGPT"
-    ],
-    "date": "2026-11-10"
-  },
-  {
-    "title": "Anthropic launches Claude Meetings to turn workplace discussions into plans and tasks",
-    "link": "https://techcrunch.com/2026/11/10/anthropic-launches-claude-meetings-to-turn-workplace-discussions-into-plans-and-tasks/",
-    "source": "TechCrunch",
-    "category": "other",
-    "summary": "As participants talk, Claude can draft the plan being discussed, map out a timeline on a whiteboard, answer questions in the meeting chat, and access connected work apps to retrieve information, such ",
-    "keywords": [
-      "Anthropic",
-      "Claude"
-    ],
-    "date": "2026-11-10"
-  },
-  {
-    "title": "Nvidia CEO Jensen Huang’s affair with alleged Chinese spy: a timeline",
-    "link": "https://techcrunch.com/2026/11/10/nvidia-ceo-jensen-huangs-affair-with-alleged-chinese-spy-a-timeline/",
-    "source": "TechCrunch",
-    "category": "other",
-    "summary": "The affair could have ramifications for national security as the U.S. and China race to develop the most advanced AI infrastructure.",
-    "keywords": [
-      "AI"
-    ],
-    "date": "2026-11-10"
-  },
-  {
-    "title": "Google broadens its AI hardware portfolio with two new specialized chips",
-    "link": "https://techcrunch.com/2026/11/10/google-broadens-its-ai-hardware-portfolio-with-two-new-specialized-chips/",
-    "source": "TechCrunch",
-    "category": "other",
-    "summary": "Google's new tensor processing units (TPUs) broaden its chip portfolio to more use cases: confidential model training and more memory capacity.",
-    "keywords": [
-      "AI"
-    ],
-    "date": "2026-11-10"
-  },
-  {
-    "title": "Meta’s AI agent Muse lands on Apple Watch and Android Wear OS",
-    "link": "https://techcrunch.com/2026/11/10/metas-ai-agent-muse-lands-on-apple-watch-and-wear-os/",
-    "source": "TechCrunch",
-    "category": "other",
-    "summary": "Users can now interact with Meta’s AI assistant through voice calls, text messages, or dictation on their Apple Watch.",
-    "keywords": [
-      "AI",
-      "Agent"
-    ],
-    "date": "2026-11-10"
-  },
-  {
-    "title": "Adobe brings AI agents and new creative tools to Photoshop, Premiere, and Firefly",
-    "link": "https://techcrunch.com/2026/11/10/adobe-adds-more-ai-to-its-products-and-launches-an-mcp/",
-    "source": "TechCrunch",
-    "category": "other",
-    "summary": "Adobe is taking on Figma with a new prototype builder tool in Firefly.",
-    "keywords": [
-      "AI",
-      "Agent"
-    ],
-    "date": "2026-11-10"
-  },
-  {
-    "title": "Anthropic sets IPO price range of $70 to $78 per share to reach an implied valuation of $1.404 trillion",
-    "link": "https://techcrunch.com/2026/11/10/anthropic-sets-ipo-price-range-of-70-to-78-per-share-to-reach-an-implied-valuation-of-1-404-trillion/",
-    "source": "TechCrunch",
-    "category": "key_news",
-    "summary": "The company could end up being worth a hefty $1.404 trillion if its shares list at the top of the price range, on a fully diluted basis.",
-    "keywords": [
-      "Anthropic"
-    ],
-    "date": "2026-11-10"
-  },
-  {
-    "title": "After challenging Google’s Android with Cyanogen, its co-founder takes aim at Windows for AI era",
-    "link": "https://techcrunch.com/2026/11/10/after-challenging-googles-android-with-cyanogen-its-co-founder-takes-aim-at-windows-for-ai-era/",
-    "source": "TechCrunch",
-    "category": "other",
-    "summary": "Kora is set to launch as a free-to-use alternative to Windows, targeting users who rely heavily on AI models and agents.",
-    "keywords": [
-      "AI",
-      "Agent"
-    ],
-    "date": "2026-11-10"
-  },
-  {
-    "title": "Spotify’s AI DJ gets new voices, personalities, and an option for less chatter",
-    "link": "https://techcrunch.com/2026/11/10/spotifys-ai-dj-gets-new-voices-personalities-and-an-option-for-less-chatter/",
-    "source": "TechCrunch",
-    "category": "other",
-    "summary": "Spotify Premium users can now customize their AI DJ with new voices with different personalities, or turn off the commentary between songs.",
-    "keywords": [
-      "AI"
-    ],
-    "date": "2026-11-10"
-  },
-  {
-    "title": "微软申请AI直播视频改写专利 可实时替换语音并同步重绘唇形",
-    "link": "https://www.pingwest.com/w/319378",
-    "source": "品玩",
-    "category": "other",
-    "summary": "微软\n\n\n\n微软申请AI直播视频改写专利 可实时替换语音并同步重绘唇形\n\n据 techpowerup 报道，微软近日公开一项AI系统专利（US 2026/0341309 A1），可在直播视频流中实时修改说话内容并重新绘制唇形以匹配新语音。该专利于2025年4月提交，2026年10月29日正式公开，由Patentlyze率先发现。",
-    "keywords": [
-      "AI"
-    ],
-    "date": "2026-11-09"
-  },
-  {
-    "title": "千问办公2.0发布，首个支持多人与Agent协作的Team Agent来了",
-    "link": "https://www.pingwest.com/w/319377",
-    "source": "品玩",
-    "category": "other",
-    "summary": "通义千问\n\n\n\n千问办公2.0发布，首个支持多人与Agent协作的Team Agent来了\n\n11月9日，千问办公发布2.0版本，这是其上线三个月以来最大的一次升级。该版本推出了行业首个支持多人与Agent协作的功能“协作”，同时上线“人机共创”、“资料空间”、“自动任务”和“三端互联”等核心能力，让Agent从服务个人走向服务团队和组织。目前，所有功能已在千问办公客户端全量上线。",
-    "keywords": [
-      "Agent",
-      "通义千问"
-    ],
-    "date": "2026-11-09"
   }
 ]
