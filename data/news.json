@@ -1,5 +1,61 @@
 [
   {
+    "title": "AI走进教育实践一线，WPS Comate高校创新应用成果出炉",
+    "link": "https://www.pingwest.com/w/319551",
+    "source": "品玩",
+    "category": "other",
+    "summary": "金山\n\n\n\nAI走进教育实践一线，WPS Comate高校创新应用成果出炉",
+    "keywords": [
+      "AI"
+    ],
+    "date": "2026-11-13"
+  },
+  {
+    "title": "谷歌搜索接入 Gemini 4 Hydrogen 模型 提升复杂问题理解能力",
+    "link": "https://www.pingwest.com/w/319549",
+    "source": "品玩",
+    "category": "other",
+    "summary": "谷歌\n\n\n\n谷歌搜索接入 Gemini 4 Hydrogen 模型 提升复杂问题理解能力\n\n据 TechCrunch 报道，谷歌搜索近日正式接入新一代模型 Gemini 4 Hydrogen，面向全球用户开放。",
+    "keywords": [
+      "Gemini"
+    ],
+    "date": "2026-11-13"
+  },
+  {
+    "title": "AI云服务商Nebius公布400亿美元资本支出计划 部分项目延期引发市场关注",
+    "link": "https://www.pingwest.com/w/319548",
+    "source": "品玩",
+    "category": "other",
+    "summary": "nebius\n\n\n\nAI云服务商Nebius公布400亿美元资本支出计划 部分项目延期引发市场关注\n\n据 TechCrunch 报道，AI云服务商Nebius在2026年第三季度财报中披露，公司当季营收9.81亿美元，同比增长571%，其中AI云业务营收9.74亿美元。",
+    "keywords": [
+      "AI"
+    ],
+    "date": "2026-11-13"
+  },
+  {
+    "title": "Meta Muse 面向付费用户开放AI代拨商家电话功能",
+    "link": "https://www.pingwest.com/w/319546",
+    "source": "品玩",
+    "category": "other",
+    "summary": "META\n\n\n\nMeta Muse 面向付费用户开放AI代拨商家电话功能\n\n据 TechCrunch 报道，Meta 宣布，旗下消费级 AI 智能体 Muse 的电话代办功能已向美国付费订阅用户开放。",
+    "keywords": [
+      "AI",
+      "智能"
+    ],
+    "date": "2026-11-13"
+  },
+  {
+    "title": "AI视频模型 Seedance 2.5 Flash 全球首发登陆 LibTV",
+    "link": "https://www.pingwest.com/w/319545",
+    "source": "品玩",
+    "category": "other",
+    "summary": "liblib\n\n\n\nAI视频模型 Seedance 2.5 Flash 全球首发登陆 LibTV\n\n据哩布哩布官方消息，Seedance 2.5 Flash 近日在 LibTV 平台全球首发，面向所有用户开放。",
+    "keywords": [
+      "AI"
+    ],
+    "date": "2026-11-13"
+  },
+  {
     "title": "谷歌发布新一代大模型 Gemini 4 Hydrogen 主攻日常场景高效推理",
     "link": "https://www.pingwest.com/w/319535",
     "source": "品玩",
@@ -45,6 +101,53 @@
     "summary": "百度\n\n\n\n百度推出大模型交易平台词元所\n\n在百度世界2026大会开幕式上，百度创始人李彦宏宣布推出大模型交易平台“词元所”。",
     "keywords": [
       "大模型"
+    ],
+    "date": "2026-11-13"
+  },
+  {
+    "title": "ChatGPT’s new Wallet lets AI agents shop and check out for you",
+    "link": "https://techcrunch.com/2026/11/13/chatgpts-new-wallet-lets-ai-agents-shop-and-check-out-for-you/",
+    "source": "TechCrunch",
+    "category": "other",
+    "summary": "ChatGPT Wallet lets AI agents shop and check out on users' behalf, starting with a limited rollout to U.S. Pro subscribers.",
+    "keywords": [
+      "AI",
+      "Agent",
+      "GPT",
+      "ChatGPT"
+    ],
+    "date": "2026-11-13"
+  },
+  {
+    "title": "The unfolding Jensen Huang scandal: a timeline",
+    "link": "https://techcrunch.com/2026/11/13/nvidia-ceo-jensen-huangs-affair-with-alleged-chinese-spy-a-timeline/",
+    "source": "TechCrunch",
+    "category": "other",
+    "summary": "Jensen Huang has resigned from Nvidia following an affair, which could have ramifications for national security as the U.S. and China race to develop the most advanced AI infrastructure.",
+    "keywords": [
+      "AI"
+    ],
+    "date": "2026-11-13"
+  },
+  {
+    "title": "ElevenLabs’ new app combines meeting note-taking and dictation for teams",
+    "link": "https://techcrunch.com/2026/11/13/elevenlabs-new-app-combines-meeting-note-taking-and-dictation-for-teams/",
+    "source": "TechCrunch",
+    "category": "other",
+    "summary": "ElevenAI is a new meeting notetaker and dictation app aimed at teams and enterprises.",
+    "keywords": [
+      "AI"
+    ],
+    "date": "2026-11-13"
+  },
+  {
+    "title": "Israel’s VCs see opportunity for challengers in Nvidia’s turmoil",
+    "link": "https://techcrunch.com/2026/11/13/israels-vcs-see-opportunity-for-challengers-in-nvidias-turmoil/",
+    "source": "TechCrunch",
+    "category": "other",
+    "summary": "Given Nvidia’s stronghold on AI and its importance in Israel, many in the country's startup ecosystem are worried about the impact of his departure.",
+    "keywords": [
+      "AI"
     ],
     "date": "2026-11-13"
   },
@@ -172,17 +275,6 @@
     "source": "TechCrunch",
     "category": "other",
     "summary": "Muse's AI can now place outbound calls to U.S. businesses — but it's not free.",
-    "keywords": [
-      "AI"
-    ],
-    "date": "2026-11-12"
-  },
-  {
-    "title": "The unfolding Jensen Huang scandal: a timeline",
-    "link": "https://techcrunch.com/2026/11/12/nvidia-ceo-jensen-huangs-affair-with-alleged-chinese-spy-a-timeline/",
-    "source": "TechCrunch",
-    "category": "other",
-    "summary": "Jensen Huang has resigned from Nvidia following an affair, which could have ramifications for national security as the U.S. and China race to develop the most advanced AI infrastructure.",
     "keywords": [
       "AI"
     ],
@@ -324,39 +416,6 @@
     "date": "2026-11-12"
   },
   {
-    "title": "Norwest pushes deeper into AI with new $4B fund",
-    "link": "https://techcrunch.com/2026/11/12/norwest-pushes-deeper-into-ai-with-new-4b-fund/",
-    "source": "TechCrunch",
-    "category": "other",
-    "summary": "This is the investment firm's largest fund to date.",
-    "keywords": [
-      "AI"
-    ],
-    "date": "2026-11-12"
-  },
-  {
-    "title": "Cyberattack on Fireworks AI allowed hackers to access Notion customers’ chat transcripts",
-    "link": "https://techcrunch.com/2026/11/12/cyberattack-on-fireworks-ai-allowed-hackers-to-access-notion-customers-chat-transcripts/",
-    "source": "TechCrunch",
-    "category": "other",
-    "summary": "This is Fireworks' second data breach in as many months.",
-    "keywords": [
-      "AI"
-    ],
-    "date": "2026-11-12"
-  },
-  {
-    "title": "Nine Korean startups vie for a spot in Disrupt 2027’s Startup Battlefield 200 competition",
-    "link": "https://techcrunch.com/2026/11/12/nine-korean-startups-vie-for-a-spot-in-disrupt-2027s-startup-battlefield-200-competition/",
-    "source": "TechCrunch",
-    "category": "other",
-    "summary": "The startups work across the deep tech sector, including healthcare, fintech, energy, semiconductors, and AI. All nine are looking to enter the U.S.",
-    "keywords": [
-      "AI"
-    ],
-    "date": "2026-11-12"
-  },
-  {
     "title": "实测 Gemini 4 Carbon ：已玩嗨，Google就这样悄悄重回牌桌",
     "link": "https://www.pingwest.com/a/319445",
     "source": "品玩",
@@ -364,89 +423,6 @@
     "summary": "实测 Gemini 4 Carbon ：已玩嗨，Google就这样悄悄重回牌桌\n\n下限很稳，回到一流，接下来，需要的是惊喜。",
     "keywords": [
       "Gemini"
-    ],
-    "date": "2026-11-11"
-  },
-  {
-    "title": "Oura 拟以6.25亿美元收购AI医疗公司Counsel Health",
-    "link": "https://www.pingwest.com/w/319466",
-    "source": "品玩",
-    "category": "other",
-    "summary": "AI 医疗\n\n\n\nOura 拟以6.25亿美元收购AI医疗公司Counsel Health\n\n据 TechCrunch 报道，智能戒指厂商Oura宣布，拟以6.25亿美元收购AI原生初级医疗平台Counsel Health，交易预计于2027年底前完成。",
-    "keywords": [
-      "AI",
-      "智能"
-    ],
-    "date": "2026-11-11"
-  },
-  {
-    "title": "OpenAI 收编 AI 旅行智能体团队 Odessia 创始人加盟",
-    "link": "https://www.pingwest.com/w/319462",
-    "source": "品玩",
-    "category": "other",
-    "summary": "OpenAI\n\n\n\nOpenAI 收编 AI 旅行智能体团队 Odessia 创始人加盟\n\n据 TechCrunch 报道，OpenAI 已收购 AI 旅行助手公司 Odessia，其本人现已加入 OpenAI，负责探索 AI 在旅行场景的未来应用。交易条款未披露，业内普遍判断此为人效型收购。",
-    "keywords": [
-      "AI",
-      "OpenAI",
-      "智能"
-    ],
-    "date": "2026-11-11"
-  },
-  {
-    "title": "阿里预告Qwen4大模型 预览版已上线Token Plan开放体验",
-    "link": "https://www.pingwest.com/w/319461",
-    "source": "品玩",
-    "category": "other",
-    "summary": "千问\n\n\n\n阿里预告Qwen4大模型 预览版已上线Token Plan开放体验\n\n全新一代千问大模型Qwen4即将发布。Qwen4将进一步提升知识理解与世界感知能力，编程及智能体任务执行能力持续升级，可覆盖复杂编程、专业办公、前端设计、专业软件操作等实际任务场景。",
-    "keywords": [
-      "大模型",
-      "智能"
-    ],
-    "date": "2026-11-11"
-  },
-  {
-    "title": "Anthropic 推出 Claude 办公套件 覆盖会议、白板、表格与数据",
-    "link": "https://www.pingwest.com/w/319448",
-    "source": "品玩",
-    "category": "other",
-    "summary": "Anthropic\n\n\n\nAnthropic 推出 Claude 办公套件 覆盖会议、白板、表格与数据\n\n据 TechCrunch 报道，Anthropic 近日发布一系列面向企业办公场景的新功能，包括 Claude Meetings、Claude Whiteboards、Claude Sheets 以及 Claude Data，进一步扩展其在工作场景中的应用能力。",
-    "keywords": [
-      "Anthropic",
-      "Claude"
-    ],
-    "date": "2026-11-11"
-  },
-  {
-    "title": "MiniMax 正式发布 H3-Image 图像生成模型并开放权重",
-    "link": "https://www.pingwest.com/w/319447",
-    "source": "品玩",
-    "category": "other",
-    "summary": "MiniMax\n\n\n\nMiniMax 正式发布 H3-Image 图像生成模型并开放权重\n\n据稀宇科技官方消息，MiniMax 近日正式发布图像生成模型 MiniMax H3-Image，并同步开放模型权重。该模型衍生自 H3，具备文本生成图像、图像参考和图像编辑能力，可在约 10 秒内生成 4096×4096 像素、约 16MP 的高分辨率图像，同时提供丰富的细节与较强的真实感。",
-    "keywords": [
-      "MiniMax"
-    ],
-    "date": "2026-11-11"
-  },
-  {
-    "title": "苹果旗下Claris测试Harbor应用 将Apple silicon Mac改造为私有AI推理服务器",
-    "link": "https://www.pingwest.com/w/319446",
-    "source": "品玩",
-    "category": "other",
-    "summary": "苹果\n\n\n\n苹果旗下Claris测试Harbor应用 将Apple silicon Mac改造为私有AI推理服务器\n\n据 MacRumors 报道，苹果子公司Claris正在测试一款名为Harbor的应用，可将搭载Apple silicon芯片的Mac转变为私有AI推理服务器。用户在本地运行开放权重模型，数据始终保留在本地硬件，无需上传云端。",
-    "keywords": [
-      "AI"
-    ],
-    "date": "2026-11-11"
-  },
-  {
-    "title": "谷歌 Gemini 4 Carbon 今日正式开放上线 面向复杂知识工作与长周期智能体任务",
-    "link": "https://www.pingwest.com/w/319444",
-    "source": "品玩",
-    "category": "other",
-    "summary": "谷歌\n\n\n\n谷歌 Gemini 4 Carbon 今日正式开放上线 面向复杂知识工作与长周期智能体任务\n\n谷歌今日正式向开发者、企业、科研机构及消费者开放 Gemini 4 Carbon，即日起可通过 API 调用。",
-    "keywords": [
-      "Gemini",
-      "智能"
     ],
     "date": "2026-11-11"
   }
