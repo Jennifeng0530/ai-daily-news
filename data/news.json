@@ -105,6 +105,40 @@
     "date": "2026-11-13"
   },
   {
+    "title": "Jensen Huang’s departure blasts big hole in AI startup funding, VCs and founders say",
+    "link": "https://techcrunch.com/2026/11/13/jensen-huangs-departure-blasts-big-hole-in-ai-startup-funding-vcs-and-founders-say/",
+    "source": "TechCrunch",
+    "category": "funding",
+    "summary": "Nvidia poured tens of billions into AI startups under Huang. Without him at the helm, founders and VCs are bracing for smaller checks and lower valuations.",
+    "keywords": [
+      "AI"
+    ],
+    "date": "2026-11-13"
+  },
+  {
+    "title": "AI agent startup LangChain hits $3B valuation",
+    "link": "https://techcrunch.com/2026/11/13/ai-agent-startup-langchain-hits-3b-valuation/",
+    "source": "TechCrunch",
+    "category": "funding",
+    "summary": "LangChain now claims 7,000 customers of its model and platform agnostic agent management tool LangSmith.",
+    "keywords": [
+      "AI",
+      "Agent"
+    ],
+    "date": "2026-11-13"
+  },
+  {
+    "title": "Export-banned Nvidia chips are behind China’s most powerful AI models — uh-oh, Jensen!",
+    "link": "https://techcrunch.com/2026/11/13/export-banned-nvidia-chips-are-behind-chinas-most-powerful-ai-models-uh-oh-jensen/",
+    "source": "TechCrunch",
+    "category": "other",
+    "summary": "New research shows the most advanced AI models from China were trained on banned Nvidia chips.",
+    "keywords": [
+      "AI"
+    ],
+    "date": "2026-11-13"
+  },
+  {
     "title": "ChatGPT’s new Wallet lets AI agents shop and check out for you",
     "link": "https://techcrunch.com/2026/11/13/chatgpts-new-wallet-lets-ai-agents-shop-and-check-out-for-you/",
     "source": "TechCrunch",
@@ -388,28 +422,6 @@
     "source": "TechCrunch",
     "category": "other",
     "summary": "Huang, who was ousted as CEO following reports of an alleged affair with a woman suspected of spying for China, agreed to testify Wednesday after several senior lawmakers threatened to subpoena him.",
-    "keywords": [
-      "AI"
-    ],
-    "date": "2026-11-12"
-  },
-  {
-    "title": "Five ways Jensen Huang’s ouster from Nvidia could damage the AI industry",
-    "link": "https://techcrunch.com/2026/11/12/five-ways-jensen-huangs-ouster-from-nvidia-could-damage-the-ai-industry/",
-    "source": "TechCrunch",
-    "category": "other",
-    "summary": "Nvidia's ousted CEO Jensen Huang's downfall isn’t just your run-of-the-mill salacious billionaire sex scandal. He was using his influence to push the AI industry in some very specific ways.",
-    "keywords": [
-      "AI"
-    ],
-    "date": "2026-11-12"
-  },
-  {
-    "title": "Trump floats Apple chairman Tim Cook as Jensen Huang’s successor",
-    "link": "https://techcrunch.com/2026/11/12/trump-floats-apple-chairman-tim-cook-as-jensen-huangs-successor/",
-    "source": "TechCrunch",
-    "category": "other",
-    "summary": "In a post on Truth Social, President Trump says only one man can take Jensen Huang's place as head of Nvidia: Tim Cook.",
     "keywords": [
       "AI"
     ],
