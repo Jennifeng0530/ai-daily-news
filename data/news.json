@@ -1,5 +1,17 @@
 [
   {
+    "title": "The AI graveyard: a running list of projects and startups that didn’t make it",
+    "link": "https://techcrunch.com/2026/11/14/the-ai-graveyard-a-running-list-of-projects-and-startups-that-didnt-make-it/",
+    "source": "TechCrunch",
+    "category": "other",
+    "summary": "From Apple's repeatedly delayed Siri AI to OpenAI's messy \"super app\" launch, here's a look at the AI projects that shut down or missed expectations.",
+    "keywords": [
+      "AI",
+      "OpenAI"
+    ],
+    "date": "2026-11-14"
+  },
+  {
     "title": "AI走进教育实践一线，WPS Comate高校创新应用成果出炉",
     "link": "https://www.pingwest.com/w/319551",
     "source": "品玩",
@@ -377,51 +389,6 @@
     "source": "TechCrunch",
     "category": "other",
     "summary": "Hugging Face's CEO pledged to keep fighting for open source AI after Huang's exit, raising questions about Nvidia's $12.9 billion acquisition.",
-    "keywords": [
-      "AI"
-    ],
-    "date": "2026-11-12"
-  },
-  {
-    "title": "United Airlines blocks AI agents from booking flights, citing cybersecurity risks",
-    "link": "https://techcrunch.com/2026/11/12/united-airlines-blocks-ai-agents-from-booking-flights-citing-cybersecurity-risks/",
-    "source": "TechCrunch",
-    "category": "other",
-    "summary": "The airline said it will not allow customers to use AI agents to book flights and manage reservations.",
-    "keywords": [
-      "AI",
-      "Agent"
-    ],
-    "date": "2026-11-12"
-  },
-  {
-    "title": "SoftBank’s billion-dollar loss may have put a cap on AI’s natural gas ambitions",
-    "link": "https://techcrunch.com/2026/11/12/softbanks-billion-dollar-loss-may-have-put-a-cap-on-ais-natural-gas-ambitions/",
-    "source": "TechCrunch",
-    "category": "funding",
-    "summary": "SoftBank lost over $3 billion preordering natural gas turbines to power AI data centers. Here's what the loss means to power markets.",
-    "keywords": [
-      "AI"
-    ],
-    "date": "2026-11-12"
-  },
-  {
-    "title": "Phota Labs uses AI to turn everyday photos into professional-looking shots",
-    "link": "https://techcrunch.com/2026/11/12/phota-labs-uses-ai-to-turn-everyday-photos-into-professional-looking-shots/",
-    "source": "TechCrunch",
-    "category": "other",
-    "summary": "Rather than giving consumers yet another photo-editing tool, Phota Labs aims to use advances in AI to automate the editing process so it’s easier for anyone to turn everyday moments into better photos",
-    "keywords": [
-      "AI"
-    ],
-    "date": "2026-11-12"
-  },
-  {
-    "title": "Jensen Huang agrees to testify before Congress",
-    "link": "https://techcrunch.com/2026/11/12/jensen-huang-agrees-to-testify-before-congress/",
-    "source": "TechCrunch",
-    "category": "other",
-    "summary": "Huang, who was ousted as CEO following reports of an alleged affair with a woman suspected of spying for China, agreed to testify Wednesday after several senior lawmakers threatened to subpoena him.",
     "keywords": [
       "AI"
     ],
