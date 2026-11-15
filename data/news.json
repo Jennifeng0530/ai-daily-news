@@ -1,5 +1,29 @@
 [
   {
+    "title": "李沐新身份：出任硅谷初创Aimotion联创兼CTO，去产业里造世界模型",
+    "link": "https://www.pingwest.com/a/319556",
+    "source": "品玩",
+    "category": "other",
+    "summary": "李沐新身份：出任硅谷初创Aimotion联创兼CTO，去产业里造世界模型\n\n创造实际收益的智能系统，才是产业需要的世界模型",
+    "keywords": [
+      "AI",
+      "智能"
+    ],
+    "date": "2026-11-15"
+  },
+  {
+    "title": "DeepSeek Harness成了第一个让我上瘾的Agent",
+    "link": "https://www.pingwest.com/a/319565",
+    "source": "品玩",
+    "category": "other",
+    "summary": "DeepSeek Harness成了第一个让我上瘾的Agent\n\n高强度盘了 DeepSeek Harness 之后：手搓知识库、隔空做项目，顺便让 Codex 教会它一点技能",
+    "keywords": [
+      "Agent",
+      "DeepSeek"
+    ],
+    "date": "2026-11-15"
+  },
+  {
     "title": "The AI graveyard: a running list of projects and startups that didn’t make it",
     "link": "https://techcrunch.com/2026/11/14/the-ai-graveyard-a-running-list-of-projects-and-startups-that-didnt-make-it/",
     "source": "TechCrunch",
@@ -288,18 +312,6 @@
     "summary": "META\n\n\n\n字节跳动筹备推出对标Meta Muse的AI智能体\n\n据 BigGo 报道，字节跳动计划在未来数周内推出一款新型AI助手，定位与Meta近期发布的个人智能体Muse相近。",
     "keywords": [
       "AI",
-      "智能"
-    ],
-    "date": "2026-11-12"
-  },
-  {
-    "title": "谷歌发布 Gemini Decisions API 面向智能体提供快速多模态决策",
-    "link": "https://www.pingwest.com/w/319475",
-    "source": "品玩",
-    "category": "other",
-    "summary": "谷歌\n\n\n\n谷歌发布 Gemini Decisions API 面向智能体提供快速多模态决策\n\n据 Mezha 报道，谷歌近日推出 Gemini Decisions API，由全新模型 Gemini Decision 1 驱动，面向工具选择、策略检查、模型路由和上下文评估等范围明确的决策场景。",
-    "keywords": [
-      "Gemini",
       "智能"
     ],
     "date": "2026-11-12"
