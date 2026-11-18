@@ -1,5 +1,16 @@
 [
   {
+    "title": "从个人开发到企业研发，织灵2.5如何让AI真正进入研发组织？",
+    "link": "https://www.pingwest.com/w/319647",
+    "source": "品玩",
+    "category": "other",
+    "summary": "AI 安全\n\n\n\n从个人开发到企业研发，织灵2.5如何让AI真正进入研发组织？",
+    "keywords": [
+      "AI"
+    ],
+    "date": "2026-11-18"
+  },
+  {
     "title": "TapNow 为什么总能找到下一种创作方式？",
     "link": "https://www.pingwest.com/a/319623",
     "source": "品玩",
@@ -114,6 +125,73 @@
     "date": "2026-11-17"
   },
   {
+    "title": "Nvidia says its open source AI strategy remains intact after Jensen Huang’s exit",
+    "link": "https://techcrunch.com/2026/11/17/nvidia-says-its-open-source-ai-strategy-remains-intact-after-jensen-huangs-exit/",
+    "source": "TechCrunch",
+    "category": "other",
+    "summary": "Nvidia's interim CEO reaffirmed its open source AI strategy and plans to acquire Hugging Face, despite Jensen Huang's sudden departure.",
+    "keywords": [
+      "AI"
+    ],
+    "date": "2026-11-17"
+  },
+  {
+    "title": "Amazon and Google will together own nearly 30% of Anthropic after its IPO",
+    "link": "https://techcrunch.com/2026/11/17/amazon-and-google-will-together-own-nearly-30-of-anthropic-after-its-ipo/",
+    "source": "TechCrunch",
+    "category": "key_news",
+    "summary": "Amazon will own just under 15% of Anthropic after the IPO, with the option to go much higher. Google is a close second with holdings of nearly 14%.",
+    "keywords": [
+      "Anthropic"
+    ],
+    "date": "2026-11-17"
+  },
+  {
+    "title": "SEC reportedly investigating Nvidia amid Huang exit",
+    "link": "https://techcrunch.com/2026/11/17/sec-reportedly-investigating-nvidia-amid-huang-exit/",
+    "source": "TechCrunch",
+    "category": "other",
+    "summary": "The SEC is opening a probe into Nvidia following the departure of CEO Jensen Huang, who admitted to an affair with an alleged Chinese spy, reports The Wall Street Journal.",
+    "keywords": [
+      "AI"
+    ],
+    "date": "2026-11-17"
+  },
+  {
+    "title": "Google joins the tech outage trend by announcing it’s not having one",
+    "link": "https://techcrunch.com/2026/11/17/google-joins-the-tech-outage-trend-by-announcing-its-not-having-one/",
+    "source": "TechCrunch",
+    "category": "other",
+    "summary": "With tech outages seemingly everywhere, Google took the unusual step of announcing that Gmail is working just fine, actually.",
+    "keywords": [
+      "AI"
+    ],
+    "date": "2026-11-17"
+  },
+  {
+    "title": "Model ML raises $250M to automate investment banking grunt work",
+    "link": "https://techcrunch.com/2026/11/17/model-ml-raises-250m-to-automate-investment-banking-grunt-work/",
+    "source": "TechCrunch",
+    "category": "funding",
+    "summary": "The startup says its agents understand the full context of deals that bankers and consultants are working on and can automatically update financial models and presentations when new developments affec",
+    "keywords": [
+      "AI",
+      "Agent"
+    ],
+    "date": "2026-11-17"
+  },
+  {
+    "title": "Google expands access to Gemini Tasks, which can help with calls, purchases",
+    "link": "https://techcrunch.com/2026/11/17/google-expands-access-to-gemini-tasks-which-can-help-with-calls-purchases/",
+    "source": "TechCrunch",
+    "category": "other",
+    "summary": "Gemini's Task mode can help users coordinate calls, log into websites, and even make purchases on the user's behalf.",
+    "keywords": [
+      "Gemini"
+    ],
+    "date": "2026-11-17"
+  },
+  {
     "title": "Google to keep Gemini chats for 2 months, up from 72 hours, even with history off",
     "link": "https://techcrunch.com/2026/11/17/google-to-keep-gemini-chats-for-two-months-up-from-72-hours-even-with-history-off/",
     "source": "TechCrunch",
@@ -213,28 +291,6 @@
     "source": "TechCrunch",
     "category": "funding",
     "summary": "Science Corp. raised a $400 million Series D to scale up its anti-blindness business.",
-    "keywords": [
-      "AI"
-    ],
-    "date": "2026-11-17"
-  },
-  {
-    "title": "Nvidia’s first big move after Jensen Huang’s exit targets national security",
-    "link": "https://techcrunch.com/2026/11/17/nvidias-first-big-move-after-jensen-huangs-exit-targets-national-security/",
-    "source": "TechCrunch",
-    "category": "other",
-    "summary": "The new standing committee will give board-level oversight of national security policies, export control compliance, and global trade risks, the company said.",
-    "keywords": [
-      "AI"
-    ],
-    "date": "2026-11-17"
-  },
-  {
-    "title": "Spotify’s new tool aims to stop deepfakes from being attributed to real artists",
-    "link": "https://techcrunch.com/2026/11/17/spotifys-new-tool-aims-to-stop-deepfakes-from-being-attributed-to-real-artists/",
-    "source": "TechCrunch",
-    "category": "other",
-    "summary": "The update comes as Billboard reported last month that Sony Music had requested the removal of more than 260,000 deepfake songs from digital platforms, nearly double the number the label disclosed in ",
     "keywords": [
       "AI"
     ],
@@ -368,112 +424,5 @@
       "智能"
     ],
     "date": "2026-11-16"
-  },
-  {
-    "title": "OpenAI大模型协助推进粒子物理标准模型基础定义研究",
-    "link": "https://www.pingwest.com/w/319576",
-    "source": "品玩",
-    "category": "other",
-    "summary": "OpenAI\n\n\n\nOpenAI大模型协助推进粒子物理标准模型基础定义研究\n\nOpenAI 发布科学博客首篇客座文章，由加州大学圣巴巴拉分校物理学家、OpenAI访问科学家Nathaniel Craig撰写，介绍其借助GPT-6 Astra推进粒子物理标准模型非微扰格点定义的研究进展。",
-    "keywords": [
-      "AI",
-      "大模型",
-      "OpenAI",
-      "GPT"
-    ],
-    "date": "2026-11-16"
-  },
-  {
-    "title": "Cybersecurity AI startup Corma reaches $1B valuation in about 3 months",
-    "link": "https://techcrunch.com/2026/11/16/cybersecurity-ai-startup-corma-reaches-1b-valuation-in-about-3-months/",
-    "source": "TechCrunch",
-    "category": "funding",
-    "summary": "Three months since introducing its product, AI cybersecurity startup Corba has raised a $125 million Series A at a $1 billion valuation led by NEA.",
-    "keywords": [
-      "AI"
-    ],
-    "date": "2026-11-16"
-  },
-  {
-    "title": "California state AG sues OpenAI over rogue agent incidents",
-    "link": "https://techcrunch.com/2026/11/16/california-state-ag-sues-openai-over-rogue-agent-incidents/",
-    "source": "TechCrunch",
-    "category": "other",
-    "summary": "The California lawsuit represents one of the first attempts to hold an AI lab legally accountable for a rogue agent incident.",
-    "keywords": [
-      "AI",
-      "Agent",
-      "OpenAI"
-    ],
-    "date": "2026-11-16"
-  },
-  {
-    "title": "Trump says ex-Nvidia CEO Jensen Huang’s affair with an alleged Chinese spy did not threaten national security",
-    "link": "https://techcrunch.com/2026/11/16/trump-says-ex-nvidia-ceo-jensen-huangs-affair-with-an-alleged-chinese-spy-did-not-threaten-national-security/",
-    "source": "TechCrunch",
-    "category": "other",
-    "summary": "Trump contradicted his own government's intelligence officials, who reportedly concluded that Alice Huang is a Chinese spy.",
-    "keywords": [
-      "AI"
-    ],
-    "date": "2026-11-16"
-  },
-  {
-    "title": "Sam Altman on Nvidia without Jensen Huang: The industry will be ‘fine’",
-    "link": "https://techcrunch.com/2026/11/16/sam-altman-on-nvidia-without-jensen-huang-the-industry-will-be-fine/",
-    "source": "TechCrunch",
-    "category": "other",
-    "summary": "OpenAI CEO Sam Altman acknowledged the special role Nvidia CEO Jensen Huang has played in the AI boom, but ultimately thinks the industry will be “fine” without him at the helm.",
-    "keywords": [
-      "AI",
-      "OpenAI"
-    ],
-    "date": "2026-11-16"
-  },
-  {
-    "title": "FBI says Artex AI open source hacking tool used to breach networks in ‘under three hours’",
-    "link": "https://techcrunch.com/2026/11/16/fbi-says-artex-ai-open-source-hacking-tool-used-to-breach-networks-in-under-three-hours/",
-    "source": "TechCrunch",
-    "category": "other",
-    "summary": "The FBI says that the open source hacking tool was used in cyberattacks targeting a U.S. IT giant and the South Korean financial industry.",
-    "keywords": [
-      "AI"
-    ],
-    "date": "2026-11-16"
-  },
-  {
-    "title": "Jordan Belfort’s new AI voice startup, Tone, wants to sell like the ‘Wolf of Wall Street’",
-    "link": "https://techcrunch.com/2026/11/16/jordan-belforts-new-ai-voice-startup-tone-wants-to-sell-like-the-wolf-of-wall-street/",
-    "source": "TechCrunch",
-    "category": "other",
-    "summary": "Belfort claims his AI sales voice can already close deals almost as well as the best human salespeople, and he thinks it will catch up in a year.",
-    "keywords": [
-      "AI"
-    ],
-    "date": "2026-11-16"
-  },
-  {
-    "title": "OpenAI will embed safety researchers to investigate AI subversion",
-    "link": "https://techcrunch.com/2026/11/16/openai-will-embed-apollo-researchers-to-investigate-ai-subversion/",
-    "source": "TechCrunch",
-    "category": "other",
-    "summary": "OpenAI will embed six Apollo Research evaluators to investigate whether its AI models engage in subversive behavior, but restrictions on access and disclosure raise questions about their independence.",
-    "keywords": [
-      "AI",
-      "OpenAI"
-    ],
-    "date": "2026-11-16"
-  },
-  {
-    "title": "李沐新身份：出任硅谷初创Aimotion联创兼CTO，去产业里造世界模型",
-    "link": "https://www.pingwest.com/a/319556",
-    "source": "品玩",
-    "category": "other",
-    "summary": "李沐新身份：出任硅谷初创Aimotion联创兼CTO，去产业里造世界模型\n\n创造实际收益的智能系统，才是产业需要的世界模型",
-    "keywords": [
-      "AI",
-      "智能"
-    ],
-    "date": "2026-11-15"
   }
 ]
