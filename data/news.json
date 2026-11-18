@@ -1,10 +1,112 @@
 [
   {
+    "title": "安谋科技深度解析Arm Cortex-M42，发布“星辰100e”AIoT原型平台，助力打造AI性能更强的嵌入式设计",
+    "link": "https://www.pingwest.com/w/319679",
+    "source": "品玩",
+    "category": "other",
+    "summary": "安谋科技\n\n\n\n安谋科技深度解析Arm Cortex-M42，发布“星辰100e”AIoT原型平台，助力打造AI性能更强的嵌入式设计",
+    "keywords": [
+      "AI"
+    ],
+    "date": "2026-11-18"
+  },
+  {
+    "title": "腾讯Q3财报：Hy4达到中国顶尖大模型水平，WorkBuddy日活超千万",
+    "link": "https://www.pingwest.com/w/319673",
+    "source": "品玩",
+    "category": "other",
+    "summary": "腾讯\n\n\n\n腾讯Q3财报：Hy4达到中国顶尖大模型水平，WorkBuddy日活超千万",
+    "keywords": [
+      "大模型"
+    ],
+    "date": "2026-11-18"
+  },
+  {
+    "title": "横评主流 Flash 模型｜比 DeepSeek 便宜一半，Hy4 flash 瞄准“办公基建模型”",
+    "link": "https://www.pingwest.com/a/319617",
+    "source": "品玩",
+    "category": "other",
+    "summary": "横评主流 Flash 模型｜比 DeepSeek 便宜一半，Hy4 flash 瞄准“办公基建模型”\n\n量大管饱",
+    "keywords": [
+      "DeepSeek"
+    ],
+    "date": "2026-11-18"
+  },
+  {
     "title": "从个人开发到企业研发，织灵2.5如何让AI真正进入研发组织？",
     "link": "https://www.pingwest.com/w/319647",
     "source": "品玩",
     "category": "other",
     "summary": "AI 安全\n\n\n\n从个人开发到企业研发，织灵2.5如何让AI真正进入研发组织？",
+    "keywords": [
+      "AI"
+    ],
+    "date": "2026-11-18"
+  },
+  {
+    "title": "Google’s AI feature in Search gets its own incognito mode",
+    "link": "https://techcrunch.com/2026/11/18/googles-ai-feature-in-search-gets-its-own-incognito-mode/",
+    "source": "TechCrunch",
+    "category": "other",
+    "summary": "Google's new temporary threads let users have conversations in AI Mode without adding them to their search history or influencing future recommendations.",
+    "keywords": [
+      "AI"
+    ],
+    "date": "2026-11-18"
+  },
+  {
+    "title": "More banks say customers using AI agents are on their own — even if they get hacked",
+    "link": "https://techcrunch.com/2026/11/18/more-banks-says-customers-using-ai-agents-are-on-their-own-even-if-they-get-hacked/",
+    "source": "TechCrunch",
+    "category": "other",
+    "summary": "Citi is the latest major financial institution to put the breaks on personal finance AI agents.",
+    "keywords": [
+      "AI",
+      "Agent"
+    ],
+    "date": "2026-11-18"
+  },
+  {
+    "title": "Sam Altman warns against a future where AI, not humans, calls the shots",
+    "link": "https://techcrunch.com/2026/11/18/sam-altman-warns-against-a-future-where-ai-not-humans-calls-the-shots/",
+    "source": "TechCrunch",
+    "category": "other",
+    "summary": "Sam Altman and Greg Brockman pushed back against Silicon Valley's growing debate over an AI takeover, while acknowledging the challenges of keeping advanced models under human control.",
+    "keywords": [
+      "AI"
+    ],
+    "date": "2026-11-18"
+  },
+  {
+    "title": "OpenAI CEO Sam Altman says it’s ‘hard to imagine the AI industry without Jensen’",
+    "link": "https://techcrunch.com/2026/11/18/openai-ceo-sam-altman-says-its-hard-to-imagine-the-ai-industry-without-jensen/",
+    "source": "TechCrunch",
+    "category": "other",
+    "summary": "Nvidia founder and former CEO Jensen Huang stepped down last week amid several scandals, including an affair with an alleged Chinese spy.",
+    "keywords": [
+      "AI",
+      "OpenAI"
+    ],
+    "date": "2026-11-18"
+  },
+  {
+    "title": "Felicis leads $7.5M bet on Unsiloed AI to make enterprise documents usable by AI agents",
+    "link": "https://techcrunch.com/2026/11/18/felicis-leads-7-5m-bet-on-unsiloed-ai-to-make-enterprise-documents-usable-by-ai-agents/",
+    "source": "TechCrunch",
+    "category": "other",
+    "summary": "With a team of just seven, Unsiloed AI plans to compete with tech giants and specialized startups in the crowded AI document-processing market.",
+    "keywords": [
+      "AI",
+      "Agent"
+    ],
+    "date": "2026-11-18"
+  },
+  {
+    "title": "India’s Humyn Labs raises $47M to feed US robotics companies the data they need",
+    "link": "https://techcrunch.com/2026/11/18/accel-backs-indias-humyn-labs-to-supply-training-data-needed-by-u-s-robotics-ai-developers/",
+    "source": "TechCrunch",
+    "category": "funding",
+    "summary": "Founded in February, Humyn Labs competes with startups such as Mecka AI and XDOF, with about 90% of its revenue coming from the U.S.",
     "keywords": [
       "AI"
     ],
@@ -226,77 +328,6 @@
     "date": "2026-11-17"
   },
   {
-    "title": "Proton’s Lumo, a privacy-focused alternative to ChatGPT and Claude, arrives on desktop",
-    "link": "https://techcrunch.com/2026/11/17/protons-lumo-a-privacy-focused-alternative-to-chatgpt-and-claude-arrives-on-desktop/",
-    "source": "TechCrunch",
-    "category": "other",
-    "summary": "Proton's new Lumo Desktop app for Windows, Mac, and Linux lets users automate tasks across files and connected apps, with granular controls over what its AI can access.",
-    "keywords": [
-      "AI",
-      "GPT",
-      "Claude",
-      "ChatGPT"
-    ],
-    "date": "2026-11-17"
-  },
-  {
-    "title": "AI models can be tricked into identifying civilians as military targets by telling them it’s a game",
-    "link": "https://techcrunch.com/2026/11/17/ai-models-can-be-tricked-into-identifying-civilians-as-military-targets-by-telling-them-its-a-game/",
-    "source": "TechCrunch",
-    "category": "other",
-    "summary": "Vals, a San Francisco-based AI evaluation startup, tested whether leading AI models could be manipulated into participating in autonomous warfare. They usually compiled.",
-    "keywords": [
-      "AI"
-    ],
-    "date": "2026-11-17"
-  },
-  {
-    "title": "Daydream’s new AI agent acts as your personal stylist — and can shop for you, too",
-    "link": "https://techcrunch.com/2026/11/17/daydreams-new-ai-agent-acts-as-your-personal-stylist-and-can-shop-for-you-too/",
-    "source": "TechCrunch",
-    "category": "other",
-    "summary": "Daydream's new AI shopping agent can remember your style, virtually try on clothes, plan outfits around your wardrobe, track sales, and complete purchases.",
-    "keywords": [
-      "AI",
-      "Agent"
-    ],
-    "date": "2026-11-17"
-  },
-  {
-    "title": "Voyage Labs raises $12 million for a specialized AI travel assistant",
-    "link": "https://techcrunch.com/2026/11/17/voyage-labs-raises-12-million-for-a-specialized-ai-travel-assistant/",
-    "source": "TechCrunch",
-    "category": "funding",
-    "summary": "Voyage Labs’ flagship product is called Atlas, meant to work as a personal assistant for your trip-planning, available today in private beta.",
-    "keywords": [
-      "AI"
-    ],
-    "date": "2026-11-17"
-  },
-  {
-    "title": "Isomorphic Labs raises $5B as it looks to take drug candidates to clinical trials",
-    "link": "https://techcrunch.com/2026/11/17/isomorphic-labs-raises-5b-as-it-looks-to-take-drug-candidates-to-clinical-trials/",
-    "source": "TechCrunch",
-    "category": "funding",
-    "summary": "Isomorphic Labs, the AI drug-discovery platform that was spun out of Google’s DeepMind in 2021, has raised $5 billion in a Series C funding round.",
-    "keywords": [
-      "AI",
-      "DeepMind"
-    ],
-    "date": "2026-11-17"
-  },
-  {
-    "title": "Science Corporation’s brain tech is worth $3.5 billion after new funding",
-    "link": "https://techcrunch.com/2026/11/17/science-corporations-brain-tech-is-worth-3-5-billion-after-new-funding/",
-    "source": "TechCrunch",
-    "category": "funding",
-    "summary": "Science Corp. raised a $400 million Series D to scale up its anti-blindness business.",
-    "keywords": [
-      "AI"
-    ],
-    "date": "2026-11-17"
-  },
-  {
     "title": "AI 办公如何真正懂得什么叫工作？",
     "link": "https://www.pingwest.com/a/319595",
     "source": "品玩",
@@ -382,46 +413,6 @@
     "summary": "SK集团\n\n\n\nSK集团推进“AI飞轮”战略 将业务拓展至AI模型与服务\n\nK集团宣布，2026年CEO研讨会于12日至14日在京畿道利川SKMS研究所举行。会长崔泰源在会上提出“AI飞轮”战略：以SK海力士在AI半导体领域的竞争力带动AI数据中心等基础设施扩张，基础设施增长进一步拉动能源、电力及AI服务需求，最终反哺半导体业务，形成正向循环。",
     "keywords": [
       "AI"
-    ],
-    "date": "2026-11-16"
-  },
-  {
-    "title": "苹果AI智能眼镜计划2027年亮相 以Siri和iPhone生态为核心",
-    "link": "https://www.pingwest.com/w/319582",
-    "source": "品玩",
-    "category": "other",
-    "summary": "苹果\n\n\n\n苹果AI智能眼镜计划2027年亮相 以Siri和iPhone生态为核心\n\n据 9to5Mac 报道，苹果计划于2027年6月全球开发者大会上发布首款AI智能眼镜，并争取在当年年底前上市。",
-    "keywords": [
-      "AI",
-      "智能"
-    ],
-    "date": "2026-11-16"
-  },
-  {
-    "title": "OpenAI解散独立机器人团队 通用模型将直接承担机器人控制任务",
-    "link": "https://www.pingwest.com/w/319581",
-    "source": "品玩",
-    "category": "other",
-    "summary": "机器人\n\n\n\nOpenAI解散独立机器人团队 通用模型将直接承担机器人控制任务\n\n据 fortune 报道，OpenAI 已解散独立机器人团队，相关研究人员被重新分配至其他部门。",
-    "keywords": [
-      "AI",
-      "OpenAI",
-      "机器人"
-    ],
-    "date": "2026-11-16"
-  },
-  {
-    "title": "OpenAI推出ChatGPT Wallet 落地AI智能体代付场景",
-    "link": "https://www.pingwest.com/w/319577",
-    "source": "品玩",
-    "category": "other",
-    "summary": "OpenAI\n\n\n\nOpenAI推出ChatGPT Wallet 落地AI智能体代付场景\n\nOpenAI 宣布推出 ChatGPT Wallet（ChatGPT 钱包），用于支持 ChatGPT Work、Codex 和 dots 中的 AI 智能体在用户授权下完成购买。",
-    "keywords": [
-      "AI",
-      "OpenAI",
-      "GPT",
-      "ChatGPT",
-      "智能"
     ],
     "date": "2026-11-16"
   }
