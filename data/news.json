@@ -1,45 +1,114 @@
 [
   {
-    "title": "安谋科技深度解析Arm Cortex-M42，发布“星辰100e”AIoT原型平台，助力打造AI性能更强的嵌入式设计",
-    "link": "https://www.pingwest.com/w/319679",
-    "source": "品玩",
+    "title": "Microsoft CEO Satya Nadella explains why he asked 60K employees to quit",
+    "link": "https://techcrunch.com/2026/11/18/microsoft-ceo-satya-nadella-explains-why-he-asked-60k-employees-to-quit/",
+    "source": "TechCrunch",
     "category": "other",
-    "summary": "安谋科技\n\n\n\n安谋科技深度解析Arm Cortex-M42，发布“星辰100e”AIoT原型平台，助力打造AI性能更强的嵌入式设计",
+    "summary": "Microsoft CEO Satya Nadella explained why he offered buyouts to 60,000 of his employees in October, essentially urging them to voluntarily quit, rather than reducing the workforce via another massive ",
+    "keywords": [
+      "AI"
+    ],
+    "date": "2026-11-19"
+  },
+  {
+    "title": "Amidst fears of AI cyberattacks, Satya Nadella says lots of critical infrastructure is ‘unpatchable’",
+    "link": "https://techcrunch.com/2026/11/18/amidst-fears-of-ai-cyberattacks-satya-nadella-says-lots-of-critical-infrastructure-is-unpatchable/",
+    "source": "TechCrunch",
+    "category": "other",
+    "summary": "The Microsoft CEO downplayed the recent Outlook outage while noting that AI was causing both opportunities and new challenges for securing much of the connected world.",
     "keywords": [
       "AI"
     ],
     "date": "2026-11-18"
   },
   {
-    "title": "腾讯Q3财报：Hy4达到中国顶尖大模型水平，WorkBuddy日活超千万",
-    "link": "https://www.pingwest.com/w/319673",
-    "source": "品玩",
+    "title": "Elon Musk says ousting Jensen Huang is like ‘kicking Michael Jordan off your team’",
+    "link": "https://techcrunch.com/2026/11/18/elon-musk-says-ousting-jensen-huang-is-like-kicking-michael-jordan-off-your-team/",
+    "source": "TechCrunch",
     "category": "other",
-    "summary": "腾讯\n\n\n\n腾讯Q3财报：Hy4达到中国顶尖大模型水平，WorkBuddy日活超千万",
-    "keywords": [
-      "大模型"
-    ],
-    "date": "2026-11-18"
-  },
-  {
-    "title": "横评主流 Flash 模型｜比 DeepSeek 便宜一半，Hy4 flash 瞄准“办公基建模型”",
-    "link": "https://www.pingwest.com/a/319617",
-    "source": "品玩",
-    "category": "other",
-    "summary": "横评主流 Flash 模型｜比 DeepSeek 便宜一半，Hy4 flash 瞄准“办公基建模型”\n\n量大管饱",
-    "keywords": [
-      "DeepSeek"
-    ],
-    "date": "2026-11-18"
-  },
-  {
-    "title": "从个人开发到企业研发，织灵2.5如何让AI真正进入研发组织？",
-    "link": "https://www.pingwest.com/w/319647",
-    "source": "品玩",
-    "category": "other",
-    "summary": "AI 安全\n\n\n\n从个人开发到企业研发，织灵2.5如何让AI真正进入研发组织？",
+    "summary": "“I don’t think [Huang is] disloyal to the United States,\" Musk said.",
     "keywords": [
       "AI"
+    ],
+    "date": "2026-11-18"
+  },
+  {
+    "title": "Microsoft CEO Satya Nadella remains confident in Nvidia after Huang’s exit",
+    "link": "https://techcrunch.com/2026/11/18/microsoft-ceo-satya-nadella-remains-confident-in-nvidia-after-huangs-exit/",
+    "source": "TechCrunch",
+    "category": "other",
+    "summary": "Microsoft CEO Satya Nadella expressed confidence in Jensen Huang's successor Colette Kress, who is serving as Nvidia's interim CEO.",
+    "keywords": [
+      "AI"
+    ],
+    "date": "2026-11-18"
+  },
+  {
+    "title": "Satya Nadella predicts AI agents will reshuffle the economics of the web",
+    "link": "https://techcrunch.com/2026/11/18/satya-nadella-predicts-ai-agents-will-reshuffle-the-economics-of-the-web/",
+    "source": "TechCrunch",
+    "category": "other",
+    "summary": "Microsoft's CEO says AI agents could disrupt advertising-driven business models, forcing companies like Amazon to rethink how they compete for customers.",
+    "keywords": [
+      "AI",
+      "Agent"
+    ],
+    "date": "2026-11-18"
+  },
+  {
+    "title": "Anthropic prices IPO at $83 a share, above projected range",
+    "link": "https://techcrunch.com/2026/11/18/anthropic-reportedly-prices-ipo-at-83-a-share-above-projected-range/",
+    "source": "TechCrunch",
+    "category": "key_news",
+    "summary": "The long-awaited IPO reportedly values the company at $1.5 trillion on a fully diluted basis.",
+    "keywords": [
+      "AI",
+      "Anthropic"
+    ],
+    "date": "2026-11-18"
+  },
+  {
+    "title": "Palmer Luckey warns AI-powered cyberattacks are outpacing defenses: ‘It’s time to start running’",
+    "link": "https://techcrunch.com/2026/11/18/palmer-luckey-warns-ai-powered-cyberattacks-are-outpacing-defenses-its-time-to-start-running/",
+    "source": "TechCrunch",
+    "category": "other",
+    "summary": "The Anduril co-founder says outdated technology is leaving systems vulnerable to a new wave of AI-enabled attacks.",
+    "keywords": [
+      "AI"
+    ],
+    "date": "2026-11-18"
+  },
+  {
+    "title": "Palmer Luckey thinks China is ‘thrilled to have Jensen out,’ so he wants the ousted Nvidia CEO reinstated",
+    "link": "https://techcrunch.com/2026/11/18/palmer-luckey-thinks-china-is-thrilled-to-have-jensen-out-so-he-wants-the-ousted-nvidia-ceo-reinstated/",
+    "source": "TechCrunch",
+    "category": "other",
+    "summary": "\"It makes America weaker to knock him out,\" the Anduril CEO said about ousted Nvidia leader Jensen Huang.",
+    "keywords": [
+      "AI"
+    ],
+    "date": "2026-11-18"
+  },
+  {
+    "title": "Sam Altman says his life is so weird that he’s unfazed by Andrew Garfield portraying him in upcoming movie",
+    "link": "https://techcrunch.com/2026/11/18/sam-altman-says-his-life-is-so-weird-that-hes-unfazed-by-andrew-garfield-portraying-him-in-upcoming-movie/",
+    "source": "TechCrunch",
+    "category": "other",
+    "summary": "\"It doesn't feel like it's in like the top 10 weirdest things about my life,\" Altman said.",
+    "keywords": [
+      "AI"
+    ],
+    "date": "2026-11-18"
+  },
+  {
+    "title": "Snapchat now lets developers build AR Lenses with AI assistants like Claude Code and Cursor",
+    "link": "https://techcrunch.com/2026/11/18/snapchat-now-lets-developers-build-ar-lenses-with-ai-coding-assistants-like-claude-code-and-cursor/",
+    "source": "TechCrunch",
+    "category": "other",
+    "summary": "Lens creators can describe the Lens they want in plain language, and their AI assistant handles the process from start to finish, Snapchat says.",
+    "keywords": [
+      "AI",
+      "Claude"
     ],
     "date": "2026-11-18"
   },
@@ -111,309 +180,5 @@
       "AI"
     ],
     "date": "2026-11-18"
-  },
-  {
-    "title": "TapNow 为什么总能找到下一种创作方式？",
-    "link": "https://www.pingwest.com/a/319623",
-    "source": "品玩",
-    "category": "other",
-    "summary": "TapNow 为什么总能找到下一种创作方式？\n\nAI 创作的下一场竞争，是把作品做完",
-    "keywords": [
-      "AI"
-    ],
-    "date": "2026-11-17"
-  },
-  {
-    "title": "2026甲子引力年终盛典即将启幕，AI的无限游戏进入「第二序章」｜甲子引力",
-    "link": "https://www.pingwest.com/a/319638",
-    "source": "品玩",
-    "category": "other",
-    "summary": "2026甲子引力年终盛典即将启幕，AI的无限游戏进入「第二序章」｜甲子引力",
-    "keywords": [
-      "AI"
-    ],
-    "date": "2026-11-17"
-  },
-  {
-    "title": "Jordan Belfort创办AI语音销售平台Tone",
-    "link": "https://www.pingwest.com/w/319640",
-    "source": "品玩",
-    "category": "other",
-    "summary": "语音\n\n\n\nJordan Belfort创办AI语音销售平台Tone\n\nJordan Belfort与投资人Shervin Pishevar联合创办AI语音销售平台Tone，将销售语调技巧编码进模型，可依据场景切换陈述、提问与低语等表达方式，并称已申请相关专利。",
-    "keywords": [
-      "AI"
-    ],
-    "date": "2026-11-17"
-  },
-  {
-    "title": "苹果调整macOS权限机制 强化AI智能体数据访问管控",
-    "link": "https://www.pingwest.com/w/319637",
-    "source": "品玩",
-    "category": "other",
-    "summary": "苹果\n\n\n\n苹果调整macOS权限机制 强化AI智能体数据访问管控\n\n据 TechCrunch 报道，自macOS 27.3 Beta 2起调整Mac安全权限机制，重点应对AI智能体类应用对\"完全磁盘访问\"权限的需求增长。",
-    "keywords": [
-      "AI",
-      "智能"
-    ],
-    "date": "2026-11-17"
-  },
-  {
-    "title": "英伟达发布黄仁勋辞职后首份财报 临时CEO克雷斯主持AI业务沟通",
-    "link": "https://www.pingwest.com/w/319635",
-    "source": "品玩",
-    "category": "other",
-    "summary": "英伟达\n\n\n\n英伟达发布黄仁勋辞职后首份财报 临时CEO克雷斯主持AI业务沟通\n\n英伟达近日发布2027财年第三季度财报，这是创始人黄仁勋辞职后公司首次重大公开活动。",
-    "keywords": [
-      "AI"
-    ],
-    "date": "2026-11-17"
-  },
-  {
-    "title": "AI网络安全初创Corma完成1.25亿美元A轮融资 估值达10亿美元",
-    "link": "https://www.pingwest.com/w/319634",
-    "source": "品玩",
-    "category": "funding",
-    "summary": "融资\n\n\n\nAI网络安全初创Corma完成1.25亿美元A轮融资 估值达10亿美元\n\n据 TechCrunch 报道，AI网络安全初创公司Corma 11月16日宣布完成1.25亿美元A轮融资，估值达10亿美元，由NEA领投，红杉资本、Khosla Ventures和Coatue跟投。公司累计融资额达1.85亿美元。",
-    "keywords": [
-      "AI"
-    ],
-    "date": "2026-11-17"
-  },
-  {
-    "title": "KTC推出VMAX全感知智能体主机 主推本地AI办公与会议场景",
-    "link": "https://www.pingwest.com/w/319633",
-    "source": "品玩",
-    "category": "other",
-    "summary": "主机\n\n\n\nKTC推出VMAX全感知智能体主机 主推本地AI办公与会议场景\n\nKTC近日宣布，推出VMAX全感知智能体主机，这是一款面向AI工作负载和语音交互的Windows迷你主机。",
-    "keywords": [
-      "AI",
-      "智能"
-    ],
-    "date": "2026-11-17"
-  },
-  {
-    "title": "AMD完成对World Labs收购 李飞飞出任执行副总裁兼首席科学家",
-    "link": "https://www.pingwest.com/w/319609",
-    "source": "品玩",
-    "category": "other",
-    "summary": "AMD\n\n\n\nAMD完成对World Labs收购 李飞飞出任执行副总裁兼首席科学家\n\nAMD 官方于11月16日宣布，已完成对AI模型公司World Labs的收购，以扩展其在AI技术栈上的能力。World Labs联合创始人李飞飞加入AMD，担任执行副总裁兼首席科学家，直接向董事长兼CEO苏姿丰汇报。",
-    "keywords": [
-      "AI"
-    ],
-    "date": "2026-11-17"
-  },
-  {
-    "title": "腾讯发布混元Hy4 flash 主推高性价比日常办公AI能力",
-    "link": "https://www.pingwest.com/w/319606",
-    "source": "品玩",
-    "category": "other",
-    "summary": "腾讯\n\n\n\n腾讯发布混元Hy4 flash 主推高性价比日常办公AI能力\n\n腾讯近日发布混元最新语言模型Hy4 flash，定位为迄今性价比最高的Hy系列模型。该模型总参数224B，其中包含64B Engram参数，单次推理仅激活12B参数，支持多模态输入和100万上下文长度。",
-    "keywords": [
-      "AI",
-      "混元"
-    ],
-    "date": "2026-11-17"
-  },
-  {
-    "title": "阿里发布新一代基座大模型Qwen4-Max 强化智能体与专业场景能力",
-    "link": "https://www.pingwest.com/w/319605",
-    "source": "品玩",
-    "category": "other",
-    "summary": "阿里巴巴\n\n\n\n阿里发布新一代基座大模型Qwen4-Max 强化智能体与专业场景能力\n\n阿里巴巴正式发布新一代基座大模型Qwen4-Max，总参数2.4万亿，采用基于Qwen稀疏注意力的全新混合专家架构，原生支持视觉理解，提供百万级上下文窗口。",
-    "keywords": [
-      "大模型",
-      "智能"
-    ],
-    "date": "2026-11-17"
-  },
-  {
-    "title": "Nvidia says its open source AI strategy remains intact after Jensen Huang’s exit",
-    "link": "https://techcrunch.com/2026/11/17/nvidia-says-its-open-source-ai-strategy-remains-intact-after-jensen-huangs-exit/",
-    "source": "TechCrunch",
-    "category": "other",
-    "summary": "Nvidia's interim CEO reaffirmed its open source AI strategy and plans to acquire Hugging Face, despite Jensen Huang's sudden departure.",
-    "keywords": [
-      "AI"
-    ],
-    "date": "2026-11-17"
-  },
-  {
-    "title": "Amazon and Google will together own nearly 30% of Anthropic after its IPO",
-    "link": "https://techcrunch.com/2026/11/17/amazon-and-google-will-together-own-nearly-30-of-anthropic-after-its-ipo/",
-    "source": "TechCrunch",
-    "category": "key_news",
-    "summary": "Amazon will own just under 15% of Anthropic after the IPO, with the option to go much higher. Google is a close second with holdings of nearly 14%.",
-    "keywords": [
-      "Anthropic"
-    ],
-    "date": "2026-11-17"
-  },
-  {
-    "title": "SEC reportedly investigating Nvidia amid Huang exit",
-    "link": "https://techcrunch.com/2026/11/17/sec-reportedly-investigating-nvidia-amid-huang-exit/",
-    "source": "TechCrunch",
-    "category": "other",
-    "summary": "The SEC is opening a probe into Nvidia following the departure of CEO Jensen Huang, who admitted to an affair with an alleged Chinese spy, reports The Wall Street Journal.",
-    "keywords": [
-      "AI"
-    ],
-    "date": "2026-11-17"
-  },
-  {
-    "title": "Google joins the tech outage trend by announcing it’s not having one",
-    "link": "https://techcrunch.com/2026/11/17/google-joins-the-tech-outage-trend-by-announcing-its-not-having-one/",
-    "source": "TechCrunch",
-    "category": "other",
-    "summary": "With tech outages seemingly everywhere, Google took the unusual step of announcing that Gmail is working just fine, actually.",
-    "keywords": [
-      "AI"
-    ],
-    "date": "2026-11-17"
-  },
-  {
-    "title": "Model ML raises $250M to automate investment banking grunt work",
-    "link": "https://techcrunch.com/2026/11/17/model-ml-raises-250m-to-automate-investment-banking-grunt-work/",
-    "source": "TechCrunch",
-    "category": "funding",
-    "summary": "The startup says its agents understand the full context of deals that bankers and consultants are working on and can automatically update financial models and presentations when new developments affec",
-    "keywords": [
-      "AI",
-      "Agent"
-    ],
-    "date": "2026-11-17"
-  },
-  {
-    "title": "Google expands access to Gemini Tasks, which can help with calls, purchases",
-    "link": "https://techcrunch.com/2026/11/17/google-expands-access-to-gemini-tasks-which-can-help-with-calls-purchases/",
-    "source": "TechCrunch",
-    "category": "other",
-    "summary": "Gemini's Task mode can help users coordinate calls, log into websites, and even make purchases on the user's behalf.",
-    "keywords": [
-      "Gemini"
-    ],
-    "date": "2026-11-17"
-  },
-  {
-    "title": "Google to keep Gemini chats for 2 months, up from 72 hours, even with history off",
-    "link": "https://techcrunch.com/2026/11/17/google-to-keep-gemini-chats-for-two-months-up-from-72-hours-even-with-history-off/",
-    "source": "TechCrunch",
-    "category": "other",
-    "summary": "Google's Gemini update extending chat retention will roll out globally over the coming weeks.",
-    "keywords": [
-      "Gemini"
-    ],
-    "date": "2026-11-17"
-  },
-  {
-    "title": "As decision model use skyrockets, is customization the next frontier?",
-    "link": "https://techcrunch.com/2026/11/17/as-decision-model-use-skyrockets-is-customization-is-the-next-frontier/",
-    "source": "TechCrunch",
-    "category": "other",
-    "summary": "Sqwish Labs has a new wrinkle on the decision model: Train it with your own data to max its capabilities.",
-    "keywords": [
-      "AI"
-    ],
-    "date": "2026-11-17"
-  },
-  {
-    "title": "Pedestal AI raises $4.7 million to agentify the supply chain",
-    "link": "https://techcrunch.com/2026/11/17/pedestal-ai-raises-4-7-million-to-agentify-the-supply-chain/",
-    "source": "TechCrunch",
-    "category": "funding",
-    "summary": "The company uses agentic AI to make supply chains faster and more reliable.",
-    "keywords": [
-      "AI",
-      "Agent"
-    ],
-    "date": "2026-11-17"
-  },
-  {
-    "title": "AI 办公如何真正懂得什么叫工作？",
-    "link": "https://www.pingwest.com/a/319595",
-    "source": "品玩",
-    "category": "other",
-    "summary": "AI 办公如何真正懂得什么叫工作？\n\n职业与专业场景是最重要的上下文。",
-    "keywords": [
-      "AI"
-    ],
-    "date": "2026-11-16"
-  },
-  {
-    "title": "模型选择自由！千问办公上线Qwen4、Kimi-K3.1、GLM-5.3等10款模型",
-    "link": "https://www.pingwest.com/w/319590",
-    "source": "品玩",
-    "category": "other",
-    "summary": "千问\n\n\n\n模型选择自由！千问办公上线Qwen4、Kimi-K3.1、GLM-5.3等10款模型\n\n目前，千问办公的模型列表已向用户开放选择，个人版和企业标准版用户可结合自身使用场景自由选择模型。",
-    "keywords": [
-      "Kimi"
-    ],
-    "date": "2026-11-16"
-  },
-  {
-    "title": "印度芯片初创Bharat Semi获2400万美元种子轮 布局AI图像传感器",
-    "link": "https://www.pingwest.com/w/319589",
-    "source": "品玩",
-    "category": "funding",
-    "summary": "融资\n\n\n\n印度芯片初创Bharat Semi获2400万美元种子轮 布局AI图像传感器\n\n据 TechCrunch 报道，印度半导体初创公司Bharat Semi完成2400万美元全股权种子轮融资，由Info Edge Group、South Park Commons和Indus Bridge Ventures领投，资金将用于扩大工程团队、完成产品开发并推动AI图像传感器商业化。",
-    "keywords": [
-      "AI"
-    ],
-    "date": "2026-11-16"
-  },
-  {
-    "title": "万元奖金激励！爱奇艺全网征集AI创作者，今年跨年晚会节目你来做",
-    "link": "https://www.pingwest.com/a/319571",
-    "source": "品玩",
-    "category": "other",
-    "summary": "万元奖金激励！爱奇艺全网征集AI创作者，今年跨年晚会节目你来做\n\n让普通人做一档自己的跨年晚会。",
-    "keywords": [
-      "AI"
-    ],
-    "date": "2026-11-16"
-  },
-  {
-    "title": "阿里正式发布Qwen4，智能体及编程能力进阶，迈向真实全场景",
-    "link": "https://www.pingwest.com/w/319586",
-    "source": "品玩",
-    "category": "other",
-    "summary": "阿里巴巴\n\n\n\n阿里正式发布Qwen4，智能体及编程能力进阶，迈向真实全场景",
-    "keywords": [
-      "智能"
-    ],
-    "date": "2026-11-16"
-  },
-  {
-    "title": "苹果启动AI健康使用研究 探索临床依据问答辅助效果",
-    "link": "https://www.pingwest.com/w/319585",
-    "source": "品玩",
-    "category": "other",
-    "summary": "苹果\n\n\n\n苹果启动AI健康使用研究 探索临床依据问答辅助效果\n\n据 TechCrunch 报道，苹果宣布与医疗AI公司OpenEvidence合作推出健康AI研究应用，面向美国21岁及以上iPhone用户招募最多20万名参与者，研究周期超过12个月。",
-    "keywords": [
-      "AI"
-    ],
-    "date": "2026-11-16"
-  },
-  {
-    "title": "「放量·2026 极新 AIGC 创新大会」邀您和产业领袖一起相聚2026 JAIC",
-    "link": "https://www.pingwest.com/a/319537",
-    "source": "品玩",
-    "category": "other",
-    "summary": "「放量·2026 极新 AIGC 创新大会」邀您和产业领袖一起相聚2026 JAIC",
-    "keywords": [
-      "AI",
-      "AIGC"
-    ],
-    "date": "2026-11-16"
-  },
-  {
-    "title": "SK集团推进“AI飞轮”战略 将业务拓展至AI模型与服务",
-    "link": "https://www.pingwest.com/w/319584",
-    "source": "品玩",
-    "category": "other",
-    "summary": "SK集团\n\n\n\nSK集团推进“AI飞轮”战略 将业务拓展至AI模型与服务\n\nK集团宣布，2026年CEO研讨会于12日至14日在京畿道利川SKMS研究所举行。会长崔泰源在会上提出“AI飞轮”战略：以SK海力士在AI半导体领域的竞争力带动AI数据中心等基础设施扩张，基础设施增长进一步拉动能源、电力及AI服务需求，最终反哺半导体业务，形成正向循环。",
-    "keywords": [
-      "AI"
-    ],
-    "date": "2026-11-16"
   }
 ]
