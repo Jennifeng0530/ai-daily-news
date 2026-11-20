@@ -1,5 +1,53 @@
 [
   {
+    "title": "实测无界方舟Edge0-145B：做最强端侧智能，真正成为生产力",
+    "link": "https://www.pingwest.com/a/319718",
+    "source": "品玩",
+    "category": "other",
+    "summary": "实测无界方舟Edge0-145B：做最强端侧智能，真正成为生产力\n\n千亿模型装进电脑，端侧不再做平替。",
+    "keywords": [
+      "智能"
+    ],
+    "date": "2026-11-20"
+  },
+  {
+    "title": "成果｜我组在《自然·通讯》发表文章，揭示大模型 “共谋协助”风险",
+    "link": "https://www.pingwest.com/w/319723",
+    "source": "品玩",
+    "category": "other",
+    "summary": "AI大模型\n\n\n\n成果｜我组在《自然·通讯》发表文章，揭示大模型 “共谋协助”风险",
+    "keywords": [
+      "AI",
+      "大模型"
+    ],
+    "date": "2026-11-20"
+  },
+  {
+    "title": "Apple may be developing its own AI agent that runs your Mac",
+    "link": "https://techcrunch.com/2026/11/19/apple-may-be-developing-its-own-ai-agent-that-runs-your-mac/",
+    "source": "TechCrunch",
+    "category": "other",
+    "summary": "The iPhone maker appears to be building agents that can compete with the likes of Meta Muse, Instinct, Claude, and OpenAI Dots.",
+    "keywords": [
+      "AI",
+      "Agent",
+      "OpenAI",
+      "Claude"
+    ],
+    "date": "2026-11-20"
+  },
+  {
+    "title": "Anthropic’s 7 founders cashed out nearly $2B in record-breaking IPO",
+    "link": "https://techcrunch.com/2026/11/19/anthropics-7-founders-cashed-out-nearly-2b-in-record-breaking-ipo/",
+    "source": "TechCrunch",
+    "category": "key_news",
+    "summary": "At the upgraded $83/share IPO price, Anthropic's seven founders each pocketed $280 million, while the company nabbed nearly $105 billion.",
+    "keywords": [
+      "Anthropic"
+    ],
+    "date": "2026-11-20"
+  },
+  {
     "title": "SenseNova U1 Pro 获 Design Arena 双榜中国第一、全球第六",
     "link": "https://www.pingwest.com/w/319717",
     "source": "品玩",
@@ -67,6 +115,51 @@
     "date": "2026-11-19"
   },
   {
+    "title": "Meta’s new Muse Charm device may cost $300",
+    "link": "https://techcrunch.com/2026/11/19/metas-new-muse-charm-device-may-cost-300/",
+    "source": "TechCrunch",
+    "category": "other",
+    "summary": "Meta hasn't denied the reporting from The Information, saying only that it will \"have more to share soon\" about its upcoming AI wearable.",
+    "keywords": [
+      "AI"
+    ],
+    "date": "2026-11-19"
+  },
+  {
+    "title": "These tech outages are giving Y2K, AI agent style",
+    "link": "https://techcrunch.com/2026/11/19/these-tech-outages-are-giving-y2k-ai-agent-style/",
+    "source": "TechCrunch",
+    "category": "other",
+    "summary": "Are the recent outages in the airline booking systems, banking platforms, and productivity platforms really a coincidence? There's actually likely something deeper going on, cybersecurity experts say.",
+    "keywords": [
+      "AI",
+      "Agent"
+    ],
+    "date": "2026-11-19"
+  },
+  {
+    "title": "The unfolding Jensen Huang scandal: a timeline",
+    "link": "https://techcrunch.com/2026/11/19/nvidia-ceo-jensen-huangs-affair-with-alleged-chinese-spy-a-timeline/",
+    "source": "TechCrunch",
+    "category": "other",
+    "summary": "Jensen Huang has resigned from Nvidia following an affair, which could have ramifications for national security as the U.S. and China race to develop the most advanced AI infrastructure.",
+    "keywords": [
+      "AI"
+    ],
+    "date": "2026-11-19"
+  },
+  {
+    "title": "Anthropic’s IPO could deliver $156B to charity",
+    "link": "https://techcrunch.com/2026/11/19/anthropics-ipo-could-deliver-156-billion-to-charity/",
+    "source": "TechCrunch",
+    "category": "key_news",
+    "summary": "At a stock price of $95, the frontier lab's Public Benefit Foundation, its employee donations, and the company's match tot up to $156 billion.",
+    "keywords": [
+      "Anthropic"
+    ],
+    "date": "2026-11-19"
+  },
+  {
     "title": "Google gives Gemini the ability to use your Mac for you",
     "link": "https://techcrunch.com/2026/11/19/google-gives-gemini-the-ability-to-use-your-mac-for-you/",
     "source": "TechCrunch",
@@ -80,7 +173,7 @@
     "date": "2026-11-19"
   },
   {
-    "title": "Meta’s AI agent Muse is mixing up conversations and exposing private data, report says",
+    "title": "Meta’s AI agent Muse is mixing up conversations and could be exposing private data, report says",
     "link": "https://techcrunch.com/2026/11/19/metas-ai-agent-muse-is-mixing-up-conversations-and-exposing-private-data-report-says/",
     "source": "TechCrunch",
     "category": "other",
@@ -263,74 +356,6 @@
     "date": "2026-11-18"
   },
   {
-    "title": "Palmer Luckey warns AI-powered cyberattacks are outpacing defenses: ‘It’s time to start running’",
-    "link": "https://techcrunch.com/2026/11/18/palmer-luckey-warns-ai-powered-cyberattacks-are-outpacing-defenses-its-time-to-start-running/",
-    "source": "TechCrunch",
-    "category": "other",
-    "summary": "The Anduril co-founder says outdated technology is leaving systems vulnerable to a new wave of AI-enabled attacks.",
-    "keywords": [
-      "AI"
-    ],
-    "date": "2026-11-18"
-  },
-  {
-    "title": "Palmer Luckey thinks China is ‘thrilled to have Jensen out,’ so he wants the ousted Nvidia CEO reinstated",
-    "link": "https://techcrunch.com/2026/11/18/palmer-luckey-thinks-china-is-thrilled-to-have-jensen-out-so-he-wants-the-ousted-nvidia-ceo-reinstated/",
-    "source": "TechCrunch",
-    "category": "other",
-    "summary": "\"It makes America weaker to knock him out,\" the Anduril CEO said about ousted Nvidia leader Jensen Huang.",
-    "keywords": [
-      "AI"
-    ],
-    "date": "2026-11-18"
-  },
-  {
-    "title": "Sam Altman says his life is so weird that he’s unfazed by Andrew Garfield portraying him in upcoming movie",
-    "link": "https://techcrunch.com/2026/11/18/sam-altman-says-his-life-is-so-weird-that-hes-unfazed-by-andrew-garfield-portraying-him-in-upcoming-movie/",
-    "source": "TechCrunch",
-    "category": "other",
-    "summary": "\"It doesn't feel like it's in like the top 10 weirdest things about my life,\" Altman said.",
-    "keywords": [
-      "AI"
-    ],
-    "date": "2026-11-18"
-  },
-  {
-    "title": "Snapchat now lets developers build AR Lenses with AI assistants like Claude Code and Cursor",
-    "link": "https://techcrunch.com/2026/11/18/snapchat-now-lets-developers-build-ar-lenses-with-ai-coding-assistants-like-claude-code-and-cursor/",
-    "source": "TechCrunch",
-    "category": "other",
-    "summary": "Lens creators can describe the Lens they want in plain language, and their AI assistant handles the process from start to finish, Snapchat says.",
-    "keywords": [
-      "AI",
-      "Claude"
-    ],
-    "date": "2026-11-18"
-  },
-  {
-    "title": "Google’s AI feature in Search gets its own incognito mode",
-    "link": "https://techcrunch.com/2026/11/18/googles-ai-feature-in-search-gets-its-own-incognito-mode/",
-    "source": "TechCrunch",
-    "category": "other",
-    "summary": "Google's new temporary threads let users have conversations in AI Mode without adding them to their search history or influencing future recommendations.",
-    "keywords": [
-      "AI"
-    ],
-    "date": "2026-11-18"
-  },
-  {
-    "title": "More banks say customers using AI agents are on their own — even if they get hacked",
-    "link": "https://techcrunch.com/2026/11/18/more-banks-says-customers-using-ai-agents-are-on-their-own-even-if-they-get-hacked/",
-    "source": "TechCrunch",
-    "category": "other",
-    "summary": "Citi is the latest major financial institution to put the breaks on personal finance AI agents.",
-    "keywords": [
-      "AI",
-      "Agent"
-    ],
-    "date": "2026-11-18"
-  },
-  {
     "title": "TapNow 为什么总能找到下一种创作方式？",
     "link": "https://www.pingwest.com/a/319623",
     "source": "品玩",
@@ -443,16 +468,5 @@
       "智能"
     ],
     "date": "2026-11-17"
-  },
-  {
-    "title": "AI 办公如何真正懂得什么叫工作？",
-    "link": "https://www.pingwest.com/a/319595",
-    "source": "品玩",
-    "category": "other",
-    "summary": "AI 办公如何真正懂得什么叫工作？\n\n职业与专业场景是最重要的上下文。",
-    "keywords": [
-      "AI"
-    ],
-    "date": "2026-11-16"
   }
 ]
