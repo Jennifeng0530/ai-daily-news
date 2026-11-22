@@ -1,5 +1,62 @@
 [
   {
+    "title": "人类有资格看懂Claude暴力拆解的黎曼猜想",
+    "link": "https://www.pingwest.com/a/319753",
+    "source": "品玩",
+    "category": "other",
+    "summary": "人类有资格看懂Claude暴力拆解的黎曼猜想\n\n没有神迹",
+    "keywords": [
+      "Claude"
+    ],
+    "date": "2026-11-22"
+  },
+  {
+    "title": "我用一套原创Benchmark，帮OpenAI的数学证明省去1/3代码",
+    "link": "https://www.pingwest.com/a/319694",
+    "source": "品玩",
+    "category": "other",
+    "summary": "我用一套原创Benchmark，帮OpenAI的数学证明省去1/3代码\n\n哲学为灵魂，Lean 为骨架，定理为血肉。",
+    "keywords": [
+      "AI",
+      "OpenAI"
+    ],
+    "date": "2026-11-22"
+  },
+  {
+    "title": "Anthropic上市，最大反派公司诞生",
+    "link": "https://www.pingwest.com/a/319725",
+    "source": "品玩",
+    "category": "key_news",
+    "summary": "Anthropic上市，最大反派公司诞生\n\nAnthropic终于拿到上市的\"大结果\"。",
+    "keywords": [
+      "Anthropic"
+    ],
+    "date": "2026-11-22"
+  },
+  {
+    "title": "Signal restricts mobile screenshots as it confronts ‘existential threat’ of AI surveillance",
+    "link": "https://techcrunch.com/2026/11/21/signal-restricts-mobile-screenshots-as-it-confronts-existential-threat-of-ai-surveillance/",
+    "source": "TechCrunch",
+    "category": "other",
+    "summary": "Signal is limiting users' ability to take screenshots in both its Android and iOS apps.",
+    "keywords": [
+      "AI"
+    ],
+    "date": "2026-11-21"
+  },
+  {
+    "title": "Here are the top AI agents that can live in your text messages",
+    "link": "https://techcrunch.com/2026/11/21/all-the-ai-agents-that-can-live-in-your-text-messages/",
+    "source": "TechCrunch",
+    "category": "other",
+    "summary": "We created a list of the most notable AI agents that can live in your text messages, from general assistants to agents designed for families, travel, and work.",
+    "keywords": [
+      "AI",
+      "Agent"
+    ],
+    "date": "2026-11-21"
+  },
+  {
     "title": "Is selling an AI version of your face to this microdrama startup the future of Hollywood?",
     "link": "https://techcrunch.com/2026/11/21/is-selling-an-ai-version-of-your-face-to-this-microdrama-startup-the-future-of-hollywood/",
     "source": "TechCrunch",
@@ -287,41 +344,6 @@
     "date": "2026-11-19"
   },
   {
-    "title": "Anthropic’s IPO puts AI’s circular financing boom to the test",
-    "link": "https://techcrunch.com/2026/11/19/anthropics-ipo-puts-ais-circular-financing-boom-to-the-test/",
-    "source": "TechCrunch",
-    "category": "key_news",
-    "summary": "Anthropic faces enormous compute commitments as it goes public, but its biggest infrastructure partners, including Amazon and Google, could continue profiting from AI even if Anthropic loses its lead.",
-    "keywords": [
-      "AI",
-      "Anthropic"
-    ],
-    "date": "2026-11-19"
-  },
-  {
-    "title": "Superhuman pushes its Go assistant everywhere",
-    "link": "https://techcrunch.com/2026/11/19/superhuman-pushes-its-go-assistant-everywhere/",
-    "source": "TechCrunch",
-    "category": "other",
-    "summary": "Superhuman is making Go its central agent and making it available in Docs and Mail.",
-    "keywords": [
-      "AI",
-      "Agent"
-    ],
-    "date": "2026-11-19"
-  },
-  {
-    "title": "Microsoft CEO Satya Nadella explains why he asked 60K employees to quit",
-    "link": "https://techcrunch.com/2026/11/18/microsoft-ceo-satya-nadella-explains-why-he-asked-60k-employees-to-quit/",
-    "source": "TechCrunch",
-    "category": "other",
-    "summary": "Microsoft CEO Satya Nadella explained why he offered buyouts to 60,000 of his employees in October, essentially urging them to voluntarily quit, rather than reducing the workforce via another massive ",
-    "keywords": [
-      "AI"
-    ],
-    "date": "2026-11-19"
-  },
-  {
     "title": "安谋科技深度解析Arm Cortex-M42，发布“星辰100e”AIoT原型平台，助力打造AI性能更强的嵌入式设计",
     "link": "https://www.pingwest.com/w/319679",
     "source": "品玩",
@@ -382,51 +404,6 @@
     "source": "品玩",
     "category": "other",
     "summary": "2026甲子引力年终盛典即将启幕，AI的无限游戏进入「第二序章」｜甲子引力",
-    "keywords": [
-      "AI"
-    ],
-    "date": "2026-11-17"
-  },
-  {
-    "title": "Jordan Belfort创办AI语音销售平台Tone",
-    "link": "https://www.pingwest.com/w/319640",
-    "source": "品玩",
-    "category": "other",
-    "summary": "语音\n\n\n\nJordan Belfort创办AI语音销售平台Tone\n\nJordan Belfort与投资人Shervin Pishevar联合创办AI语音销售平台Tone，将销售语调技巧编码进模型，可依据场景切换陈述、提问与低语等表达方式，并称已申请相关专利。",
-    "keywords": [
-      "AI"
-    ],
-    "date": "2026-11-17"
-  },
-  {
-    "title": "苹果调整macOS权限机制 强化AI智能体数据访问管控",
-    "link": "https://www.pingwest.com/w/319637",
-    "source": "品玩",
-    "category": "other",
-    "summary": "苹果\n\n\n\n苹果调整macOS权限机制 强化AI智能体数据访问管控\n\n据 TechCrunch 报道，自macOS 27.3 Beta 2起调整Mac安全权限机制，重点应对AI智能体类应用对\"完全磁盘访问\"权限的需求增长。",
-    "keywords": [
-      "AI",
-      "智能"
-    ],
-    "date": "2026-11-17"
-  },
-  {
-    "title": "英伟达发布黄仁勋辞职后首份财报 临时CEO克雷斯主持AI业务沟通",
-    "link": "https://www.pingwest.com/w/319635",
-    "source": "品玩",
-    "category": "other",
-    "summary": "英伟达\n\n\n\n英伟达发布黄仁勋辞职后首份财报 临时CEO克雷斯主持AI业务沟通\n\n英伟达近日发布2027财年第三季度财报，这是创始人黄仁勋辞职后公司首次重大公开活动。",
-    "keywords": [
-      "AI"
-    ],
-    "date": "2026-11-17"
-  },
-  {
-    "title": "AI网络安全初创Corma完成1.25亿美元A轮融资 估值达10亿美元",
-    "link": "https://www.pingwest.com/w/319634",
-    "source": "品玩",
-    "category": "funding",
-    "summary": "融资\n\n\n\nAI网络安全初创Corma完成1.25亿美元A轮融资 估值达10亿美元\n\n据 TechCrunch 报道，AI网络安全初创公司Corma 11月16日宣布完成1.25亿美元A轮融资，估值达10亿美元，由NEA领投，红杉资本、Khosla Ventures和Coatue跟投。公司累计融资额达1.85亿美元。",
     "keywords": [
       "AI"
     ],
