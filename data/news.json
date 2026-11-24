@@ -1,166 +1,32 @@
 [
   {
-    "title": "自变量发布新一代具身基础模型 WALL-OSS-1.0：预训练孕育通用智能，零样本走进真实生产线",
-    "link": "https://www.pingwest.com/w/319799",
-    "source": "品玩",
+    "title": "Anthropic launches Claude Ship, letting AI agents review, fix, and approve code changes",
+    "link": "https://techcrunch.com/2026/11/23/anthropic-launches-claude-ship-letting-ai-agents-review-fix-and-approve-code-changes/",
+    "source": "TechCrunch",
     "category": "other",
-    "summary": "自变量\n\n\n\n自变量发布新一代具身基础模型 WALL-OSS-1.0：预训练孕育通用智能，零样本走进真实生产线",
-    "keywords": [
-      "智能"
-    ],
-    "date": "2026-11-23"
-  },
-  {
-    "title": "荣耀机器人与奥运冠军同台亮相米兰半马",
-    "link": "https://www.pingwest.com/w/319798",
-    "source": "品玩",
-    "category": "other",
-    "summary": "荣耀\n\n\n\n荣耀机器人与奥运冠军同台亮相米兰半马",
-    "keywords": [
-      "机器人"
-    ],
-    "date": "2026-11-23"
-  },
-  {
-    "title": "360再获北京市科学技术进步奖，大模型安全技术实现重大突破",
-    "link": "https://www.pingwest.com/w/319788",
-    "source": "品玩",
-    "category": "other",
-    "summary": "360\n\n\n\n360再获北京市科学技术进步奖，大模型安全技术实现重大突破",
-    "keywords": [
-      "大模型"
-    ],
-    "date": "2026-11-23"
-  },
-  {
-    "title": "DeepSeek开源了“全家桶”，我让6款模型直接把DeepSeek复刻了出来",
-    "link": "https://www.pingwest.com/a/319769",
-    "source": "品玩",
-    "category": "other",
-    "summary": "DeepSeek开源了“全家桶”，我让6款模型直接把DeepSeek复刻了出来\n\n模仿 DeepSeek 大赛",
-    "keywords": [
-      "DeepSeek"
-    ],
-    "date": "2026-11-23"
-  },
-  {
-    "title": "DEMO｜硅基词元：造一台新“电脑”，让AI 视频走出token陷阱",
-    "link": "https://www.pingwest.com/a/319770",
-    "source": "品玩",
-    "category": "other",
-    "summary": "DEMO｜硅基词元：造一台新“电脑”，让AI 视频走出token陷阱\n\n买不了上当买不了吃亏",
-    "keywords": [
-      "AI"
-    ],
-    "date": "2026-11-23"
-  },
-  {
-    "title": "蚂蚁CEO韩歆毅：AI拓宽人类健康自塑边界，1.5亿人已用阿福管健康",
-    "link": "https://www.pingwest.com/w/319777",
-    "source": "品玩",
-    "category": "other",
-    "summary": "蚂蚁阿福\n\n\n\n蚂蚁CEO韩歆毅：AI拓宽人类健康自塑边界，1.5亿人已用阿福管健康\n\n蚂蚁",
-    "keywords": [
-      "AI"
-    ],
-    "date": "2026-11-23"
-  },
-  {
-    "title": "Shortical开放演员面部授权 推出全AI生成微短剧新剧",
-    "link": "https://www.pingwest.com/w/319774",
-    "source": "品玩",
-    "category": "other",
-    "summary": "AI短剧\n\n\n\nShortical开放演员面部授权 推出全AI生成微短剧新剧\n\n据 TechCrunch 报道，微短剧初创公司Shortical近期将平台内容重心转向AI生成方向，公司称AI内容制作成本显著低于真人实拍、盈利空间更大。",
-    "keywords": [
-      "AI"
-    ],
-    "date": "2026-11-23"
-  },
-  {
-    "title": "新书聚焦AI数据中心扩张代价 作者呼吁反思\"超大规模\"路径",
-    "link": "https://www.pingwest.com/w/319773",
-    "source": "品玩",
-    "category": "other",
-    "summary": "大数据\n\n\n\n新书聚焦AI数据中心扩张代价 作者呼吁反思\"超大规模\"路径\n\n据 TechCrunch 报道，记者Paris Marx在新书《Hyperscale》中系统考察生成式AI数据中心的扩张及其环境与社会影响，指出这一延续数十年的计算基础设施近期已成争议焦点。",
+    "summary": "As AI-generated code piles up, Anthropic's new developer tools aim to eliminate another bottleneck by letting agents handle routine approvals.",
     "keywords": [
       "AI",
-      "生成式"
-    ],
-    "date": "2026-11-23"
-  },
-  {
-    "title": "OpenAI首席科学家提议以困惑度为统一指标 预计2027年或迎预训练突破",
-    "link": "https://www.pingwest.com/w/319772",
-    "source": "品玩",
-    "category": "other",
-    "summary": "OpenAI\n\n\n\nOpenAI首席科学家提议以困惑度为统一指标 预计2027年或迎预训练突破\n\n据cryptobriefing 报道，OpenAI首席科学家Jakub Pachocki于11月22日发表题为《Perplexity and Intelligence》的文章，提议将困惑度（perplexity）或等价的交叉熵损失作为衡量模型预训练进展的统一指标，并推动行业建立共同的安全评估标准与模型",
-    "keywords": [
-      "AI",
-      "OpenAI",
-      "Perplexity"
-    ],
-    "date": "2026-11-23"
-  },
-  {
-    "title": "蚂蚁阿福医生版上线PC工作台 接入UpToDate循证医学资源",
-    "link": "https://www.pingwest.com/w/319771",
-    "source": "品玩",
-    "category": "other",
-    "summary": "蚂蚁阿福\n\n\n\n蚂蚁阿福医生版上线PC工作台 接入UpToDate循证医学资源\n\n蚂蚁阿福医生版发布PC工作台（电脑端）版本，并宣布与威科集团循证医学临床决策支持解决方案UpToDate达成中国首家合作，成为国内首个接入该专业功能的AI平台。",
-    "keywords": [
-      "AI"
-    ],
-    "date": "2026-11-23"
-  },
-  {
-    "title": "MiniMax大模型实现自动化密码分析突破 多项前沿算法验证提速数百至数万倍",
-    "link": "https://www.pingwest.com/w/319768",
-    "source": "品玩",
-    "category": "other",
-    "summary": "MiniMax\n\n\n\nMiniMax大模型实现自动化密码分析突破 多项前沿算法验证提速数百至数万倍\n\n近日，MiniMax研究团队利用其最新内部模型对现代密码方案开展系统性自动化密码分析，取得多项进展。",
-    "keywords": [
-      "大模型",
-      "MiniMax",
-      "算法"
-    ],
-    "date": "2026-11-23"
-  },
-  {
-    "title": "Lean与Mathlib社区认证Claude辅助完成的黎曼猜想形式化证明",
-    "link": "https://www.pingwest.com/w/319767",
-    "source": "品玩",
-    "category": "other",
-    "summary": "Claude\n\n\n\nLean与Mathlib社区认证Claude辅助完成的黎曼猜想形式化证明\n\nLean与Mathlib社区于2026年11月21日发布联合声明，正式认证Levent Alpöge提交的黎曼猜想形式化证明，确认其陈述与证明均正确。",
-    "keywords": [
+      "Agent",
+      "Anthropic",
       "Claude"
     ],
     "date": "2026-11-23"
   },
   {
-    "title": "Oracle落实OpenAI基础设施合同全部资金 称系首家资金到位的超大规模云商",
-    "link": "https://www.pingwest.com/w/319764",
-    "source": "品玩",
-    "category": "other",
-    "summary": "OpenAI\n\n\n\nOracle落实OpenAI基础设施合同全部资金 称系首家资金到位的超大规模云商\n\n甲骨文（Oracle）11月20日发布声明，称已落实履行其与OpenAI基础设施合同所需的全部资金，成为本轮投资周期中首家资金全部到位的超大规模云服务商。",
+    "title": "Supertake raises $20M to let AI agents turn your market predictions into stock portfolios",
+    "link": "https://techcrunch.com/2026/11/23/supertake-raises-20m-to-let-ai-agents-turn-your-market-predictions-into-stock-portfolios/",
+    "source": "TechCrunch",
+    "category": "funding",
+    "summary": "Think you know where the market is headed? A startup called Supertake lets you put money behind your ideas without having to pick the stocks yourself.",
     "keywords": [
       "AI",
-      "OpenAI"
+      "Agent"
     ],
     "date": "2026-11-23"
   },
   {
-    "title": "姚顺雨在混元的取舍",
-    "link": "https://www.pingwest.com/a/319760",
-    "source": "品玩",
-    "category": "other",
-    "summary": "姚顺雨在混元的取舍\n\n姚顺雨的两场分享，谈到了混元如何分配有限的算力，也透露出他对模型研发与商业竞争的一套判断。",
-    "keywords": [
-      "混元"
-    ],
-    "date": "2026-11-23"
-  },
-  {
-    "title": "Megaspeed, the company at the center of the Jensen Huang scandal, appears headed for a U.S. blacklist",
+    "title": "Megaspeed, the company at the center of the Jensen Huang scandal, appears headed for a US blacklist",
     "link": "https://techcrunch.com/2026/11/23/megaspeed-the-company-at-the-center-of-the-jensen-huang-scandal-appears-headed-for-a-u-s-blacklist/",
     "source": "TechCrunch",
     "category": "other",
@@ -228,40 +94,6 @@
     "date": "2026-11-23"
   },
   {
-    "title": "人类有资格看懂Claude暴力拆解的黎曼猜想",
-    "link": "https://www.pingwest.com/a/319753",
-    "source": "品玩",
-    "category": "other",
-    "summary": "人类有资格看懂Claude暴力拆解的黎曼猜想\n\n没有神迹",
-    "keywords": [
-      "Claude"
-    ],
-    "date": "2026-11-22"
-  },
-  {
-    "title": "我用一套原创Benchmark，帮OpenAI的数学证明省去1/3代码",
-    "link": "https://www.pingwest.com/a/319694",
-    "source": "品玩",
-    "category": "other",
-    "summary": "我用一套原创Benchmark，帮OpenAI的数学证明省去1/3代码\n\n哲学为灵魂，Lean 为骨架，定理为血肉。",
-    "keywords": [
-      "AI",
-      "OpenAI"
-    ],
-    "date": "2026-11-22"
-  },
-  {
-    "title": "Anthropic上市，最大反派公司诞生",
-    "link": "https://www.pingwest.com/a/319725",
-    "source": "品玩",
-    "category": "key_news",
-    "summary": "Anthropic上市，最大反派公司诞生\n\nAnthropic终于拿到上市的\"大结果\"。",
-    "keywords": [
-      "Anthropic"
-    ],
-    "date": "2026-11-22"
-  },
-  {
     "title": "OpenAI’s chief scientist has thoughts on how to limit AI development",
     "link": "https://techcrunch.com/2026/11/22/openais-chief-scientist-has-thoughts-on-how-to-limit-ai-development/",
     "source": "TechCrunch",
@@ -306,50 +138,5 @@
       "AI"
     ],
     "date": "2026-11-21"
-  },
-  {
-    "title": "星芒阔直板OSTA O1 Pro 5499元起售，解锁鸿蒙AI手机先锋体验",
-    "link": "https://www.pingwest.com/w/319751",
-    "source": "品玩",
-    "category": "other",
-    "summary": "星芒\n\n\n\n星芒阔直板OSTA O1 Pro 5499元起售，解锁鸿蒙AI手机先锋体验",
-    "keywords": [
-      "AI"
-    ],
-    "date": "2026-11-20"
-  },
-  {
-    "title": "美国AI音乐巨头拓展视频创作，MiniMax H3提供底层支持",
-    "link": "https://www.pingwest.com/w/319742",
-    "source": "品玩",
-    "category": "other",
-    "summary": "Suno\n\n\n\n美国AI音乐巨头拓展视频创作，MiniMax H3提供底层支持",
-    "keywords": [
-      "AI",
-      "MiniMax"
-    ],
-    "date": "2026-11-20"
-  },
-  {
-    "title": "Daniel Ek backs AI researcher’s fusion power startup. Here’s what they’re building.",
-    "link": "https://techcrunch.com/2026/11/20/daniel-ek-backs-ai-researchers-fusion-power-startup-heres-what-theyre-building/",
-    "source": "TechCrunch",
-    "category": "other",
-    "summary": "Spotify founder Daniel Ek is backing Europa Fusion, a fusion power startup founded by an AI researcher. Here's what the startup is building.",
-    "keywords": [
-      "AI"
-    ],
-    "date": "2026-11-20"
-  },
-  {
-    "title": "AI claimed a solution to the 167-year-old Riemann hypothesis — and a human did, too",
-    "link": "https://techcrunch.com/2026/11/20/ai-claimed-a-solution-to-the-167-year-old-riemann-hypothesis-and-a-human-did-too/",
-    "source": "TechCrunch",
-    "category": "other",
-    "summary": "Mathematicians are having their minds blown by the latest AI-driven result — and there's a competing human solution, too.",
-    "keywords": [
-      "AI"
-    ],
-    "date": "2026-11-20"
   }
 ]
