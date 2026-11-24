@@ -1,5 +1,280 @@
 [
   {
+    "title": "HUAWEI WATCH Air 正式发布：华为史上最薄智能手表，薄到出众强到全能",
+    "link": "https://www.pingwest.com/w/319850",
+    "source": "品玩",
+    "category": "other",
+    "summary": "华为\n\n\n\nHUAWEI WATCH Air 正式发布：华为史上最薄智能手表，薄到出众强到全能",
+    "keywords": [
+      "AI",
+      "智能"
+    ],
+    "date": "2026-11-24"
+  },
+  {
+    "title": "HUAWEI Mate 90 Air正式亮相：7英寸沉浸影音，轻薄长续航兼得",
+    "link": "https://www.pingwest.com/w/319847",
+    "source": "品玩",
+    "category": "other",
+    "summary": "华为\n\n\n\nHUAWEI Mate 90 Air正式亮相：7英寸沉浸影音，轻薄长续航兼得",
+    "keywords": [
+      "AI"
+    ],
+    "date": "2026-11-24"
+  },
+  {
+    "title": "微软发布高等教育AI指南 聚焦规模化应用与机构智能",
+    "link": "https://www.pingwest.com/w/319827",
+    "source": "品玩",
+    "category": "other",
+    "summary": "微软\n\n\n\n微软发布高等教育AI指南 聚焦规模化应用与机构智能\n\n微软近日发布《How to Unlock Intelligence in Higher Education》指南，旨在帮助高校领导团队将AI实验转化为规模化应用。",
+    "keywords": [
+      "AI",
+      "智能"
+    ],
+    "date": "2026-11-24"
+  },
+  {
+    "title": "谷歌扩展AI模式个人智能功能 接入钱包与云端硬盘",
+    "link": "https://www.pingwest.com/w/319824",
+    "source": "品玩",
+    "category": "other",
+    "summary": "谷歌\n\n\n\n谷歌扩展AI模式个人智能功能 接入钱包与云端硬盘\n\n据 TechCrunch 报道，谷歌将搜索AI模式中的“个人智能”（Personal Intelligence）功能扩展至Google Drive、Google Wallet和Gemini应用。",
+    "keywords": [
+      "AI",
+      "Gemini",
+      "智能"
+    ],
+    "date": "2026-11-24"
+  },
+  {
+    "title": "蚂蚁OceanBase重磅开源湖库一体AI数据库，邀请全球开发者和产业伙伴共建",
+    "link": "https://www.pingwest.com/w/319821",
+    "source": "品玩",
+    "category": "other",
+    "summary": "OceanBase\n\n\n\n蚂蚁OceanBase重磅开源湖库一体AI数据库，邀请全球开发者和产业伙伴共建\n\n11月24日，蚂蚁OceanBase AI数据大会在北京召开。",
+    "keywords": [
+      "AI"
+    ],
+    "date": "2026-11-24"
+  },
+  {
+    "title": "Anthropic推出Claude Ship测试版 拓展AI代码协作流程",
+    "link": "https://www.pingwest.com/w/319818",
+    "source": "品玩",
+    "category": "other",
+    "summary": "Claude\n\n\n\nAnthropic推出Claude Ship测试版 拓展AI代码协作流程\n\n据 Unite.aI 报道，Anthropic于2026年11月23日推出Claude Ship测试版产品，面向使用GitHub仓库的Claude Team和Enterprise组织开放。",
+    "keywords": [
+      "AI",
+      "Anthropic",
+      "Claude"
+    ],
+    "date": "2026-11-24"
+  },
+  {
+    "title": "智谱发布GLM-5.4 首用Loop Transformer架构拓展泛Coding场景",
+    "link": "https://www.pingwest.com/w/319810",
+    "source": "品玩",
+    "category": "other",
+    "summary": "智谱\n\n\n\n智谱发布GLM-5.4 首用Loop Transformer架构拓展泛Coding场景\n\n据智谱官方消息，智谱近日发布新一代旗舰模型GLM-5.4，即日起向GLM Coding Plan全量用户开放，并同步上线ZCode、Trae、WorkBuddy、Qoder等编码平台。",
+    "keywords": [
+      "智谱",
+      "transformer"
+    ],
+    "date": "2026-11-24"
+  },
+  {
+    "title": "NothingAI录音耳机Ear (note) 定档12月8日发布",
+    "link": "https://www.pingwest.com/w/319809",
+    "source": "品玩",
+    "category": "other",
+    "summary": "nothing\n\n\n\nNothingAI录音耳机Ear (note) 定档12月8日发布\n\n据 9to5google 报道，Nothing旗下首款AI原生硬件产品定名为Ear (note)，将于12月8日正式发布。",
+    "keywords": [
+      "AI"
+    ],
+    "date": "2026-11-24"
+  },
+  {
+    "title": "LingSante-3.1-flash发布 原生融合医学推理与工作流执行能力",
+    "link": "https://www.pingwest.com/w/319807",
+    "source": "品玩",
+    "category": "other",
+    "summary": "百灵\n\n\n\nLingSante-3.1-flash发布 原生融合医学推理与工作流执行能力\n\n百灵大模型正式发布LingSante-3.1-flash。该模型以Ling-3.1-flash为通用底座，总参数量560B，每个token激活约25B，支持最长1M上下文，采用Hybrid-linear MoE架构，由63层KDA与9层Gated MLA组成，MoE层设512个路由专家和1个共享专家。模型聚",
+    "keywords": [
+      "大模型"
+    ],
+    "date": "2026-11-24"
+  },
+  {
+    "title": "Anthropic与SpaceX算力租赁协议披露 2027年起设提前终止窗口",
+    "link": "https://www.pingwest.com/w/319806",
+    "source": "品玩",
+    "category": "other",
+    "summary": "SpaceX\n\n\n\nAnthropic与SpaceX算力租赁协议披露 2027年起设提前终止窗口\n\n据 tradingkey 报道，据Anthropic向美国证券交易委员会提交的招股文件，该公司与SpaceX旗下SpaceX.AI LLC签署的算力服务协议期限延续至2029年，累计支出上限约1205亿美元，全部算力预计于2026年12月交付完成后，月租费用将达约31亿美元。",
+    "keywords": [
+      "AI",
+      "Anthropic"
+    ],
+    "date": "2026-11-24"
+  },
+  {
+    "title": "OpenAI与思科推出开源安全运行时Shirudo 无需重启即可拦截漏洞攻击",
+    "link": "https://www.pingwest.com/w/319804",
+    "source": "品玩",
+    "category": "other",
+    "summary": "OpenAI\n\n\n\nOpenAI与思科推出开源安全运行时Shirudo 无需重启即可拦截漏洞攻击\n\nOpenAI与思科宣布联合推出开源安全运行时Shirudo，旨在为运行中的Linux系统提供无需重启的临时漏洞防护。",
+    "keywords": [
+      "AI",
+      "OpenAI"
+    ],
+    "date": "2026-11-24"
+  },
+  {
+    "title": "Anthropic shares fall below IPO price, a worrying sign for AI startups",
+    "link": "https://techcrunch.com/2026/11/24/anthropic-shares-fall-below-ipo-price-a-worrying-sign-for-ai-startups/",
+    "source": "TechCrunch",
+    "category": "key_news",
+    "summary": "Anthropic’s post-IPO slump could put pressure on AI startup valuations.",
+    "keywords": [
+      "AI",
+      "Anthropic"
+    ],
+    "date": "2026-11-24"
+  },
+  {
+    "title": "UK warns AI-driven cyberattacks are exposing years of weak security",
+    "link": "https://techcrunch.com/2026/11/24/uk-warns-ai-driven-cyberattacks-are-exposing-years-of-weak-security/",
+    "source": "TechCrunch",
+    "category": "other",
+    "summary": "The British cyber agency says that \"building strong foundations has never mattered more\" as AI hacking tools rely on exploiting simple security flaws.",
+    "keywords": [
+      "AI"
+    ],
+    "date": "2026-11-24"
+  },
+  {
+    "title": "Meta brings its Muse AI assistant directly into Instagram DMs",
+    "link": "https://techcrunch.com/2026/11/24/meta-brings-its-muse-ai-assistant-directly-into-instagram-dms/",
+    "source": "TechCrunch",
+    "category": "other",
+    "summary": "The new integration gets rid of the need for users to toggle between Instagram and the Muse app when they want to interact with the AI agent.",
+    "keywords": [
+      "AI",
+      "Agent"
+    ],
+    "date": "2026-11-24"
+  },
+  {
+    "title": "Tidal to ban and remove millions of AI-generated tracks as AI slop inundates music streaming",
+    "link": "https://techcrunch.com/2026/11/24/tidal-to-ban-and-remove-millions-of-ai-generated-tracks-as-ai-slop-inundates-music-streaming/",
+    "source": "TechCrunch",
+    "category": "funding",
+    "summary": "The company said it will still accept songs that were made with AI assistance, but not fully generated.",
+    "keywords": [
+      "AI"
+    ],
+    "date": "2026-11-24"
+  },
+  {
+    "title": "Why a Crusoe investor is betting on solar and batteries to power future AI data centers",
+    "link": "https://techcrunch.com/2026/11/24/why-a-crusoe-investor-is-betting-on-solar-and-batteries-to-power-future-ai-data-centers/",
+    "source": "TechCrunch",
+    "category": "other",
+    "summary": "Next-generation data centers will need tens of gigawatts of power every year. One of Crusoe's investors thinks solar and energy storage are the obvious choice.",
+    "keywords": [
+      "AI"
+    ],
+    "date": "2026-11-24"
+  },
+  {
+    "title": "Pinterest will now let parents limit the AI-generated content their teens see",
+    "link": "https://techcrunch.com/2026/11/24/pinterest-will-now-let-parents-limit-the-ai-generated-content-their-teens-see/",
+    "source": "TechCrunch",
+    "category": "other",
+    "summary": "While other social platforms have focused on restricting teens' access to AI chatbots, Pinterest is addressing the AI content filling their feeds.",
+    "keywords": [
+      "AI"
+    ],
+    "date": "2026-11-24"
+  },
+  {
+    "title": "Amazon’s Decart acquisition is a bet on using software to narrow the silicon gap with Nvidia",
+    "link": "https://techcrunch.com/2026/11/24/amazons-decart-acquisition-is-a-bet-on-using-software-to-narrow-the-gap-with-nvidia-in-the-ai-chip-race/",
+    "source": "TechCrunch",
+    "category": "funding",
+    "summary": "Amazon’s decision to acquire Decart for a reported $7.5 billion is part of its efforts to improve the efficiency of its Trainium chips.",
+    "keywords": [
+      "AI"
+    ],
+    "date": "2026-11-24"
+  },
+  {
+    "title": "自变量发布新一代具身基础模型 WALL-OSS-1.0：预训练孕育通用智能，零样本走进真实生产线",
+    "link": "https://www.pingwest.com/w/319799",
+    "source": "品玩",
+    "category": "other",
+    "summary": "自变量\n\n\n\n自变量发布新一代具身基础模型 WALL-OSS-1.0：预训练孕育通用智能，零样本走进真实生产线",
+    "keywords": [
+      "智能"
+    ],
+    "date": "2026-11-23"
+  },
+  {
+    "title": "荣耀机器人与奥运冠军同台亮相米兰半马",
+    "link": "https://www.pingwest.com/w/319798",
+    "source": "品玩",
+    "category": "other",
+    "summary": "荣耀\n\n\n\n荣耀机器人与奥运冠军同台亮相米兰半马",
+    "keywords": [
+      "机器人"
+    ],
+    "date": "2026-11-23"
+  },
+  {
+    "title": "360再获北京市科学技术进步奖，大模型安全技术实现重大突破",
+    "link": "https://www.pingwest.com/w/319788",
+    "source": "品玩",
+    "category": "other",
+    "summary": "360\n\n\n\n360再获北京市科学技术进步奖，大模型安全技术实现重大突破",
+    "keywords": [
+      "大模型"
+    ],
+    "date": "2026-11-23"
+  },
+  {
+    "title": "DeepSeek开源了“全家桶”，我让6款模型直接把DeepSeek复刻了出来",
+    "link": "https://www.pingwest.com/a/319769",
+    "source": "品玩",
+    "category": "other",
+    "summary": "DeepSeek开源了“全家桶”，我让6款模型直接把DeepSeek复刻了出来\n\n模仿 DeepSeek 大赛",
+    "keywords": [
+      "DeepSeek"
+    ],
+    "date": "2026-11-23"
+  },
+  {
+    "title": "DEMO｜硅基词元：造一台新“电脑”，让AI 视频走出token陷阱",
+    "link": "https://www.pingwest.com/a/319770",
+    "source": "品玩",
+    "category": "other",
+    "summary": "DEMO｜硅基词元：造一台新“电脑”，让AI 视频走出token陷阱\n\n买不了上当买不了吃亏",
+    "keywords": [
+      "AI"
+    ],
+    "date": "2026-11-23"
+  },
+  {
+    "title": "蚂蚁CEO韩歆毅：AI拓宽人类健康自塑边界，1.5亿人已用阿福管健康",
+    "link": "https://www.pingwest.com/w/319777",
+    "source": "品玩",
+    "category": "other",
+    "summary": "蚂蚁阿福\n\n\n\n蚂蚁CEO韩歆毅：AI拓宽人类健康自塑边界，1.5亿人已用阿福管健康\n\n蚂蚁",
+    "keywords": [
+      "AI"
+    ],
+    "date": "2026-11-23"
+  },
+  {
     "title": "Anthropic launches Claude Ship, letting AI agents review, fix, and approve code changes",
     "link": "https://techcrunch.com/2026/11/23/anthropic-launches-claude-ship-letting-ai-agents-review-fix-and-approve-code-changes/",
     "source": "TechCrunch",
@@ -80,63 +355,5 @@
       "AI"
     ],
     "date": "2026-11-23"
-  },
-  {
-    "title": "How Notable Capital, GIC, and Baillie Gifford bet big on Anthropic before its IPO",
-    "link": "https://techcrunch.com/2026/11/22/how-notable-capital-gic-and-baillie-gifford-bet-big-on-anthropic-before-its-ipo/",
-    "source": "TechCrunch",
-    "category": "key_news",
-    "summary": "Three significant backers share what gave them conviction to bet billions on Anthropic.",
-    "keywords": [
-      "AI",
-      "Anthropic"
-    ],
-    "date": "2026-11-23"
-  },
-  {
-    "title": "OpenAI’s chief scientist has thoughts on how to limit AI development",
-    "link": "https://techcrunch.com/2026/11/22/openais-chief-scientist-has-thoughts-on-how-to-limit-ai-development/",
-    "source": "TechCrunch",
-    "category": "other",
-    "summary": "To establish a speed limit on AI development, you need to agree on how to measure speed.",
-    "keywords": [
-      "AI",
-      "OpenAI"
-    ],
-    "date": "2026-11-22"
-  },
-  {
-    "title": "Signal restricts mobile screenshots as it confronts ‘existential threat’ of AI surveillance",
-    "link": "https://techcrunch.com/2026/11/21/signal-restricts-mobile-screenshots-as-it-confronts-existential-threat-of-ai-surveillance/",
-    "source": "TechCrunch",
-    "category": "other",
-    "summary": "Signal is limiting users' ability to take screenshots in both its Android and iOS apps.",
-    "keywords": [
-      "AI"
-    ],
-    "date": "2026-11-21"
-  },
-  {
-    "title": "Here are the top AI agents that can live in your text messages",
-    "link": "https://techcrunch.com/2026/11/21/all-the-ai-agents-that-can-live-in-your-text-messages/",
-    "source": "TechCrunch",
-    "category": "other",
-    "summary": "We created a list of the most notable AI agents that can live in your text messages, from general assistants to agents designed for families, travel, and work.",
-    "keywords": [
-      "AI",
-      "Agent"
-    ],
-    "date": "2026-11-21"
-  },
-  {
-    "title": "Is selling an AI version of your face to this microdrama startup the future of Hollywood?",
-    "link": "https://techcrunch.com/2026/11/21/is-selling-an-ai-version-of-your-face-to-this-microdrama-startup-the-future-of-hollywood/",
-    "source": "TechCrunch",
-    "category": "other",
-    "summary": "An actor has licensed his face to a microdrama startup — in a trend that's already popular in China. Experts question the long-term consequences if this becomes a trend in Hollywood, too.",
-    "keywords": [
-      "AI"
-    ],
-    "date": "2026-11-21"
   }
 ]
