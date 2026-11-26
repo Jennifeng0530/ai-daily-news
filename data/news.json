@@ -1,5 +1,114 @@
 [
   {
+    "title": "AI语音公司ElevenLabs洽谈新一轮融资 目标估值330亿美元",
+    "link": "https://www.pingwest.com/w/319922",
+    "source": "品玩",
+    "category": "funding",
+    "summary": "ElevenLabs\n\n\n\nAI语音公司ElevenLabs洽谈新一轮融资 目标估值330亿美元\n\n据 siliconangle 报道，AI语音初创公司ElevenLabs已就新一轮融资展开初步洽谈，目标估值为330亿美元。公司管理层计划于2027年第一季度正式启动融资流程，部分潜在投资者希望加快进度。",
+    "keywords": [
+      "AI"
+    ],
+    "date": "2026-11-26"
+  },
+  {
+    "title": "Wispr Flow发布Canto-2语音转文字模型 转写错误率显著下降",
+    "link": "https://www.pingwest.com/w/319920",
+    "source": "品玩",
+    "category": "other",
+    "summary": "AI语音\n\n\n\nWispr Flow发布Canto-2语音转文字模型 转写错误率显著下降\n\n据 Wispr 官方消息，推出新一代语音转文字模型Canto-2，面向Mac、Windows、iOS及Android等平台用户逐步开放。该模型旨在减少听写错误，并显著提升对专有人名、技术术语及复杂表达的理解能力。",
+    "keywords": [
+      "AI"
+    ],
+    "date": "2026-11-26"
+  },
+  {
+    "title": "小鹏发布高阶通用人形机器人IRON 实现全栈大模型端侧部署与毫秒级响应",
+    "link": "https://www.pingwest.com/w/319918",
+    "source": "品玩",
+    "category": "other",
+    "summary": "小鹏汽车\n\n\n\n小鹏发布高阶通用人形机器人IRON 实现全栈大模型端侧部署与毫秒级响应\n\n小鹏科技日集中展示其高阶通用人形机器人IRON，将其定位为\"具备生命感的工作伙伴\"。",
+    "keywords": [
+      "大模型",
+      "机器人"
+    ],
+    "date": "2026-11-26"
+  },
+  {
+    "title": "纽约州立法暂停AI聊天玩具生产销售，为期五年",
+    "link": "https://www.pingwest.com/w/319917",
+    "source": "品玩",
+    "category": "other",
+    "summary": "AI玩具\n\n\n\n纽约州立法暂停AI聊天玩具生产销售，为期五年\n\n据 TechCrunch 报道，美国纽约州于11月24日推出法案，禁止在该州制造、分销和销售内置或集成AI聊天机器人的玩具，禁令为期五年。",
+    "keywords": [
+      "AI",
+      "机器人"
+    ],
+    "date": "2026-11-26"
+  },
+  {
+    "title": "OpenAI在ChatGPT推出对话与办公统一体验 部分用户率先试用",
+    "link": "https://www.pingwest.com/w/319912",
+    "source": "品玩",
+    "category": "other",
+    "summary": "ChatGPT\n\n\n\nOpenAI在ChatGPT推出对话与办公统一体验 部分用户率先试用\n\n据 TechCrunch 报道，OpenAI已开始向部分ChatGPT用户推出统一的对话（Chat）与办公（Work）体验。",
+    "keywords": [
+      "AI",
+      "OpenAI",
+      "GPT",
+      "ChatGPT"
+    ],
+    "date": "2026-11-26"
+  },
+  {
+    "title": "OpenAI研究团队宣称确立方阵乘法精确计算复杂度",
+    "link": "https://www.pingwest.com/w/319911",
+    "source": "品玩",
+    "category": "other",
+    "summary": "OpenAI\n\n\n\nOpenAI研究团队宣称确立方阵乘法精确计算复杂度\n\n据 interestingengineering 报道，OpenAI研究人员于11月24日发布预印本论文《矩阵乘法指数为四分之九》，声称确立方阵乘法计算复杂度的精确指数为9/4（即2.25），并给出在所有数域上匹配的上界与下界，有望解决理论计算机科学领域一项延续数十年的核心问题。",
+    "keywords": [
+      "AI",
+      "OpenAI"
+    ],
+    "date": "2026-11-26"
+  },
+  {
+    "title": "传Anthropic新一代AI模型提前上线 官方未予证实",
+    "link": "https://www.pingwest.com/w/319907",
+    "source": "品玩",
+    "category": "other",
+    "summary": "Claude\n\n\n\n传Anthropic新一代AI模型提前上线 官方未予证实\n\n据mindstudio 报道，一批用户在社交平台X上声称，通过正常的Claude接口获得了Anthropic一款未发布模型（被非正式称为Opus 5.6，并配有对应的Sonnet 5.6）的回复。",
+    "keywords": [
+      "AI",
+      "Anthropic",
+      "Claude"
+    ],
+    "date": "2026-11-26"
+  },
+  {
+    "title": "崖山科技发布全栈AI数据基础设施 提出主动意图数据库理念",
+    "link": "https://www.pingwest.com/w/319905",
+    "source": "品玩",
+    "category": "other",
+    "summary": "崖山科技\n\n\n\n崖山科技发布全栈AI数据基础设施 提出主动意图数据库理念\n\n据崖山科技官方消息，深圳计算科学研究院、崖山科技宣布全面升级为“AI数据基础设施厂商”，发布“1+1+N”全栈AI数据基础设施，并推出以YashanDB V27数据智能底座、智能应用套件为核心的多款产品。",
+    "keywords": [
+      "AI",
+      "智能"
+    ],
+    "date": "2026-11-26"
+  },
+  {
+    "title": "亚马逊与Meta洽谈解除AI购物智能体访问限制",
+    "link": "https://www.pingwest.com/w/319903",
+    "source": "品玩",
+    "category": "other",
+    "summary": "META\n\n\n\n亚马逊与Meta洽谈解除AI购物智能体访问限制\n\n据mashdigi 报道，亚马逊与Meta近期已就一项潜在合作协议展开多轮磋商，拟允许Meta旗下AI智能体Muse正式接入亚马逊线上商城，解除今年9月实施的访问封锁。",
+    "keywords": [
+      "AI",
+      "智能"
+    ],
+    "date": "2026-11-26"
+  },
+  {
     "title": "2499元起！华为WATCH Air正式发布，6.9mm超薄机身+5天续航",
     "link": "https://www.pingwest.com/w/319900",
     "source": "品玩",
@@ -175,6 +284,20 @@
     "date": "2026-11-25"
   },
   {
+    "title": "OpenAI says heavy ChatGPT users may hit limits sooner as it merges Chat and Work",
+    "link": "https://techcrunch.com/2026/11/25/openai-says-heavy-chatgpt-users-may-hit-limits-sooner-as-it-merges-chat-and-work/",
+    "source": "TechCrunch",
+    "category": "other",
+    "summary": "OpenAI will introduce a single usage meter across ChatGPT as it combines the Chat and Work experiences.",
+    "keywords": [
+      "AI",
+      "OpenAI",
+      "GPT",
+      "ChatGPT"
+    ],
+    "date": "2026-11-25"
+  },
+  {
     "title": "Anthropic’s Dario Amodei calls accusations of surrendering human control to AI ‘absurd’",
     "link": "https://techcrunch.com/2026/11/25/anthropics-dario-amodei-calls-accusations-of-surrendering-human-control-to-ai-absurd/",
     "source": "TechCrunch",
@@ -248,29 +371,6 @@
     "source": "品玩",
     "category": "other",
     "summary": "华为\n\n\n\nHUAWEI WATCH Air 正式发布：华为史上最薄智能手表，薄到出众强到全能",
-    "keywords": [
-      "AI",
-      "智能"
-    ],
-    "date": "2026-11-24"
-  },
-  {
-    "title": "HUAWEI Mate 90 Air正式亮相：7英寸沉浸影音，轻薄长续航兼得",
-    "link": "https://www.pingwest.com/w/319847",
-    "source": "品玩",
-    "category": "other",
-    "summary": "华为\n\n\n\nHUAWEI Mate 90 Air正式亮相：7英寸沉浸影音，轻薄长续航兼得",
-    "keywords": [
-      "AI"
-    ],
-    "date": "2026-11-24"
-  },
-  {
-    "title": "微软发布高等教育AI指南 聚焦规模化应用与机构智能",
-    "link": "https://www.pingwest.com/w/319827",
-    "source": "品玩",
-    "category": "other",
-    "summary": "微软\n\n\n\n微软发布高等教育AI指南 聚焦规模化应用与机构智能\n\n微软近日发布《How to Unlock Intelligence in Higher Education》指南，旨在帮助高校领导团队将AI实验转化为规模化应用。",
     "keywords": [
       "AI",
       "智能"
@@ -379,41 +479,5 @@
       "AI"
     ],
     "date": "2026-11-24"
-  },
-  {
-    "title": "Pinterest will now let parents limit the AI-generated content their teens see",
-    "link": "https://techcrunch.com/2026/11/24/pinterest-will-now-let-parents-limit-the-ai-generated-content-their-teens-see/",
-    "source": "TechCrunch",
-    "category": "other",
-    "summary": "While other social platforms have focused on restricting teens' access to AI chatbots, Pinterest is addressing the AI content filling their feeds.",
-    "keywords": [
-      "AI"
-    ],
-    "date": "2026-11-24"
-  },
-  {
-    "title": "Amazon’s Decart acquisition is a bet on using software to narrow the silicon gap with Nvidia",
-    "link": "https://techcrunch.com/2026/11/24/amazons-decart-acquisition-is-a-bet-on-using-software-to-narrow-the-gap-with-nvidia-in-the-ai-chip-race/",
-    "source": "TechCrunch",
-    "category": "funding",
-    "summary": "Amazon’s decision to acquire Decart for a reported $7.5 billion is part of its efforts to improve the efficiency of its Trainium chips.",
-    "keywords": [
-      "AI"
-    ],
-    "date": "2026-11-24"
-  },
-  {
-    "title": "Anthropic launches Claude Ship, letting AI agents review, fix, and approve code changes",
-    "link": "https://techcrunch.com/2026/11/23/anthropic-launches-claude-ship-letting-ai-agents-review-fix-and-approve-code-changes/",
-    "source": "TechCrunch",
-    "category": "other",
-    "summary": "As AI-generated code piles up, Anthropic's new developer tools aim to eliminate another bottleneck by letting agents handle routine approvals.",
-    "keywords": [
-      "AI",
-      "Agent",
-      "Anthropic",
-      "Claude"
-    ],
-    "date": "2026-11-23"
   }
 ]
